@@ -1,0 +1,12 @@
+Feature,Mean_Absolute_SHAP_Impact
+Value_lag2,2194.4623367568915
+Year Code,1208.037083525563
+Target_Total_CO2e_lag1,853.5311826499234
+Value,745.6940212530455
+Target_Total_CO2e_lag2,603.5518109509813
+Value_lag1,94.82554041019114
+Year Code_lag1,0.0
+Year Code_lag2,0.0
+Target_Total_CO2e_roll3_mean,0.0
+Year Code_roll3_mean,0.0
+Value_roll3_mean,0.0
