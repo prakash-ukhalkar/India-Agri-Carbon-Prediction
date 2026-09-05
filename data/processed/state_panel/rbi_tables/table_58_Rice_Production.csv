@@ -1,0 +1,646 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,58,Rice_Production,9601.0
+Andhra Pradesh,2005-06,58,Rice_Production,11704.0
+Andhra Pradesh,2006-07,58,Rice_Production,11872.0
+Andhra Pradesh,2007-08,58,Rice_Production,13324.0
+Andhra Pradesh,2008-09,58,Rice_Production,14241.0
+Andhra Pradesh,2009-10,58,Rice_Production,10538.0
+Andhra Pradesh,2010-11,58,Rice_Production,7882.4
+Andhra Pradesh,2011-12,58,Rice_Production,7746.2
+Andhra Pradesh,2012-13,58,Rice_Production,6862.4
+Andhra Pradesh,2013-14,58,Rice_Production,6969.7
+Andhra Pradesh,2014-15,58,Rice_Production,7233.9
+Andhra Pradesh,2015-16,58,Rice_Production,7488.7
+Andhra Pradesh,2016-17,58,Rice_Production,7452.4
+Andhra Pradesh,2017-18,58,Rice_Production,8166.2
+Andhra Pradesh,2018-19,58,Rice_Production,8234.7
+Andhra Pradesh,2019-20,58,Rice_Production,8658.9
+Andhra Pradesh,2020-21,58,Rice_Production,7882.9
+Andhra Pradesh,2021-22,58,Rice_Production,7763.6
+Andhra Pradesh,2022-23,58,Rice_Production,7942.0
+Andhra Pradesh,2023-24,58,Rice_Production,7341.6
+Andhra Pradesh,2024-25,58,Rice_Production,8159.1
+Arunachal Pradesh,2004-05,58,Rice_Production,135.0
+Arunachal Pradesh,2005-06,58,Rice_Production,146.2
+Arunachal Pradesh,2006-07,58,Rice_Production,146.2
+Arunachal Pradesh,2007-08,58,Rice_Production,158.1
+Arunachal Pradesh,2008-09,58,Rice_Production,163.9
+Arunachal Pradesh,2009-10,58,Rice_Production,215.8
+Arunachal Pradesh,2010-11,58,Rice_Production,234.0
+Arunachal Pradesh,2011-12,58,Rice_Production,255.0
+Arunachal Pradesh,2012-13,58,Rice_Production,263.0
+Arunachal Pradesh,2013-14,58,Rice_Production,276.2
+Arunachal Pradesh,2014-15,58,Rice_Production,285.0
+Arunachal Pradesh,2015-16,58,Rice_Production,204.0
+Arunachal Pradesh,2016-17,58,Rice_Production,220.0
+Arunachal Pradesh,2017-18,58,Rice_Production,233.3
+Arunachal Pradesh,2018-19,58,Rice_Production,240.0
+Arunachal Pradesh,2019-20,58,Rice_Production,244.7
+Arunachal Pradesh,2020-21,58,Rice_Production,247.1
+Arunachal Pradesh,2021-22,58,Rice_Production,252.4
+Arunachal Pradesh,2022-23,58,Rice_Production,254.4
+Arunachal Pradesh,2023-24,58,Rice_Production,254.8
+Arunachal Pradesh,2024-25,58,Rice_Production,255.5
+Assam,2004-05,58,Rice_Production,3470.7
+Assam,2005-06,58,Rice_Production,3552.5
+Assam,2006-07,58,Rice_Production,2916.0
+Assam,2007-08,58,Rice_Production,3319.0
+Assam,2008-09,58,Rice_Production,4008.5
+Assam,2009-10,58,Rice_Production,4335.9
+Assam,2010-11,58,Rice_Production,4736.6
+Assam,2011-12,58,Rice_Production,4516.3
+Assam,2012-13,58,Rice_Production,5128.5
+Assam,2013-14,58,Rice_Production,4927.1
+Assam,2014-15,58,Rice_Production,5222.7
+Assam,2015-16,58,Rice_Production,5125.1
+Assam,2016-17,58,Rice_Production,4727.4
+Assam,2017-18,58,Rice_Production,5283.7
+Assam,2018-19,58,Rice_Production,5220.6
+Assam,2019-20,58,Rice_Production,4984.6
+Assam,2020-21,58,Rice_Production,5214.8
+Assam,2021-22,58,Rice_Production,4382.1
+Assam,2022-23,58,Rice_Production,5624.3
+Assam,2023-24,58,Rice_Production,5538.5
+Assam,2024-25,58,Rice_Production,4901.5
+Bihar,2004-05,58,Rice_Production,2472.2
+Bihar,2005-06,58,Rice_Production,3495.5
+Bihar,2006-07,58,Rice_Production,4989.3
+Bihar,2007-08,58,Rice_Production,4418.1
+Bihar,2008-09,58,Rice_Production,5590.3
+Bihar,2009-10,58,Rice_Production,3599.3
+Bihar,2010-11,58,Rice_Production,3102.1
+Bihar,2011-12,58,Rice_Production,7162.6
+Bihar,2012-13,58,Rice_Production,7529.3
+Bihar,2013-14,58,Rice_Production,5505.8
+Bihar,2014-15,58,Rice_Production,6356.7
+Bihar,2015-16,58,Rice_Production,6802.2
+Bihar,2016-17,58,Rice_Production,8239.3
+Bihar,2017-18,58,Rice_Production,8093.1
+Bihar,2018-19,58,Rice_Production,6155.5
+Bihar,2019-20,58,Rice_Production,6298.0
+Bihar,2020-21,58,Rice_Production,6747.0
+Bihar,2021-22,58,Rice_Production,7717.0
+Bihar,2022-23,58,Rice_Production,7023.3
+Bihar,2023-24,58,Rice_Production,7902.3
+Bihar,2024-25,58,Rice_Production,8302.2
+Chhattisgarh,2004-05,58,Rice_Production,4383.3
+Chhattisgarh,2005-06,58,Rice_Production,5011.6
+Chhattisgarh,2006-07,58,Rice_Production,5041.4
+Chhattisgarh,2007-08,58,Rice_Production,5426.6
+Chhattisgarh,2008-09,58,Rice_Production,4391.8
+Chhattisgarh,2009-10,58,Rice_Production,4110.4
+Chhattisgarh,2010-11,58,Rice_Production,6159.0
+Chhattisgarh,2011-12,58,Rice_Production,6028.4
+Chhattisgarh,2012-13,58,Rice_Production,6608.8
+Chhattisgarh,2013-14,58,Rice_Production,6716.4
+Chhattisgarh,2014-15,58,Rice_Production,6322.1
+Chhattisgarh,2015-16,58,Rice_Production,5789.4
+Chhattisgarh,2016-17,58,Rice_Production,8048.4
+Chhattisgarh,2017-18,58,Rice_Production,4930.8
+Chhattisgarh,2018-19,58,Rice_Production,6526.9
+Chhattisgarh,2019-20,58,Rice_Production,6774.8
+Chhattisgarh,2020-21,58,Rice_Production,7161.2
+Chhattisgarh,2021-22,58,Rice_Production,8021.7
+Chhattisgarh,2022-23,58,Rice_Production,9811.5
+Chhattisgarh,2023-24,58,Rice_Production,9702.9
+Chhattisgarh,2024-25,58,Rice_Production,10368.5
+Delhi,2004-05,58,Rice_Production,14.3
+Delhi,2005-06,58,Rice_Production,24.0
+Delhi,2006-07,58,Rice_Production,31.1
+Delhi,2007-08,58,Rice_Production,31.4
+Delhi,2008-09,58,Rice_Production,31.4
+Delhi,2009-10,58,Rice_Production,19.3
+Delhi,2010-11,58,Rice_Production,19.6
+Delhi,2011-12,58,Rice_Production,19.8
+Delhi,2012-13,58,Rice_Production,19.7
+Delhi,2013-14,58,Rice_Production,29.6
+Delhi,2014-15,58,Rice_Production,25.9
+Delhi,2015-16,58,Rice_Production,17.3
+Delhi,2016-17,58,Rice_Production,17.3
+Delhi,2017-18,58,Rice_Production,16.8
+Delhi,2018-19,58,Rice_Production,16.8
+Delhi,2019-20,58,Rice_Production,16.8
+Delhi,2020-21,58,Rice_Production,19.8
+Delhi,2021-22,58,Rice_Production,19.0
+Delhi,2022-23,58,Rice_Production,17.2
+Delhi,2023-24,58,Rice_Production,16.9
+Delhi,2024-25,58,Rice_Production,15.2
+Goa,2004-05,58,Rice_Production,145.2
+Goa,2005-06,58,Rice_Production,147.3
+Goa,2006-07,58,Rice_Production,130.3
+Goa,2007-08,58,Rice_Production,121.6
+Goa,2008-09,58,Rice_Production,123.3
+Goa,2009-10,58,Rice_Production,100.6
+Goa,2010-11,58,Rice_Production,115.0
+Goa,2011-12,58,Rice_Production,121.8
+Goa,2012-13,58,Rice_Production,122.8
+Goa,2013-14,58,Rice_Production,126.5
+Goa,2014-15,58,Rice_Production,120.5
+Goa,2015-16,58,Rice_Production,115.1
+Goa,2016-17,58,Rice_Production,113.2
+Goa,2017-18,58,Rice_Production,103.0
+Goa,2018-19,58,Rice_Production,98.8
+Goa,2019-20,58,Rice_Production,90.4
+Goa,2020-21,58,Rice_Production,87.3
+Goa,2021-22,58,Rice_Production,90.4
+Goa,2022-23,58,Rice_Production,88.4
+Goa,2023-24,58,Rice_Production,94.7
+Goa,2024-25,58,Rice_Production,76.6
+Gujarat,2004-05,58,Rice_Production,1238.2
+Gujarat,2005-06,58,Rice_Production,1298.0
+Gujarat,2006-07,58,Rice_Production,1390.0
+Gujarat,2007-08,58,Rice_Production,1474.0
+Gujarat,2008-09,58,Rice_Production,1303.0
+Gujarat,2009-10,58,Rice_Production,1292.0
+Gujarat,2010-11,58,Rice_Production,1496.6
+Gujarat,2011-12,58,Rice_Production,1790.0
+Gujarat,2012-13,58,Rice_Production,1541.0
+Gujarat,2013-14,58,Rice_Production,1636.0
+Gujarat,2014-15,58,Rice_Production,1830.9
+Gujarat,2015-16,58,Rice_Production,1702.0
+Gujarat,2016-17,58,Rice_Production,1930.0
+Gujarat,2017-18,58,Rice_Production,1890.9
+Gujarat,2018-19,58,Rice_Production,1912.1
+Gujarat,2019-20,58,Rice_Production,1983.1
+Gujarat,2020-21,58,Rice_Production,2145.7
+Gujarat,2021-22,58,Rice_Production,2101.1
+Gujarat,2022-23,58,Rice_Production,2396.4
+Gujarat,2023-24,58,Rice_Production,2406.6
+Gujarat,2024-25,58,Rice_Production,2444.7
+Haryana,2004-05,58,Rice_Production,3023.0
+Haryana,2005-06,58,Rice_Production,3210.0
+Haryana,2006-07,58,Rice_Production,3371.0
+Haryana,2007-08,58,Rice_Production,3613.0
+Haryana,2008-09,58,Rice_Production,3298.0
+Haryana,2009-10,58,Rice_Production,3625.0
+Haryana,2010-11,58,Rice_Production,3472.0
+Haryana,2011-12,58,Rice_Production,3759.0
+Haryana,2012-13,58,Rice_Production,3976.0
+Haryana,2013-14,58,Rice_Production,3998.0
+Haryana,2014-15,58,Rice_Production,4006.0
+Haryana,2015-16,58,Rice_Production,4145.0
+Haryana,2016-17,58,Rice_Production,4453.0
+Haryana,2017-18,58,Rice_Production,4523.4
+Haryana,2018-19,58,Rice_Production,4516.1
+Haryana,2019-20,58,Rice_Production,4824.3
+Haryana,2020-21,58,Rice_Production,4424.9
+Haryana,2021-22,58,Rice_Production,4618.0
+Haryana,2022-23,58,Rice_Production,5109.1
+Haryana,2023-24,58,Rice_Production,5975.5
+Haryana,2024-25,58,Rice_Production,6059.6
+Himachal Pradesh,2004-05,58,Rice_Production,122.0
+Himachal Pradesh,2005-06,58,Rice_Production,112.1
+Himachal Pradesh,2006-07,58,Rice_Production,123.5
+Himachal Pradesh,2007-08,58,Rice_Production,121.5
+Himachal Pradesh,2008-09,58,Rice_Production,118.3
+Himachal Pradesh,2009-10,58,Rice_Production,105.9
+Himachal Pradesh,2010-11,58,Rice_Production,128.9
+Himachal Pradesh,2011-12,58,Rice_Production,131.6
+Himachal Pradesh,2012-13,58,Rice_Production,125.3
+Himachal Pradesh,2013-14,58,Rice_Production,120.8
+Himachal Pradesh,2014-15,58,Rice_Production,125.2
+Himachal Pradesh,2015-16,58,Rice_Production,129.9
+Himachal Pradesh,2016-17,58,Rice_Production,146.6
+Himachal Pradesh,2017-18,58,Rice_Production,114.8
+Himachal Pradesh,2018-19,58,Rice_Production,114.9
+Himachal Pradesh,2019-20,58,Rice_Production,143.8
+Himachal Pradesh,2020-21,58,Rice_Production,140.5
+Himachal Pradesh,2021-22,58,Rice_Production,167.5
+Himachal Pradesh,2022-23,58,Rice_Production,130.7
+Himachal Pradesh,2023-24,58,Rice_Production,172.9
+Himachal Pradesh,2024-25,58,Rice_Production,142.0
+Jammu & Kashmir,2004-05,58,Rice_Production,492.2
+Jammu & Kashmir,2005-06,58,Rice_Production,556.8
+Jammu & Kashmir,2006-07,58,Rice_Production,554.0
+Jammu & Kashmir,2007-08,58,Rice_Production,561.3
+Jammu & Kashmir,2008-09,58,Rice_Production,563.1
+Jammu & Kashmir,2009-10,58,Rice_Production,497.4
+Jammu & Kashmir,2010-11,58,Rice_Production,507.7
+Jammu & Kashmir,2011-12,58,Rice_Production,544.7
+Jammu & Kashmir,2012-13,58,Rice_Production,818.1
+Jammu & Kashmir,2013-14,58,Rice_Production,610.9
+Jammu & Kashmir,2014-15,58,Rice_Production,517.2
+Jammu & Kashmir,2015-16,58,Rice_Production,646.4
+Jammu & Kashmir,2016-17,58,Rice_Production,572.2
+Jammu & Kashmir,2017-18,58,Rice_Production,513.1
+Jammu & Kashmir,2018-19,58,Rice_Production,615.8
+Jammu & Kashmir,2019-20,58,Rice_Production,587.0
+Jammu & Kashmir,2020-21,58,Rice_Production,581.5
+Jammu & Kashmir,2021-22,58,Rice_Production,492.9
+Jammu & Kashmir,2022-23,58,Rice_Production,604.4
+Jammu & Kashmir,2023-24,58,Rice_Production,641.0
+Jammu & Kashmir,2024-25,58,Rice_Production,640.9
+Jharkhand,2004-05,58,Rice_Production,1677.0
+Jharkhand,2005-06,58,Rice_Production,1558.0
+Jharkhand,2006-07,58,Rice_Production,2967.8
+Jharkhand,2007-08,58,Rice_Production,3336.4
+Jharkhand,2008-09,58,Rice_Production,3420.2
+Jharkhand,2009-10,58,Rice_Production,1538.4
+Jharkhand,2010-11,58,Rice_Production,1110.0
+Jharkhand,2011-12,58,Rice_Production,3130.6
+Jharkhand,2012-13,58,Rice_Production,3164.9
+Jharkhand,2013-14,58,Rice_Production,2810.6
+Jharkhand,2014-15,58,Rice_Production,3361.9
+Jharkhand,2015-16,58,Rice_Production,2882.2
+Jharkhand,2016-17,58,Rice_Production,3841.8
+Jharkhand,2017-18,58,Rice_Production,4078.0
+Jharkhand,2018-19,58,Rice_Production,2893.9
+Jharkhand,2019-20,58,Rice_Production,3012.8
+Jharkhand,2020-21,58,Rice_Production,2752.9
+Jharkhand,2021-22,58,Rice_Production,2930.5
+Jharkhand,2022-23,58,Rice_Production,1493.8
+Jharkhand,2023-24,58,Rice_Production,1515.5
+Jharkhand,2024-25,58,Rice_Production,2782.7
+Karnataka,2004-05,58,Rice_Production,3547.0
+Karnataka,2005-06,58,Rice_Production,5744.0
+Karnataka,2006-07,58,Rice_Production,3446.0
+Karnataka,2007-08,58,Rice_Production,3717.0
+Karnataka,2008-09,58,Rice_Production,3802.0
+Karnataka,2009-10,58,Rice_Production,3691.0
+Karnataka,2010-11,58,Rice_Production,4188.0
+Karnataka,2011-12,58,Rice_Production,3955.0
+Karnataka,2012-13,58,Rice_Production,3364.0
+Karnataka,2013-14,58,Rice_Production,3572.6
+Karnataka,2014-15,58,Rice_Production,3541.0
+Karnataka,2015-16,58,Rice_Production,3021.0
+Karnataka,2016-17,58,Rice_Production,2604.8
+Karnataka,2017-18,58,Rice_Production,3017.1
+Karnataka,2018-19,58,Rice_Production,3431.0
+Karnataka,2019-20,58,Rice_Production,3634.5
+Karnataka,2020-21,58,Rice_Production,4291.8
+Karnataka,2021-22,58,Rice_Production,4318.4
+Karnataka,2022-23,58,Rice_Production,4280.2
+Karnataka,2023-24,58,Rice_Production,3127.4
+Karnataka,2024-25,58,Rice_Production,3948.7
+Kerala,2004-05,58,Rice_Production,667.1
+Kerala,2005-06,58,Rice_Production,629.9
+Kerala,2006-07,58,Rice_Production,631.0
+Kerala,2007-08,58,Rice_Production,528.5
+Kerala,2008-09,58,Rice_Production,590.3
+Kerala,2009-10,58,Rice_Production,598.3
+Kerala,2010-11,58,Rice_Production,522.7
+Kerala,2011-12,58,Rice_Production,569.0
+Kerala,2012-13,58,Rice_Production,508.3
+Kerala,2013-14,58,Rice_Production,509.2
+Kerala,2014-15,58,Rice_Production,562.1
+Kerala,2015-16,58,Rice_Production,549.3
+Kerala,2016-17,58,Rice_Production,437.1
+Kerala,2017-18,58,Rice_Production,521.3
+Kerala,2018-19,58,Rice_Production,578.3
+Kerala,2019-20,58,Rice_Production,605.6
+Kerala,2020-21,58,Rice_Production,633.8
+Kerala,2021-22,58,Rice_Production,487.0
+Kerala,2022-23,58,Rice_Production,595.9
+Kerala,2023-24,58,Rice_Production,498.0
+Kerala,2024-25,58,Rice_Production,516.0
+Madhya Pradesh,2004-05,58,Rice_Production,1169.0
+Madhya Pradesh,2005-06,58,Rice_Production,1656.3
+Madhya Pradesh,2006-07,58,Rice_Production,1368.4
+Madhya Pradesh,2007-08,58,Rice_Production,1461.9
+Madhya Pradesh,2008-09,58,Rice_Production,1559.7
+Madhya Pradesh,2009-10,58,Rice_Production,1260.6
+Madhya Pradesh,2010-11,58,Rice_Production,1772.1
+Madhya Pradesh,2011-12,58,Rice_Production,2227.3
+Madhya Pradesh,2012-13,58,Rice_Production,2775.0
+Madhya Pradesh,2013-14,58,Rice_Production,2844.8
+Madhya Pradesh,2014-15,58,Rice_Production,3625.3
+Madhya Pradesh,2015-16,58,Rice_Production,3546.7
+Madhya Pradesh,2016-17,58,Rice_Production,4226.8
+Madhya Pradesh,2017-18,58,Rice_Production,4123.9
+Madhya Pradesh,2018-19,58,Rice_Production,4494.7
+Madhya Pradesh,2019-20,58,Rice_Production,4778.2
+Madhya Pradesh,2020-21,58,Rice_Production,4413.8
+Madhya Pradesh,2021-22,58,Rice_Production,4814.9
+Madhya Pradesh,2022-23,58,Rice_Production,7022.2
+Madhya Pradesh,2023-24,58,Rice_Production,7239.5
+Madhya Pradesh,2024-25,58,Rice_Production,9108.9
+Maharashtra,2004-05,58,Rice_Production,2164.0
+Maharashtra,2005-06,58,Rice_Production,2695.0
+Maharashtra,2006-07,58,Rice_Production,2569.0
+Maharashtra,2007-08,58,Rice_Production,2996.0
+Maharashtra,2008-09,58,Rice_Production,2284.0
+Maharashtra,2009-10,58,Rice_Production,2183.0
+Maharashtra,2010-11,58,Rice_Production,2696.0
+Maharashtra,2011-12,58,Rice_Production,2841.0
+Maharashtra,2012-13,58,Rice_Production,3057.0
+Maharashtra,2013-14,58,Rice_Production,3120.0
+Maharashtra,2014-15,58,Rice_Production,2946.0
+Maharashtra,2015-16,58,Rice_Production,2593.0
+Maharashtra,2016-17,58,Rice_Production,3109.5
+Maharashtra,2017-18,58,Rice_Production,2730.8
+Maharashtra,2018-19,58,Rice_Production,3275.7
+Maharashtra,2019-20,58,Rice_Production,2897.6
+Maharashtra,2020-21,58,Rice_Production,3291.7
+Maharashtra,2021-22,58,Rice_Production,3598.1
+Maharashtra,2022-23,58,Rice_Production,3899.1
+Maharashtra,2023-24,58,Rice_Production,3900.0
+Maharashtra,2024-25,58,Rice_Production,3866.6
+Manipur,2004-05,58,Rice_Production,435.9
+Manipur,2005-06,58,Rice_Production,386.1
+Manipur,2006-07,58,Rice_Production,386.1
+Manipur,2007-08,58,Rice_Production,406.2
+Manipur,2008-09,58,Rice_Production,397.0
+Manipur,2009-10,58,Rice_Production,319.9
+Manipur,2010-11,58,Rice_Production,521.7
+Manipur,2011-12,58,Rice_Production,591.0
+Manipur,2012-13,58,Rice_Production,257.6
+Manipur,2013-14,58,Rice_Production,398.5
+Manipur,2014-15,58,Rice_Production,334.1
+Manipur,2015-16,58,Rice_Production,338.8
+Manipur,2016-17,58,Rice_Production,430.4
+Manipur,2017-18,58,Rice_Production,607.8
+Manipur,2018-19,58,Rice_Production,401.6
+Manipur,2019-20,58,Rice_Production,385.5
+Manipur,2020-21,58,Rice_Production,602.2
+Manipur,2021-22,58,Rice_Production,567.4
+Manipur,2022-23,58,Rice_Production,349.2
+Manipur,2023-24,58,Rice_Production,347.7
+Manipur,2024-25,58,Rice_Production,417.4
+Meghalaya,2004-05,58,Rice_Production,193.7
+Meghalaya,2005-06,58,Rice_Production,151.9
+Meghalaya,2006-07,58,Rice_Production,200.2
+Meghalaya,2007-08,58,Rice_Production,200.0
+Meghalaya,2008-09,58,Rice_Production,203.9
+Meghalaya,2009-10,58,Rice_Production,206.7
+Meghalaya,2010-11,58,Rice_Production,207.0
+Meghalaya,2011-12,58,Rice_Production,216.5
+Meghalaya,2012-13,58,Rice_Production,232.0
+Meghalaya,2013-14,58,Rice_Production,273.9
+Meghalaya,2014-15,58,Rice_Production,298.2
+Meghalaya,2015-16,58,Rice_Production,301.1
+Meghalaya,2016-17,58,Rice_Production,203.0
+Meghalaya,2017-18,58,Rice_Production,304.6
+Meghalaya,2018-19,58,Rice_Production,202.0
+Meghalaya,2019-20,58,Rice_Production,303.4
+Meghalaya,2020-21,58,Rice_Production,295.9
+Meghalaya,2021-22,58,Rice_Production,297.3
+Meghalaya,2022-23,58,Rice_Production,279.3
+Meghalaya,2023-24,58,Rice_Production,264.7
+Meghalaya,2024-25,58,Rice_Production,279.3
+Mizoram,2004-05,58,Rice_Production,104.1
+Mizoram,2005-06,58,Rice_Production,99.2
+Mizoram,2006-07,58,Rice_Production,29.5
+Mizoram,2007-08,58,Rice_Production,15.7
+Mizoram,2008-09,58,Rice_Production,46.0
+Mizoram,2009-10,58,Rice_Production,44.3
+Mizoram,2010-11,58,Rice_Production,47.2
+Mizoram,2011-12,58,Rice_Production,54.3
+Mizoram,2012-13,58,Rice_Production,30.5
+Mizoram,2013-14,58,Rice_Production,59.0
+Mizoram,2014-15,58,Rice_Production,60.7
+Mizoram,2015-16,58,Rice_Production,62.1
+Mizoram,2016-17,58,Rice_Production,61.5
+Mizoram,2017-18,58,Rice_Production,59.6
+Mizoram,2018-19,58,Rice_Production,60.0
+Mizoram,2019-20,58,Rice_Production,60.0
+Mizoram,2020-21,58,Rice_Production,62.2
+Mizoram,2021-22,58,Rice_Production,60.9
+Mizoram,2022-23,58,Rice_Production,39.2
+Mizoram,2023-24,58,Rice_Production,39.9
+Mizoram,2024-25,58,Rice_Production,35.3
+Nagaland,2004-05,58,Rice_Production,259.8
+Nagaland,2005-06,58,Rice_Production,263.1
+Nagaland,2006-07,58,Rice_Production,263.5
+Nagaland,2007-08,58,Rice_Production,290.6
+Nagaland,2008-09,58,Rice_Production,345.1
+Nagaland,2009-10,58,Rice_Production,240.3
+Nagaland,2010-11,58,Rice_Production,381.4
+Nagaland,2011-12,58,Rice_Production,382.4
+Nagaland,2012-13,58,Rice_Production,405.2
+Nagaland,2013-14,58,Rice_Production,429.6
+Nagaland,2014-15,58,Rice_Production,454.2
+Nagaland,2015-16,58,Rice_Production,318.8
+Nagaland,2016-17,58,Rice_Production,336.7
+Nagaland,2017-18,58,Rice_Production,349.6
+Nagaland,2018-19,58,Rice_Production,356.7
+Nagaland,2019-20,58,Rice_Production,363.3
+Nagaland,2020-21,58,Rice_Production,367.4
+Nagaland,2021-22,58,Rice_Production,150.7
+Nagaland,2022-23,58,Rice_Production,369.8
+Nagaland,2023-24,58,Rice_Production,369.0
+Nagaland,2024-25,58,Rice_Production,342.5
+Odisha,2004-05,58,Rice_Production,6466.0
+Odisha,2005-06,58,Rice_Production,6859.0
+Odisha,2006-07,58,Rice_Production,6824.7
+Odisha,2007-08,58,Rice_Production,7540.7
+Odisha,2008-09,58,Rice_Production,6812.7
+Odisha,2009-10,58,Rice_Production,6917.5
+Odisha,2010-11,58,Rice_Production,6827.7
+Odisha,2011-12,58,Rice_Production,5807.0
+Odisha,2012-13,58,Rice_Production,7295.5
+Odisha,2013-14,58,Rice_Production,7613.4
+Odisha,2014-15,58,Rice_Production,8298.2
+Odisha,2015-16,58,Rice_Production,5875.4
+Odisha,2016-17,58,Rice_Production,8325.9
+Odisha,2017-18,58,Rice_Production,6551.3
+Odisha,2018-19,58,Rice_Production,7733.7
+Odisha,2019-20,58,Rice_Production,8360.4
+Odisha,2020-21,58,Rice_Production,8810.3
+Odisha,2021-22,58,Rice_Production,9290.8
+Odisha,2022-23,58,Rice_Production,8249.8
+Odisha,2023-24,58,Rice_Production,8474.2
+Odisha,2024-25,58,Rice_Production,9527.3
+Puducherry,2004-05,58,Rice_Production,65.7
+Puducherry,2005-06,58,Rice_Production,59.9
+Puducherry,2006-07,58,Rice_Production,59.9
+Puducherry,2007-08,58,Rice_Production,53.4
+Puducherry,2008-09,58,Rice_Production,50.8
+Puducherry,2009-10,58,Rice_Production,52.4
+Puducherry,2010-11,58,Rice_Production,52.0
+Puducherry,2011-12,58,Rice_Production,42.1
+Puducherry,2012-13,58,Rice_Production,46.5
+Puducherry,2013-14,58,Rice_Production,49.8
+Puducherry,2014-15,58,Rice_Production,52.7
+Puducherry,2015-16,58,Rice_Production,43.9
+Puducherry,2016-17,58,Rice_Production,52.2
+Puducherry,2017-18,58,Rice_Production,42.5
+Puducherry,2018-19,58,Rice_Production,63.3
+Puducherry,2019-20,58,Rice_Production,59.4
+Puducherry,2020-21,58,Rice_Production,50.0
+Puducherry,2021-22,58,Rice_Production,57.1
+Puducherry,2022-23,58,Rice_Production,65.3
+Puducherry,2023-24,58,Rice_Production,61.3
+Puducherry,2024-25,58,Rice_Production,47.1
+Punjab,2004-05,58,Rice_Production,10437.0
+Punjab,2005-06,58,Rice_Production,10193.0
+Punjab,2006-07,58,Rice_Production,10138.0
+Punjab,2007-08,58,Rice_Production,10489.0
+Punjab,2008-09,58,Rice_Production,11000.0
+Punjab,2009-10,58,Rice_Production,11236.0
+Punjab,2010-11,58,Rice_Production,10837.0
+Punjab,2011-12,58,Rice_Production,10542.0
+Punjab,2012-13,58,Rice_Production,11374.0
+Punjab,2013-14,58,Rice_Production,11267.0
+Punjab,2014-15,58,Rice_Production,11107.0
+Punjab,2015-16,58,Rice_Production,11823.0
+Punjab,2016-17,58,Rice_Production,11586.2
+Punjab,2017-18,58,Rice_Production,13381.8
+Punjab,2018-19,58,Rice_Production,12821.6
+Punjab,2019-20,58,Rice_Production,11779.3
+Punjab,2020-21,58,Rice_Production,12783.7
+Punjab,2021-22,58,Rice_Production,12885.5
+Punjab,2022-23,58,Rice_Production,12990.5
+Punjab,2023-24,58,Rice_Production,14356.4
+Punjab,2024-25,58,Rice_Production,14360.9
+Rajasthan,2004-05,58,Rice_Production,150.4
+Rajasthan,2005-06,58,Rice_Production,153.0
+Rajasthan,2006-07,58,Rice_Production,169.8
+Rajasthan,2007-08,58,Rice_Production,259.6
+Rajasthan,2008-09,58,Rice_Production,241.1
+Rajasthan,2009-10,58,Rice_Production,228.3
+Rajasthan,2010-11,58,Rice_Production,265.5
+Rajasthan,2011-12,58,Rice_Production,253.4
+Rajasthan,2012-13,58,Rice_Production,222.5
+Rajasthan,2013-14,58,Rice_Production,312.6
+Rajasthan,2014-15,58,Rice_Production,366.7
+Rajasthan,2015-16,58,Rice_Production,369.8
+Rajasthan,2016-17,58,Rice_Production,452.7
+Rajasthan,2017-18,58,Rice_Production,450.9
+Rajasthan,2018-19,58,Rice_Production,453.2
+Rajasthan,2019-20,58,Rice_Production,480.5
+Rajasthan,2020-21,58,Rice_Production,634.0
+Rajasthan,2021-22,58,Rice_Production,478.6
+Rajasthan,2022-23,58,Rice_Production,577.4
+Rajasthan,2023-24,58,Rice_Production,746.0
+Rajasthan,2024-25,58,Rice_Production,917.7
+Sikkim,2004-05,58,Rice_Production,21.6
+Sikkim,2005-06,58,Rice_Production,21.5
+Sikkim,2006-07,58,Rice_Production,21.5
+Sikkim,2007-08,58,Rice_Production,22.9
+Sikkim,2008-09,58,Rice_Production,21.7
+Sikkim,2009-10,58,Rice_Production,24.3
+Sikkim,2010-11,58,Rice_Production,21.0
+Sikkim,2011-12,58,Rice_Production,20.9
+Sikkim,2012-13,58,Rice_Production,21.3
+Sikkim,2013-14,58,Rice_Production,20.3
+Sikkim,2014-15,58,Rice_Production,20.1
+Sikkim,2015-16,58,Rice_Production,13.1
+Sikkim,2016-17,58,Rice_Production,19.7
+Sikkim,2017-18,58,Rice_Production,17.6
+Sikkim,2018-19,58,Rice_Production,17.2
+Sikkim,2019-20,58,Rice_Production,16.1
+Sikkim,2020-21,58,Rice_Production,16.2
+Sikkim,2021-22,58,Rice_Production,16.0
+Sikkim,2022-23,58,Rice_Production,10.2
+Sikkim,2023-24,58,Rice_Production,7.9
+Sikkim,2024-25,58,Rice_Production,7.9
+Tamil Nadu,2004-05,58,Rice_Production,5062.2
+Tamil Nadu,2005-06,58,Rice_Production,5220.0
+Tamil Nadu,2006-07,58,Rice_Production,6610.6
+Tamil Nadu,2007-08,58,Rice_Production,5040.2
+Tamil Nadu,2008-09,58,Rice_Production,5182.7
+Tamil Nadu,2009-10,58,Rice_Production,5665.2
+Tamil Nadu,2010-11,58,Rice_Production,5792.4
+Tamil Nadu,2011-12,58,Rice_Production,7458.7
+Tamil Nadu,2012-13,58,Rice_Production,4049.9
+Tamil Nadu,2013-14,58,Rice_Production,5349.8
+Tamil Nadu,2014-15,58,Rice_Production,5727.8
+Tamil Nadu,2015-16,58,Rice_Production,7517.1
+Tamil Nadu,2016-17,58,Rice_Production,2369.4
+Tamil Nadu,2017-18,58,Rice_Production,6638.9
+Tamil Nadu,2018-19,58,Rice_Production,6130.9
+Tamil Nadu,2019-20,58,Rice_Production,7171.1
+Tamil Nadu,2020-21,58,Rice_Production,6881.2
+Tamil Nadu,2021-22,58,Rice_Production,7906.6
+Tamil Nadu,2022-23,58,Rice_Production,7557.0
+Tamil Nadu,2023-24,58,Rice_Production,6799.2
+Tamil Nadu,2024-25,58,Rice_Production,7093.6
+Telangana,2010-11,58,Rice_Production,6535.6
+Telangana,2011-12,58,Rice_Production,5148.8
+Telangana,2012-13,58,Rice_Production,4647.6
+Telangana,2013-14,58,Rice_Production,5755.0
+Telangana,2014-15,58,Rice_Production,4440.8
+Telangana,2015-16,58,Rice_Production,3047.0
+Telangana,2016-17,58,Rice_Production,5173.4
+Telangana,2017-18,58,Rice_Production,6262.2
+Telangana,2018-19,58,Rice_Production,6670.0
+Telangana,2019-20,58,Rice_Production,7427.8
+Telangana,2020-21,58,Rice_Production,10217.1
+Telangana,2021-22,58,Rice_Production,12409.6
+Telangana,2022-23,58,Rice_Production,15877.3
+Telangana,2023-24,58,Rice_Production,16874.1
+Telangana,2024-25,58,Rice_Production,17445.7
+Tripura,2004-05,58,Rice_Production,545.1
+Tripura,2005-06,58,Rice_Production,552.9
+Tripura,2006-07,58,Rice_Production,620.5
+Tripura,2007-08,58,Rice_Production,624.6
+Tripura,2008-09,58,Rice_Production,627.1
+Tripura,2009-10,58,Rice_Production,640.0
+Tripura,2010-11,58,Rice_Production,702.5
+Tripura,2011-12,58,Rice_Production,718.3
+Tripura,2012-13,58,Rice_Production,713.2
+Tripura,2013-14,58,Rice_Production,711.8
+Tripura,2014-15,58,Rice_Production,747.0
+Tripura,2015-16,58,Rice_Production,794.8
+Tripura,2016-17,58,Rice_Production,814.6
+Tripura,2017-18,58,Rice_Production,812.1
+Tripura,2018-19,58,Rice_Production,793.2
+Tripura,2019-20,58,Rice_Production,810.2
+Tripura,2020-21,58,Rice_Production,803.1
+Tripura,2021-22,58,Rice_Production,811.0
+Tripura,2022-23,58,Rice_Production,788.9
+Tripura,2023-24,58,Rice_Production,788.9
+Tripura,2024-25,58,Rice_Production,715.3
+Uttar Pradesh,2004-05,58,Rice_Production,9555.6
+Uttar Pradesh,2005-06,58,Rice_Production,11133.7
+Uttar Pradesh,2006-07,58,Rice_Production,11124.0
+Uttar Pradesh,2007-08,58,Rice_Production,11780.0
+Uttar Pradesh,2008-09,58,Rice_Production,13097.0
+Uttar Pradesh,2009-10,58,Rice_Production,10807.1
+Uttar Pradesh,2010-11,58,Rice_Production,11992.0
+Uttar Pradesh,2011-12,58,Rice_Production,14022.0
+Uttar Pradesh,2012-13,58,Rice_Production,14416.0
+Uttar Pradesh,2013-14,58,Rice_Production,14636.0
+Uttar Pradesh,2014-15,58,Rice_Production,12167.9
+Uttar Pradesh,2015-16,58,Rice_Production,12501.0
+Uttar Pradesh,2016-17,58,Rice_Production,13754.0
+Uttar Pradesh,2017-18,58,Rice_Production,13274.0
+Uttar Pradesh,2018-19,58,Rice_Production,15545.3
+Uttar Pradesh,2019-20,58,Rice_Production,15517.8
+Uttar Pradesh,2020-21,58,Rice_Production,15520.0
+Uttar Pradesh,2021-22,58,Rice_Production,15271.5
+Uttar Pradesh,2022-23,58,Rice_Production,16143.2
+Uttar Pradesh,2023-24,58,Rice_Production,15990.4
+Uttar Pradesh,2024-25,58,Rice_Production,20758.7
+Uttarakhand,2004-05,58,Rice_Production,572.0
+Uttarakhand,2005-06,58,Rice_Production,590.0
+Uttarakhand,2006-07,58,Rice_Production,556.0
+Uttarakhand,2007-08,58,Rice_Production,593.0
+Uttarakhand,2008-09,58,Rice_Production,582.0
+Uttarakhand,2009-10,58,Rice_Production,608.0
+Uttarakhand,2010-11,58,Rice_Production,550.4
+Uttarakhand,2011-12,58,Rice_Production,594.0
+Uttarakhand,2012-13,58,Rice_Production,579.8
+Uttarakhand,2013-14,58,Rice_Production,578.6
+Uttarakhand,2014-15,58,Rice_Production,603.7
+Uttarakhand,2015-16,58,Rice_Production,639.1
+Uttarakhand,2016-17,58,Rice_Production,630.0
+Uttarakhand,2017-18,58,Rice_Production,646.7
+Uttarakhand,2018-19,58,Rice_Production,617.6
+Uttarakhand,2019-20,58,Rice_Production,658.4
+Uttarakhand,2020-21,58,Rice_Production,714.9
+Uttarakhand,2021-22,58,Rice_Production,716.1
+Uttarakhand,2022-23,58,Rice_Production,634.4
+Uttarakhand,2023-24,58,Rice_Production,644.3
+Uttarakhand,2024-25,58,Rice_Production,585.5
+West Bengal,2004-05,58,Rice_Production,14884.8
+West Bengal,2005-06,58,Rice_Production,14510.8
+West Bengal,2006-07,58,Rice_Production,14745.9
+West Bengal,2007-08,58,Rice_Production,14719.5
+West Bengal,2008-09,58,Rice_Production,15037.3
+West Bengal,2009-10,58,Rice_Production,14340.7
+West Bengal,2010-11,58,Rice_Production,13045.9
+West Bengal,2011-12,58,Rice_Production,14605.8
+West Bengal,2012-13,58,Rice_Production,15023.7
+West Bengal,2013-14,58,Rice_Production,15370.7
+West Bengal,2014-15,58,Rice_Production,14677.2
+West Bengal,2015-16,58,Rice_Production,15953.9
+West Bengal,2016-17,58,Rice_Production,15302.5
+West Bengal,2017-18,58,Rice_Production,14967.0
+West Bengal,2018-19,58,Rice_Production,16242.2
+West Bengal,2019-20,58,Rice_Production,15881.4
+West Bengal,2020-21,58,Rice_Production,16524.4
+West Bengal,2021-22,58,Rice_Production,16728.7
+West Bengal,2022-23,58,Rice_Production,15484.3
+West Bengal,2023-24,58,Rice_Production,15686.6
+West Bengal,2024-25,58,Rice_Production,16019.4

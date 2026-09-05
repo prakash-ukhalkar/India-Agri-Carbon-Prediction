@@ -1,0 +1,562 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,57,Cropping_Intensity,121.2
+Andhra Pradesh,2005-06,57,Cropping_Intensity,124.4
+Andhra Pradesh,2006-07,57,Cropping_Intensity,126.3
+Andhra Pradesh,2007-08,57,Cropping_Intensity,126.1
+Andhra Pradesh,2008-09,57,Cropping_Intensity,127.3
+Andhra Pradesh,2009-10,57,Cropping_Intensity,125.7
+Andhra Pradesh,2010-11,57,Cropping_Intensity,129.7
+Andhra Pradesh,2011-12,57,Cropping_Intensity,123.3
+Andhra Pradesh,2012-13,57,Cropping_Intensity,122.8
+Andhra Pradesh,2013-14,57,Cropping_Intensity,126.0
+Andhra Pradesh,2014-15,57,Cropping_Intensity,123.3
+Andhra Pradesh,2015-16,57,Cropping_Intensity,121.3
+Andhra Pradesh,2016-17,57,Cropping_Intensity,122.1
+Andhra Pradesh,2017-18,57,Cropping_Intensity,123.1
+Andhra Pradesh,2018-19,57,Cropping_Intensity,120.6
+Andhra Pradesh,2019-20,57,Cropping_Intensity,123.9
+Andhra Pradesh,2020-21,57,Cropping_Intensity,125.2
+Andhra Pradesh,2021-22,57,Cropping_Intensity,121.4
+Andhra Pradesh,2022-2320,57,Cropping_Intensity,117.8
+Arunachal Pradesh,2004-05,57,Cropping_Intensity,126.5
+Arunachal Pradesh,2005-06,57,Cropping_Intensity,129.4
+Arunachal Pradesh,2006-07,57,Cropping_Intensity,129.7
+Arunachal Pradesh,2007-08,57,Cropping_Intensity,129.8
+Arunachal Pradesh,2008-09,57,Cropping_Intensity,130.6
+Arunachal Pradesh,2009-10,57,Cropping_Intensity,130.2
+Arunachal Pradesh,2010-11,57,Cropping_Intensity,130.5
+Arunachal Pradesh,2011-12,57,Cropping_Intensity,131.0
+Arunachal Pradesh,2012-13,57,Cropping_Intensity,131.7
+Arunachal Pradesh,2013-14,57,Cropping_Intensity,131.4
+Arunachal Pradesh,2014-15,57,Cropping_Intensity,132.8
+Arunachal Pradesh,2015-16,57,Cropping_Intensity,132.9
+Arunachal Pradesh,2016-17,57,Cropping_Intensity,135.0
+Arunachal Pradesh,2017-18,57,Cropping_Intensity,135.9
+Arunachal Pradesh,2018-19,57,Cropping_Intensity,136.7
+Arunachal Pradesh,2019-20,57,Cropping_Intensity,136.6
+Arunachal Pradesh,2020-21,57,Cropping_Intensity,135.7
+Arunachal Pradesh,2021-22,57,Cropping_Intensity,139.3
+Arunachal Pradesh,2022-2320,57,Cropping_Intensity,135.5
+Assam,2004-05,57,Cropping_Intensity,141.5
+Assam,2005-06,57,Cropping_Intensity,143.4
+Assam,2006-07,57,Cropping_Intensity,136.7
+Assam,2007-08,57,Cropping_Intensity,139.4
+Assam,2008-09,57,Cropping_Intensity,142.3
+Assam,2009-10,57,Cropping_Intensity,145.9
+Assam,2010-11,57,Cropping_Intensity,148.0
+Assam,2011-12,57,Cropping_Intensity,148.5
+Assam,2012-13,57,Cropping_Intensity,145.1
+Assam,2013-14,57,Cropping_Intensity,145.4
+Assam,2014-15,57,Cropping_Intensity,144.4
+Assam,2015-16,57,Cropping_Intensity,144.9
+Assam,2016-17,57,Cropping_Intensity,147.4
+Assam,2017-18,57,Cropping_Intensity,148.6
+Assam,2018-19,57,Cropping_Intensity,147.0
+Assam,2019-20,57,Cropping_Intensity,147.2
+Assam,2020-21,57,Cropping_Intensity,142.8
+Assam,2021-22,57,Cropping_Intensity,140.8
+Assam,2022-2320,57,Cropping_Intensity,147.0
+Bihar,2004-05,57,Cropping_Intensity,132.8
+Bihar,2005-06,57,Cropping_Intensity,133.1
+Bihar,2006-07,57,Cropping_Intensity,136.3
+Bihar,2007-08,57,Cropping_Intensity,137.1
+Bihar,2008-09,57,Cropping_Intensity,138.1
+Bihar,2009-10,57,Cropping_Intensity,136.8
+Bihar,2010-11,57,Cropping_Intensity,136.8
+Bihar,2011-12,57,Cropping_Intensity,141.7
+Bihar,2012-13,57,Cropping_Intensity,144.0
+Bihar,2013-14,57,Cropping_Intensity,144.3
+Bihar,2014-15,57,Cropping_Intensity,145.4
+Bihar,2015-16,57,Cropping_Intensity,145.5
+Bihar,2016-17,57,Cropping_Intensity,144.6
+Bihar,2017-18,57,Cropping_Intensity,143.6
+Bihar,2018-19,57,Cropping_Intensity,143.3
+Bihar,2019-20,57,Cropping_Intensity,143.7
+Bihar,2020-21,57,Cropping_Intensity,144.0
+Bihar,2021-22,57,Cropping_Intensity,144.5
+Bihar,2022-2320,57,Cropping_Intensity,142.2
+Chhattisgarh,2004-05,57,Cropping_Intensity,119.8
+Chhattisgarh,2005-06,57,Cropping_Intensity,120.6
+Chhattisgarh,2006-07,57,Cropping_Intensity,121.4
+Chhattisgarh,2007-08,57,Cropping_Intensity,121.6
+Chhattisgarh,2008-09,57,Cropping_Intensity,120.7
+Chhattisgarh,2009-10,57,Cropping_Intensity,118.7
+Chhattisgarh,2010-11,57,Cropping_Intensity,120.8
+Chhattisgarh,2011-12,57,Cropping_Intensity,121.1
+Chhattisgarh,2012-13,57,Cropping_Intensity,121.8
+Chhattisgarh,2013-14,57,Cropping_Intensity,121.6
+Chhattisgarh,2014-15,57,Cropping_Intensity,122.4
+Chhattisgarh,2015-16,57,Cropping_Intensity,121.3
+Chhattisgarh,2016-17,57,Cropping_Intensity,121.6
+Chhattisgarh,2017-18,57,Cropping_Intensity,119.1
+Chhattisgarh,2018-19,57,Cropping_Intensity,120.0
+Chhattisgarh,2019-20,57,Cropping_Intensity,123.7
+Chhattisgarh,2020-21,57,Cropping_Intensity,123.6
+Chhattisgarh,2021-22,57,Cropping_Intensity,123.2
+Chhattisgarh,2022-2320,57,Cropping_Intensity,121.8
+Delhi,2004-05,57,Cropping_Intensity,167.6
+Delhi,2005-06,57,Cropping_Intensity,159.2
+Delhi,2006-07,57,Cropping_Intensity,185.9
+Delhi,2007-08,57,Cropping_Intensity,189.7
+Delhi,2008-09,57,Cropping_Intensity,187.8
+Delhi,2009-10,57,Cropping_Intensity,204.3
+Delhi,2010-11,57,Cropping_Intensity,200.9
+Delhi,2011-12,57,Cropping_Intensity,182.1
+Delhi,2022-2320,57,Cropping_Intensity,239.1
+Goa,2004-05,57,Cropping_Intensity,126.6
+Goa,2005-06,57,Cropping_Intensity,124.5
+Goa,2006-07,57,Cropping_Intensity,125.6
+Goa,2007-08,57,Cropping_Intensity,126.3
+Goa,2008-09,57,Cropping_Intensity,123.3
+Goa,2009-10,57,Cropping_Intensity,121.8
+Goa,2010-11,57,Cropping_Intensity,122.1
+Goa,2011-12,57,Cropping_Intensity,124.4
+Goa,2012-13,57,Cropping_Intensity,123.2
+Goa,2013-14,57,Cropping_Intensity,122.2
+Goa,2014-15,57,Cropping_Intensity,122.0
+Goa,2015-16,57,Cropping_Intensity,120.9
+Goa,2016-17,57,Cropping_Intensity,118.9
+Goa,2017-18,57,Cropping_Intensity,117.7
+Goa,2018-19,57,Cropping_Intensity,117.4
+Goa,2019-20,57,Cropping_Intensity,115.7
+Goa,2020-21,57,Cropping_Intensity,114.5
+Goa,2021-22,57,Cropping_Intensity,114.1
+Goa,2022-2320,57,Cropping_Intensity,114.4
+Gujarat,2004-05,57,Cropping_Intensity,115.5
+Gujarat,2005-06,57,Cropping_Intensity,118.2
+Gujarat,2006-07,57,Cropping_Intensity,120.5
+Gujarat,2007-08,57,Cropping_Intensity,122.5
+Gujarat,2008-09,57,Cropping_Intensity,123.5
+Gujarat,2009-10,57,Cropping_Intensity,124.7
+Gujarat,2010-11,57,Cropping_Intensity,119.0
+Gujarat,2011-12,57,Cropping_Intensity,126.9
+Gujarat,2014-15,57,Cropping_Intensity,131.8
+Gujarat,2015-16,57,Cropping_Intensity,128.9
+Gujarat,2016-17,57,Cropping_Intensity,131.0
+Gujarat,2017-18,57,Cropping_Intensity,132.5
+Gujarat,2018-19,57,Cropping_Intensity,130.3
+Gujarat,2019-20,57,Cropping_Intensity,141.2
+Gujarat,2020-21,57,Cropping_Intensity,149.9
+Gujarat,2021-22,57,Cropping_Intensity,151.8
+Gujarat,2022-2320,57,Cropping_Intensity,143.5
+Haryana,2004-05,57,Cropping_Intensity,182.2
+Haryana,2005-06,57,Cropping_Intensity,182.4
+Haryana,2006-07,57,Cropping_Intensity,179.8
+Haryana,2007-08,57,Cropping_Intensity,179.7
+Haryana,2008-09,57,Cropping_Intensity,181.3
+Haryana,2009-10,57,Cropping_Intensity,178.9
+Haryana,2010-11,57,Cropping_Intensity,184.9
+Haryana,2011-12,57,Cropping_Intensity,184.7
+Haryana,2012-13,57,Cropping_Intensity,181.5
+Haryana,2013-14,57,Cropping_Intensity,185.0
+Haryana,2014-15,57,Cropping_Intensity,185.6
+Haryana,2015-16,57,Cropping_Intensity,184.8
+Haryana,2016-17,57,Cropping_Intensity,184.4
+Haryana,2017-18,57,Cropping_Intensity,186.2
+Haryana,2018-19,57,Cropping_Intensity,183.4
+Haryana,2019-20,57,Cropping_Intensity,186.3
+Haryana,2020-21,57,Cropping_Intensity,181.8
+Haryana,2021-22,57,Cropping_Intensity,181.8
+Haryana,2022-2320,57,Cropping_Intensity,185.5
+Himachal Pradesh,2004-05,57,Cropping_Intensity,175.6
+Himachal Pradesh,2005-06,57,Cropping_Intensity,175.0
+Himachal Pradesh,2006-07,57,Cropping_Intensity,174.5
+Himachal Pradesh,2007-08,57,Cropping_Intensity,176.0
+Himachal Pradesh,2008-09,57,Cropping_Intensity,175.4
+Himachal Pradesh,2009-10,57,Cropping_Intensity,174.7
+Himachal Pradesh,2010-11,57,Cropping_Intensity,172.7
+Himachal Pradesh,2011-12,57,Cropping_Intensity,169.4
+Himachal Pradesh,2012-13,57,Cropping_Intensity,170.4
+Himachal Pradesh,2013-14,57,Cropping_Intensity,171.3
+Himachal Pradesh,2014-15,57,Cropping_Intensity,167.4
+Himachal Pradesh,2015-16,57,Cropping_Intensity,169.2
+Himachal Pradesh,2016-17,57,Cropping_Intensity,175.2
+Himachal Pradesh,2017-18,57,Cropping_Intensity,169.0
+Himachal Pradesh,2018-19,57,Cropping_Intensity,168.5
+Himachal Pradesh,2019-20,57,Cropping_Intensity,168.2
+Himachal Pradesh,2020-21,57,Cropping_Intensity,170.9
+Himachal Pradesh,2021-22,57,Cropping_Intensity,168.6
+Himachal Pradesh,2022-2320,57,Cropping_Intensity,166.8
+Jammu & Kashmir,2004-05,57,Cropping_Intensity,146.4
+Jammu & Kashmir,2005-06,57,Cropping_Intensity,150.1
+Jammu & Kashmir,2006-07,57,Cropping_Intensity,151.9
+Jammu & Kashmir,2007-08,57,Cropping_Intensity,154.5
+Jammu & Kashmir,2008-09,57,Cropping_Intensity,153.9
+Jammu & Kashmir,2009-10,57,Cropping_Intensity,155.7
+Jammu & Kashmir,2010-11,57,Cropping_Intensity,155.8
+Jammu & Kashmir,2011-12,57,Cropping_Intensity,155.6
+Jammu & Kashmir,2012-13,57,Cropping_Intensity,156.0
+Jammu & Kashmir,2013-14,57,Cropping_Intensity,156.6
+Jammu & Kashmir,2014-15,57,Cropping_Intensity,157.7
+Jammu & Kashmir,2015-16,57,Cropping_Intensity,153.7
+Jammu & Kashmir,2016-17,57,Cropping_Intensity,155.5
+Jammu & Kashmir,2017-18,57,Cropping_Intensity,154.9
+Jammu & Kashmir,2018-19,57,Cropping_Intensity,157.6
+Jammu & Kashmir,2019-20,57,Cropping_Intensity,151.4
+Jammu & Kashmir,2020-21,57,Cropping_Intensity,151.1
+Jammu & Kashmir,2021-22,57,Cropping_Intensity,154.8
+Jammu & Kashmir,2022-2320,57,Cropping_Intensity,154.7
+Jharkhand,2004-05,57,Cropping_Intensity,110.9
+Jharkhand,2005-06,57,Cropping_Intensity,110.1
+Jharkhand,2006-07,57,Cropping_Intensity,109.6
+Jharkhand,2007-08,57,Cropping_Intensity,109.1
+Jharkhand,2008-09,57,Cropping_Intensity,112.3
+Jharkhand,2009-10,57,Cropping_Intensity,111.9
+Jharkhand,2010-11,57,Cropping_Intensity,115.1
+Jharkhand,2011-12,57,Cropping_Intensity,114.4
+Jharkhand,2012-13,57,Cropping_Intensity,117.9
+Jharkhand,2013-14,57,Cropping_Intensity,120.8
+Jharkhand,2014-15,57,Cropping_Intensity,112.2
+Jharkhand,2015-16,57,Cropping_Intensity,130.7
+Jharkhand,2016-17,57,Cropping_Intensity,140.9
+Jharkhand,2017-18,57,Cropping_Intensity,140.8
+Jharkhand,2018-19,57,Cropping_Intensity,142.5
+Jharkhand,2019-20,57,Cropping_Intensity,136.3
+Jharkhand,2020-21,57,Cropping_Intensity,135.7
+Jharkhand,2021-22,57,Cropping_Intensity,133.9
+Jharkhand,2022-2320,57,Cropping_Intensity,119.9
+Karnataka,2004-05,57,Cropping_Intensity,122.0
+Karnataka,2005-06,57,Cropping_Intensity,124.0
+Karnataka,2006-07,57,Cropping_Intensity,123.1
+Karnataka,2007-08,57,Cropping_Intensity,123.7
+Karnataka,2008-09,57,Cropping_Intensity,121.6
+Karnataka,2009-10,57,Cropping_Intensity,123.7
+Karnataka,2010-11,57,Cropping_Intensity,124.1
+Karnataka,2011-12,57,Cropping_Intensity,121.3
+Karnataka,2012-13,57,Cropping_Intensity,120.0
+Karnataka,2013-14,57,Cropping_Intensity,123.6
+Karnataka,2014-15,57,Cropping_Intensity,121.9
+Karnataka,2015-16,57,Cropping_Intensity,120.0
+Karnataka,2016-17,57,Cropping_Intensity,119.5
+Karnataka,2017-18,57,Cropping_Intensity,121.2
+Karnataka,2018-19,57,Cropping_Intensity,127.1
+Karnataka,2019-20,57,Cropping_Intensity,128.0
+Karnataka,2020-21,57,Cropping_Intensity,130.2
+Karnataka,2021-22,57,Cropping_Intensity,132.1
+Karnataka,2022-2320,57,Cropping_Intensity,132.1
+Kerala,2004-05,57,Cropping_Intensity,139.0
+Kerala,2005-06,57,Cropping_Intensity,140.0
+Kerala,2006-07,57,Cropping_Intensity,138.8
+Kerala,2007-08,57,Cropping_Intensity,132.2
+Kerala,2008-09,57,Cropping_Intensity,129.0
+Kerala,2009-10,57,Cropping_Intensity,128.4
+Kerala,2010-11,57,Cropping_Intensity,127.8
+Kerala,2011-12,57,Cropping_Intensity,130.5
+Kerala,2012-13,57,Cropping_Intensity,126.5
+Kerala,2013-14,57,Cropping_Intensity,127.6
+Kerala,2014-15,57,Cropping_Intensity,128.5
+Kerala,2015-16,57,Cropping_Intensity,129.9
+Kerala,2016-17,57,Cropping_Intensity,128.2
+Kerala,2017-18,57,Cropping_Intensity,126.4
+Kerala,2018-19,57,Cropping_Intensity,126.4
+Kerala,2019-20,57,Cropping_Intensity,127.7
+Kerala,2020-21,57,Cropping_Intensity,126.2
+Kerala,2021-22,57,Cropping_Intensity,124.3
+Kerala,2022-2320,57,Cropping_Intensity,126.5
+Madhya Pradesh,2004-05,57,Cropping_Intensity,134.9
+Madhya Pradesh,2005-06,57,Cropping_Intensity,131.0
+Madhya Pradesh,2006-07,57,Cropping_Intensity,136.5
+Madhya Pradesh,2007-08,57,Cropping_Intensity,139.0
+Madhya Pradesh,2008-09,57,Cropping_Intensity,138.3
+Madhya Pradesh,2009-10,57,Cropping_Intensity,143.0
+Madhya Pradesh,2010-11,57,Cropping_Intensity,145.8
+Madhya Pradesh,2011-12,57,Cropping_Intensity,147.8
+Madhya Pradesh,2012-13,57,Cropping_Intensity,150.7
+Madhya Pradesh,2013-14,57,Cropping_Intensity,155.9
+Madhya Pradesh,2014-15,57,Cropping_Intensity,155.1
+Madhya Pradesh,2015-16,57,Cropping_Intensity,156.5
+Madhya Pradesh,2016-17,57,Cropping_Intensity,159.0
+Madhya Pradesh,2017-18,57,Cropping_Intensity,165.3
+Madhya Pradesh,2018-19,57,Cropping_Intensity,171.8
+Madhya Pradesh,2019-20,57,Cropping_Intensity,182.3
+Madhya Pradesh,2020-21,57,Cropping_Intensity,189.3
+Madhya Pradesh,2021-22,57,Cropping_Intensity,189.9
+Madhya Pradesh,2022-2320,57,Cropping_Intensity,190.0
+Maharashtra,2004-05,57,Cropping_Intensity,127.9
+Maharashtra,2005-06,57,Cropping_Intensity,129.1
+Maharashtra,2006-07,57,Cropping_Intensity,129.2
+Maharashtra,2007-08,57,Cropping_Intensity,129.7
+Maharashtra,2008-09,57,Cropping_Intensity,128.9
+Maharashtra,2009-10,57,Cropping_Intensity,129.9
+Maharashtra,2010-11,57,Cropping_Intensity,133.1
+Maharashtra,2011-12,57,Cropping_Intensity,127.0
+Maharashtra,2012-13,57,Cropping_Intensity,126.5
+Maharashtra,2013-14,57,Cropping_Intensity,134.3
+Maharashtra,2014-15,57,Cropping_Intensity,135.3
+Maharashtra,2015-16,57,Cropping_Intensity,136.5
+Maharashtra,2016-17,57,Cropping_Intensity,141.6
+Maharashtra,2017-18,57,Cropping_Intensity,136.4
+Maharashtra,2018-19,57,Cropping_Intensity,132.0
+Maharashtra,2019-20,57,Cropping_Intensity,142.7
+Maharashtra,2020-21,57,Cropping_Intensity,149.6
+Maharashtra,2021-22,57,Cropping_Intensity,145.6
+Maharashtra,2022-2320,57,Cropping_Intensity,153.9
+Manipur,2004-05,57,Cropping_Intensity,100.0
+Manipur,2005-06,57,Cropping_Intensity,100.0
+Manipur,2006-07,57,Cropping_Intensity,100.0
+Manipur,2007-08,57,Cropping_Intensity,100.0
+Manipur,2008-09,57,Cropping_Intensity,100.0
+Manipur,2009-10,57,Cropping_Intensity,100.0
+Manipur,2010-11,57,Cropping_Intensity,100.0
+Manipur,2011-12,57,Cropping_Intensity,100.0
+Manipur,2012-13,57,Cropping_Intensity,100.0
+Manipur,2013-14,57,Cropping_Intensity,100.0
+Manipur,2014-15,57,Cropping_Intensity,100.0
+Manipur,2015-16,57,Cropping_Intensity,100.0
+Manipur,2016-17,57,Cropping_Intensity,100.0
+Manipur,2017-18,57,Cropping_Intensity,100.0
+Manipur,2018-19,57,Cropping_Intensity,100.0
+Manipur,2019-20,57,Cropping_Intensity,100.0
+Manipur,2020-21,57,Cropping_Intensity,100.0
+Manipur,2021-22,57,Cropping_Intensity,100.0
+Manipur,2022-2320,57,Cropping_Intensity,100.0
+Meghalaya,2004-05,57,Cropping_Intensity,121.0
+Meghalaya,2005-06,57,Cropping_Intensity,121.7
+Meghalaya,2006-07,57,Cropping_Intensity,115.7
+Meghalaya,2007-08,57,Cropping_Intensity,120.4
+Meghalaya,2008-09,57,Cropping_Intensity,118.7
+Meghalaya,2009-10,57,Cropping_Intensity,118.9
+Meghalaya,2010-11,57,Cropping_Intensity,119.0
+Meghalaya,2011-12,57,Cropping_Intensity,118.9
+Meghalaya,2012-13,57,Cropping_Intensity,119.0
+Meghalaya,2013-14,57,Cropping_Intensity,120.0
+Meghalaya,2014-15,57,Cropping_Intensity,120.0
+Meghalaya,2015-16,57,Cropping_Intensity,123.3
+Meghalaya,2016-17,57,Cropping_Intensity,122.3
+Meghalaya,2017-18,57,Cropping_Intensity,122.3
+Meghalaya,2018-19,57,Cropping_Intensity,122.5
+Meghalaya,2019-20,57,Cropping_Intensity,122.7
+Meghalaya,2020-21,57,Cropping_Intensity,122.2
+Meghalaya,2021-22,57,Cropping_Intensity,120.9
+Meghalaya,2022-2320,57,Cropping_Intensity,120.4
+Mizoram,2004-05,57,Cropping_Intensity,100.0
+Mizoram,2005-06,57,Cropping_Intensity,100.0
+Mizoram,2006-07,57,Cropping_Intensity,100.0
+Mizoram,2007-08,57,Cropping_Intensity,100.0
+Mizoram,2008-09,57,Cropping_Intensity,100.0
+Mizoram,2009-10,57,Cropping_Intensity,100.0
+Mizoram,2010-11,57,Cropping_Intensity,100.0
+Mizoram,2011-12,57,Cropping_Intensity,100.0
+Mizoram,2012-13,57,Cropping_Intensity,100.0
+Mizoram,2013-14,57,Cropping_Intensity,100.0
+Mizoram,2014-15,57,Cropping_Intensity,100.0
+Mizoram,2022-2320,57,Cropping_Intensity,142.6
+Nagaland,2004-05,57,Cropping_Intensity,123.1
+Nagaland,2005-06,57,Cropping_Intensity,125.2
+Nagaland,2006-07,57,Cropping_Intensity,125.9
+Nagaland,2007-08,57,Cropping_Intensity,126.6
+Nagaland,2008-09,57,Cropping_Intensity,127.2
+Nagaland,2009-10,57,Cropping_Intensity,134.8
+Nagaland,2010-11,57,Cropping_Intensity,124.9
+Nagaland,2011-12,57,Cropping_Intensity,125.0
+Nagaland,2012-13,57,Cropping_Intensity,128.5
+Nagaland,2013-14,57,Cropping_Intensity,131.2
+Nagaland,2014-15,57,Cropping_Intensity,130.3
+Nagaland,2015-16,57,Cropping_Intensity,131.2
+Nagaland,2016-17,57,Cropping_Intensity,135.5
+Nagaland,2017-18,57,Cropping_Intensity,137.8
+Nagaland,2018-19,57,Cropping_Intensity,137.9
+Nagaland,2019-20,57,Cropping_Intensity,137.9
+Nagaland,2020-21,57,Cropping_Intensity,137.7
+Nagaland,2021-22,57,Cropping_Intensity,120.3
+Nagaland,2022-2320,57,Cropping_Intensity,130.5
+Odisha,2004-05,57,Cropping_Intensity,151.9
+Odisha,2005-06,57,Cropping_Intensity,156.9
+Odisha,2006-07,57,Cropping_Intensity,158.5
+Odisha,2007-08,57,Cropping_Intensity,160.3
+Odisha,2008-09,57,Cropping_Intensity,161.9
+Odisha,2009-10,57,Cropping_Intensity,115.7
+Odisha,2010-11,57,Cropping_Intensity,116.0
+Odisha,2011-12,57,Cropping_Intensity,113.0
+Odisha,2012-13,57,Cropping_Intensity,115.6
+Odisha,2013-14,57,Cropping_Intensity,115.0
+Odisha,2014-15,57,Cropping_Intensity,115.6
+Odisha,2015-16,57,Cropping_Intensity,114.4
+Odisha,2016-17,57,Cropping_Intensity,119.2
+Odisha,2017-18,57,Cropping_Intensity,116.5
+Odisha,2018-19,57,Cropping_Intensity,113.0
+Odisha,2019-20,57,Cropping_Intensity,113.8
+Odisha,2020-21,57,Cropping_Intensity,115.3
+Odisha,2021-22,57,Cropping_Intensity,115.6
+Odisha,2022-2320,57,Cropping_Intensity,117.4
+Puducherry,2004-05,57,Cropping_Intensity,184.5
+Puducherry,2005-06,57,Cropping_Intensity,175.7
+Puducherry,2006-07,57,Cropping_Intensity,175.5
+Puducherry,2007-08,57,Cropping_Intensity,174.6
+Puducherry,2008-09,57,Cropping_Intensity,170.6
+Puducherry,2009-10,57,Cropping_Intensity,170.3
+Puducherry,2010-11,57,Cropping_Intensity,169.3
+Puducherry,2011-12,57,Cropping_Intensity,151.6
+Puducherry,2012-13,57,Cropping_Intensity,161.6
+Puducherry,2013-14,57,Cropping_Intensity,163.8
+Puducherry,2014-15,57,Cropping_Intensity,168.3
+Puducherry,2015-16,57,Cropping_Intensity,170.8
+Puducherry,2016-17,57,Cropping_Intensity,170.7
+Puducherry,2017-18,57,Cropping_Intensity,171.3
+Puducherry,2018-19,57,Cropping_Intensity,174.5
+Puducherry,2019-20,57,Cropping_Intensity,176.9
+Puducherry,2020-21,57,Cropping_Intensity,173.7
+Puducherry,2021-22,57,Cropping_Intensity,177.3
+Puducherry,2022-2320,57,Cropping_Intensity,181.9
+Punjab,2004-05,57,Cropping_Intensity,188.8
+Punjab,2005-06,57,Cropping_Intensity,187.7
+Punjab,2006-07,57,Cropping_Intensity,187.9
+Punjab,2007-08,57,Cropping_Intensity,188.0
+Punjab,2008-09,57,Cropping_Intensity,189.8
+Punjab,2009-10,57,Cropping_Intensity,189.4
+Punjab,2010-11,57,Cropping_Intensity,189.6
+Punjab,2011-12,57,Cropping_Intensity,191.2
+Punjab,2012-13,57,Cropping_Intensity,189.6
+Punjab,2013-14,57,Cropping_Intensity,189.3
+Punjab,2014-15,57,Cropping_Intensity,190.8
+Punjab,2015-16,57,Cropping_Intensity,190.3
+Punjab,2016-17,57,Cropping_Intensity,189.0
+Punjab,2017-18,57,Cropping_Intensity,188.6
+Punjab,2018-19,57,Cropping_Intensity,190.6
+Punjab,2019-20,57,Cropping_Intensity,189.9
+Punjab,2020-21,57,Cropping_Intensity,189.9
+Punjab,2021-22,57,Cropping_Intensity,192.5
+Punjab,2022-2320,57,Cropping_Intensity,202.2
+Rajasthan,2004-05,57,Cropping_Intensity,127.3
+Rajasthan,2005-06,57,Cropping_Intensity,128.9
+Rajasthan,2006-07,57,Cropping_Intensity,128.5
+Rajasthan,2007-08,57,Cropping_Intensity,129.9
+Rajasthan,2008-09,57,Cropping_Intensity,129.7
+Rajasthan,2009-10,57,Cropping_Intensity,128.1
+Rajasthan,2010-11,57,Cropping_Intensity,141.7
+Rajasthan,2011-12,57,Cropping_Intensity,135.9
+Rajasthan,2012-13,57,Cropping_Intensity,137.0
+Rajasthan,2013-14,57,Cropping_Intensity,143.0
+Rajasthan,2014-15,57,Cropping_Intensity,138.3
+Rajasthan,2015-16,57,Cropping_Intensity,138.8
+Rajasthan,2016-17,57,Cropping_Intensity,143.3
+Rajasthan,2017-18,57,Cropping_Intensity,140.0
+Rajasthan,2018-19,57,Cropping_Intensity,142.4
+Rajasthan,2019-20,57,Cropping_Intensity,152.6
+Rajasthan,2020-21,57,Cropping_Intensity,145.4
+Rajasthan,2021-22,57,Cropping_Intensity,151.4
+Rajasthan,2022-2320,57,Cropping_Intensity,152.9
+Sikkim,2004-05,57,Cropping_Intensity,158.1
+Sikkim,2005-06,57,Cropping_Intensity,158.3
+Sikkim,2006-07,57,Cropping_Intensity,159.5
+Sikkim,2007-08,57,Cropping_Intensity,152.7
+Sikkim,2008-09,57,Cropping_Intensity,152.3
+Sikkim,2009-10,57,Cropping_Intensity,186.0
+Sikkim,2010-11,57,Cropping_Intensity,196.2
+Sikkim,2011-12,57,Cropping_Intensity,177.8
+Sikkim,2012-13,57,Cropping_Intensity,186.2
+Sikkim,2013-14,57,Cropping_Intensity,190.5
+Sikkim,2014-15,57,Cropping_Intensity,176.0
+Sikkim,2015-16,57,Cropping_Intensity,177.0
+Sikkim,2016-17,57,Cropping_Intensity,189.2
+Sikkim,2017-18,57,Cropping_Intensity,197.8
+Sikkim,2018-19,57,Cropping_Intensity,210.2
+Sikkim,2019-20,57,Cropping_Intensity,210.0
+Sikkim,2020-21,57,Cropping_Intensity,181.9
+Sikkim,2021-22,57,Cropping_Intensity,181.9
+Sikkim,2022-2320,57,Cropping_Intensity,167.0
+Tamil Nadu,2004-05,57,Cropping_Intensity,115.5
+Tamil Nadu,2005-06,57,Cropping_Intensity,115.0
+Tamil Nadu,2006-07,57,Cropping_Intensity,114.0
+Tamil Nadu,2007-08,57,Cropping_Intensity,114.9
+Tamil Nadu,2008-09,57,Cropping_Intensity,115.5
+Tamil Nadu,2009-10,57,Cropping_Intensity,113.9
+Tamil Nadu,2010-11,57,Cropping_Intensity,116.1
+Tamil Nadu,2011-12,57,Cropping_Intensity,118.1
+Tamil Nadu,2012-13,57,Cropping_Intensity,113.1
+Tamil Nadu,2013-14,57,Cropping_Intensity,125.1
+Tamil Nadu,2014-15,57,Cropping_Intensity,124.4
+Tamil Nadu,2015-16,57,Cropping_Intensity,125.7
+Tamil Nadu,2016-17,57,Cropping_Intensity,118.0
+Tamil Nadu,2017-18,57,Cropping_Intensity,123.5
+Tamil Nadu,2018-19,57,Cropping_Intensity,123.8
+Tamil Nadu,2019-20,57,Cropping_Intensity,125.4
+Tamil Nadu,2020-21,57,Cropping_Intensity,127.4
+Tamil Nadu,2021-22,57,Cropping_Intensity,129.3
+Tamil Nadu,2022-2320,57,Cropping_Intensity,132.7
+Tripura,2004-05,57,Cropping_Intensity,100.5
+Tripura,2005-06,57,Cropping_Intensity,100.0
+Tripura,2006-07,57,Cropping_Intensity,108.1
+Tripura,2007-08,57,Cropping_Intensity,108.1
+Tripura,2008-09,57,Cropping_Intensity,103.1
+Tripura,2009-10,57,Cropping_Intensity,177.3
+Tripura,2010-11,57,Cropping_Intensity,184.0
+Tripura,2011-12,57,Cropping_Intensity,184.9
+Tripura,2012-13,57,Cropping_Intensity,185.9
+Tripura,2013-14,57,Cropping_Intensity,186.0
+Tripura,2014-15,57,Cropping_Intensity,189.3
+Tripura,2015-16,57,Cropping_Intensity,190.1
+Tripura,2016-17,57,Cropping_Intensity,192.0
+Tripura,2017-18,57,Cropping_Intensity,190.8
+Tripura,2018-19,57,Cropping_Intensity,190.6
+Tripura,2019-20,57,Cropping_Intensity,190.7
+Tripura,2020-21,57,Cropping_Intensity,190.8
+Tripura,2021-22,57,Cropping_Intensity,190.5
+Tripura,2022-2320,57,Cropping_Intensity,190.5
+Uttar Pradesh,2004-05,57,Cropping_Intensity,153.0
+Uttar Pradesh,2005-06,57,Cropping_Intensity,152.2
+Uttar Pradesh,2006-07,57,Cropping_Intensity,153.3
+Uttar Pradesh,2007-08,57,Cropping_Intensity,154.2
+Uttar Pradesh,2008-09,57,Cropping_Intensity,153.8
+Uttar Pradesh,2009-10,57,Cropping_Intensity,153.4
+Uttar Pradesh,2010-11,57,Cropping_Intensity,154.4
+Uttar Pradesh,2011-12,57,Cropping_Intensity,156.0
+Uttar Pradesh,2012-13,57,Cropping_Intensity,155.9
+Uttar Pradesh,2013-14,57,Cropping_Intensity,156.5
+Uttar Pradesh,2014-15,57,Cropping_Intensity,157.5
+Uttar Pradesh,2015-16,57,Cropping_Intensity,159.1
+Uttar Pradesh,2016-17,57,Cropping_Intensity,162.7
+Uttar Pradesh,2017-18,57,Cropping_Intensity,162.4
+Uttar Pradesh,2018-19,57,Cropping_Intensity,162.4
+Uttar Pradesh,2019-20,57,Cropping_Intensity,165.6
+Uttar Pradesh,2020-21,57,Cropping_Intensity,165.6
+Uttar Pradesh,2021-22,57,Cropping_Intensity,175.2
+Uttar Pradesh,2022-2320,57,Cropping_Intensity,175.2
+Uttarakhand,2004-05,57,Cropping_Intensity,161.0
+Uttarakhand,2005-06,57,Cropping_Intensity,157.9
+Uttarakhand,2006-07,57,Cropping_Intensity,158.1
+Uttarakhand,2007-08,57,Cropping_Intensity,157.3
+Uttarakhand,2008-09,57,Cropping_Intensity,158.3
+Uttarakhand,2009-10,57,Cropping_Intensity,158.4
+Uttarakhand,2010-11,57,Cropping_Intensity,161.7
+Uttarakhand,2011-12,57,Cropping_Intensity,158.5
+Uttarakhand,2012-13,57,Cropping_Intensity,159.2
+Uttarakhand,2013-14,57,Cropping_Intensity,156.8
+Uttarakhand,2014-15,57,Cropping_Intensity,156.7
+Uttarakhand,2015-16,57,Cropping_Intensity,155.0
+Uttarakhand,2016-17,57,Cropping_Intensity,156.7
+Uttarakhand,2017-18,57,Cropping_Intensity,157.4
+Uttarakhand,2018-19,57,Cropping_Intensity,158.9
+Uttarakhand,2019-20,57,Cropping_Intensity,160.5
+Uttarakhand,2020-21,57,Cropping_Intensity,160.6
+Uttarakhand,2021-22,57,Cropping_Intensity,163.3
+Uttarakhand,2022-2320,57,Cropping_Intensity,164.0
+West Bengal,2004-05,57,Cropping_Intensity,177.2
+West Bengal,2005-06,57,Cropping_Intensity,180.0
+West Bengal,2006-07,57,Cropping_Intensity,181.9
+West Bengal,2007-08,57,Cropping_Intensity,184.1
+West Bengal,2008-09,57,Cropping_Intensity,185.1
+West Bengal,2009-10,57,Cropping_Intensity,181.3
+West Bengal,2010-11,57,Cropping_Intensity,177.3
+West Bengal,2011-12,57,Cropping_Intensity,179.9
+West Bengal,2012-13,57,Cropping_Intensity,181.7
+West Bengal,2013-14,57,Cropping_Intensity,183.8
+West Bengal,2014-15,57,Cropping_Intensity,185.0
+West Bengal,2015-16,57,Cropping_Intensity,188.5
+West Bengal,2016-17,57,Cropping_Intensity,183.4
+West Bengal,2017-18,57,Cropping_Intensity,189.5
+West Bengal,2018-19,57,Cropping_Intensity,189.8
+West Bengal,2019-20,57,Cropping_Intensity,192.4
+West Bengal,2020-21,57,Cropping_Intensity,193.2
+West Bengal,2021-22,57,Cropping_Intensity,194.2
+West Bengal,2022-2320,57,Cropping_Intensity,191.2
+Telangana,2013-14,57,Cropping_Intensity,126.7
+Telangana,2014-15,57,Cropping_Intensity,121.5
+Telangana,2015-16,57,Cropping_Intensity,117.2
+Telangana,2016-17,57,Cropping_Intensity,125.0
+Telangana,2017-18,57,Cropping_Intensity,123.7
+Telangana,2018-19,57,Cropping_Intensity,123.9
+Telangana,2019-20,57,Cropping_Intensity,136.0
+Telangana,2020-21,57,Cropping_Intensity,143.1
+Telangana,2021-22,57,Cropping_Intensity,142.7
+Telangana,2022-2320,57,Cropping_Intensity,157.3

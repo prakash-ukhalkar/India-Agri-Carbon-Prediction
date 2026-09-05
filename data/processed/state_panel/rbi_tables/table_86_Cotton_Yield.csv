@@ -1,0 +1,349 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,86,Cotton_Yield,316.0
+Andhra Pradesh,2005-06,86,Cotton_Yield,347.0
+Andhra Pradesh,2006-07,86,Cotton_Yield,381.0
+Andhra Pradesh,2007-08,86,Cotton_Yield,523.0
+Andhra Pradesh,2008-09,86,Cotton_Yield,434.0
+Andhra Pradesh,2009-10,86,Cotton_Yield,374.0
+Andhra Pradesh,2010-11,86,Cotton_Yield,480.0
+Andhra Pradesh,2011-12,86,Cotton_Yield,537.0
+Andhra Pradesh,2012-13,86,Cotton_Yield,585.0
+Andhra Pradesh,2013-14,86,Cotton_Yield,355.0
+Andhra Pradesh,2014-15,86,Cotton_Yield,588.0
+Andhra Pradesh,2015-16,86,Cotton_Yield,482.0
+Andhra Pradesh,2016-17,86,Cotton_Yield,563.0
+Andhra Pradesh,2017-18,86,Cotton_Yield,549.0
+Andhra Pradesh,2018-19,86,Cotton_Yield,409.0
+Andhra Pradesh,2019-20,86,Cotton_Yield,649.0
+Andhra Pradesh,2020-21,86,Cotton_Yield,449.0
+Andhra Pradesh,2021-22,86,Cotton_Yield,524.0
+Andhra Pradesh,2022-23,86,Cotton_Yield,372.0
+Andhra Pradesh,2023-24,86,Cotton_Yield,297.0
+Andhra Pradesh,2024-25,86,Cotton_Yield,476.0
+Assam,2004-05,86,Cotton_Yield,170.0
+Assam,2005-06,86,Cotton_Yield,73.0
+Assam,2006-07,86,Cotton_Yield,102.0
+Assam,2007-08,86,Cotton_Yield,102.0
+Assam,2008-09,86,Cotton_Yield,78.0
+Assam,2009-10,86,Cotton_Yield,80.0
+Assam,2016-17,86,Cotton_Yield,0.0
+Assam,2017-18,86,Cotton_Yield,0.0
+Assam,2018-19,86,Cotton_Yield,0.0
+Assam,2019-20,86,Cotton_Yield,0.0
+Assam,2020-21,86,Cotton_Yield,88.0
+Assam,2021-22,86,Cotton_Yield,87.0
+Assam,2022-23,86,Cotton_Yield,87.0
+Assam,2023-24,86,Cotton_Yield,87.0
+Assam,2024-25,86,Cotton_Yield,79.0
+Gujarat,2004-05,86,Cotton_Yield,421.0
+Gujarat,2005-06,86,Cotton_Yield,604.0
+Gujarat,2006-07,86,Cotton_Yield,625.0
+Gujarat,2007-08,86,Cotton_Yield,581.0
+Gujarat,2008-09,86,Cotton_Yield,507.0
+Gujarat,2009-10,86,Cotton_Yield,551.0
+Gujarat,2010-11,86,Cotton_Yield,671.0
+Gujarat,2011-12,86,Cotton_Yield,689.0
+Gujarat,2012-13,86,Cotton_Yield,603.0
+Gujarat,2013-14,86,Cotton_Yield,685.0
+Gujarat,2014-15,86,Cotton_Yield,644.0
+Gujarat,2015-16,86,Cotton_Yield,587.0
+Gujarat,2016-17,86,Cotton_Yield,612.0
+Gujarat,2017-18,86,Cotton_Yield,660.0
+Gujarat,2018-19,86,Cotton_Yield,401.0
+Gujarat,2019-20,86,Cotton_Yield,552.0
+Gujarat,2020-21,86,Cotton_Yield,540.0
+Gujarat,2021-22,86,Cotton_Yield,559.0
+Gujarat,2022-23,86,Cotton_Yield,602.0
+Gujarat,2023-24,86,Cotton_Yield,574.0
+Gujarat,2024-25,86,Cotton_Yield,513.0
+Haryana,2004-05,86,Cotton_Yield,568.0
+Haryana,2005-06,86,Cotton_Yield,437.0
+Haryana,2006-07,86,Cotton_Yield,582.0
+Haryana,2007-08,86,Cotton_Yield,663.0
+Haryana,2008-09,86,Cotton_Yield,694.0
+Haryana,2009-10,86,Cotton_Yield,646.0
+Haryana,2010-11,86,Cotton_Yield,605.0
+Haryana,2011-12,86,Cotton_Yield,703.0
+Haryana,2012-13,86,Cotton_Yield,692.0
+Haryana,2013-14,86,Cotton_Yield,730.0
+Haryana,2014-15,86,Cotton_Yield,603.0
+Haryana,2015-16,86,Cotton_Yield,274.0
+Haryana,2016-17,86,Cotton_Yield,609.0
+Haryana,2017-18,86,Cotton_Yield,416.0
+Haryana,2018-19,86,Cotton_Yield,483.0
+Haryana,2019-20,86,Cotton_Yield,584.0
+Haryana,2020-21,86,Cotton_Yield,419.0
+Haryana,2021-22,86,Cotton_Yield,352.0
+Haryana,2022-23,86,Cotton_Yield,296.0
+Haryana,2023-24,86,Cotton_Yield,444.0
+Haryana,2024-25,86,Cotton_Yield,502.0
+Himachal Pradesh,2006-07,86,Cotton_Yield,170.0
+Himachal Pradesh,2007-08,86,Cotton_Yield,340.0
+Himachal Pradesh,2008-09,86,Cotton_Yield,378.0
+Himachal Pradesh,2009-10,86,Cotton_Yield,38.0
+Karnataka,2004-05,86,Cotton_Yield,224.0
+Karnataka,2005-06,86,Cotton_Yield,228.0
+Karnataka,2006-07,86,Cotton_Yield,276.0
+Karnataka,2007-08,86,Cotton_Yield,328.0
+Karnataka,2008-09,86,Cotton_Yield,360.0
+Karnataka,2009-10,86,Cotton_Yield,323.0
+Karnataka,2010-11,86,Cotton_Yield,374.0
+Karnataka,2011-12,86,Cotton_Yield,368.0
+Karnataka,2012-13,86,Cotton_Yield,440.0
+Karnataka,2013-14,86,Cotton_Yield,481.0
+Karnataka,2014-15,86,Cotton_Yield,449.0
+Karnataka,2015-16,86,Cotton_Yield,530.0
+Karnataka,2016-17,86,Cotton_Yield,337.0
+Karnataka,2017-18,86,Cotton_Yield,573.0
+Karnataka,2018-19,86,Cotton_Yield,331.0
+Karnataka,2019-20,86,Cotton_Yield,485.0
+Karnataka,2020-21,86,Cotton_Yield,481.0
+Karnataka,2021-22,86,Cotton_Yield,493.0
+Karnataka,2022-23,86,Cotton_Yield,460.0
+Karnataka,2023-24,86,Cotton_Yield,471.0
+Karnataka,2024-25,86,Cotton_Yield,570.0
+Kerala,2004-05,86,Cotton_Yield,277.0
+Kerala,2005-06,86,Cotton_Yield,220.0
+Kerala,2006-07,86,Cotton_Yield,170.0
+Kerala,2007-08,86,Cotton_Yield,222.0
+Kerala,2008-09,86,Cotton_Yield,213.0
+Kerala,2009-10,86,Cotton_Yield,221.0
+Kerala,2016-17,86,Cotton_Yield,0.0
+Kerala,2017-18,86,Cotton_Yield,0.0
+Kerala,2018-19,86,Cotton_Yield,0.0
+Kerala,2019-20,86,Cotton_Yield,0.0
+Kerala,2020-21,86,Cotton_Yield,1156.0
+Kerala,2021-22,86,Cotton_Yield,1000.0
+Kerala,2022-23,86,Cotton_Yield,589.0
+Kerala,2023-24,86,Cotton_Yield,1431.0
+Kerala,2024-25,86,Cotton_Yield,1495.0
+Madhya Pradesh,2004-05,86,Cotton_Yield,185.0
+Madhya Pradesh,2005-06,86,Cotton_Yield,204.0
+Madhya Pradesh,2006-07,86,Cotton_Yield,220.0
+Madhya Pradesh,2007-08,86,Cotton_Yield,233.0
+Madhya Pradesh,2008-09,86,Cotton_Yield,233.0
+Madhya Pradesh,2009-10,86,Cotton_Yield,238.0
+Madhya Pradesh,2010-11,86,Cotton_Yield,523.0
+Madhya Pradesh,2011-12,86,Cotton_Yield,482.0
+Madhya Pradesh,2012-13,86,Cotton_Yield,615.0
+Madhya Pradesh,2013-14,86,Cotton_Yield,572.0
+Madhya Pradesh,2014-15,86,Cotton_Yield,544.0
+Madhya Pradesh,2015-16,86,Cotton_Yield,544.0
+Madhya Pradesh,2016-17,86,Cotton_Yield,582.0
+Madhya Pradesh,2017-18,86,Cotton_Yield,457.0
+Madhya Pradesh,2018-19,86,Cotton_Yield,645.0
+Madhya Pradesh,2019-20,86,Cotton_Yield,430.0
+Madhya Pradesh,2020-21,86,Cotton_Yield,387.0
+Madhya Pradesh,2021-22,86,Cotton_Yield,431.0
+Madhya Pradesh,2022-23,86,Cotton_Yield,410.0
+Madhya Pradesh,2023-24,86,Cotton_Yield,486.0
+Madhya Pradesh,2024-25,86,Cotton_Yield,486.0
+Maharashtra,2004-05,86,Cotton_Yield,176.0
+Maharashtra,2005-06,86,Cotton_Yield,187.0
+Maharashtra,2006-07,86,Cotton_Yield,253.0
+Maharashtra,2007-08,86,Cotton_Yield,373.0
+Maharashtra,2008-09,86,Cotton_Yield,257.0
+Maharashtra,2009-10,86,Cotton_Yield,285.0
+Maharashtra,2010-11,86,Cotton_Yield,367.0
+Maharashtra,2011-12,86,Cotton_Yield,297.0
+Maharashtra,2012-13,86,Cotton_Yield,314.0
+Maharashtra,2013-14,86,Cotton_Yield,358.0
+Maharashtra,2014-15,86,Cotton_Yield,284.0
+Maharashtra,2015-16,86,Cotton_Yield,303.0
+Maharashtra,2016-17,86,Cotton_Yield,475.0
+Maharashtra,2017-18,86,Cotton_Yield,238.0
+Maharashtra,2018-19,86,Cotton_Yield,266.0
+Maharashtra,2019-20,86,Cotton_Yield,251.0
+Maharashtra,2020-21,86,Cotton_Yield,378.0
+Maharashtra,2021-22,86,Cotton_Yield,318.0
+Maharashtra,2022-23,86,Cotton_Yield,338.0
+Maharashtra,2023-24,86,Cotton_Yield,323.0
+Maharashtra,2024-25,86,Cotton_Yield,304.0
+Meghalaya,2004-05,86,Cotton_Yield,184.0
+Meghalaya,2005-06,86,Cotton_Yield,184.0
+Meghalaya,2006-07,86,Cotton_Yield,182.0
+Meghalaya,2007-08,86,Cotton_Yield,153.0
+Meghalaya,2008-09,86,Cotton_Yield,134.0
+Meghalaya,2009-10,86,Cotton_Yield,135.0
+Meghalaya,2016-17,86,Cotton_Yield,0.0
+Meghalaya,2017-18,86,Cotton_Yield,0.0
+Meghalaya,2018-19,86,Cotton_Yield,0.0
+Meghalaya,2019-20,86,Cotton_Yield,0.0
+Meghalaya,2020-21,86,Cotton_Yield,203.0
+Meghalaya,2021-22,86,Cotton_Yield,202.0
+Meghalaya,2022-23,86,Cotton_Yield,144.0
+Meghalaya,2023-24,86,Cotton_Yield,144.0
+Meghalaya,2024-25,86,Cotton_Yield,144.0
+Mizoram,2004-05,86,Cotton_Yield,442.0
+Mizoram,2005-06,86,Cotton_Yield,113.0
+Mizoram,2006-07,86,Cotton_Yield,4420.0
+Mizoram,2007-08,86,Cotton_Yield,1020.0
+Mizoram,2008-09,86,Cotton_Yield,85.0
+Mizoram,2009-10,86,Cotton_Yield,638.0
+Mizoram,2016-17,86,Cotton_Yield,0.0
+Mizoram,2017-18,86,Cotton_Yield,0.0
+Mizoram,2018-19,86,Cotton_Yield,0.0
+Mizoram,2019-20,86,Cotton_Yield,0.0
+Mizoram,2020-21,86,Cotton_Yield,78.0
+Mizoram,2021-22,86,Cotton_Yield,0.0
+Mizoram,2022-23,86,Cotton_Yield,330.0
+Mizoram,2023-24,86,Cotton_Yield,290.0
+Nagaland,2004-05,86,Cotton_Yield,23.0
+Nagaland,2005-06,86,Cotton_Yield,289.0
+Nagaland,2006-07,86,Cotton_Yield,170.0
+Nagaland,2007-08,86,Cotton_Yield,255.0
+Nagaland,2008-09,86,Cotton_Yield,170.0
+Nagaland,2009-10,86,Cotton_Yield,76.0
+Nagaland,2016-17,86,Cotton_Yield,0.0
+Nagaland,2017-18,86,Cotton_Yield,0.0
+Nagaland,2018-19,86,Cotton_Yield,0.0
+Nagaland,2019-20,86,Cotton_Yield,0.0
+Nagaland,2020-21,86,Cotton_Yield,600.0
+Nagaland,2021-22,86,Cotton_Yield,600.0
+Nagaland,2022-23,86,Cotton_Yield,600.0
+Nagaland,2023-24,86,Cotton_Yield,600.0
+Nagaland,2024-25,86,Cotton_Yield,600.0
+Odisha,2004-05,86,Cotton_Yield,412.0
+Odisha,2005-06,86,Cotton_Yield,435.0
+Odisha,2006-07,86,Cotton_Yield,363.0
+Odisha,2007-08,86,Cotton_Yield,423.0
+Odisha,2008-09,86,Cotton_Yield,430.0
+Odisha,2009-10,86,Cotton_Yield,464.0
+Odisha,2010-11,86,Cotton_Yield,574.0
+Odisha,2011-12,86,Cotton_Yield,542.0
+Odisha,2012-13,86,Cotton_Yield,571.0
+Odisha,2013-14,86,Cotton_Yield,410.0
+Odisha,2014-15,86,Cotton_Yield,535.0
+Odisha,2015-16,86,Cotton_Yield,408.0
+Odisha,2016-17,86,Cotton_Yield,478.0
+Odisha,2017-18,86,Cotton_Yield,478.0
+Odisha,2018-19,86,Cotton_Yield,493.0
+Odisha,2019-20,86,Cotton_Yield,579.0
+Odisha,2020-21,86,Cotton_Yield,547.0
+Odisha,2021-22,86,Cotton_Yield,551.0
+Odisha,2022-23,86,Cotton_Yield,554.0
+Odisha,2023-24,86,Cotton_Yield,554.0
+Odisha,2024-25,86,Cotton_Yield,586.0
+Punjab,2004-05,86,Cotton_Yield,697.0
+Punjab,2005-06,86,Cotton_Yield,731.0
+Punjab,2006-07,86,Cotton_Yield,750.0
+Punjab,2007-08,86,Cotton_Yield,663.0
+Punjab,2008-09,86,Cotton_Yield,737.0
+Punjab,2009-10,86,Cotton_Yield,667.0
+Punjab,2010-11,86,Cotton_Yield,674.0
+Punjab,2011-12,86,Cotton_Yield,698.0
+Punjab,2012-13,86,Cotton_Yield,708.0
+Punjab,2013-14,86,Cotton_Yield,750.0
+Punjab,2014-15,86,Cotton_Yield,648.0
+Punjab,2015-16,86,Cotton_Yield,376.0
+Punjab,2016-17,86,Cotton_Yield,615.0
+Punjab,2017-18,86,Cotton_Yield,750.0
+Punjab,2018-19,86,Cotton_Yield,775.0
+Punjab,2019-20,86,Cotton_Yield,827.0
+Punjab,2020-21,86,Cotton_Yield,691.0
+Punjab,2021-22,86,Cotton_Yield,437.0
+Punjab,2022-23,86,Cotton_Yield,303.0
+Punjab,2023-24,86,Cotton_Yield,500.0
+Punjab,2024-25,86,Cotton_Yield,439.0
+Rajasthan,2004-05,86,Cotton_Yield,297.0
+Rajasthan,2005-06,86,Cotton_Yield,317.0
+Rajasthan,2006-07,86,Cotton_Yield,363.0
+Rajasthan,2007-08,86,Cotton_Yield,397.0
+Rajasthan,2008-09,86,Cotton_Yield,408.0
+Rajasthan,2009-10,86,Cotton_Yield,345.0
+Rajasthan,2010-11,86,Cotton_Yield,457.0
+Rajasthan,2011-12,86,Cotton_Yield,483.0
+Rajasthan,2012-13,86,Cotton_Yield,529.0
+Rajasthan,2013-14,86,Cotton_Yield,557.0
+Rajasthan,2014-15,86,Cotton_Yield,533.0
+Rajasthan,2015-16,86,Cotton_Yield,461.0
+Rajasthan,2016-17,86,Cotton_Yield,506.0
+Rajasthan,2017-18,86,Cotton_Yield,551.0
+Rajasthan,2018-19,86,Cotton_Yield,548.0
+Rajasthan,2019-20,86,Cotton_Yield,624.0
+Rajasthan,2020-21,86,Cotton_Yield,675.0
+Rajasthan,2021-22,86,Cotton_Yield,558.0
+Rajasthan,2022-23,86,Cotton_Yield,579.0
+Rajasthan,2023-24,86,Cotton_Yield,444.0
+Rajasthan,2024-25,86,Cotton_Yield,484.0
+Tamil Nadu,2004-05,86,Cotton_Yield,256.0
+Tamil Nadu,2005-06,86,Cotton_Yield,258.0
+Tamil Nadu,2006-07,86,Cotton_Yield,374.0
+Tamil Nadu,2007-08,86,Cotton_Yield,344.0
+Tamil Nadu,2008-09,86,Cotton_Yield,279.0
+Tamil Nadu,2009-10,86,Cotton_Yield,368.0
+Tamil Nadu,2010-11,86,Cotton_Yield,627.0
+Tamil Nadu,2011-12,86,Cotton_Yield,575.0
+Tamil Nadu,2012-13,86,Cotton_Yield,664.0
+Tamil Nadu,2013-14,86,Cotton_Yield,456.0
+Tamil Nadu,2014-15,86,Cotton_Yield,624.0
+Tamil Nadu,2015-16,86,Cotton_Yield,442.0
+Tamil Nadu,2016-17,86,Cotton_Yield,430.0
+Tamil Nadu,2017-18,86,Cotton_Yield,413.0
+Tamil Nadu,2018-19,86,Cotton_Yield,344.0
+Tamil Nadu,2019-20,86,Cotton_Yield,418.0
+Tamil Nadu,2020-21,86,Cotton_Yield,369.0
+Tamil Nadu,2021-22,86,Cotton_Yield,347.0
+Tamil Nadu,2022-23,86,Cotton_Yield,313.0
+Tamil Nadu,2023-24,86,Cotton_Yield,330.0
+Tamil Nadu,2024-25,86,Cotton_Yield,350.0
+Telangana,2011-12,86,Cotton_Yield,415.0
+Telangana,2012-13,86,Cotton_Yield,500.0
+Telangana,2013-14,86,Cotton_Yield,550.0
+Telangana,2014-15,86,Cotton_Yield,377.0
+Telangana,2015-16,86,Cotton_Yield,351.0
+Telangana,2016-17,86,Cotton_Yield,416.0
+Telangana,2017-18,86,Cotton_Yield,466.0
+Telangana,2018-19,86,Cotton_Yield,356.0
+Telangana,2019-20,86,Cotton_Yield,546.0
+Telangana,2020-21,86,Cotton_Yield,418.0
+Telangana,2021-22,86,Cotton_Yield,439.0
+Telangana,2022-23,86,Cotton_Yield,495.0
+Telangana,2023-24,86,Cotton_Yield,475.0
+Telangana,2024-25,86,Cotton_Yield,543.0
+Tripura,2004-05,86,Cotton_Yield,232.0
+Tripura,2005-06,86,Cotton_Yield,227.0
+Tripura,2006-07,86,Cotton_Yield,227.0
+Tripura,2007-08,86,Cotton_Yield,232.0
+Tripura,2008-09,86,Cotton_Yield,238.0
+Tripura,2009-10,86,Cotton_Yield,253.0
+Tripura,2016-17,86,Cotton_Yield,0.0
+Tripura,2017-18,86,Cotton_Yield,0.0
+Tripura,2018-19,86,Cotton_Yield,0.0
+Tripura,2019-20,86,Cotton_Yield,0.0
+Tripura,2020-21,86,Cotton_Yield,265.0
+Tripura,2021-22,86,Cotton_Yield,262.0
+Tripura,2022-23,86,Cotton_Yield,155.0
+Tripura,2023-24,86,Cotton_Yield,155.0
+Tripura,2024-25,86,Cotton_Yield,272.0
+Uttar Pradesh,2004-05,86,Cotton_Yield,177.0
+Uttar Pradesh,2005-06,86,Cotton_Yield,201.0
+Uttar Pradesh,2006-07,86,Cotton_Yield,238.0
+Uttar Pradesh,2007-08,86,Cotton_Yield,269.0
+Uttar Pradesh,2008-09,86,Cotton_Yield,38.0
+Uttar Pradesh,2009-10,86,Cotton_Yield,170.0
+Uttar Pradesh,2016-17,86,Cotton_Yield,0.0
+Uttar Pradesh,2017-18,86,Cotton_Yield,0.0
+Uttar Pradesh,2018-19,86,Cotton_Yield,0.0
+Uttar Pradesh,2019-20,86,Cotton_Yield,0.0
+Uttar Pradesh,2020-21,86,Cotton_Yield,366.0
+Uttar Pradesh,2021-22,86,Cotton_Yield,366.0
+Uttar Pradesh,2022-23,86,Cotton_Yield,382.0
+Uttar Pradesh,2023-24,86,Cotton_Yield,387.0
+Uttar Pradesh,2024-25,86,Cotton_Yield,336.0
+West Bengal,2004-05,86,Cotton_Yield,255.0
+West Bengal,2005-06,86,Cotton_Yield,510.0
+West Bengal,2006-07,86,Cotton_Yield,438.0
+West Bengal,2007-08,86,Cotton_Yield,274.0
+West Bengal,2008-09,86,Cotton_Yield,364.0
+West Bengal,2009-10,86,Cotton_Yield,430.0
+West Bengal,2016-17,86,Cotton_Yield,0.0
+West Bengal,2017-18,86,Cotton_Yield,0.0
+West Bengal,2018-19,86,Cotton_Yield,0.0
+West Bengal,2019-20,86,Cotton_Yield,0.0
+West Bengal,2020-21,86,Cotton_Yield,501.0
+West Bengal,2021-22,86,Cotton_Yield,538.0
+West Bengal,2022-23,86,Cotton_Yield,859.0
+West Bengal,2023-24,86,Cotton_Yield,830.0
+West Bengal,2024-25,86,Cotton_Yield,850.0
+Jammu & Kashmir,2021-22,86,Cotton_Yield,938.0

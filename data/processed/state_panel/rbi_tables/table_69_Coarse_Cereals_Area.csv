@@ -1,0 +1,629 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,69,Coarse_Cereals_Area,1368.0
+Andhra Pradesh,2005-06,69,Coarse_Cereals_Area,1393.0
+Andhra Pradesh,2006-07,69,Coarse_Cereals_Area,1302.0
+Andhra Pradesh,2007-08,69,Coarse_Cereals_Area,1281.0
+Andhra Pradesh,2008-09,69,Coarse_Cereals_Area,1270.0
+Andhra Pradesh,2009-10,69,Coarse_Cereals_Area,1283.0
+Andhra Pradesh,2010-11,69,Coarse_Cereals_Area,1137.0
+Andhra Pradesh,2011-12,69,Coarse_Cereals_Area,522.0
+Andhra Pradesh,2012-13,69,Coarse_Cereals_Area,606.8
+Andhra Pradesh,2013-14,69,Coarse_Cereals_Area,562.3
+Andhra Pradesh,2014-15,69,Coarse_Cereals_Area,526.0
+Andhra Pradesh,2015-16,69,Coarse_Cereals_Area,526.0
+Andhra Pradesh,2016-17,69,Coarse_Cereals_Area,452.0
+Andhra Pradesh,2017-18,69,Coarse_Cereals_Area,580.0
+Andhra Pradesh,2018-19,69,Coarse_Cereals_Area,489.0
+Andhra Pradesh,2019-20,69,Coarse_Cereals_Area,537.0
+Andhra Pradesh,2020-21,69,Coarse_Cereals_Area,507.0
+Andhra Pradesh,2021-22,69,Coarse_Cereals_Area,494.0
+Andhra Pradesh,2022-23,69,Coarse_Cereals_Area,519.0
+Andhra Pradesh,2023-24,69,Coarse_Cereals_Area,460.8
+Andhra Pradesh,2024-25,69,Coarse_Cereals_Area,498.0
+Arunachal Pradesh,2004-05,69,Coarse_Cereals_Area,60.2
+Arunachal Pradesh,2005-06,69,Coarse_Cereals_Area,64.7
+Arunachal Pradesh,2006-07,69,Coarse_Cereals_Area,68.0
+Arunachal Pradesh,2007-08,69,Coarse_Cereals_Area,65.0
+Arunachal Pradesh,2008-09,69,Coarse_Cereals_Area,65.2
+Arunachal Pradesh,2009-10,69,Coarse_Cereals_Area,65.0
+Arunachal Pradesh,2010-11,69,Coarse_Cereals_Area,66.8
+Arunachal Pradesh,2011-12,69,Coarse_Cereals_Area,68.5
+Arunachal Pradesh,2012-13,69,Coarse_Cereals_Area,70.2
+Arunachal Pradesh,2013-14,69,Coarse_Cereals_Area,69.7
+Arunachal Pradesh,2014-15,69,Coarse_Cereals_Area,74.0
+Arunachal Pradesh,2015-16,69,Coarse_Cereals_Area,76.3
+Arunachal Pradesh,2016-17,69,Coarse_Cereals_Area,55.6
+Arunachal Pradesh,2017-18,69,Coarse_Cereals_Area,77.6
+Arunachal Pradesh,2018-19,69,Coarse_Cereals_Area,77.8
+Arunachal Pradesh,2019-20,69,Coarse_Cereals_Area,78.5
+Arunachal Pradesh,2020-21,69,Coarse_Cereals_Area,78.0
+Arunachal Pradesh,2021-22,69,Coarse_Cereals_Area,81.3
+Arunachal Pradesh,2022-23,69,Coarse_Cereals_Area,82.1
+Arunachal Pradesh,2023-24,69,Coarse_Cereals_Area,82.8
+Arunachal Pradesh,2024-25,69,Coarse_Cereals_Area,83.2
+Assam,2004-05,69,Coarse_Cereals_Area,27.2
+Assam,2005-06,69,Coarse_Cereals_Area,26.7
+Assam,2006-07,69,Coarse_Cereals_Area,25.0
+Assam,2007-08,69,Coarse_Cereals_Area,25.0
+Assam,2008-09,69,Coarse_Cereals_Area,22.8
+Assam,2009-10,69,Coarse_Cereals_Area,26.1
+Assam,2010-11,69,Coarse_Cereals_Area,25.0
+Assam,2011-12,69,Coarse_Cereals_Area,26.9
+Assam,2012-13,69,Coarse_Cereals_Area,28.1
+Assam,2013-14,69,Coarse_Cereals_Area,29.5
+Assam,2014-15,69,Coarse_Cereals_Area,33.3
+Assam,2015-16,69,Coarse_Cereals_Area,35.0
+Assam,2016-17,69,Coarse_Cereals_Area,36.1
+Assam,2017-18,69,Coarse_Cereals_Area,36.8
+Assam,2018-19,69,Coarse_Cereals_Area,37.5
+Assam,2019-20,69,Coarse_Cereals_Area,41.8
+Assam,2020-21,69,Coarse_Cereals_Area,46.1
+Assam,2021-22,69,Coarse_Cereals_Area,47.7
+Assam,2022-23,69,Coarse_Cereals_Area,58.0
+Assam,2023-24,69,Coarse_Cereals_Area,112.4
+Assam,2024-25,69,Coarse_Cereals_Area,109.0
+Bihar,2004-05,69,Coarse_Cereals_Area,655.1
+Bihar,2005-06,69,Coarse_Cereals_Area,695.4
+Bihar,2006-07,69,Coarse_Cereals_Area,688.6
+Bihar,2007-08,69,Coarse_Cereals_Area,685.9
+Bihar,2008-09,69,Coarse_Cereals_Area,679.7
+Bihar,2009-10,69,Coarse_Cereals_Area,662.3
+Bihar,2010-11,69,Coarse_Cereals_Area,687.5
+Bihar,2011-12,69,Coarse_Cereals_Area,705.7
+Bihar,2012-13,69,Coarse_Cereals_Area,713.7
+Bihar,2013-14,69,Coarse_Cereals_Area,756.2
+Bihar,2014-15,69,Coarse_Cereals_Area,732.7
+Bihar,2015-16,69,Coarse_Cereals_Area,730.0
+Bihar,2016-17,69,Coarse_Cereals_Area,745.1
+Bihar,2017-18,69,Coarse_Cereals_Area,702.2
+Bihar,2018-19,69,Coarse_Cereals_Area,699.8
+Bihar,2019-20,69,Coarse_Cereals_Area,689.2
+Bihar,2020-21,69,Coarse_Cereals_Area,667.1
+Bihar,2021-22,69,Coarse_Cereals_Area,678.3
+Bihar,2022-23,69,Coarse_Cereals_Area,762.5
+Bihar,2023-24,69,Coarse_Cereals_Area,972.1
+Bihar,2024-25,69,Coarse_Cereals_Area,912.8
+Chhattisgarh,2004-05,69,Coarse_Cereals_Area,353.9
+Chhattisgarh,2005-06,69,Coarse_Cereals_Area,346.6
+Chhattisgarh,2006-07,69,Coarse_Cereals_Area,332.2
+Chhattisgarh,2007-08,69,Coarse_Cereals_Area,322.7
+Chhattisgarh,2008-09,69,Coarse_Cereals_Area,280.6
+Chhattisgarh,2009-10,69,Coarse_Cereals_Area,271.9
+Chhattisgarh,2010-11,69,Coarse_Cereals_Area,280.7
+Chhattisgarh,2011-12,69,Coarse_Cereals_Area,268.7
+Chhattisgarh,2012-13,69,Coarse_Cereals_Area,263.7
+Chhattisgarh,2013-14,69,Coarse_Cereals_Area,238.2
+Chhattisgarh,2014-15,69,Coarse_Cereals_Area,255.3
+Chhattisgarh,2015-16,69,Coarse_Cereals_Area,223.7
+Chhattisgarh,2016-17,69,Coarse_Cereals_Area,222.5
+Chhattisgarh,2017-18,69,Coarse_Cereals_Area,233.3
+Chhattisgarh,2018-19,69,Coarse_Cereals_Area,217.8
+Chhattisgarh,2019-20,69,Coarse_Cereals_Area,201.9
+Chhattisgarh,2020-21,69,Coarse_Cereals_Area,207.5
+Chhattisgarh,2021-22,69,Coarse_Cereals_Area,188.6
+Chhattisgarh,2022-23,69,Coarse_Cereals_Area,168.7
+Chhattisgarh,2023-24,69,Coarse_Cereals_Area,154.4
+Chhattisgarh,2024-25,69,Coarse_Cereals_Area,144.8
+Delhi,2004-05,69,Coarse_Cereals_Area,11.0
+Delhi,2005-06,69,Coarse_Cereals_Area,10.8
+Delhi,2006-07,69,Coarse_Cereals_Area,10.6
+Delhi,2007-08,69,Coarse_Cereals_Area,10.6
+Delhi,2008-09,69,Coarse_Cereals_Area,10.5
+Delhi,2009-10,69,Coarse_Cereals_Area,3.3
+Delhi,2010-11,69,Coarse_Cereals_Area,6.2
+Delhi,2011-12,69,Coarse_Cereals_Area,4.7
+Delhi,2012-13,69,Coarse_Cereals_Area,3.8
+Delhi,2013-14,69,Coarse_Cereals_Area,4.9
+Delhi,2014-15,69,Coarse_Cereals_Area,4.8
+Delhi,2015-16,69,Coarse_Cereals_Area,4.9
+Delhi,2016-17,69,Coarse_Cereals_Area,4.8
+Delhi,2017-18,69,Coarse_Cereals_Area,4.7
+Delhi,2018-19,69,Coarse_Cereals_Area,4.7
+Delhi,2019-20,69,Coarse_Cereals_Area,4.7
+Delhi,2020-21,69,Coarse_Cereals_Area,4.3
+Delhi,2021-22,69,Coarse_Cereals_Area,4.3
+Delhi,2022-23,69,Coarse_Cereals_Area,4.5
+Delhi,2023-24,69,Coarse_Cereals_Area,4.4
+Delhi,2024-25,69,Coarse_Cereals_Area,5.0
+Goa,2004-05,69,Coarse_Cereals_Area,0.6
+Goa,2005-06,69,Coarse_Cereals_Area,0.5
+Goa,2006-07,69,Coarse_Cereals_Area,0.4
+Goa,2007-08,69,Coarse_Cereals_Area,0.3
+Goa,2008-09,69,Coarse_Cereals_Area,0.3
+Goa,2009-10,69,Coarse_Cereals_Area,0.3
+Goa,2010-11,69,Coarse_Cereals_Area,0.2
+Goa,2011-12,69,Coarse_Cereals_Area,0.2
+Gujarat,2004-05,69,Coarse_Cereals_Area,1601.1
+Gujarat,2005-06,69,Coarse_Cereals_Area,1608.0
+Gujarat,2006-07,69,Coarse_Cereals_Area,1633.0
+Gujarat,2007-08,69,Coarse_Cereals_Area,1567.0
+Gujarat,2008-09,69,Coarse_Cereals_Area,1441.0
+Gujarat,2009-10,69,Coarse_Cereals_Area,1404.0
+Gujarat,2010-11,69,Coarse_Cereals_Area,1553.0
+Gujarat,2011-12,69,Coarse_Cereals_Area,1592.0
+Gujarat,2012-13,69,Coarse_Cereals_Area,1197.0
+Gujarat,2013-14,69,Coarse_Cereals_Area,1335.0
+Gujarat,2014-15,69,Coarse_Cereals_Area,1038.0
+Gujarat,2015-16,69,Coarse_Cereals_Area,933.0
+Gujarat,2016-17,69,Coarse_Cereals_Area,1028.0
+Gujarat,2017-18,69,Coarse_Cereals_Area,914.0
+Gujarat,2018-19,69,Coarse_Cereals_Area,889.6
+Gujarat,2019-20,69,Coarse_Cereals_Area,934.4
+Gujarat,2020-21,69,Coarse_Cereals_Area,909.2
+Gujarat,2021-22,69,Coarse_Cereals_Area,901.0
+Gujarat,2022-23,69,Coarse_Cereals_Area,952.3
+Gujarat,2023-24,69,Coarse_Cereals_Area,989.8
+Gujarat,2024-25,69,Coarse_Cereals_Area,981.6
+Haryana,2004-05,69,Coarse_Cereals_Area,706.0
+Haryana,2005-06,69,Coarse_Cereals_Area,723.0
+Haryana,2006-07,69,Coarse_Cereals_Area,764.0
+Haryana,2007-08,69,Coarse_Cereals_Area,770.0
+Haryana,2008-09,69,Coarse_Cereals_Area,755.3
+Haryana,2009-10,69,Coarse_Cereals_Area,711.0
+Haryana,2010-11,69,Coarse_Cereals_Area,780.0
+Haryana,2011-12,69,Coarse_Cereals_Area,693.0
+Haryana,2012-13,69,Coarse_Cereals_Area,524.0
+Haryana,2013-14,69,Coarse_Cereals_Area,524.0
+Haryana,2014-15,69,Coarse_Cereals_Area,474.0
+Haryana,2015-16,69,Coarse_Cereals_Area,458.0
+Haryana,2016-17,69,Coarse_Cereals_Area,565.0
+Haryana,2017-18,69,Coarse_Cereals_Area,524.0
+Haryana,2018-19,69,Coarse_Cereals_Area,485.8
+Haryana,2019-20,69,Coarse_Cereals_Area,540.8
+Haryana,2020-21,69,Coarse_Cereals_Area,616.4
+Haryana,2021-22,69,Coarse_Cereals_Area,514.8
+Haryana,2022-23,69,Coarse_Cereals_Area,570.8
+Haryana,2023-24,69,Coarse_Cereals_Area,564.2
+Haryana,2024-25,69,Coarse_Cereals_Area,612.5
+Himachal Pradesh,2004-05,69,Coarse_Cereals_Area,363.3
+Himachal Pradesh,2005-06,69,Coarse_Cereals_Area,332.7
+Himachal Pradesh,2006-07,69,Coarse_Cereals_Area,334.0
+Himachal Pradesh,2007-08,69,Coarse_Cereals_Area,333.3
+Himachal Pradesh,2008-09,69,Coarse_Cereals_Area,328.7
+Himachal Pradesh,2009-10,69,Coarse_Cereals_Area,324.5
+Himachal Pradesh,2010-11,69,Coarse_Cereals_Area,326.8
+Himachal Pradesh,2011-12,69,Coarse_Cereals_Area,324.4
+Himachal Pradesh,2012-13,69,Coarse_Cereals_Area,326.9
+Himachal Pradesh,2013-14,69,Coarse_Cereals_Area,317.5
+Himachal Pradesh,2014-15,69,Coarse_Cereals_Area,321.4
+Himachal Pradesh,2015-16,69,Coarse_Cereals_Area,319.6
+Himachal Pradesh,2016-17,69,Coarse_Cereals_Area,321.8
+Himachal Pradesh,2017-18,69,Coarse_Cereals_Area,306.0
+Himachal Pradesh,2018-19,69,Coarse_Cereals_Area,314.0
+Himachal Pradesh,2019-20,69,Coarse_Cereals_Area,314.9
+Himachal Pradesh,2020-21,69,Coarse_Cereals_Area,291.4
+Himachal Pradesh,2021-22,69,Coarse_Cereals_Area,284.5
+Himachal Pradesh,2022-23,69,Coarse_Cereals_Area,276.1
+Himachal Pradesh,2023-24,69,Coarse_Cereals_Area,272.8
+Himachal Pradesh,2024-25,69,Coarse_Cereals_Area,281.2
+Jammu & Kashmir,2004-05,69,Coarse_Cereals_Area,360.1
+Jammu & Kashmir,2005-06,69,Coarse_Cereals_Area,348.1
+Jammu & Kashmir,2006-07,69,Coarse_Cereals_Area,366.9
+Jammu & Kashmir,2007-08,69,Coarse_Cereals_Area,346.8
+Jammu & Kashmir,2008-09,69,Coarse_Cereals_Area,363.0
+Jammu & Kashmir,2009-10,69,Coarse_Cereals_Area,357.0
+Jammu & Kashmir,2010-11,69,Coarse_Cereals_Area,347.5
+Jammu & Kashmir,2011-12,69,Coarse_Cereals_Area,354.5
+Jammu & Kashmir,2012-13,69,Coarse_Cereals_Area,355.2
+Jammu & Kashmir,2013-14,69,Coarse_Cereals_Area,339.1
+Jammu & Kashmir,2014-15,69,Coarse_Cereals_Area,335.7
+Jammu & Kashmir,2015-16,69,Coarse_Cereals_Area,315.5
+Jammu & Kashmir,2016-17,69,Coarse_Cereals_Area,333.2
+Jammu & Kashmir,2017-18,69,Coarse_Cereals_Area,327.1
+Jammu & Kashmir,2018-19,69,Coarse_Cereals_Area,298.7
+Jammu & Kashmir,2019-20,69,Coarse_Cereals_Area,293.9
+Jammu & Kashmir,2020-21,69,Coarse_Cereals_Area,314.4
+Jammu & Kashmir,2021-22,69,Coarse_Cereals_Area,310.6
+Jammu & Kashmir,2022-23,69,Coarse_Cereals_Area,301.4
+Jammu & Kashmir,2023-24,69,Coarse_Cereals_Area,314.4
+Jammu & Kashmir,2024-25,69,Coarse_Cereals_Area,314.7
+Jharkhand,2004-05,69,Coarse_Cereals_Area,251.1
+Jharkhand,2005-06,69,Coarse_Cereals_Area,222.8
+Jharkhand,2006-07,69,Coarse_Cereals_Area,294.8
+Jharkhand,2007-08,69,Coarse_Cereals_Area,286.4
+Jharkhand,2008-09,69,Coarse_Cereals_Area,263.7
+Jharkhand,2009-10,69,Coarse_Cereals_Area,208.0
+Jharkhand,2010-11,69,Coarse_Cereals_Area,249.8
+Jharkhand,2011-12,69,Coarse_Cereals_Area,228.8
+Jharkhand,2012-13,69,Coarse_Cereals_Area,264.2
+Jharkhand,2013-14,69,Coarse_Cereals_Area,269.5
+Jharkhand,2014-15,69,Coarse_Cereals_Area,284.5
+Jharkhand,2015-16,69,Coarse_Cereals_Area,305.6
+Jharkhand,2016-17,69,Coarse_Cereals_Area,322.3
+Jharkhand,2017-18,69,Coarse_Cereals_Area,317.7
+Jharkhand,2018-19,69,Coarse_Cereals_Area,277.3
+Jharkhand,2019-20,69,Coarse_Cereals_Area,273.4
+Jharkhand,2020-21,69,Coarse_Cereals_Area,318.9
+Jharkhand,2021-22,69,Coarse_Cereals_Area,305.5
+Jharkhand,2022-23,69,Coarse_Cereals_Area,257.5
+Jharkhand,2023-24,69,Coarse_Cereals_Area,302.4
+Jharkhand,2024-25,69,Coarse_Cereals_Area,331.5
+Karnataka,2004-05,69,Coarse_Cereals_Area,3907.0
+Karnataka,2005-06,69,Coarse_Cereals_Area,3877.0
+Karnataka,2006-07,69,Coarse_Cereals_Area,3413.0
+Karnataka,2007-08,69,Coarse_Cereals_Area,3796.0
+Karnataka,2008-09,69,Coarse_Cereals_Area,3591.0
+Karnataka,2009-10,69,Coarse_Cereals_Area,3706.0
+Karnataka,2010-11,69,Coarse_Cereals_Area,3652.1
+Karnataka,2011-12,69,Coarse_Cereals_Area,3481.0
+Karnataka,2012-13,69,Coarse_Cereals_Area,3527.0
+Karnataka,2013-14,69,Coarse_Cereals_Area,3491.0
+Karnataka,2014-15,69,Coarse_Cereals_Area,3349.0
+Karnataka,2015-16,69,Coarse_Cereals_Area,3223.0
+Karnataka,2016-17,69,Coarse_Cereals_Area,3179.0
+Karnataka,2017-18,69,Coarse_Cereals_Area,3438.0
+Karnataka,2018-19,69,Coarse_Cereals_Area,3013.2
+Karnataka,2019-20,69,Coarse_Cereals_Area,3262.6
+Karnataka,2020-21,69,Coarse_Cereals_Area,3509.0
+Karnataka,2021-22,69,Coarse_Cereals_Area,3230.4
+Karnataka,2022-23,69,Coarse_Cereals_Area,3439.0
+Karnataka,2023-24,69,Coarse_Cereals_Area,3764.0
+Karnataka,2024-25,69,Coarse_Cereals_Area,3611.0
+Kerala,2004-05,69,Coarse_Cereals_Area,1.2
+Kerala,2005-06,69,Coarse_Cereals_Area,2.9
+Kerala,2006-07,69,Coarse_Cereals_Area,1.0
+Kerala,2007-08,69,Coarse_Cereals_Area,4.4
+Kerala,2008-09,69,Coarse_Cereals_Area,3.2
+Kerala,2009-10,69,Coarse_Cereals_Area,2.9
+Kerala,2010-11,69,Coarse_Cereals_Area,2.6
+Kerala,2011-12,69,Coarse_Cereals_Area,0.7
+Kerala,2012-13,69,Coarse_Cereals_Area,0.5
+Kerala,2013-14,69,Coarse_Cereals_Area,0.3
+Kerala,2014-15,69,Coarse_Cereals_Area,0.4
+Kerala,2015-16,69,Coarse_Cereals_Area,0.3
+Kerala,2016-17,69,Coarse_Cereals_Area,0.2
+Kerala,2017-18,69,Coarse_Cereals_Area,0.4
+Kerala,2018-19,69,Coarse_Cereals_Area,0.6
+Kerala,2019-20,69,Coarse_Cereals_Area,0.7
+Kerala,2020-21,69,Coarse_Cereals_Area,0.6
+Kerala,2021-22,69,Coarse_Cereals_Area,0.5
+Kerala,2022-23,69,Coarse_Cereals_Area,0.3
+Kerala,2023-24,69,Coarse_Cereals_Area,1.5
+Kerala,2024-25,69,Coarse_Cereals_Area,0.3
+Madhya Pradesh,2004-05,69,Coarse_Cereals_Area,2194.6
+Madhya Pradesh,2005-06,69,Coarse_Cereals_Area,2042.7
+Madhya Pradesh,2006-07,69,Coarse_Cereals_Area,2015.0
+Madhya Pradesh,2007-08,69,Coarse_Cereals_Area,1961.5
+Madhya Pradesh,2008-09,69,Coarse_Cereals_Area,1886.0
+Madhya Pradesh,2009-10,69,Coarse_Cereals_Area,1797.3
+Madhya Pradesh,2010-11,69,Coarse_Cereals_Area,1757.1
+Madhya Pradesh,2011-12,69,Coarse_Cereals_Area,1766.4
+Madhya Pradesh,2012-13,69,Coarse_Cereals_Area,1639.5
+Madhya Pradesh,2013-14,69,Coarse_Cereals_Area,1627.1
+Madhya Pradesh,2014-15,69,Coarse_Cereals_Area,1794.0
+Madhya Pradesh,2015-16,69,Coarse_Cereals_Area,1848.0
+Madhya Pradesh,2016-17,69,Coarse_Cereals_Area,2086.6
+Madhya Pradesh,2017-18,69,Coarse_Cereals_Area,2211.0
+Madhya Pradesh,2018-19,69,Coarse_Cereals_Area,1841.0
+Madhya Pradesh,2019-20,69,Coarse_Cereals_Area,1921.9
+Madhya Pradesh,2020-21,69,Coarse_Cereals_Area,1947.0
+Madhya Pradesh,2021-22,69,Coarse_Cereals_Area,1971.0
+Madhya Pradesh,2022-23,69,Coarse_Cereals_Area,2077.0
+Madhya Pradesh,2023-24,69,Coarse_Cereals_Area,2177.0
+Madhya Pradesh,2024-25,69,Coarse_Cereals_Area,2810.0
+Maharashtra,2004-05,69,Coarse_Cereals_Area,6946.3
+Maharashtra,2005-06,69,Coarse_Cereals_Area,6866.0
+Maharashtra,2006-07,69,Coarse_Cereals_Area,6864.0
+Maharashtra,2007-08,69,Coarse_Cereals_Area,6324.0
+Maharashtra,2008-09,69,Coarse_Cereals_Area,5791.0
+Maharashtra,2009-10,69,Coarse_Cereals_Area,6185.7
+Maharashtra,2010-11,69,Coarse_Cereals_Area,6166.0
+Maharashtra,2011-12,69,Coarse_Cereals_Area,5198.0
+Maharashtra,2012-13,69,Coarse_Cereals_Area,4971.0
+Maharashtra,2013-14,69,Coarse_Cereals_Area,4808.0
+Maharashtra,2014-15,69,Coarse_Cereals_Area,5423.0
+Maharashtra,2015-16,69,Coarse_Cereals_Area,5254.0
+Maharashtra,2016-17,69,Coarse_Cereals_Area,5211.7
+Maharashtra,2017-18,69,Coarse_Cereals_Area,4242.3
+Maharashtra,2018-19,69,Coarse_Cereals_Area,3320.0
+Maharashtra,2019-20,69,Coarse_Cereals_Area,4223.9
+Maharashtra,2020-21,69,Coarse_Cereals_Area,4130.2
+Maharashtra,2021-22,69,Coarse_Cereals_Area,3707.9
+Maharashtra,2022-23,69,Coarse_Cereals_Area,3379.6
+Maharashtra,2023-24,69,Coarse_Cereals_Area,3597.8
+Maharashtra,2024-25,69,Coarse_Cereals_Area,3877.6
+Manipur,2004-05,69,Coarse_Cereals_Area,3.2
+Manipur,2005-06,69,Coarse_Cereals_Area,2.9
+Manipur,2006-07,69,Coarse_Cereals_Area,2.9
+Manipur,2007-08,69,Coarse_Cereals_Area,3.0
+Manipur,2008-09,69,Coarse_Cereals_Area,4.3
+Manipur,2009-10,69,Coarse_Cereals_Area,4.8
+Manipur,2010-11,69,Coarse_Cereals_Area,22.4
+Manipur,2011-12,69,Coarse_Cereals_Area,24.9
+Manipur,2012-13,69,Coarse_Cereals_Area,19.4
+Manipur,2013-14,69,Coarse_Cereals_Area,26.1
+Manipur,2014-15,69,Coarse_Cereals_Area,26.2
+Manipur,2015-16,69,Coarse_Cereals_Area,26.7
+Manipur,2016-17,69,Coarse_Cereals_Area,26.8
+Manipur,2017-18,69,Coarse_Cereals_Area,26.9
+Manipur,2018-19,69,Coarse_Cereals_Area,26.4
+Manipur,2019-20,69,Coarse_Cereals_Area,2.2
+Manipur,2020-21,69,Coarse_Cereals_Area,25.5
+Manipur,2021-22,69,Coarse_Cereals_Area,22.5
+Manipur,2022-23,69,Coarse_Cereals_Area,25.5
+Manipur,2023-24,69,Coarse_Cereals_Area,23.9
+Manipur,2024-25,69,Coarse_Cereals_Area,24.5
+Meghalaya,2004-05,69,Coarse_Cereals_Area,19.5
+Meghalaya,2005-06,69,Coarse_Cereals_Area,19.6
+Meghalaya,2006-07,69,Coarse_Cereals_Area,19.6
+Meghalaya,2007-08,69,Coarse_Cereals_Area,19.7
+Meghalaya,2008-09,69,Coarse_Cereals_Area,19.5
+Meghalaya,2009-10,69,Coarse_Cereals_Area,19.6
+Meghalaya,2010-11,69,Coarse_Cereals_Area,19.5
+Meghalaya,2011-12,69,Coarse_Cereals_Area,19.6
+Meghalaya,2012-13,69,Coarse_Cereals_Area,19.6
+Meghalaya,2013-14,69,Coarse_Cereals_Area,20.8
+Meghalaya,2014-15,69,Coarse_Cereals_Area,20.9
+Meghalaya,2015-16,69,Coarse_Cereals_Area,21.0
+Meghalaya,2016-17,69,Coarse_Cereals_Area,21.1
+Meghalaya,2017-18,69,Coarse_Cereals_Area,21.1
+Meghalaya,2018-19,69,Coarse_Cereals_Area,21.1
+Meghalaya,2019-20,69,Coarse_Cereals_Area,21.1
+Meghalaya,2020-21,69,Coarse_Cereals_Area,21.1
+Meghalaya,2021-22,69,Coarse_Cereals_Area,21.1
+Meghalaya,2022-23,69,Coarse_Cereals_Area,22.6
+Meghalaya,2023-24,69,Coarse_Cereals_Area,22.6
+Meghalaya,2024-25,69,Coarse_Cereals_Area,22.6
+Mizoram,2004-05,69,Coarse_Cereals_Area,7.5
+Mizoram,2005-06,69,Coarse_Cereals_Area,11.7
+Mizoram,2006-07,69,Coarse_Cereals_Area,10.7
+Mizoram,2007-08,69,Coarse_Cereals_Area,7.4
+Mizoram,2008-09,69,Coarse_Cereals_Area,9.6
+Mizoram,2009-10,69,Coarse_Cereals_Area,8.5
+Mizoram,2010-11,69,Coarse_Cereals_Area,9.0
+Mizoram,2011-12,69,Coarse_Cereals_Area,6.9
+Mizoram,2012-13,69,Coarse_Cereals_Area,6.1
+Mizoram,2013-14,69,Coarse_Cereals_Area,5.8
+Mizoram,2014-15,69,Coarse_Cereals_Area,5.7
+Mizoram,2015-16,69,Coarse_Cereals_Area,7.7
+Mizoram,2016-17,69,Coarse_Cereals_Area,5.8
+Mizoram,2017-18,69,Coarse_Cereals_Area,6.0
+Mizoram,2018-19,69,Coarse_Cereals_Area,6.2
+Mizoram,2019-20,69,Coarse_Cereals_Area,6.4
+Mizoram,2020-21,69,Coarse_Cereals_Area,6.9
+Mizoram,2021-22,69,Coarse_Cereals_Area,6.7
+Mizoram,2022-23,69,Coarse_Cereals_Area,11.6
+Mizoram,2023-24,69,Coarse_Cereals_Area,6.4
+Mizoram,2024-25,69,Coarse_Cereals_Area,5.0
+Nagaland,2004-05,69,Coarse_Cereals_Area,63.0
+Nagaland,2005-06,69,Coarse_Cereals_Area,74.5
+Nagaland,2006-07,69,Coarse_Cereals_Area,90.7
+Nagaland,2007-08,69,Coarse_Cereals_Area,93.0
+Nagaland,2008-09,69,Coarse_Cereals_Area,76.4
+Nagaland,2009-10,69,Coarse_Cereals_Area,78.0
+Nagaland,2010-11,69,Coarse_Cereals_Area,79.9
+Nagaland,2011-12,69,Coarse_Cereals_Area,78.6
+Nagaland,2012-13,69,Coarse_Cereals_Area,78.9
+Nagaland,2013-14,69,Coarse_Cereals_Area,79.2
+Nagaland,2014-15,69,Coarse_Cereals_Area,79.3
+Nagaland,2015-16,69,Coarse_Cereals_Area,79.5
+Nagaland,2016-17,69,Coarse_Cereals_Area,80.8
+Nagaland,2017-18,69,Coarse_Cereals_Area,81.4
+Nagaland,2018-19,69,Coarse_Cereals_Area,79.8
+Nagaland,2019-20,69,Coarse_Cereals_Area,79.9
+Nagaland,2020-21,69,Coarse_Cereals_Area,79.9
+Nagaland,2021-22,69,Coarse_Cereals_Area,48.5
+Nagaland,2022-23,69,Coarse_Cereals_Area,56.9
+Nagaland,2023-24,69,Coarse_Cereals_Area,62.6
+Nagaland,2024-25,69,Coarse_Cereals_Area,62.5
+Odisha,2004-05,69,Coarse_Cereals_Area,181.2
+Odisha,2005-06,69,Coarse_Cereals_Area,165.2
+Odisha,2006-07,69,Coarse_Cereals_Area,158.5
+Odisha,2007-08,69,Coarse_Cereals_Area,172.6
+Odisha,2008-09,69,Coarse_Cereals_Area,162.5
+Odisha,2009-10,69,Coarse_Cereals_Area,169.8
+Odisha,2010-11,69,Coarse_Cereals_Area,211.4
+Odisha,2011-12,69,Coarse_Cereals_Area,186.8
+Odisha,2012-13,69,Coarse_Cereals_Area,179.7
+Odisha,2013-14,69,Coarse_Cereals_Area,181.6
+Odisha,2014-15,69,Coarse_Cereals_Area,173.0
+Odisha,2015-16,69,Coarse_Cereals_Area,135.0
+Odisha,2016-17,69,Coarse_Cereals_Area,154.1
+Odisha,2017-18,69,Coarse_Cereals_Area,126.1
+Odisha,2018-19,69,Coarse_Cereals_Area,130.9
+Odisha,2019-20,69,Coarse_Cereals_Area,141.5
+Odisha,2020-21,69,Coarse_Cereals_Area,161.3
+Odisha,2021-22,69,Coarse_Cereals_Area,203.5
+Odisha,2022-23,69,Coarse_Cereals_Area,177.3
+Odisha,2023-24,69,Coarse_Cereals_Area,206.6
+Odisha,2024-25,69,Coarse_Cereals_Area,195.3
+Puducherry,2004-05,69,Coarse_Cereals_Area,0.4
+Puducherry,2005-06,69,Coarse_Cereals_Area,0.4
+Puducherry,2006-07,69,Coarse_Cereals_Area,0.4
+Puducherry,2007-08,69,Coarse_Cereals_Area,0.2
+Puducherry,2008-09,69,Coarse_Cereals_Area,0.1
+Puducherry,2009-10,69,Coarse_Cereals_Area,0.1
+Puducherry,2010-11,69,Coarse_Cereals_Area,0.1
+Puducherry,2011-12,69,Coarse_Cereals_Area,0.1
+Puducherry,2014-15,69,Coarse_Cereals_Area,0.1
+Puducherry,2016-17,69,Coarse_Cereals_Area,0.1
+Puducherry,2017-18,69,Coarse_Cereals_Area,0.1
+Puducherry,2018-19,69,Coarse_Cereals_Area,0.1
+Puducherry,2019-20,69,Coarse_Cereals_Area,0.2
+Puducherry,2020-21,69,Coarse_Cereals_Area,0.1
+Puducherry,2021-22,69,Coarse_Cereals_Area,0.1
+Puducherry,2022-23,69,Coarse_Cereals_Area,0.1
+Puducherry,2023-24,69,Coarse_Cereals_Area,0.1
+Puducherry,2024-25,69,Coarse_Cereals_Area,0.2
+Punjab,2004-05,69,Coarse_Cereals_Area,185.7
+Punjab,2005-06,69,Coarse_Cereals_Area,175.0
+Punjab,2006-07,69,Coarse_Cereals_Area,182.0
+Punjab,2007-08,69,Coarse_Cereals_Area,176.1
+Punjab,2008-09,69,Coarse_Cereals_Area,175.1
+Punjab,2009-10,69,Coarse_Cereals_Area,159.0
+Punjab,2010-11,69,Coarse_Cereals_Area,148.0
+Punjab,2011-12,69,Coarse_Cereals_Area,141.0
+Punjab,2012-13,69,Coarse_Cereals_Area,145.0
+Punjab,2013-14,69,Coarse_Cereals_Area,142.8
+Punjab,2014-15,69,Coarse_Cereals_Area,137.0
+Punjab,2015-16,69,Coarse_Cereals_Area,124.0
+Punjab,2016-17,69,Coarse_Cereals_Area,125.5
+Punjab,2017-18,69,Coarse_Cereals_Area,122.7
+Punjab,2018-19,69,Coarse_Cereals_Area,116.9
+Punjab,2019-20,69,Coarse_Cereals_Area,121.3
+Punjab,2020-21,69,Coarse_Cereals_Area,114.1
+Punjab,2021-22,69,Coarse_Cereals_Area,111.4
+Punjab,2022-23,69,Coarse_Cereals_Area,98.9
+Punjab,2023-24,69,Coarse_Cereals_Area,100.3
+Punjab,2024-25,69,Coarse_Cereals_Area,92.1
+Rajasthan,2004-05,69,Coarse_Cereals_Area,6372.4
+Rajasthan,2005-06,69,Coarse_Cereals_Area,6772.7
+Rajasthan,2006-07,69,Coarse_Cereals_Area,6817.9
+Rajasthan,2007-08,69,Coarse_Cereals_Area,7017.9
+Rajasthan,2008-09,69,Coarse_Cereals_Area,7104.8
+Rajasthan,2009-10,69,Coarse_Cereals_Area,7226.0
+Rajasthan,2010-11,69,Coarse_Cereals_Area,7704.1
+Rajasthan,2011-12,69,Coarse_Cereals_Area,6913.0
+Rajasthan,2012-13,69,Coarse_Cereals_Area,5976.7
+Rajasthan,2013-14,69,Coarse_Cereals_Area,6263.8
+Rajasthan,2014-15,69,Coarse_Cereals_Area,5986.5
+Rajasthan,2015-16,69,Coarse_Cereals_Area,5818.3
+Rajasthan,2016-17,69,Coarse_Cereals_Area,5938.9
+Rajasthan,2017-18,69,Coarse_Cereals_Area,5906.6
+Rajasthan,2018-19,69,Coarse_Cereals_Area,5825.8
+Rajasthan,2019-20,69,Coarse_Cereals_Area,6132.5
+Rajasthan,2020-21,69,Coarse_Cereals_Area,6177.4
+Rajasthan,2021-22,69,Coarse_Cereals_Area,5515.0
+Rajasthan,2022-23,69,Coarse_Cereals_Area,6500.1
+Rajasthan,2023-24,69,Coarse_Cereals_Area,5964.3
+Rajasthan,2024-25,69,Coarse_Cereals_Area,6364.6
+Sikkim,2004-05,69,Coarse_Cereals_Area,46.6
+Sikkim,2005-06,69,Coarse_Cereals_Area,45.8
+Sikkim,2006-07,69,Coarse_Cereals_Area,45.8
+Sikkim,2007-08,69,Coarse_Cereals_Area,50.0
+Sikkim,2008-09,69,Coarse_Cereals_Area,46.5
+Sikkim,2009-10,69,Coarse_Cereals_Area,47.0
+Sikkim,2010-11,69,Coarse_Cereals_Area,48.2
+Sikkim,2011-12,69,Coarse_Cereals_Area,47.9
+Sikkim,2012-13,69,Coarse_Cereals_Area,50.1
+Sikkim,2013-14,69,Coarse_Cereals_Area,47.1
+Sikkim,2014-15,69,Coarse_Cereals_Area,47.0
+Sikkim,2015-16,69,Coarse_Cereals_Area,45.8
+Sikkim,2016-17,69,Coarse_Cereals_Area,46.1
+Sikkim,2017-18,69,Coarse_Cereals_Area,41.3
+Sikkim,2018-19,69,Coarse_Cereals_Area,40.7
+Sikkim,2019-20,69,Coarse_Cereals_Area,41.1
+Sikkim,2020-21,69,Coarse_Cereals_Area,40.8
+Sikkim,2021-22,69,Coarse_Cereals_Area,40.3
+Sikkim,2022-23,69,Coarse_Cereals_Area,38.1
+Sikkim,2023-24,69,Coarse_Cereals_Area,31.7
+Sikkim,2024-25,69,Coarse_Cereals_Area,31.7
+Tamil Nadu,2004-05,69,Coarse_Cereals_Area,823.8
+Tamil Nadu,2005-06,69,Coarse_Cereals_Area,741.1
+Tamil Nadu,2006-07,69,Coarse_Cereals_Area,698.2
+Tamil Nadu,2007-08,69,Coarse_Cereals_Area,698.5
+Tamil Nadu,2008-09,69,Coarse_Cereals_Area,724.0
+Tamil Nadu,2009-10,69,Coarse_Cereals_Area,652.7
+Tamil Nadu,2010-11,69,Coarse_Cereals_Area,631.3
+Tamil Nadu,2011-12,69,Coarse_Cereals_Area,638.0
+Tamil Nadu,2012-13,69,Coarse_Cereals_Area,624.4
+Tamil Nadu,2013-14,69,Coarse_Cereals_Area,898.0
+Tamil Nadu,2014-15,69,Coarse_Cereals_Area,859.3
+Tamil Nadu,2015-16,69,Coarse_Cereals_Area,867.2
+Tamil Nadu,2016-17,69,Coarse_Cereals_Area,718.0
+Tamil Nadu,2017-18,69,Coarse_Cereals_Area,885.0
+Tamil Nadu,2018-19,69,Coarse_Cereals_Area,924.1
+Tamil Nadu,2019-20,69,Coarse_Cereals_Area,961.4
+Tamil Nadu,2020-21,69,Coarse_Cereals_Area,980.4
+Tamil Nadu,2021-22,69,Coarse_Cereals_Area,954.7
+Tamil Nadu,2022-23,69,Coarse_Cereals_Area,916.4
+Tamil Nadu,2023-24,69,Coarse_Cereals_Area,950.7
+Tamil Nadu,2024-25,69,Coarse_Cereals_Area,963.5
+Telangana,2011-12,69,Coarse_Cereals_Area,732.0
+Telangana,2012-13,69,Coarse_Cereals_Area,798.2
+Telangana,2013-14,69,Coarse_Cereals_Area,791.6
+Telangana,2014-15,69,Coarse_Cereals_Area,784.0
+Telangana,2015-16,69,Coarse_Cereals_Area,657.0
+Telangana,2016-17,69,Coarse_Cereals_Area,911.0
+Telangana,2017-18,69,Coarse_Cereals_Area,707.0
+Telangana,2018-19,69,Coarse_Cereals_Area,608.0
+Telangana,2019-20,69,Coarse_Cereals_Area,661.0
+Telangana,2020-21,69,Coarse_Cereals_Area,361.0
+Telangana,2021-22,69,Coarse_Cereals_Area,486.1
+Telangana,2022-23,69,Coarse_Cereals_Area,588.0
+Telangana,2023-24,69,Coarse_Cereals_Area,604.0
+Telangana,2024-25,69,Coarse_Cereals_Area,753.8
+Tripura,2004-05,69,Coarse_Cereals_Area,2.8
+Tripura,2005-06,69,Coarse_Cereals_Area,2.2
+Tripura,2006-07,69,Coarse_Cereals_Area,2.5
+Tripura,2007-08,69,Coarse_Cereals_Area,2.1
+Tripura,2008-09,69,Coarse_Cereals_Area,2.1
+Tripura,2009-10,69,Coarse_Cereals_Area,2.0
+Tripura,2010-11,69,Coarse_Cereals_Area,3.1
+Tripura,2011-12,69,Coarse_Cereals_Area,3.7
+Tripura,2012-13,69,Coarse_Cereals_Area,3.6
+Tripura,2013-14,69,Coarse_Cereals_Area,4.6
+Tripura,2014-15,69,Coarse_Cereals_Area,4.5
+Tripura,2015-16,69,Coarse_Cereals_Area,8.7
+Tripura,2016-17,69,Coarse_Cereals_Area,15.7
+Tripura,2017-18,69,Coarse_Cereals_Area,17.1
+Tripura,2018-19,69,Coarse_Cereals_Area,17.5
+Tripura,2019-20,69,Coarse_Cereals_Area,16.0
+Tripura,2020-21,69,Coarse_Cereals_Area,23.6
+Tripura,2021-22,69,Coarse_Cereals_Area,21.3
+Tripura,2022-23,69,Coarse_Cereals_Area,15.8
+Tripura,2023-24,69,Coarse_Cereals_Area,15.8
+Tripura,2024-25,69,Coarse_Cereals_Area,15.3
+Uttar Pradesh,2004-05,69,Coarse_Cereals_Area,2151.0
+Uttar Pradesh,2005-06,69,Coarse_Cereals_Area,2148.1
+Uttar Pradesh,2006-07,69,Coarse_Cereals_Area,2197.1
+Uttar Pradesh,2007-08,69,Coarse_Cereals_Area,2104.0
+Uttar Pradesh,2008-09,69,Coarse_Cereals_Area,1987.2
+Uttar Pradesh,2009-10,69,Coarse_Cereals_Area,1926.6
+Uttar Pradesh,2010-11,69,Coarse_Cereals_Area,2061.0
+Uttar Pradesh,2011-12,69,Coarse_Cereals_Area,2034.0
+Uttar Pradesh,2012-13,69,Coarse_Cereals_Area,1998.0
+Uttar Pradesh,2013-14,69,Coarse_Cereals_Area,2016.0
+Uttar Pradesh,2014-15,69,Coarse_Cereals_Area,2010.0
+Uttar Pradesh,2015-16,69,Coarse_Cereals_Area,1966.0
+Uttar Pradesh,2016-17,69,Coarse_Cereals_Area,2008.0
+Uttar Pradesh,2017-18,69,Coarse_Cereals_Area,1971.0
+Uttar Pradesh,2018-19,69,Coarse_Cereals_Area,1914.0
+Uttar Pradesh,2019-20,69,Coarse_Cereals_Area,1989.0
+Uttar Pradesh,2020-21,69,Coarse_Cereals_Area,2023.0
+Uttar Pradesh,2021-22,69,Coarse_Cereals_Area,1995.0
+Uttar Pradesh,2022-23,69,Coarse_Cereals_Area,2239.0
+Uttar Pradesh,2023-24,69,Coarse_Cereals_Area,2622.0
+Uttar Pradesh,2024-25,69,Coarse_Cereals_Area,2090.1
+Uttarakhand,2004-05,69,Coarse_Cereals_Area,293.0
+Uttarakhand,2005-06,69,Coarse_Cereals_Area,272.0
+Uttarakhand,2006-07,69,Coarse_Cereals_Area,261.0
+Uttarakhand,2007-08,69,Coarse_Cereals_Area,257.0
+Uttarakhand,2008-09,69,Coarse_Cereals_Area,271.0
+Uttarakhand,2009-10,69,Coarse_Cereals_Area,256.0
+Uttarakhand,2010-11,69,Coarse_Cereals_Area,256.4
+Uttarakhand,2011-12,69,Coarse_Cereals_Area,248.0
+Uttarakhand,2012-13,69,Coarse_Cereals_Area,249.7
+Uttarakhand,2013-14,69,Coarse_Cereals_Area,225.0
+Uttarakhand,2014-15,69,Coarse_Cereals_Area,221.7
+Uttarakhand,2015-16,69,Coarse_Cereals_Area,208.5
+Uttarakhand,2016-17,69,Coarse_Cereals_Area,214.0
+Uttarakhand,2017-18,69,Coarse_Cereals_Area,204.0
+Uttarakhand,2018-19,69,Coarse_Cereals_Area,192.0
+Uttarakhand,2019-20,69,Coarse_Cereals_Area,182.0
+Uttarakhand,2020-21,69,Coarse_Cereals_Area,180.0
+Uttarakhand,2021-22,69,Coarse_Cereals_Area,174.0
+Uttarakhand,2022-23,69,Coarse_Cereals_Area,152.3
+Uttarakhand,2023-24,69,Coarse_Cereals_Area,144.8
+Uttarakhand,2024-25,69,Coarse_Cereals_Area,137.9
+West Bengal,2004-05,69,Coarse_Cereals_Area,66.3
+West Bengal,2005-06,69,Coarse_Cereals_Area,70.5
+West Bengal,2006-07,69,Coarse_Cereals_Area,106.1
+West Bengal,2007-08,69,Coarse_Cereals_Area,97.4
+West Bengal,2008-09,69,Coarse_Cereals_Area,110.1
+West Bengal,2009-10,69,Coarse_Cereals_Area,114.4
+West Bengal,2010-11,69,Coarse_Cereals_Area,103.9
+West Bengal,2011-12,69,Coarse_Cereals_Area,109.7
+West Bengal,2012-13,69,Coarse_Cereals_Area,121.2
+West Bengal,2013-14,69,Coarse_Cereals_Area,142.9
+West Bengal,2014-15,69,Coarse_Cereals_Area,166.3
+West Bengal,2015-16,69,Coarse_Cereals_Area,169.6
+West Bengal,2016-17,69,Coarse_Cereals_Area,176.4
+West Bengal,2017-18,69,Coarse_Cereals_Area,253.9
+West Bengal,2018-19,69,Coarse_Cereals_Area,273.8
+West Bengal,2019-20,69,Coarse_Cereals_Area,311.5
+West Bengal,2020-21,69,Coarse_Cereals_Area,368.1
+West Bengal,2021-22,69,Coarse_Cereals_Area,368.4
+West Bengal,2022-23,69,Coarse_Cereals_Area,367.8
+West Bengal,2023-24,69,Coarse_Cereals_Area,399.9
+West Bengal,2024-25,69,Coarse_Cereals_Area,411.5

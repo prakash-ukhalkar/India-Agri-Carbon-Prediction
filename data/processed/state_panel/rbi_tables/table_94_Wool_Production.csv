@@ -1,0 +1,386 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2005-06,94,Wool_Production,3678.0
+Andhra Pradesh,2006-07,94,Wool_Production,3978.0
+Andhra Pradesh,2007-08,94,Wool_Production,4230.0
+Andhra Pradesh,2008-09,94,Wool_Production,4407.0
+Andhra Pradesh,2009-10,94,Wool_Production,4507.0
+Andhra Pradesh,2010-11,94,Wool_Production,4605.0
+Andhra Pradesh,2011-12,94,Wool_Production,4832.0
+Andhra Pradesh,2012-13,94,Wool_Production,4924.0
+Andhra Pradesh,2013-14,94,Wool_Production,5031.0
+Andhra Pradesh,2015-16,94,Wool_Production,778.0
+Andhra Pradesh,2016-17,94,Wool_Production,789.0
+Andhra Pradesh,2017-18,94,Wool_Production,792.0
+Andhra Pradesh,2018-19,94,Wool_Production,794.0
+Andhra Pradesh,2019-20,94,Wool_Production,797.0
+Andhra Pradesh,2020-21,94,Wool_Production,801.0
+Arunachal Pradesh,2004-05,94,Wool_Production,16.0
+Arunachal Pradesh,2005-06,94,Wool_Production,14.0
+Arunachal Pradesh,2006-07,94,Wool_Production,14.0
+Arunachal Pradesh,2007-08,94,Wool_Production,12.0
+Arunachal Pradesh,2008-09,94,Wool_Production,15.0
+Arunachal Pradesh,2009-10,94,Wool_Production,16.0
+Arunachal Pradesh,2010-11,94,Wool_Production,14.0
+Arunachal Pradesh,2011-12,94,Wool_Production,17.0
+Arunachal Pradesh,2012-13,94,Wool_Production,18.0
+Arunachal Pradesh,2013-14,94,Wool_Production,22.0
+Arunachal Pradesh,2014-15,94,Wool_Production,24.0
+Arunachal Pradesh,2015-16,94,Wool_Production,36.0
+Arunachal Pradesh,2016-17,94,Wool_Production,58.0
+Arunachal Pradesh,2017-18,94,Wool_Production,60.0
+Arunachal Pradesh,2018-19,94,Wool_Production,43.0
+Arunachal Pradesh,2019-20,94,Wool_Production,43.0
+Arunachal Pradesh,2020-21,94,Wool_Production,20.0
+Arunachal Pradesh,2021-22,94,Wool_Production,15.0
+Arunachal Pradesh,2022-23,94,Wool_Production,20.0
+Arunachal Pradesh,2023-24,94,Wool_Production,14.0
+Bihar,2004-05,94,Wool_Production,378.0
+Bihar,2005-06,94,Wool_Production,220.0
+Bihar,2006-07,94,Wool_Production,231.0
+Bihar,2007-08,94,Wool_Production,241.0
+Bihar,2008-09,94,Wool_Production,250.0
+Bihar,2009-10,94,Wool_Production,260.0
+Bihar,2010-11,94,Wool_Production,260.0
+Bihar,2011-12,94,Wool_Production,266.0
+Bihar,2012-13,94,Wool_Production,267.0
+Bihar,2013-14,94,Wool_Production,271.0
+Bihar,2014-15,94,Wool_Production,278.0
+Bihar,2015-16,94,Wool_Production,240.0
+Bihar,2016-17,94,Wool_Production,281.0
+Bihar,2017-18,94,Wool_Production,298.0
+Bihar,2018-19,94,Wool_Production,312.0
+Bihar,2019-20,94,Wool_Production,311.0
+Bihar,2020-21,94,Wool_Production,170.0
+Bihar,2021-22,94,Wool_Production,172.0
+Bihar,2022-23,94,Wool_Production,175.0
+Bihar,2023-24,94,Wool_Production,174.0
+Chhattisgarh,2004-05,94,Wool_Production,255.0
+Chhattisgarh,2006-07,94,Wool_Production,245.0
+Chhattisgarh,2007-08,94,Wool_Production,165.0
+Chhattisgarh,2008-09,94,Wool_Production,165.0
+Chhattisgarh,2009-10,94,Wool_Production,166.0
+Chhattisgarh,2010-11,94,Wool_Production,114.0
+Chhattisgarh,2011-12,94,Wool_Production,104.0
+Chhattisgarh,2012-13,94,Wool_Production,107.0
+Chhattisgarh,2013-14,94,Wool_Production,106.0
+Chhattisgarh,2014-15,94,Wool_Production,116.0
+Chhattisgarh,2015-16,94,Wool_Production,90.0
+Chhattisgarh,2016-17,94,Wool_Production,87.0
+Chhattisgarh,2017-18,94,Wool_Production,82.0
+Chhattisgarh,2018-19,94,Wool_Production,82.0
+Chhattisgarh,2019-20,94,Wool_Production,83.0
+Chhattisgarh,2020-21,94,Wool_Production,80.0
+Chhattisgarh,2021-22,94,Wool_Production,81.0
+Chhattisgarh,2022-23,94,Wool_Production,78.0
+Chhattisgarh,2023-24,94,Wool_Production,75.0
+Gujarat,2004-05,94,Wool_Production,2950.0
+Gujarat,2005-06,94,Wool_Production,3123.0
+Gujarat,2006-07,94,Wool_Production,2962.0
+Gujarat,2007-08,94,Wool_Production,2996.0
+Gujarat,2008-09,94,Wool_Production,2857.0
+Gujarat,2009-10,94,Wool_Production,2919.0
+Gujarat,2010-11,94,Wool_Production,2918.0
+Gujarat,2011-12,94,Wool_Production,2819.0
+Gujarat,2012-13,94,Wool_Production,2664.0
+Gujarat,2013-14,94,Wool_Production,2578.0
+Gujarat,2014-15,94,Wool_Production,2577.0
+Gujarat,2015-16,94,Wool_Production,2283.0
+Gujarat,2016-17,94,Wool_Production,2267.0
+Gujarat,2017-18,94,Wool_Production,2295.0
+Gujarat,2018-19,94,Wool_Production,2271.0
+Gujarat,2019-20,94,Wool_Production,2233.0
+Gujarat,2020-21,94,Wool_Production,2004.0
+Gujarat,2021-22,94,Wool_Production,2027.0
+Gujarat,2022-23,94,Wool_Production,2019.0
+Gujarat,2023-24,94,Wool_Production,2084.0
+Haryana,2004-05,94,Wool_Production,1304.0
+Haryana,2005-06,94,Wool_Production,1136.0
+Haryana,2006-07,94,Wool_Production,1121.0
+Haryana,2007-08,94,Wool_Production,1121.0
+Haryana,2008-09,94,Wool_Production,1200.0
+Haryana,2009-10,94,Wool_Production,1246.0
+Haryana,2010-11,94,Wool_Production,1287.0
+Haryana,2011-12,94,Wool_Production,1333.0
+Haryana,2012-13,94,Wool_Production,1370.0
+Haryana,2013-14,94,Wool_Production,1390.0
+Haryana,2014-15,94,Wool_Production,1429.0
+Haryana,2015-16,94,Wool_Production,702.0
+Haryana,2016-17,94,Wool_Production,691.0
+Haryana,2017-18,94,Wool_Production,693.0
+Haryana,2018-19,94,Wool_Production,719.0
+Haryana,2019-20,94,Wool_Production,730.0
+Haryana,2020-21,94,Wool_Production,687.0
+Haryana,2021-22,94,Wool_Production,701.0
+Haryana,2022-23,94,Wool_Production,688.0
+Haryana,2023-24,94,Wool_Production,660.0
+Himachal Pradesh,2004-05,94,Wool_Production,1600.0
+Himachal Pradesh,2005-06,94,Wool_Production,1603.0
+Himachal Pradesh,2006-07,94,Wool_Production,1605.0
+Himachal Pradesh,2007-08,94,Wool_Production,1607.0
+Himachal Pradesh,2008-09,94,Wool_Production,1618.0
+Himachal Pradesh,2009-10,94,Wool_Production,1614.0
+Himachal Pradesh,2010-11,94,Wool_Production,1642.0
+Himachal Pradesh,2011-12,94,Wool_Production,1648.0
+Himachal Pradesh,2012-13,94,Wool_Production,1649.0
+Himachal Pradesh,2013-14,94,Wool_Production,1655.0
+Himachal Pradesh,2014-15,94,Wool_Production,1663.0
+Himachal Pradesh,2015-16,94,Wool_Production,1409.0
+Himachal Pradesh,2016-17,94,Wool_Production,1475.0
+Himachal Pradesh,2017-18,94,Wool_Production,1482.0
+Himachal Pradesh,2018-19,94,Wool_Production,1503.0
+Himachal Pradesh,2019-20,94,Wool_Production,1516.0
+Himachal Pradesh,2020-21,94,Wool_Production,1482.0
+Himachal Pradesh,2021-22,94,Wool_Production,1433.0
+Himachal Pradesh,2022-23,94,Wool_Production,1435.0
+Himachal Pradesh,2023-24,94,Wool_Production,1423.0
+Jammu & Kashmir,2004-05,94,Wool_Production,7120.0
+Jammu & Kashmir,2005-06,94,Wool_Production,7400.0
+Jammu & Kashmir,2006-07,94,Wool_Production,7400.0
+Jammu & Kashmir,2007-08,94,Wool_Production,7040.0
+Jammu & Kashmir,2008-09,94,Wool_Production,7133.0
+Jammu & Kashmir,2009-10,94,Wool_Production,7282.0
+Jammu & Kashmir,2010-11,94,Wool_Production,7382.0
+Jammu & Kashmir,2011-12,94,Wool_Production,7530.0
+Jammu & Kashmir,2012-13,94,Wool_Production,7681.0
+Jammu & Kashmir,2013-14,94,Wool_Production,8710.0
+Jammu & Kashmir,2014-15,94,Wool_Production,8371.0
+Jammu & Kashmir,2015-16,94,Wool_Production,6866.0
+Jammu & Kashmir,2016-17,94,Wool_Production,7266.0
+Jammu & Kashmir,2017-18,94,Wool_Production,7489.0
+Jammu & Kashmir,2018-19,94,Wool_Production,7629.0
+Jammu & Kashmir,2019-20,94,Wool_Production,7477.0
+Jammu & Kashmir,2020-21,94,Wool_Production,7650.0
+Jammu & Kashmir,2021-22,94,Wool_Production,7681.0
+Jammu & Kashmir,2022-23,94,Wool_Production,7580.0
+Jammu & Kashmir,2023-24,94,Wool_Production,7770.0
+Jharkhand,2004-05,94,Wool_Production,348.0
+Jharkhand,2005-06,94,Wool_Production,353.0
+Jharkhand,2006-07,94,Wool_Production,146.0
+Jharkhand,2007-08,94,Wool_Production,147.0
+Jharkhand,2008-09,94,Wool_Production,149.0
+Jharkhand,2009-10,94,Wool_Production,136.0
+Jharkhand,2010-11,94,Wool_Production,149.0
+Jharkhand,2011-12,94,Wool_Production,202.0
+Jharkhand,2012-13,94,Wool_Production,159.0
+Jharkhand,2013-14,94,Wool_Production,156.0
+Jharkhand,2014-15,94,Wool_Production,161.0
+Jharkhand,2015-16,94,Wool_Production,166.0
+Jharkhand,2016-17,94,Wool_Production,178.0
+Jharkhand,2017-18,94,Wool_Production,187.0
+Jharkhand,2018-19,94,Wool_Production,199.0
+Jharkhand,2019-20,94,Wool_Production,210.0
+Jharkhand,2020-21,94,Wool_Production,217.0
+Jharkhand,2021-22,94,Wool_Production,232.0
+Jharkhand,2022-23,94,Wool_Production,237.0
+Jharkhand,2023-24,94,Wool_Production,247.0
+Karnataka,2004-05,94,Wool_Production,6448.0
+Karnataka,2005-06,94,Wool_Production,150.0
+Karnataka,2006-07,94,Wool_Production,5599.0
+Karnataka,2007-08,94,Wool_Production,5631.0
+Karnataka,2008-09,94,Wool_Production,7137.0
+Karnataka,2009-10,94,Wool_Production,7165.0
+Karnataka,2010-11,94,Wool_Production,7179.0
+Karnataka,2011-12,94,Wool_Production,7779.0
+Karnataka,2012-13,94,Wool_Production,8020.0
+Karnataka,2013-14,94,Wool_Production,7755.0
+Karnataka,2014-15,94,Wool_Production,8821.0
+Karnataka,2015-16,94,Wool_Production,8191.0
+Karnataka,2016-17,94,Wool_Production,6588.0
+Karnataka,2017-18,94,Wool_Production,4305.0
+Karnataka,2018-19,94,Wool_Production,3058.0
+Karnataka,2019-20,94,Wool_Production,1742.0
+Karnataka,2020-21,94,Wool_Production,1052.0
+Karnataka,2021-22,94,Wool_Production,862.0
+Karnataka,2022-23,94,Wool_Production,733.0
+Karnataka,2023-24,94,Wool_Production,659.0
+Madhya Pradesh,2004-05,94,Wool_Production,681.0
+Madhya Pradesh,2005-06,94,Wool_Production,5598.0
+Madhya Pradesh,2006-07,94,Wool_Production,428.0
+Madhya Pradesh,2007-08,94,Wool_Production,401.0
+Madhya Pradesh,2008-09,94,Wool_Production,381.0
+Madhya Pradesh,2009-10,94,Wool_Production,370.0
+Madhya Pradesh,2010-11,94,Wool_Production,372.0
+Madhya Pradesh,2011-12,94,Wool_Production,413.0
+Madhya Pradesh,2012-13,94,Wool_Production,442.0
+Madhya Pradesh,2013-14,94,Wool_Production,466.0
+Madhya Pradesh,2014-15,94,Wool_Production,484.0
+Madhya Pradesh,2015-16,94,Wool_Production,442.0
+Madhya Pradesh,2016-17,94,Wool_Production,406.0
+Madhya Pradesh,2017-18,94,Wool_Production,408.0
+Madhya Pradesh,2018-19,94,Wool_Production,410.0
+Madhya Pradesh,2019-20,94,Wool_Production,412.0
+Madhya Pradesh,2020-21,94,Wool_Production,431.0
+Madhya Pradesh,2021-22,94,Wool_Production,440.0
+Madhya Pradesh,2022-23,94,Wool_Production,426.0
+Madhya Pradesh,2023-24,94,Wool_Production,341.0
+Maharashtra,2004-05,94,Wool_Production,1620.0
+Maharashtra,2005-06,94,Wool_Production,1640.0
+Maharashtra,2006-07,94,Wool_Production,1667.0
+Maharashtra,2007-08,94,Wool_Production,1677.0
+Maharashtra,2008-09,94,Wool_Production,1707.0
+Maharashtra,2009-10,94,Wool_Production,1726.0
+Maharashtra,2010-11,94,Wool_Production,1448.0
+Maharashtra,2011-12,94,Wool_Production,1469.0
+Maharashtra,2012-13,94,Wool_Production,1503.0
+Maharashtra,2013-14,94,Wool_Production,1539.0
+Maharashtra,2014-15,94,Wool_Production,1386.0
+Maharashtra,2015-16,94,Wool_Production,1390.0
+Maharashtra,2016-17,94,Wool_Production,1407.0
+Maharashtra,2017-18,94,Wool_Production,1437.0
+Maharashtra,2018-19,94,Wool_Production,1457.0
+Maharashtra,2019-20,94,Wool_Production,1412.0
+Maharashtra,2020-21,94,Wool_Production,1550.0
+Maharashtra,2021-22,94,Wool_Production,1585.0
+Maharashtra,2022-23,94,Wool_Production,1592.0
+Maharashtra,2023-24,94,Wool_Production,1601.0
+Punjab,2004-05,94,Wool_Production,566.0
+Punjab,2005-06,94,Wool_Production,712.0
+Punjab,2006-07,94,Wool_Production,513.0
+Punjab,2007-08,94,Wool_Production,435.0
+Punjab,2008-09,94,Wool_Production,451.0
+Punjab,2009-10,94,Wool_Production,485.0
+Punjab,2010-11,94,Wool_Production,506.0
+Punjab,2011-12,94,Wool_Production,532.0
+Punjab,2012-13,94,Wool_Production,558.0
+Punjab,2013-14,94,Wool_Production,558.0
+Punjab,2014-15,94,Wool_Production,461.0
+Punjab,2015-16,94,Wool_Production,473.0
+Punjab,2016-17,94,Wool_Production,490.0
+Punjab,2017-18,94,Wool_Production,515.0
+Punjab,2018-19,94,Wool_Production,525.0
+Punjab,2019-20,94,Wool_Production,525.0
+Punjab,2020-21,94,Wool_Production,456.0
+Punjab,2021-22,94,Wool_Production,449.0
+Punjab,2022-23,94,Wool_Production,459.0
+Punjab,2023-24,94,Wool_Production,560.0
+Rajasthan,2004-05,94,Wool_Production,15049.0
+Rajasthan,2005-06,94,Wool_Production,15405.0
+Rajasthan,2006-07,94,Wool_Production,15685.0
+Rajasthan,2007-08,94,Wool_Production,15451.0
+Rajasthan,2008-09,94,Wool_Production,12664.0
+Rajasthan,2009-10,94,Wool_Production,12529.0
+Rajasthan,2010-11,94,Wool_Production,12277.0
+Rajasthan,2011-12,94,Wool_Production,13192.0
+Rajasthan,2012-13,94,Wool_Production,14007.0
+Rajasthan,2013-14,94,Wool_Production,15027.0
+Rajasthan,2014-15,94,Wool_Production,14463.0
+Rajasthan,2015-16,94,Wool_Production,13415.0
+Rajasthan,2016-17,94,Wool_Production,14321.0
+Rajasthan,2017-18,94,Wool_Production,14287.0
+Rajasthan,2018-19,94,Wool_Production,14522.0
+Rajasthan,2019-20,94,Wool_Production,12717.0
+Rajasthan,2020-21,94,Wool_Production,15676.0
+Rajasthan,2021-22,94,Wool_Production,15207.0
+Rajasthan,2022-23,94,Wool_Production,16129.0
+Rajasthan,2023-24,94,Wool_Production,16014.0
+Sikkim,2004-05,94,Wool_Production,4.0
+Sikkim,2005-06,94,Wool_Production,2.0
+Sikkim,2006-07,94,Wool_Production,1.0
+Sikkim,2007-08,94,Wool_Production,1.0
+Sikkim,2008-09,94,Wool_Production,1.0
+Sikkim,2009-10,94,Wool_Production,1.0
+Sikkim,2010-11,94,Wool_Production,1.0
+Sikkim,2011-12,94,Wool_Production,1.0
+Sikkim,2012-13,94,Wool_Production,1.0
+Sikkim,2013-14,94,Wool_Production,1.0
+Sikkim,2014-15,94,Wool_Production,0.0
+Sikkim,2015-16,94,Wool_Production,0.0
+Sikkim,2016-17,94,Wool_Production,0.0
+Sikkim,2017-18,94,Wool_Production,0.0
+Sikkim,2018-19,94,Wool_Production,0.0
+Sikkim,2019-20,94,Wool_Production,0.0
+Sikkim,2020-21,94,Wool_Production,0.0
+Sikkim,2021-22,94,Wool_Production,0.0
+Sikkim,2022-23,94,Wool_Production,0.0
+Sikkim,2023-24,94,Wool_Production,0.0
+Tamil Nadu,2004-05,94,Wool_Production,750.0
+Tamil Nadu,2005-06,94,Wool_Production,750.0
+Tamil Nadu,2006-07,94,Wool_Production,750.0
+Tamil Nadu,2007-08,94,Wool_Production,25.0
+Tamil Nadu,2008-09,94,Wool_Production,25.0
+Tamil Nadu,2009-10,94,Wool_Production,31.0
+Tamil Nadu,2010-11,94,Wool_Production,1.0
+Tamil Nadu,2011-12,94,Wool_Production,1.0
+Tamil Nadu,2012-13,94,Wool_Production,1.0
+Tamil Nadu,2013-14,94,Wool_Production,2.0
+Tamil Nadu,2014-15,94,Wool_Production,1.0
+Tamil Nadu,2015-16,94,Wool_Production,1.0
+Tamil Nadu,2016-17,94,Wool_Production,2.0
+Tamil Nadu,2017-18,94,Wool_Production,2.0
+Tamil Nadu,2018-19,94,Wool_Production,2.0
+Tamil Nadu,2019-20,94,Wool_Production,2.0
+Tamil Nadu,2020-21,94,Wool_Production,2.0
+Tamil Nadu,2021-22,94,Wool_Production,2.0
+Tamil Nadu,2022-23,94,Wool_Production,2.0
+Tamil Nadu,2023-24,94,Wool_Production,2.0
+Uttar Pradesh,2004-05,94,Wool_Production,1965.0
+Uttar Pradesh,2005-06,94,Wool_Production,1459.0
+Uttar Pradesh,2006-07,94,Wool_Production,1461.0
+Uttar Pradesh,2007-08,94,Wool_Production,1481.0
+Uttar Pradesh,2008-09,94,Wool_Production,1503.0
+Uttar Pradesh,2009-10,94,Wool_Production,1523.0
+Uttar Pradesh,2010-11,94,Wool_Production,1543.0
+Uttar Pradesh,2011-12,94,Wool_Production,1420.0
+Uttar Pradesh,2012-13,94,Wool_Production,1456.0
+Uttar Pradesh,2013-14,94,Wool_Production,1473.0
+Uttar Pradesh,2014-15,94,Wool_Production,1494.0
+Uttar Pradesh,2015-16,94,Wool_Production,1265.0
+Uttar Pradesh,2016-17,94,Wool_Production,1286.0
+Uttar Pradesh,2017-18,94,Wool_Production,1300.0
+Uttar Pradesh,2018-19,94,Wool_Production,1316.0
+Uttar Pradesh,2019-20,94,Wool_Production,1329.0
+Uttar Pradesh,2020-21,94,Wool_Production,886.0
+Uttar Pradesh,2021-22,94,Wool_Production,815.0
+Uttar Pradesh,2022-23,94,Wool_Production,819.0
+Uttar Pradesh,2023-24,94,Wool_Production,829.0
+Uttarakhand,2004-05,94,Wool_Production,148.0
+Uttarakhand,2005-06,94,Wool_Production,150.0
+Uttarakhand,2006-07,94,Wool_Production,355.0
+Uttarakhand,2007-08,94,Wool_Production,360.0
+Uttarakhand,2008-09,94,Wool_Production,368.0
+Uttarakhand,2009-10,94,Wool_Production,353.0
+Uttarakhand,2010-11,94,Wool_Production,362.0
+Uttarakhand,2011-12,94,Wool_Production,371.0
+Uttarakhand,2012-13,94,Wool_Production,400.0
+Uttarakhand,2013-14,94,Wool_Production,440.0
+Uttarakhand,2014-15,94,Wool_Production,469.0
+Uttarakhand,2015-16,94,Wool_Production,513.0
+Uttarakhand,2016-17,94,Wool_Production,538.0
+Uttarakhand,2017-18,94,Wool_Production,564.0
+Uttarakhand,2018-19,94,Wool_Production,552.0
+Uttarakhand,2019-20,94,Wool_Production,497.0
+Uttarakhand,2020-21,94,Wool_Production,436.0
+Uttarakhand,2021-22,94,Wool_Production,443.0
+Uttarakhand,2022-23,94,Wool_Production,452.0
+Uttarakhand,2023-24,94,Wool_Production,462.0
+West Bengal,2004-05,94,Wool_Production,659.0
+West Bengal,2005-06,94,Wool_Production,866.0
+West Bengal,2006-07,94,Wool_Production,673.0
+West Bengal,2007-08,94,Wool_Production,680.0
+West Bengal,2008-09,94,Wool_Production,687.0
+West Bengal,2009-10,94,Wool_Production,697.0
+West Bengal,2010-11,94,Wool_Production,705.0
+West Bengal,2011-12,94,Wool_Production,713.0
+West Bengal,2012-13,94,Wool_Production,722.0
+West Bengal,2013-14,94,Wool_Production,725.0
+West Bengal,2014-15,94,Wool_Production,740.0
+West Bengal,2015-16,94,Wool_Production,748.0
+West Bengal,2016-17,94,Wool_Production,753.0
+West Bengal,2017-18,94,Wool_Production,758.0
+West Bengal,2018-19,94,Wool_Production,760.0
+West Bengal,2019-20,94,Wool_Production,763.0
+West Bengal,2020-21,94,Wool_Production,765.0
+West Bengal,2021-22,94,Wool_Production,769.0
+West Bengal,2022-23,94,Wool_Production,769.0
+West Bengal,2023-24,94,Wool_Production,773.0
+Chandigarh,2017-18,94,Wool_Production,0.0
+Telangana,2014-15,94,Wool_Production,4423.0
+Telangana,2015-16,94,Wool_Production,4562.0
+Telangana,2016-17,94,Wool_Production,4658.0
+Telangana,2017-18,94,Wool_Production,4506.0
+Telangana,2018-19,94,Wool_Production,4264.0
+Telangana,2019-20,94,Wool_Production,3960.0
+Telangana,2020-21,94,Wool_Production,3366.0
+Telangana,2021-22,94,Wool_Production,0.0
+Telangana,2022-23,94,Wool_Production,0.0
+Telangana,2023-24,94,Wool_Production,0.0

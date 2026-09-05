@@ -1,0 +1,657 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2005-06,93,Fish_Production,8.53
+Andhra Pradesh,2006-07,93,Fish_Production,0.89
+Andhra Pradesh,2007-08,93,Fish_Production,8.57
+Andhra Pradesh,2008-09,93,Fish_Production,10.1
+Andhra Pradesh,2009-10,93,Fish_Production,12.53
+Andhra Pradesh,2010-11,93,Fish_Production,13.06
+Andhra Pradesh,2011-12,93,Fish_Production,13.68
+Andhra Pradesh,2012-13,93,Fish_Production,16.03
+Andhra Pradesh,2013-14,93,Fish_Production,18.08
+Andhra Pradesh,2015-16,93,Fish_Production,19.79
+Andhra Pradesh,2016-17,93,Fish_Production,23.52
+Andhra Pradesh,2017-18,93,Fish_Production,27.66
+Andhra Pradesh,2018-19,93,Fish_Production,34.5
+Andhra Pradesh,2019-20,93,Fish_Production,39.91
+Andhra Pradesh,2020-21,93,Fish_Production,41.74
+Andhra Pradesh,2021-22,93,Fish_Production,46.23
+Andhra Pradesh,2022-2320,93,Fish_Production,48.13
+Arunachal Pradesh,2004-05,93,Fish_Production,0.03
+Arunachal Pradesh,2005-06,93,Fish_Production,0.0
+Arunachal Pradesh,2006-07,93,Fish_Production,0.03
+Arunachal Pradesh,2007-08,93,Fish_Production,0.03
+Arunachal Pradesh,2008-09,93,Fish_Production,0.03
+Arunachal Pradesh,2009-10,93,Fish_Production,0.03
+Arunachal Pradesh,2010-11,93,Fish_Production,0.03
+Arunachal Pradesh,2011-12,93,Fish_Production,0.03
+Arunachal Pradesh,2012-13,93,Fish_Production,0.04
+Arunachal Pradesh,2013-14,93,Fish_Production,0.04
+Arunachal Pradesh,2014-15,93,Fish_Production,0.04
+Arunachal Pradesh,2015-16,93,Fish_Production,0.04
+Arunachal Pradesh,2016-17,93,Fish_Production,0.04
+Arunachal Pradesh,2017-18,93,Fish_Production,0.04
+Arunachal Pradesh,2018-19,93,Fish_Production,0.05
+Arunachal Pradesh,2019-20,93,Fish_Production,0.05
+Arunachal Pradesh,2020-21,93,Fish_Production,0.05
+Arunachal Pradesh,2021-22,93,Fish_Production,0.05
+Arunachal Pradesh,2022-2320,93,Fish_Production,0.09
+Assam,2004-05,93,Fish_Production,1.86
+Assam,2005-06,93,Fish_Production,0.19
+Assam,2006-07,93,Fish_Production,1.81
+Assam,2007-08,93,Fish_Production,1.9
+Assam,2008-09,93,Fish_Production,2.06
+Assam,2009-10,93,Fish_Production,2.19
+Assam,2010-11,93,Fish_Production,2.27
+Assam,2011-12,93,Fish_Production,2.29
+Assam,2012-13,93,Fish_Production,2.54
+Assam,2013-14,93,Fish_Production,2.67
+Assam,2014-15,93,Fish_Production,2.83
+Assam,2015-16,93,Fish_Production,2.94
+Assam,2016-17,93,Fish_Production,3.07
+Assam,2017-18,93,Fish_Production,3.27
+Assam,2018-19,93,Fish_Production,3.31
+Assam,2019-20,93,Fish_Production,3.73
+Assam,2020-21,93,Fish_Production,3.93
+Assam,2021-22,93,Fish_Production,4.17
+Assam,2022-2320,93,Fish_Production,4.43
+Bihar,2004-05,93,Fish_Production,2.68
+Bihar,2005-06,93,Fish_Production,0.28
+Bihar,2006-07,93,Fish_Production,2.67
+Bihar,2007-08,93,Fish_Production,3.19
+Bihar,2008-09,93,Fish_Production,3.01
+Bihar,2009-10,93,Fish_Production,2.97
+Bihar,2010-11,93,Fish_Production,3.0
+Bihar,2011-12,93,Fish_Production,3.44
+Bihar,2012-13,93,Fish_Production,4.0
+Bihar,2013-14,93,Fish_Production,4.32
+Bihar,2014-15,93,Fish_Production,4.8
+Bihar,2015-16,93,Fish_Production,5.07
+Bihar,2016-17,93,Fish_Production,5.09
+Bihar,2017-18,93,Fish_Production,5.88
+Bihar,2018-19,93,Fish_Production,6.02
+Bihar,2019-20,93,Fish_Production,6.41
+Bihar,2020-21,93,Fish_Production,6.83
+Bihar,2021-22,93,Fish_Production,7.62
+Bihar,2022-2320,93,Fish_Production,8.46
+Chandigarh,2004-05,93,Fish_Production,0.0
+Chandigarh,2005-06,93,Fish_Production,0.0
+Chandigarh,2006-07,93,Fish_Production,0.0
+Chandigarh,2007-08,93,Fish_Production,0.0
+Chandigarh,2008-09,93,Fish_Production,0.0
+Chandigarh,2009-10,93,Fish_Production,0.0
+Chandigarh,2010-11,93,Fish_Production,0.0
+Chandigarh,2011-12,93,Fish_Production,0.0
+Chandigarh,2012-13,93,Fish_Production,0.0
+Chandigarh,2013-14,93,Fish_Production,0.0
+Chandigarh,2014-15,93,Fish_Production,0.0
+Chandigarh,2015-16,93,Fish_Production,0.0
+Chandigarh,2016-17,93,Fish_Production,0.0
+Chandigarh,2017-18,93,Fish_Production,0.0
+Chandigarh,2018-19,93,Fish_Production,0.01
+Chandigarh,2019-20,93,Fish_Production,0.01
+Chandigarh,2020-21,93,Fish_Production,0.0
+Chandigarh,2021-22,93,Fish_Production,0.0
+Chandigarh,2022-2320,93,Fish_Production,0.0
+Chhattisgarh,2004-05,93,Fish_Production,1.2
+Chhattisgarh,2005-06,93,Fish_Production,0.13
+Chhattisgarh,2006-07,93,Fish_Production,1.38
+Chhattisgarh,2007-08,93,Fish_Production,1.39
+Chhattisgarh,2008-09,93,Fish_Production,1.59
+Chhattisgarh,2009-10,93,Fish_Production,1.74
+Chhattisgarh,2010-11,93,Fish_Production,2.28
+Chhattisgarh,2011-12,93,Fish_Production,2.51
+Chhattisgarh,2012-13,93,Fish_Production,2.56
+Chhattisgarh,2013-14,93,Fish_Production,2.85
+Chhattisgarh,2014-15,93,Fish_Production,3.14
+Chhattisgarh,2015-16,93,Fish_Production,3.42
+Chhattisgarh,2016-17,93,Fish_Production,3.77
+Chhattisgarh,2017-18,93,Fish_Production,4.57
+Chhattisgarh,2018-19,93,Fish_Production,4.89
+Chhattisgarh,2019-20,93,Fish_Production,5.72
+Chhattisgarh,2020-21,93,Fish_Production,5.77
+Chhattisgarh,2021-22,93,Fish_Production,5.91
+Chhattisgarh,2022-2320,93,Fish_Production,6.52
+Dadra & Nagar Haveli,2004-05,93,Fish_Production,0.0
+Dadra & Nagar Haveli,2005-06,93,Fish_Production,0.0
+Dadra & Nagar Haveli,2006-07,93,Fish_Production,0.0
+Dadra & Nagar Haveli,2007-08,93,Fish_Production,0.0
+Dadra & Nagar Haveli,2008-09,93,Fish_Production,0.0
+Dadra & Nagar Haveli,2009-10,93,Fish_Production,0.0
+Dadra & Nagar Haveli,2010-11,93,Fish_Production,0.0
+Dadra & Nagar Haveli,2011-12,93,Fish_Production,0.0
+Dadra & Nagar Haveli,2012-13,93,Fish_Production,0.0
+Dadra & Nagar Haveli,2013-14,93,Fish_Production,0.0
+Dadra & Nagar Haveli,2014-15,93,Fish_Production,0.0
+Dadra & Nagar Haveli,2015-16,93,Fish_Production,0.0
+Dadra & Nagar Haveli,2016-17,93,Fish_Production,0.0
+Dadra & Nagar Haveli,2017-18,93,Fish_Production,0.0
+Dadra & Nagar Haveli,2018-19,93,Fish_Production,0.0
+Dadra & Nagar Haveli,2019-20,93,Fish_Production,0.0
+Daman & Diu,2004-05,93,Fish_Production,0.13
+Daman & Diu,2005-06,93,Fish_Production,0.02
+Daman & Diu,2006-07,93,Fish_Production,0.16
+Daman & Diu,2007-08,93,Fish_Production,0.26
+Daman & Diu,2008-09,93,Fish_Production,0.14
+Daman & Diu,2009-10,93,Fish_Production,0.16
+Daman & Diu,2010-11,93,Fish_Production,0.17
+Daman & Diu,2011-12,93,Fish_Production,0.17
+Daman & Diu,2012-13,93,Fish_Production,0.19
+Daman & Diu,2013-14,93,Fish_Production,0.2
+Daman & Diu,2014-15,93,Fish_Production,0.32
+Daman & Diu,2015-16,93,Fish_Production,0.23
+Daman & Diu,2016-17,93,Fish_Production,0.24
+Daman & Diu,2017-18,93,Fish_Production,0.24
+Daman & Diu,2018-19,93,Fish_Production,0.28
+Daman & Diu,2019-20,93,Fish_Production,0.32
+Delhi,2004-05,93,Fish_Production,0.01
+Delhi,2005-06,93,Fish_Production,0.0
+Delhi,2006-07,93,Fish_Production,0.01
+Delhi,2007-08,93,Fish_Production,0.01
+Delhi,2008-09,93,Fish_Production,0.01
+Delhi,2009-10,93,Fish_Production,0.01
+Delhi,2010-11,93,Fish_Production,0.01
+Delhi,2011-12,93,Fish_Production,0.01
+Delhi,2012-13,93,Fish_Production,0.01
+Delhi,2013-14,93,Fish_Production,0.01
+Delhi,2014-15,93,Fish_Production,0.01
+Delhi,2015-16,93,Fish_Production,0.01
+Delhi,2016-17,93,Fish_Production,0.01
+Delhi,2017-18,93,Fish_Production,0.01
+Delhi,2018-19,93,Fish_Production,0.0
+Delhi,2019-20,93,Fish_Production,0.01
+Delhi,2020-21,93,Fish_Production,0.01
+Delhi,2021-22,93,Fish_Production,0.01
+Delhi,2022-2320,93,Fish_Production,0.01
+Goa,2004-05,93,Fish_Production,9.9
+Goa,2005-06,93,Fish_Production,0.1
+Goa,2006-07,93,Fish_Production,1.02
+Goa,2007-08,93,Fish_Production,0.33
+Goa,2008-09,93,Fish_Production,0.85
+Goa,2009-10,93,Fish_Production,0.85
+Goa,2010-11,93,Fish_Production,0.93
+Goa,2011-12,93,Fish_Production,0.9
+Goa,2012-13,93,Fish_Production,0.78
+Goa,2013-14,93,Fish_Production,1.14
+Goa,2014-15,93,Fish_Production,1.18
+Goa,2015-16,93,Fish_Production,1.12
+Goa,2016-17,93,Fish_Production,1.18
+Goa,2017-18,93,Fish_Production,1.24
+Goa,2018-19,93,Fish_Production,1.2
+Goa,2019-20,93,Fish_Production,1.05
+Goa,2020-21,93,Fish_Production,1.11
+Goa,2021-22,93,Fish_Production,1.16
+Goa,2022-2320,93,Fish_Production,1.4
+Gujarat,2004-05,93,Fish_Production,6.35
+Gujarat,2005-06,93,Fish_Production,0.73
+Gujarat,2006-07,93,Fish_Production,7.47
+Gujarat,2007-08,93,Fish_Production,7.22
+Gujarat,2008-09,93,Fish_Production,7.66
+Gujarat,2009-10,93,Fish_Production,7.72
+Gujarat,2010-11,93,Fish_Production,7.75
+Gujarat,2011-12,93,Fish_Production,7.84
+Gujarat,2012-13,93,Fish_Production,7.88
+Gujarat,2013-14,93,Fish_Production,7.98
+Gujarat,2014-15,93,Fish_Production,8.1
+Gujarat,2015-16,93,Fish_Production,8.1
+Gujarat,2016-17,93,Fish_Production,8.16
+Gujarat,2017-18,93,Fish_Production,8.39
+Gujarat,2018-19,93,Fish_Production,8.41
+Gujarat,2019-20,93,Fish_Production,8.59
+Gujarat,2020-21,93,Fish_Production,8.4
+Gujarat,2021-22,93,Fish_Production,8.74
+Gujarat,2022-2320,93,Fish_Production,8.97
+Haryana,2004-05,93,Fish_Production,0.42
+Haryana,2005-06,93,Fish_Production,0.05
+Haryana,2006-07,93,Fish_Production,0.6
+Haryana,2007-08,93,Fish_Production,0.67
+Haryana,2008-09,93,Fish_Production,0.76
+Haryana,2009-10,93,Fish_Production,1.0
+Haryana,2010-11,93,Fish_Production,0.96
+Haryana,2011-12,93,Fish_Production,1.06
+Haryana,2012-13,93,Fish_Production,1.11
+Haryana,2013-14,93,Fish_Production,1.06
+Haryana,2014-15,93,Fish_Production,1.11
+Haryana,2015-16,93,Fish_Production,1.21
+Haryana,2016-17,93,Fish_Production,1.44
+Haryana,2017-18,93,Fish_Production,1.9
+Haryana,2018-19,93,Fish_Production,1.8
+Haryana,2019-20,93,Fish_Production,1.91
+Haryana,2020-21,93,Fish_Production,2.03
+Haryana,2021-22,93,Fish_Production,2.08
+Haryana,2022-2320,93,Fish_Production,2.12
+Himachal Pradesh,2004-05,93,Fish_Production,0.07
+Himachal Pradesh,2005-06,93,Fish_Production,0.01
+Himachal Pradesh,2006-07,93,Fish_Production,0.07
+Himachal Pradesh,2007-08,93,Fish_Production,0.08
+Himachal Pradesh,2008-09,93,Fish_Production,0.08
+Himachal Pradesh,2009-10,93,Fish_Production,0.08
+Himachal Pradesh,2010-11,93,Fish_Production,0.07
+Himachal Pradesh,2011-12,93,Fish_Production,0.08
+Himachal Pradesh,2012-13,93,Fish_Production,0.09
+Himachal Pradesh,2013-14,93,Fish_Production,0.1
+Himachal Pradesh,2014-15,93,Fish_Production,0.11
+Himachal Pradesh,2015-16,93,Fish_Production,0.12
+Himachal Pradesh,2016-17,93,Fish_Production,0.13
+Himachal Pradesh,2017-18,93,Fish_Production,0.13
+Himachal Pradesh,2018-19,93,Fish_Production,0.13
+Himachal Pradesh,2019-20,93,Fish_Production,0.14
+Himachal Pradesh,2020-21,93,Fish_Production,0.15
+Himachal Pradesh,2021-22,93,Fish_Production,0.16
+Himachal Pradesh,2022-2320,93,Fish_Production,0.17
+Jammu & Kashmir,2004-05,93,Fish_Production,0.19
+Jammu & Kashmir,2005-06,93,Fish_Production,0.02
+Jammu & Kashmir,2006-07,93,Fish_Production,0.19
+Jammu & Kashmir,2007-08,93,Fish_Production,0.17
+Jammu & Kashmir,2008-09,93,Fish_Production,0.19
+Jammu & Kashmir,2009-10,93,Fish_Production,0.19
+Jammu & Kashmir,2010-11,93,Fish_Production,0.2
+Jammu & Kashmir,2011-12,93,Fish_Production,0.2
+Jammu & Kashmir,2012-13,93,Fish_Production,9.66
+Jammu & Kashmir,2013-14,93,Fish_Production,0.2
+Jammu & Kashmir,2014-15,93,Fish_Production,0.2
+Jammu & Kashmir,2015-16,93,Fish_Production,0.2
+Jammu & Kashmir,2016-17,93,Fish_Production,0.2
+Jammu & Kashmir,2017-18,93,Fish_Production,0.21
+Jammu & Kashmir,2018-19,93,Fish_Production,0.21
+Jammu & Kashmir,2019-20,93,Fish_Production,0.21
+Jammu & Kashmir,2020-21,93,Fish_Production,0.21
+Jammu & Kashmir,2021-22,93,Fish_Production,0.25
+Jammu & Kashmir,2022-2320,93,Fish_Production,0.27
+Jharkhand,2004-05,93,Fish_Production,0.22
+Jharkhand,2005-06,93,Fish_Production,0.03
+Jharkhand,2006-07,93,Fish_Production,0.34
+Jharkhand,2007-08,93,Fish_Production,0.68
+Jharkhand,2008-09,93,Fish_Production,0.76
+Jharkhand,2009-10,93,Fish_Production,0.71
+Jharkhand,2010-11,93,Fish_Production,0.72
+Jharkhand,2011-12,93,Fish_Production,0.92
+Jharkhand,2012-13,93,Fish_Production,0.97
+Jharkhand,2013-14,93,Fish_Production,1.05
+Jharkhand,2014-15,93,Fish_Production,1.06
+Jharkhand,2015-16,93,Fish_Production,1.16
+Jharkhand,2016-17,93,Fish_Production,1.45
+Jharkhand,2017-18,93,Fish_Production,1.9
+Jharkhand,2018-19,93,Fish_Production,2.08
+Jharkhand,2019-20,93,Fish_Production,2.23
+Jharkhand,2020-21,93,Fish_Production,2.38
+Jharkhand,2021-22,93,Fish_Production,2.57
+Jharkhand,2022-2320,93,Fish_Production,2.8
+Karnataka,2004-05,93,Fish_Production,2.51
+Karnataka,2005-06,93,Fish_Production,0.3
+Karnataka,2006-07,93,Fish_Production,2.92
+Karnataka,2007-08,93,Fish_Production,2.98
+Karnataka,2008-09,93,Fish_Production,3.61
+Karnataka,2009-10,93,Fish_Production,4.2
+Karnataka,2010-11,93,Fish_Production,5.27
+Karnataka,2011-12,93,Fish_Production,5.46
+Karnataka,2012-13,93,Fish_Production,5.26
+Karnataka,2013-14,93,Fish_Production,5.55
+Karnataka,2014-15,93,Fish_Production,6.23
+Karnataka,2015-16,93,Fish_Production,5.81
+Karnataka,2016-17,93,Fish_Production,5.57
+Karnataka,2017-18,93,Fish_Production,6.02
+Karnataka,2018-19,93,Fish_Production,5.88
+Karnataka,2019-20,93,Fish_Production,6.32
+Karnataka,2020-21,93,Fish_Production,6.08
+Karnataka,2021-22,93,Fish_Production,10.74
+Karnataka,2022-2320,93,Fish_Production,12.25
+Kerala,2004-05,93,Fish_Production,6.78
+Kerala,2005-06,93,Fish_Production,0.64
+Kerala,2006-07,93,Fish_Production,6.78
+Kerala,2007-08,93,Fish_Production,6.67
+Kerala,2008-09,93,Fish_Production,6.66
+Kerala,2009-10,93,Fish_Production,6.99
+Kerala,2010-11,93,Fish_Production,6.82
+Kerala,2011-12,93,Fish_Production,6.93
+Kerala,2012-13,93,Fish_Production,6.8
+Kerala,2013-14,93,Fish_Production,7.09
+Kerala,2014-15,93,Fish_Production,7.26
+Kerala,2015-16,93,Fish_Production,7.28
+Kerala,2016-17,93,Fish_Production,5.93
+Kerala,2017-18,93,Fish_Production,6.73
+Kerala,2018-19,93,Fish_Production,8.01
+Kerala,2019-20,93,Fish_Production,6.8
+Kerala,2020-21,93,Fish_Production,6.16
+Kerala,2021-22,93,Fish_Production,8.26
+Kerala,2022-2320,93,Fish_Production,9.21
+Lakshadweep,2004-05,93,Fish_Production,0.12
+Lakshadweep,2005-06,93,Fish_Production,0.01
+Lakshadweep,2006-07,93,Fish_Production,0.12
+Lakshadweep,2007-08,93,Fish_Production,0.11
+Lakshadweep,2008-09,93,Fish_Production,0.12
+Lakshadweep,2009-10,93,Fish_Production,0.12
+Lakshadweep,2010-11,93,Fish_Production,0.12
+Lakshadweep,2011-12,93,Fish_Production,0.12
+Lakshadweep,2012-13,93,Fish_Production,0.12
+Lakshadweep,2013-14,93,Fish_Production,0.14
+Lakshadweep,2014-15,93,Fish_Production,0.13
+Lakshadweep,2015-16,93,Fish_Production,0.16
+Lakshadweep,2016-17,93,Fish_Production,0.3
+Lakshadweep,2017-18,93,Fish_Production,0.21
+Lakshadweep,2018-19,93,Fish_Production,0.22
+Lakshadweep,2019-20,93,Fish_Production,0.2
+Lakshadweep,2020-21,93,Fish_Production,0.15
+Lakshadweep,2021-22,93,Fish_Production,0.12
+Lakshadweep,2022-2320,93,Fish_Production,0.11
+Madhya Pradesh,2004-05,93,Fish_Production,0.62
+Madhya Pradesh,2005-06,93,Fish_Production,0.06
+Madhya Pradesh,2006-07,93,Fish_Production,0.65
+Madhya Pradesh,2007-08,93,Fish_Production,0.64
+Madhya Pradesh,2008-09,93,Fish_Production,0.68
+Madhya Pradesh,2009-10,93,Fish_Production,0.66
+Madhya Pradesh,2010-11,93,Fish_Production,0.56
+Madhya Pradesh,2011-12,93,Fish_Production,0.75
+Madhya Pradesh,2012-13,93,Fish_Production,0.85
+Madhya Pradesh,2013-14,93,Fish_Production,0.96
+Madhya Pradesh,2014-15,93,Fish_Production,1.09
+Madhya Pradesh,2015-16,93,Fish_Production,1.15
+Madhya Pradesh,2016-17,93,Fish_Production,1.39
+Madhya Pradesh,2017-18,93,Fish_Production,1.43
+Madhya Pradesh,2018-19,93,Fish_Production,1.73
+Madhya Pradesh,2019-20,93,Fish_Production,2.0
+Madhya Pradesh,2020-21,93,Fish_Production,2.49
+Madhya Pradesh,2021-22,93,Fish_Production,2.93
+Madhya Pradesh,2022-2320,93,Fish_Production,3.42
+Maharashtra,2004-05,93,Fish_Production,5.48
+Maharashtra,2005-06,93,Fish_Production,0.58
+Maharashtra,2006-07,93,Fish_Production,5.96
+Maharashtra,2007-08,93,Fish_Production,5.56
+Maharashtra,2008-09,93,Fish_Production,5.23
+Maharashtra,2009-10,93,Fish_Production,5.5
+Maharashtra,2010-11,93,Fish_Production,5.95
+Maharashtra,2011-12,93,Fish_Production,5.79
+Maharashtra,2012-13,93,Fish_Production,5.86
+Maharashtra,2013-14,93,Fish_Production,6.03
+Maharashtra,2014-15,93,Fish_Production,6.08
+Maharashtra,2015-16,93,Fish_Production,5.8
+Maharashtra,2016-17,93,Fish_Production,6.63
+Maharashtra,2017-18,93,Fish_Production,6.06
+Maharashtra,2018-19,93,Fish_Production,5.68
+Maharashtra,2019-20,93,Fish_Production,5.61
+Maharashtra,2020-21,93,Fish_Production,5.23
+Maharashtra,2021-22,93,Fish_Production,5.89
+Maharashtra,2022-2320,93,Fish_Production,5.9
+Manipur,2004-05,93,Fish_Production,0.18
+Manipur,2005-06,93,Fish_Production,0.02
+Manipur,2006-07,93,Fish_Production,0.19
+Manipur,2007-08,93,Fish_Production,0.19
+Manipur,2008-09,93,Fish_Production,0.19
+Manipur,2009-10,93,Fish_Production,0.19
+Manipur,2010-11,93,Fish_Production,0.2
+Manipur,2011-12,93,Fish_Production,0.22
+Manipur,2012-13,93,Fish_Production,0.25
+Manipur,2013-14,93,Fish_Production,0.29
+Manipur,2014-15,93,Fish_Production,0.31
+Manipur,2015-16,93,Fish_Production,0.32
+Manipur,2016-17,93,Fish_Production,0.32
+Manipur,2017-18,93,Fish_Production,0.33
+Manipur,2018-19,93,Fish_Production,0.32
+Manipur,2019-20,93,Fish_Production,0.32
+Manipur,2020-21,93,Fish_Production,0.33
+Manipur,2021-22,93,Fish_Production,0.33
+Manipur,2022-2320,93,Fish_Production,0.34
+Meghalaya,2004-05,93,Fish_Production,0.06
+Meghalaya,2005-06,93,Fish_Production,0.0
+Meghalaya,2006-07,93,Fish_Production,0.05
+Meghalaya,2007-08,93,Fish_Production,0.04
+Meghalaya,2008-09,93,Fish_Production,0.04
+Meghalaya,2009-10,93,Fish_Production,0.04
+Meghalaya,2010-11,93,Fish_Production,0.05
+Meghalaya,2011-12,93,Fish_Production,0.05
+Meghalaya,2012-13,93,Fish_Production,0.05
+Meghalaya,2013-14,93,Fish_Production,0.06
+Meghalaya,2014-15,93,Fish_Production,0.06
+Meghalaya,2015-16,93,Fish_Production,0.11
+Meghalaya,2016-17,93,Fish_Production,0.12
+Meghalaya,2017-18,93,Fish_Production,0.12
+Meghalaya,2018-19,93,Fish_Production,0.13
+Meghalaya,2019-20,93,Fish_Production,0.14
+Meghalaya,2020-21,93,Fish_Production,0.16
+Meghalaya,2021-22,93,Fish_Production,0.18
+Meghalaya,2022-2320,93,Fish_Production,0.19
+Mizoram,2004-05,93,Fish_Production,0.04
+Mizoram,2005-06,93,Fish_Production,0.0
+Mizoram,2006-07,93,Fish_Production,0.04
+Mizoram,2007-08,93,Fish_Production,0.04
+Mizoram,2008-09,93,Fish_Production,0.04
+Mizoram,2009-10,93,Fish_Production,0.03
+Mizoram,2010-11,93,Fish_Production,0.03
+Mizoram,2011-12,93,Fish_Production,0.03
+Mizoram,2012-13,93,Fish_Production,0.05
+Mizoram,2013-14,93,Fish_Production,0.06
+Mizoram,2014-15,93,Fish_Production,0.06
+Mizoram,2015-16,93,Fish_Production,0.07
+Mizoram,2016-17,93,Fish_Production,0.08
+Mizoram,2017-18,93,Fish_Production,0.08
+Mizoram,2018-19,93,Fish_Production,0.07
+Mizoram,2019-20,93,Fish_Production,0.07
+Mizoram,2020-21,93,Fish_Production,0.05
+Mizoram,2021-22,93,Fish_Production,0.05
+Mizoram,2022-2320,93,Fish_Production,0.05
+Nagaland,2004-05,93,Fish_Production,0.05
+Nagaland,2005-06,93,Fish_Production,0.01
+Nagaland,2006-07,93,Fish_Production,0.06
+Nagaland,2007-08,93,Fish_Production,0.06
+Nagaland,2008-09,93,Fish_Production,0.06
+Nagaland,2009-10,93,Fish_Production,0.06
+Nagaland,2010-11,93,Fish_Production,0.07
+Nagaland,2011-12,93,Fish_Production,0.07
+Nagaland,2012-13,93,Fish_Production,0.07
+Nagaland,2013-14,93,Fish_Production,0.07
+Nagaland,2014-15,93,Fish_Production,0.08
+Nagaland,2015-16,93,Fish_Production,0.08
+Nagaland,2016-17,93,Fish_Production,0.09
+Nagaland,2017-18,93,Fish_Production,0.09
+Nagaland,2018-19,93,Fish_Production,0.09
+Nagaland,2019-20,93,Fish_Production,0.09
+Nagaland,2020-21,93,Fish_Production,0.09
+Nagaland,2021-22,93,Fish_Production,0.09
+Nagaland,2022-2320,93,Fish_Production,0.09
+Odisha,2004-05,93,Fish_Production,3.16
+Odisha,2005-06,93,Fish_Production,0.33
+Odisha,2006-07,93,Fish_Production,3.42
+Odisha,2007-08,93,Fish_Production,3.49
+Odisha,2008-09,93,Fish_Production,3.71
+Odisha,2009-10,93,Fish_Production,3.83
+Odisha,2010-11,93,Fish_Production,3.86
+Odisha,2011-12,93,Fish_Production,3.82
+Odisha,2012-13,93,Fish_Production,4.1
+Odisha,2013-14,93,Fish_Production,4.14
+Odisha,2014-15,93,Fish_Production,4.7
+Odisha,2015-16,93,Fish_Production,5.21
+Odisha,2016-17,93,Fish_Production,6.08
+Odisha,2017-18,93,Fish_Production,6.85
+Odisha,2018-19,93,Fish_Production,7.59
+Odisha,2019-20,93,Fish_Production,8.18
+Odisha,2020-21,93,Fish_Production,8.73
+Odisha,2021-22,93,Fish_Production,9.9
+Odisha,2022-2320,93,Fish_Production,10.52
+Puducherry,2004-05,93,Fish_Production,0.37
+Puducherry,2005-06,93,Fish_Production,0.02
+Puducherry,2006-07,93,Fish_Production,0.4
+Puducherry,2007-08,93,Fish_Production,0.39
+Puducherry,2008-09,93,Fish_Production,0.4
+Puducherry,2009-10,93,Fish_Production,0.42
+Puducherry,2010-11,93,Fish_Production,0.42
+Puducherry,2011-12,93,Fish_Production,0.42
+Puducherry,2012-13,93,Fish_Production,0.41
+Puducherry,2013-14,93,Fish_Production,0.42
+Puducherry,2014-15,93,Fish_Production,0.47
+Puducherry,2015-16,93,Fish_Production,0.54
+Puducherry,2016-17,93,Fish_Production,0.5
+Puducherry,2017-18,93,Fish_Production,0.49
+Puducherry,2018-19,93,Fish_Production,0.47
+Puducherry,2019-20,93,Fish_Production,0.51
+Puducherry,2020-21,93,Fish_Production,0.39
+Puducherry,2021-22,93,Fish_Production,0.46
+Puducherry,2022-2320,93,Fish_Production,0.46
+Punjab,2004-05,93,Fish_Production,0.78
+Punjab,2005-06,93,Fish_Production,0.09
+Punjab,2006-07,93,Fish_Production,0.87
+Punjab,2007-08,93,Fish_Production,0.79
+Punjab,2008-09,93,Fish_Production,1.05
+Punjab,2009-10,93,Fish_Production,1.23
+Punjab,2010-11,93,Fish_Production,0.97
+Punjab,2011-12,93,Fish_Production,0.98
+Punjab,2012-13,93,Fish_Production,0.99
+Punjab,2013-14,93,Fish_Production,1.04
+Punjab,2014-15,93,Fish_Production,1.15
+Punjab,2015-16,93,Fish_Production,1.2
+Punjab,2016-17,93,Fish_Production,1.33
+Punjab,2017-18,93,Fish_Production,1.37
+Punjab,2018-19,93,Fish_Production,1.35
+Punjab,2019-20,93,Fish_Production,1.51
+Punjab,2020-21,93,Fish_Production,1.65
+Punjab,2021-22,93,Fish_Production,1.9
+Punjab,2022-2320,93,Fish_Production,1.85
+Rajasthan,2004-05,93,Fish_Production,0.16
+Rajasthan,2005-06,93,Fish_Production,0.02
+Rajasthan,2006-07,93,Fish_Production,0.22
+Rajasthan,2007-08,93,Fish_Production,0.26
+Rajasthan,2008-09,93,Fish_Production,0.26
+Rajasthan,2009-10,93,Fish_Production,0.27
+Rajasthan,2010-11,93,Fish_Production,0.28
+Rajasthan,2011-12,93,Fish_Production,0.48
+Rajasthan,2012-13,93,Fish_Production,0.55
+Rajasthan,2013-14,93,Fish_Production,0.35
+Rajasthan,2014-15,93,Fish_Production,0.45
+Rajasthan,2015-16,93,Fish_Production,0.42
+Rajasthan,2016-17,93,Fish_Production,0.5
+Rajasthan,2017-18,93,Fish_Production,0.54
+Rajasthan,2018-19,93,Fish_Production,0.55
+Rajasthan,2019-20,93,Fish_Production,1.16
+Rajasthan,2020-21,93,Fish_Production,0.6
+Rajasthan,2021-22,93,Fish_Production,0.66
+Rajasthan,2022-2320,93,Fish_Production,0.79
+Sikkim,2004-05,93,Fish_Production,0.0
+Sikkim,2005-06,93,Fish_Production,0.0
+Sikkim,2006-07,93,Fish_Production,0.0
+Sikkim,2007-08,93,Fish_Production,0.0
+Sikkim,2008-09,93,Fish_Production,0.0
+Sikkim,2009-10,93,Fish_Production,0.0
+Sikkim,2010-11,93,Fish_Production,0.0
+Sikkim,2011-12,93,Fish_Production,0.0
+Sikkim,2012-13,93,Fish_Production,0.0
+Sikkim,2013-14,93,Fish_Production,0.0
+Sikkim,2014-15,93,Fish_Production,0.0
+Sikkim,2015-16,93,Fish_Production,0.0
+Sikkim,2016-17,93,Fish_Production,0.0
+Sikkim,2017-18,93,Fish_Production,0.0
+Sikkim,2018-19,93,Fish_Production,0.0
+Sikkim,2019-20,93,Fish_Production,0.0
+Sikkim,2020-21,93,Fish_Production,0.0
+Sikkim,2021-22,93,Fish_Production,0.0
+Sikkim,2022-2320,93,Fish_Production,0.01
+Tamil Nadu,2004-05,93,Fish_Production,4.59
+Tamil Nadu,2005-06,93,Fish_Production,0.46
+Tamil Nadu,2006-07,93,Fish_Production,5.42
+Tamil Nadu,2007-08,93,Fish_Production,5.59
+Tamil Nadu,2008-09,93,Fish_Production,5.34
+Tamil Nadu,2009-10,93,Fish_Production,5.83
+Tamil Nadu,2010-11,93,Fish_Production,6.15
+Tamil Nadu,2011-12,93,Fish_Production,6.11
+Tamil Nadu,2012-13,93,Fish_Production,6.2
+Tamil Nadu,2013-14,93,Fish_Production,6.24
+Tamil Nadu,2014-15,93,Fish_Production,6.98
+Tamil Nadu,2015-16,93,Fish_Production,7.09
+Tamil Nadu,2016-17,93,Fish_Production,6.69
+Tamil Nadu,2017-18,93,Fish_Production,6.82
+Tamil Nadu,2018-19,93,Fish_Production,6.9
+Tamil Nadu,2019-20,93,Fish_Production,7.57
+Tamil Nadu,2020-21,93,Fish_Production,7.22
+Tamil Nadu,2021-22,93,Fish_Production,8.07
+Tamil Nadu,2022-2320,93,Fish_Production,8.29
+Tripura,2004-05,93,Fish_Production,0.2
+Tripura,2005-06,93,Fish_Production,0.02
+Tripura,2006-07,93,Fish_Production,0.29
+Tripura,2007-08,93,Fish_Production,0.36
+Tripura,2008-09,93,Fish_Production,0.36
+Tripura,2009-10,93,Fish_Production,0.42
+Tripura,2010-11,93,Fish_Production,0.49
+Tripura,2011-12,93,Fish_Production,0.53
+Tripura,2012-13,93,Fish_Production,0.57
+Tripura,2013-14,93,Fish_Production,0.62
+Tripura,2014-15,93,Fish_Production,0.65
+Tripura,2015-16,93,Fish_Production,0.69
+Tripura,2016-17,93,Fish_Production,0.72
+Tripura,2017-18,93,Fish_Production,0.77
+Tripura,2018-19,93,Fish_Production,0.7
+Tripura,2019-20,93,Fish_Production,0.78
+Tripura,2020-21,93,Fish_Production,0.82
+Tripura,2021-22,93,Fish_Production,0.82
+Tripura,2022-2320,93,Fish_Production,0.83
+Uttar Pradesh,2004-05,93,Fish_Production,2.77
+Uttar Pradesh,2005-06,93,Fish_Production,0.29
+Uttar Pradesh,2006-07,93,Fish_Production,3.07
+Uttar Pradesh,2007-08,93,Fish_Production,3.26
+Uttar Pradesh,2008-09,93,Fish_Production,3.49
+Uttar Pradesh,2009-10,93,Fish_Production,3.93
+Uttar Pradesh,2010-11,93,Fish_Production,4.17
+Uttar Pradesh,2011-12,93,Fish_Production,4.3
+Uttar Pradesh,2012-13,93,Fish_Production,4.5
+Uttar Pradesh,2013-14,93,Fish_Production,4.64
+Uttar Pradesh,2014-15,93,Fish_Production,4.94
+Uttar Pradesh,2015-16,93,Fish_Production,5.05
+Uttar Pradesh,2016-17,93,Fish_Production,6.18
+Uttar Pradesh,2017-18,93,Fish_Production,6.29
+Uttar Pradesh,2018-19,93,Fish_Production,6.62
+Uttar Pradesh,2019-20,93,Fish_Production,6.99
+Uttar Pradesh,2020-21,93,Fish_Production,7.46
+Uttar Pradesh,2021-22,93,Fish_Production,8.09
+Uttar Pradesh,2022-2320,93,Fish_Production,9.15
+Uttarakhand,2004-05,93,Fish_Production,0.03
+Uttarakhand,2005-06,93,Fish_Production,0.0
+Uttarakhand,2006-07,93,Fish_Production,0.03
+Uttarakhand,2007-08,93,Fish_Production,0.03
+Uttarakhand,2008-09,93,Fish_Production,0.03
+Uttarakhand,2009-10,93,Fish_Production,0.03
+Uttarakhand,2010-11,93,Fish_Production,0.04
+Uttarakhand,2011-12,93,Fish_Production,0.04
+Uttarakhand,2012-13,93,Fish_Production,0.04
+Uttarakhand,2013-14,93,Fish_Production,0.04
+Uttarakhand,2014-15,93,Fish_Production,0.04
+Uttarakhand,2015-16,93,Fish_Production,0.04
+Uttarakhand,2016-17,93,Fish_Production,0.04
+Uttarakhand,2017-18,93,Fish_Production,0.05
+Uttarakhand,2018-19,93,Fish_Production,0.05
+Uttarakhand,2019-20,93,Fish_Production,0.05
+Uttarakhand,2020-21,93,Fish_Production,0.06
+Uttarakhand,2021-22,93,Fish_Production,0.06
+Uttarakhand,2022-2320,93,Fish_Production,0.07
+West Bengal,2004-05,93,Fish_Production,12.15
+West Bengal,2005-06,93,Fish_Production,1.25
+West Bengal,2006-07,93,Fish_Production,13.59
+West Bengal,2007-08,93,Fish_Production,14.47
+West Bengal,2008-09,93,Fish_Production,15.1
+West Bengal,2009-10,93,Fish_Production,15.17
+West Bengal,2010-11,93,Fish_Production,14.43
+West Bengal,2011-12,93,Fish_Production,14.72
+West Bengal,2012-13,93,Fish_Production,14.9
+West Bengal,2013-14,93,Fish_Production,15.81
+West Bengal,2014-15,93,Fish_Production,16.17
+West Bengal,2015-16,93,Fish_Production,16.71
+West Bengal,2016-17,93,Fish_Production,17.02
+West Bengal,2017-18,93,Fish_Production,17.42
+West Bengal,2018-19,93,Fish_Production,17.82
+West Bengal,2019-20,93,Fish_Production,17.82
+West Bengal,2020-21,93,Fish_Production,18.24
+West Bengal,2021-22,93,Fish_Production,18.43
+West Bengal,2022-2320,93,Fish_Production,20.45
+Andaman & Nicobar Islands,2014-15,93,Fish_Production,0.37
+Andaman & Nicobar Islands,2015-16,93,Fish_Production,0.37
+Andaman & Nicobar Islands,2016-17,93,Fish_Production,0.39
+Andaman & Nicobar Islands,2017-18,93,Fish_Production,0.39
+Andaman & Nicobar Islands,2018-19,93,Fish_Production,0.41
+Andaman & Nicobar Islands,2019-20,93,Fish_Production,0.4
+Andaman & Nicobar Islands,2020-21,93,Fish_Production,0.43
+Andaman & Nicobar Islands,2021-22,93,Fish_Production,0.44
+Andaman & Nicobar Islands,2022-2320,93,Fish_Production,0.47
+Telangana,2014-15,93,Fish_Production,2.68
+Telangana,2015-16,93,Fish_Production,2.37
+Telangana,2016-17,93,Fish_Production,1.99
+Telangana,2017-18,93,Fish_Production,2.7
+Telangana,2018-19,93,Fish_Production,2.84
+Telangana,2019-20,93,Fish_Production,3.0
+Telangana,2020-21,93,Fish_Production,3.49
+Telangana,2021-22,93,Fish_Production,3.9
+Telangana,2022-2320,93,Fish_Production,4.38

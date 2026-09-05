@@ -1,0 +1,593 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,56,Net_Irrigated_Area,3881.0
+Andhra Pradesh,2005-06,56,Net_Irrigated_Area,4392.0
+Andhra Pradesh,2006-07,56,Net_Irrigated_Area,4453.0
+Andhra Pradesh,2007-08,56,Net_Irrigated_Area,4644.0
+Andhra Pradesh,2008-09,56,Net_Irrigated_Area,4820.0
+Andhra Pradesh,2009-10,56,Net_Irrigated_Area,4214.0
+Andhra Pradesh,2010-11,56,Net_Irrigated_Area,5034.0
+Andhra Pradesh,2011-12,56,Net_Irrigated_Area,5090.0
+Andhra Pradesh,2012-13,56,Net_Irrigated_Area,4575.0
+Andhra Pradesh,2013-14,56,Net_Irrigated_Area,3014.0
+Andhra Pradesh,2014-15,56,Net_Irrigated_Area,2927.0
+Andhra Pradesh,2015-16,56,Net_Irrigated_Area,2743.0
+Andhra Pradesh,2016-17,56,Net_Irrigated_Area,2719.0
+Andhra Pradesh,2017-18,56,Net_Irrigated_Area,2763.0
+Andhra Pradesh,2018-19,56,Net_Irrigated_Area,2796.0
+Andhra Pradesh,2019-20,56,Net_Irrigated_Area,2879.0
+Andhra Pradesh,2020-21,56,Net_Irrigated_Area,2936.0
+Andhra Pradesh,2021-22,56,Net_Irrigated_Area,2952.0
+Andhra Pradesh,2022-23,56,Net_Irrigated_Area,2855.0
+Andhra Pradesh,2023-24,56,Net_Irrigated_Area,2603.0
+Arunachal Pradesh,2004-05,56,Net_Irrigated_Area,49.0
+Arunachal Pradesh,2005-06,56,Net_Irrigated_Area,50.0
+Arunachal Pradesh,2006-07,56,Net_Irrigated_Area,52.0
+Arunachal Pradesh,2007-08,56,Net_Irrigated_Area,54.0
+Arunachal Pradesh,2008-09,56,Net_Irrigated_Area,56.0
+Arunachal Pradesh,2009-10,56,Net_Irrigated_Area,56.0
+Arunachal Pradesh,2010-11,56,Net_Irrigated_Area,56.0
+Arunachal Pradesh,2011-12,56,Net_Irrigated_Area,57.0
+Arunachal Pradesh,2012-13,56,Net_Irrigated_Area,57.0
+Arunachal Pradesh,2013-14,56,Net_Irrigated_Area,57.0
+Arunachal Pradesh,2014-15,56,Net_Irrigated_Area,56.0
+Arunachal Pradesh,2015-16,56,Net_Irrigated_Area,56.0
+Arunachal Pradesh,2016-17,56,Net_Irrigated_Area,54.0
+Arunachal Pradesh,2017-18,56,Net_Irrigated_Area,55.0
+Arunachal Pradesh,2018-19,56,Net_Irrigated_Area,55.0
+Arunachal Pradesh,2019-20,56,Net_Irrigated_Area,56.0
+Arunachal Pradesh,2020-21,56,Net_Irrigated_Area,62.0
+Arunachal Pradesh,2021-22,56,Net_Irrigated_Area,63.0
+Arunachal Pradesh,2022-23,56,Net_Irrigated_Area,64.0
+Arunachal Pradesh,2023-24,56,Net_Irrigated_Area,63.0
+Assam,2004-05,56,Net_Irrigated_Area,140.0
+Assam,2005-06,56,Net_Irrigated_Area,140.0
+Assam,2006-07,56,Net_Irrigated_Area,140.0
+Assam,2007-08,56,Net_Irrigated_Area,140.0
+Assam,2008-09,56,Net_Irrigated_Area,140.0
+Assam,2009-10,56,Net_Irrigated_Area,197.0
+Assam,2010-11,56,Net_Irrigated_Area,162.0
+Assam,2011-12,56,Net_Irrigated_Area,161.0
+Assam,2012-13,56,Net_Irrigated_Area,321.0
+Assam,2013-14,56,Net_Irrigated_Area,303.0
+Assam,2014-15,56,Net_Irrigated_Area,296.0
+Assam,2015-16,56,Net_Irrigated_Area,297.0
+Assam,2016-17,56,Net_Irrigated_Area,362.0
+Assam,2017-18,56,Net_Irrigated_Area,357.0
+Assam,2018-19,56,Net_Irrigated_Area,366.0
+Assam,2019-20,56,Net_Irrigated_Area,425.0
+Assam,2020-21,56,Net_Irrigated_Area,431.0
+Assam,2021-22,56,Net_Irrigated_Area,438.0
+Assam,2022-23,56,Net_Irrigated_Area,467.0
+Assam,2023-24,56,Net_Irrigated_Area,469.0
+Bihar,2004-05,56,Net_Irrigated_Area,3034.0
+Bihar,2005-06,56,Net_Irrigated_Area,3161.0
+Bihar,2006-07,56,Net_Irrigated_Area,3462.0
+Bihar,2007-08,56,Net_Irrigated_Area,3529.0
+Bihar,2008-09,56,Net_Irrigated_Area,3536.0
+Bihar,2009-10,56,Net_Irrigated_Area,3064.0
+Bihar,2010-11,56,Net_Irrigated_Area,3030.0
+Bihar,2011-12,56,Net_Irrigated_Area,3052.0
+Bihar,2012-13,56,Net_Irrigated_Area,3053.0
+Bihar,2013-14,56,Net_Irrigated_Area,2933.0
+Bihar,2014-15,56,Net_Irrigated_Area,2987.0
+Bihar,2015-16,56,Net_Irrigated_Area,2958.0
+Bihar,2016-17,56,Net_Irrigated_Area,3101.0
+Bihar,2017-18,56,Net_Irrigated_Area,3105.0
+Bihar,2018-19,56,Net_Irrigated_Area,3115.0
+Bihar,2019-20,56,Net_Irrigated_Area,3059.0
+Bihar,2020-21,56,Net_Irrigated_Area,3044.0
+Bihar,2021-22,56,Net_Irrigated_Area,3082.0
+Bihar,2022-23,56,Net_Irrigated_Area,3124.0
+Bihar,2023-24,56,Net_Irrigated_Area,3401.0
+Chhattisgarh,2004-05,56,Net_Irrigated_Area,1208.0
+Chhattisgarh,2005-06,56,Net_Irrigated_Area,1248.0
+Chhattisgarh,2006-07,56,Net_Irrigated_Area,1282.0
+Chhattisgarh,2007-08,56,Net_Irrigated_Area,1334.0
+Chhattisgarh,2008-09,56,Net_Irrigated_Area,1339.0
+Chhattisgarh,2009-10,56,Net_Irrigated_Area,1323.0
+Chhattisgarh,2010-11,56,Net_Irrigated_Area,1356.0
+Chhattisgarh,2011-12,56,Net_Irrigated_Area,1415.0
+Chhattisgarh,2012-13,56,Net_Irrigated_Area,1449.0
+Chhattisgarh,2013-14,56,Net_Irrigated_Area,1462.0
+Chhattisgarh,2014-15,56,Net_Irrigated_Area,1468.0
+Chhattisgarh,2015-16,56,Net_Irrigated_Area,1476.0
+Chhattisgarh,2016-17,56,Net_Irrigated_Area,1486.0
+Chhattisgarh,2017-18,56,Net_Irrigated_Area,1506.0
+Chhattisgarh,2018-19,56,Net_Irrigated_Area,1565.0
+Chhattisgarh,2019-20,56,Net_Irrigated_Area,1528.0
+Chhattisgarh,2020-21,56,Net_Irrigated_Area,1599.0
+Chhattisgarh,2021-22,56,Net_Irrigated_Area,1604.0
+Chhattisgarh,2022-23,56,Net_Irrigated_Area,1535.0
+Chhattisgarh,2023-24,56,Net_Irrigated_Area,1487.0
+Delhi,2004-05,56,Net_Irrigated_Area,25.0
+Delhi,2005-06,56,Net_Irrigated_Area,24.0
+Delhi,2006-07,56,Net_Irrigated_Area,22.0
+Delhi,2007-08,56,Net_Irrigated_Area,22.0
+Delhi,2008-09,56,Net_Irrigated_Area,23.0
+Delhi,2009-10,56,Net_Irrigated_Area,22.0
+Delhi,2010-11,56,Net_Irrigated_Area,22.0
+Delhi,2011-12,56,Net_Irrigated_Area,22.0
+Delhi,2022-23,56,Net_Irrigated_Area,22.0
+Delhi,2023-24,56,Net_Irrigated_Area,25.0
+Goa,2004-05,56,Net_Irrigated_Area,24.0
+Goa,2005-06,56,Net_Irrigated_Area,24.0
+Goa,2006-07,56,Net_Irrigated_Area,24.0
+Goa,2007-08,56,Net_Irrigated_Area,35.0
+Goa,2008-09,56,Net_Irrigated_Area,35.0
+Goa,2009-10,56,Net_Irrigated_Area,29.0
+Goa,2010-11,56,Net_Irrigated_Area,36.0
+Goa,2011-12,56,Net_Irrigated_Area,41.0
+Goa,2012-13,56,Net_Irrigated_Area,36.0
+Goa,2013-14,56,Net_Irrigated_Area,38.0
+Goa,2014-15,56,Net_Irrigated_Area,39.0
+Goa,2015-16,56,Net_Irrigated_Area,39.0
+Goa,2016-17,56,Net_Irrigated_Area,37.0
+Goa,2017-18,56,Net_Irrigated_Area,17.0
+Goa,2018-19,56,Net_Irrigated_Area,16.0
+Goa,2019-20,56,Net_Irrigated_Area,22.0
+Goa,2020-21,56,Net_Irrigated_Area,15.0
+Goa,2021-22,56,Net_Irrigated_Area,15.0
+Goa,2022-23,56,Net_Irrigated_Area,32.0
+Goa,2023-24,56,Net_Irrigated_Area,39.0
+Gujarat,2004-05,56,Net_Irrigated_Area,3528.0
+Gujarat,2005-06,56,Net_Irrigated_Area,3907.0
+Gujarat,2006-07,56,Net_Irrigated_Area,4238.0
+Gujarat,2007-08,56,Net_Irrigated_Area,4233.0
+Gujarat,2008-09,56,Net_Irrigated_Area,4277.0
+Gujarat,2009-10,56,Net_Irrigated_Area,4390.0
+Gujarat,2010-11,56,Net_Irrigated_Area,4233.0
+Gujarat,2011-12,56,Net_Irrigated_Area,4535.0
+Gujarat,2014-15,56,Net_Irrigated_Area,4432.0
+Gujarat,2015-16,56,Net_Irrigated_Area,4705.0
+Gujarat,2016-17,56,Net_Irrigated_Area,4806.0
+Gujarat,2017-18,56,Net_Irrigated_Area,4839.0
+Gujarat,2018-19,56,Net_Irrigated_Area,4870.0
+Gujarat,2019-20,56,Net_Irrigated_Area,5238.0
+Gujarat,2020-21,56,Net_Irrigated_Area,5571.0
+Gujarat,2021-22,56,Net_Irrigated_Area,5796.0
+Gujarat,2022-23,56,Net_Irrigated_Area,6186.0
+Gujarat,2023-24,56,Net_Irrigated_Area,6273.0
+Haryana,2004-05,56,Net_Irrigated_Area,2954.0
+Haryana,2005-06,56,Net_Irrigated_Area,2936.0
+Haryana,2006-07,56,Net_Irrigated_Area,2990.0
+Haryana,2007-08,56,Net_Irrigated_Area,3025.0
+Haryana,2008-09,56,Net_Irrigated_Area,2877.0
+Haryana,2009-10,56,Net_Irrigated_Area,3069.0
+Haryana,2010-11,56,Net_Irrigated_Area,2887.0
+Haryana,2011-12,56,Net_Irrigated_Area,3073.0
+Haryana,2012-13,56,Net_Irrigated_Area,3102.0
+Haryana,2013-14,56,Net_Irrigated_Area,2931.0
+Haryana,2014-15,56,Net_Irrigated_Area,2974.0
+Haryana,2015-16,56,Net_Irrigated_Area,2956.0
+Haryana,2016-17,56,Net_Irrigated_Area,3146.0
+Haryana,2017-18,56,Net_Irrigated_Area,3261.0
+Haryana,2018-19,56,Net_Irrigated_Area,3273.0
+Haryana,2019-20,56,Net_Irrigated_Area,3387.0
+Haryana,2020-21,56,Net_Irrigated_Area,3579.0
+Haryana,2021-22,56,Net_Irrigated_Area,3579.0
+Haryana,2022-23,56,Net_Irrigated_Area,3336.0
+Haryana,2023-24,56,Net_Irrigated_Area,3225.0
+Himachal Pradesh,2004-05,56,Net_Irrigated_Area,104.0
+Himachal Pradesh,2005-06,56,Net_Irrigated_Area,104.0
+Himachal Pradesh,2006-07,56,Net_Irrigated_Area,104.0
+Himachal Pradesh,2007-08,56,Net_Irrigated_Area,108.0
+Himachal Pradesh,2008-09,56,Net_Irrigated_Area,108.0
+Himachal Pradesh,2009-10,56,Net_Irrigated_Area,106.0
+Himachal Pradesh,2010-11,56,Net_Irrigated_Area,110.0
+Himachal Pradesh,2011-12,56,Net_Irrigated_Area,113.0
+Himachal Pradesh,2012-13,56,Net_Irrigated_Area,114.0
+Himachal Pradesh,2013-14,56,Net_Irrigated_Area,114.0
+Himachal Pradesh,2014-15,56,Net_Irrigated_Area,117.0
+Himachal Pradesh,2015-16,56,Net_Irrigated_Area,120.0
+Himachal Pradesh,2016-17,56,Net_Irrigated_Area,114.0
+Himachal Pradesh,2017-18,56,Net_Irrigated_Area,110.0
+Himachal Pradesh,2018-19,56,Net_Irrigated_Area,117.0
+Himachal Pradesh,2019-20,56,Net_Irrigated_Area,117.0
+Himachal Pradesh,2020-21,56,Net_Irrigated_Area,117.0
+Himachal Pradesh,2021-22,56,Net_Irrigated_Area,111.0
+Himachal Pradesh,2022-23,56,Net_Irrigated_Area,109.0
+Himachal Pradesh,2023-24,56,Net_Irrigated_Area,110.0
+Jammu & Kashmir,2004-05,56,Net_Irrigated_Area,311.0
+Jammu & Kashmir,2005-06,56,Net_Irrigated_Area,312.0
+Jammu & Kashmir,2006-07,56,Net_Irrigated_Area,309.0
+Jammu & Kashmir,2007-08,56,Net_Irrigated_Area,308.0
+Jammu & Kashmir,2008-09,56,Net_Irrigated_Area,314.0
+Jammu & Kashmir,2009-10,56,Net_Irrigated_Area,317.0
+Jammu & Kashmir,2010-11,56,Net_Irrigated_Area,321.0
+Jammu & Kashmir,2011-12,56,Net_Irrigated_Area,319.0
+Jammu & Kashmir,2012-13,56,Net_Irrigated_Area,325.0
+Jammu & Kashmir,2013-14,56,Net_Irrigated_Area,323.0
+Jammu & Kashmir,2014-15,56,Net_Irrigated_Area,325.0
+Jammu & Kashmir,2015-16,56,Net_Irrigated_Area,356.0
+Jammu & Kashmir,2016-17,56,Net_Irrigated_Area,336.0
+Jammu & Kashmir,2017-18,56,Net_Irrigated_Area,332.0
+Jammu & Kashmir,2018-19,56,Net_Irrigated_Area,329.0
+Jammu & Kashmir,2019-20,56,Net_Irrigated_Area,308.0
+Jammu & Kashmir,2020-21,56,Net_Irrigated_Area,319.0
+Jammu & Kashmir,2021-22,56,Net_Irrigated_Area,315.0
+Jammu & Kashmir,2022-23,56,Net_Irrigated_Area,311.0
+Jammu & Kashmir,2023-24,56,Net_Irrigated_Area,311.0
+Jharkhand,2004-05,56,Net_Irrigated_Area,109.0
+Jharkhand,2005-06,56,Net_Irrigated_Area,106.0
+Jharkhand,2006-07,56,Net_Irrigated_Area,102.0
+Jharkhand,2007-08,56,Net_Irrigated_Area,117.0
+Jharkhand,2008-09,56,Net_Irrigated_Area,110.0
+Jharkhand,2009-10,56,Net_Irrigated_Area,102.0
+Jharkhand,2010-11,56,Net_Irrigated_Area,125.0
+Jharkhand,2011-12,56,Net_Irrigated_Area,153.0
+Jharkhand,2012-13,56,Net_Irrigated_Area,210.0
+Jharkhand,2013-14,56,Net_Irrigated_Area,217.0
+Jharkhand,2014-15,56,Net_Irrigated_Area,207.0
+Jharkhand,2015-16,56,Net_Irrigated_Area,213.0
+Jharkhand,2016-17,56,Net_Irrigated_Area,283.0
+Jharkhand,2017-18,56,Net_Irrigated_Area,231.0
+Jharkhand,2018-19,56,Net_Irrigated_Area,231.0
+Jharkhand,2019-20,56,Net_Irrigated_Area,249.0
+Jharkhand,2020-21,56,Net_Irrigated_Area,242.0
+Jharkhand,2021-22,56,Net_Irrigated_Area,279.0
+Jharkhand,2022-23,56,Net_Irrigated_Area,202.0
+Jharkhand,2023-24,56,Net_Irrigated_Area,199.0
+Karnataka,2004-05,56,Net_Irrigated_Area,2820.0
+Karnataka,2005-06,56,Net_Irrigated_Area,2970.0
+Karnataka,2006-07,56,Net_Irrigated_Area,2946.0
+Karnataka,2007-08,56,Net_Irrigated_Area,3132.0
+Karnataka,2008-09,56,Net_Irrigated_Area,3238.0
+Karnataka,2009-10,56,Net_Irrigated_Area,3390.0
+Karnataka,2010-11,56,Net_Irrigated_Area,3490.0
+Karnataka,2011-12,56,Net_Irrigated_Area,3440.0
+Karnataka,2012-13,56,Net_Irrigated_Area,3421.0
+Karnataka,2013-14,56,Net_Irrigated_Area,3556.0
+Karnataka,2014-15,56,Net_Irrigated_Area,3589.0
+Karnataka,2015-16,56,Net_Irrigated_Area,3243.0
+Karnataka,2016-17,56,Net_Irrigated_Area,3104.0
+Karnataka,2017-18,56,Net_Irrigated_Area,3155.0
+Karnataka,2018-19,56,Net_Irrigated_Area,4032.0
+Karnataka,2019-20,56,Net_Irrigated_Area,4235.0
+Karnataka,2020-21,56,Net_Irrigated_Area,4931.0
+Karnataka,2021-22,56,Net_Irrigated_Area,4920.0
+Karnataka,2022-23,56,Net_Irrigated_Area,5038.0
+Karnataka,2023-24,56,Net_Irrigated_Area,4809.0
+Kerala,2004-05,56,Net_Irrigated_Area,393.0
+Kerala,2005-06,56,Net_Irrigated_Area,401.0
+Kerala,2006-07,56,Net_Irrigated_Area,392.0
+Kerala,2007-08,56,Net_Irrigated_Area,388.0
+Kerala,2008-09,56,Net_Irrigated_Area,390.0
+Kerala,2009-10,56,Net_Irrigated_Area,386.0
+Kerala,2010-11,56,Net_Irrigated_Area,415.0
+Kerala,2011-12,56,Net_Irrigated_Area,409.0
+Kerala,2012-13,56,Net_Irrigated_Area,396.0
+Kerala,2013-14,56,Net_Irrigated_Area,397.0
+Kerala,2014-15,56,Net_Irrigated_Area,414.0
+Kerala,2015-16,56,Net_Irrigated_Area,414.0
+Kerala,2016-17,56,Net_Irrigated_Area,378.0
+Kerala,2017-18,56,Net_Irrigated_Area,392.0
+Kerala,2018-19,56,Net_Irrigated_Area,404.0
+Kerala,2019-20,56,Net_Irrigated_Area,410.0
+Kerala,2020-21,56,Net_Irrigated_Area,390.0
+Kerala,2021-22,56,Net_Irrigated_Area,403.0
+Kerala,2022-23,56,Net_Irrigated_Area,419.0
+Kerala,2023-24,56,Net_Irrigated_Area,420.0
+Madhya Pradesh,2004-05,56,Net_Irrigated_Area,6042.0
+Madhya Pradesh,2005-06,56,Net_Irrigated_Area,5681.0
+Madhya Pradesh,2006-07,56,Net_Irrigated_Area,6365.0
+Madhya Pradesh,2007-08,56,Net_Irrigated_Area,6418.0
+Madhya Pradesh,2008-09,56,Net_Irrigated_Area,6506.0
+Madhya Pradesh,2009-10,56,Net_Irrigated_Area,6892.0
+Madhya Pradesh,2010-11,56,Net_Irrigated_Area,7140.0
+Madhya Pradesh,2011-12,56,Net_Irrigated_Area,7887.0
+Madhya Pradesh,2012-13,56,Net_Irrigated_Area,8550.0
+Madhya Pradesh,2013-14,56,Net_Irrigated_Area,9455.0
+Madhya Pradesh,2014-15,56,Net_Irrigated_Area,9584.0
+Madhya Pradesh,2015-16,56,Net_Irrigated_Area,9284.0
+Madhya Pradesh,2016-17,56,Net_Irrigated_Area,9876.0
+Madhya Pradesh,2017-18,56,Net_Irrigated_Area,10557.0
+Madhya Pradesh,2018-19,56,Net_Irrigated_Area,11349.0
+Madhya Pradesh,2019-20,56,Net_Irrigated_Area,12517.0
+Madhya Pradesh,2020-21,56,Net_Irrigated_Area,12882.0
+Madhya Pradesh,2021-22,56,Net_Irrigated_Area,12903.0
+Madhya Pradesh,2022-23,56,Net_Irrigated_Area,12930.0
+Madhya Pradesh,2023-24,56,Net_Irrigated_Area,12747.0
+Maharashtra,2004-05,56,Net_Irrigated_Area,3271.0
+Maharashtra,2005-06,56,Net_Irrigated_Area,3268.0
+Maharashtra,2006-07,56,Net_Irrigated_Area,3268.0
+Maharashtra,2007-08,56,Net_Irrigated_Area,3268.0
+Maharashtra,2008-09,56,Net_Irrigated_Area,3259.0
+Maharashtra,2009-10,56,Net_Irrigated_Area,3254.0
+Maharashtra,2010-11,56,Net_Irrigated_Area,3256.0
+Maharashtra,2011-12,56,Net_Irrigated_Area,3252.0
+Maharashtra,2012-13,56,Net_Irrigated_Area,3244.0
+Maharashtra,2013-14,56,Net_Irrigated_Area,3248.0
+Maharashtra,2014-15,56,Net_Irrigated_Area,3244.0
+Maharashtra,2015-16,56,Net_Irrigated_Area,3215.0
+Maharashtra,2016-17,56,Net_Irrigated_Area,3163.0
+Maharashtra,2017-18,56,Net_Irrigated_Area,3169.0
+Maharashtra,2018-19,56,Net_Irrigated_Area,3145.0
+Maharashtra,2019-20,56,Net_Irrigated_Area,3128.0
+Maharashtra,2020-21,56,Net_Irrigated_Area,3114.0
+Maharashtra,2021-22,56,Net_Irrigated_Area,3103.0
+Maharashtra,2022-23,56,Net_Irrigated_Area,3095.0
+Maharashtra,2023-24,56,Net_Irrigated_Area,6496.0
+Manipur,2004-05,56,Net_Irrigated_Area,54.0
+Manipur,2005-06,56,Net_Irrigated_Area,51.0
+Manipur,2006-07,56,Net_Irrigated_Area,51.0
+Manipur,2007-08,56,Net_Irrigated_Area,51.0
+Manipur,2008-09,56,Net_Irrigated_Area,52.0
+Manipur,2009-10,56,Net_Irrigated_Area,52.0
+Manipur,2010-11,56,Net_Irrigated_Area,73.0
+Manipur,2011-12,56,Net_Irrigated_Area,69.0
+Manipur,2012-13,56,Net_Irrigated_Area,49.0
+Manipur,2013-14,56,Net_Irrigated_Area,69.0
+Manipur,2014-15,56,Net_Irrigated_Area,69.0
+Manipur,2015-16,56,Net_Irrigated_Area,73.0
+Manipur,2016-17,56,Net_Irrigated_Area,75.0
+Manipur,2017-18,56,Net_Irrigated_Area,73.0
+Manipur,2018-19,56,Net_Irrigated_Area,72.0
+Manipur,2019-20,56,Net_Irrigated_Area,54.0
+Manipur,2020-21,56,Net_Irrigated_Area,69.0
+Manipur,2021-22,56,Net_Irrigated_Area,62.0
+Manipur,2022-23,56,Net_Irrigated_Area,57.0
+Manipur,2023-24,56,Net_Irrigated_Area,57.0
+Meghalaya,2004-05,56,Net_Irrigated_Area,58.0
+Meghalaya,2005-06,56,Net_Irrigated_Area,55.0
+Meghalaya,2006-07,56,Net_Irrigated_Area,67.0
+Meghalaya,2007-08,56,Net_Irrigated_Area,58.0
+Meghalaya,2008-09,56,Net_Irrigated_Area,62.0
+Meghalaya,2009-10,56,Net_Irrigated_Area,62.0
+Meghalaya,2010-11,56,Net_Irrigated_Area,63.0
+Meghalaya,2011-12,56,Net_Irrigated_Area,65.0
+Meghalaya,2012-13,56,Net_Irrigated_Area,65.0
+Meghalaya,2013-14,56,Net_Irrigated_Area,68.0
+Meghalaya,2014-15,56,Net_Irrigated_Area,81.0
+Meghalaya,2015-16,56,Net_Irrigated_Area,80.0
+Meghalaya,2016-17,56,Net_Irrigated_Area,97.0
+Meghalaya,2017-18,56,Net_Irrigated_Area,100.0
+Meghalaya,2018-19,56,Net_Irrigated_Area,101.0
+Meghalaya,2019-20,56,Net_Irrigated_Area,105.0
+Meghalaya,2020-21,56,Net_Irrigated_Area,106.0
+Meghalaya,2021-22,56,Net_Irrigated_Area,102.0
+Meghalaya,2022-23,56,Net_Irrigated_Area,105.0
+Meghalaya,2023-24,56,Net_Irrigated_Area,105.0
+Mizoram,2004-05,56,Net_Irrigated_Area,16.0
+Mizoram,2005-06,56,Net_Irrigated_Area,16.0
+Mizoram,2006-07,56,Net_Irrigated_Area,11.0
+Mizoram,2007-08,56,Net_Irrigated_Area,9.0
+Mizoram,2008-09,56,Net_Irrigated_Area,11.0
+Mizoram,2009-10,56,Net_Irrigated_Area,10.0
+Mizoram,2010-11,56,Net_Irrigated_Area,12.0
+Mizoram,2011-12,56,Net_Irrigated_Area,13.0
+Mizoram,2012-13,56,Net_Irrigated_Area,14.0
+Mizoram,2013-14,56,Net_Irrigated_Area,16.0
+Mizoram,2014-15,56,Net_Irrigated_Area,16.0
+Mizoram,2022-23,56,Net_Irrigated_Area,16.0
+Mizoram,2023-24,56,Net_Irrigated_Area,12.0
+Nagaland,2004-05,56,Net_Irrigated_Area,66.0
+Nagaland,2005-06,56,Net_Irrigated_Area,67.0
+Nagaland,2006-07,56,Net_Irrigated_Area,65.0
+Nagaland,2007-08,56,Net_Irrigated_Area,76.0
+Nagaland,2008-09,56,Net_Irrigated_Area,77.0
+Nagaland,2009-10,56,Net_Irrigated_Area,73.0
+Nagaland,2010-11,56,Net_Irrigated_Area,83.0
+Nagaland,2011-12,56,Net_Irrigated_Area,84.0
+Nagaland,2012-13,56,Net_Irrigated_Area,85.0
+Nagaland,2013-14,56,Net_Irrigated_Area,91.0
+Nagaland,2014-15,56,Net_Irrigated_Area,97.0
+Nagaland,2015-16,56,Net_Irrigated_Area,104.0
+Nagaland,2016-17,56,Net_Irrigated_Area,110.0
+Nagaland,2017-18,56,Net_Irrigated_Area,116.0
+Nagaland,2018-19,56,Net_Irrigated_Area,118.0
+Nagaland,2019-20,56,Net_Irrigated_Area,120.0
+Nagaland,2020-21,56,Net_Irrigated_Area,122.0
+Nagaland,2021-22,56,Net_Irrigated_Area,49.0
+Nagaland,2022-23,56,Net_Irrigated_Area,118.0
+Nagaland,2023-24,56,Net_Irrigated_Area,118.0
+Odisha,2004-05,56,Net_Irrigated_Area,1846.0
+Odisha,2005-06,56,Net_Irrigated_Area,2030.0
+Odisha,2006-07,56,Net_Irrigated_Area,2051.0
+Odisha,2007-08,56,Net_Irrigated_Area,2158.0
+Odisha,2008-09,56,Net_Irrigated_Area,2192.0
+Odisha,2009-10,56,Net_Irrigated_Area,1368.0
+Odisha,2010-11,56,Net_Irrigated_Area,1284.0
+Odisha,2011-12,56,Net_Irrigated_Area,1259.0
+Odisha,2012-13,56,Net_Irrigated_Area,1248.0
+Odisha,2013-14,56,Net_Irrigated_Area,1245.0
+Odisha,2014-15,56,Net_Irrigated_Area,1259.0
+Odisha,2015-16,56,Net_Irrigated_Area,1230.0
+Odisha,2016-17,56,Net_Irrigated_Area,1122.0
+Odisha,2017-18,56,Net_Irrigated_Area,970.0
+Odisha,2018-19,56,Net_Irrigated_Area,1092.0
+Odisha,2019-20,56,Net_Irrigated_Area,1137.0
+Odisha,2020-21,56,Net_Irrigated_Area,1200.0
+Odisha,2021-22,56,Net_Irrigated_Area,1238.0
+Odisha,2022-23,56,Net_Irrigated_Area,1335.0
+Odisha,2023-24,56,Net_Irrigated_Area,1315.0
+Puducherry,2004-05,56,Net_Irrigated_Area,18.0
+Puducherry,2005-06,56,Net_Irrigated_Area,18.0
+Puducherry,2006-07,56,Net_Irrigated_Area,18.0
+Puducherry,2007-08,56,Net_Irrigated_Area,17.0
+Puducherry,2008-09,56,Net_Irrigated_Area,16.0
+Puducherry,2009-10,56,Net_Irrigated_Area,16.0
+Puducherry,2010-11,56,Net_Irrigated_Area,15.0
+Puducherry,2011-12,56,Net_Irrigated_Area,15.0
+Puducherry,2012-13,56,Net_Irrigated_Area,14.0
+Puducherry,2013-14,56,Net_Irrigated_Area,13.0
+Puducherry,2014-15,56,Net_Irrigated_Area,13.0
+Puducherry,2015-16,56,Net_Irrigated_Area,13.0
+Puducherry,2016-17,56,Net_Irrigated_Area,13.0
+Puducherry,2017-18,56,Net_Irrigated_Area,13.0
+Puducherry,2018-19,56,Net_Irrigated_Area,13.0
+Puducherry,2019-20,56,Net_Irrigated_Area,13.0
+Puducherry,2020-21,56,Net_Irrigated_Area,13.0
+Puducherry,2021-22,56,Net_Irrigated_Area,14.0
+Puducherry,2022-23,56,Net_Irrigated_Area,14.0
+Puducherry,2023-24,56,Net_Irrigated_Area,16.0
+Punjab,2004-05,56,Net_Irrigated_Area,4028.0
+Punjab,2005-06,56,Net_Irrigated_Area,4019.0
+Punjab,2006-07,56,Net_Irrigated_Area,4072.0
+Punjab,2007-08,56,Net_Irrigated_Area,4112.0
+Punjab,2008-09,56,Net_Irrigated_Area,4079.0
+Punjab,2009-10,56,Net_Irrigated_Area,4073.0
+Punjab,2010-11,56,Net_Irrigated_Area,4070.0
+Punjab,2011-12,56,Net_Irrigated_Area,4086.0
+Punjab,2012-13,56,Net_Irrigated_Area,4115.0
+Punjab,2013-14,56,Net_Irrigated_Area,4143.0
+Punjab,2014-15,56,Net_Irrigated_Area,4118.0
+Punjab,2015-16,56,Net_Irrigated_Area,4137.0
+Punjab,2016-17,56,Net_Irrigated_Area,4128.0
+Punjab,2017-18,56,Net_Irrigated_Area,4122.0
+Punjab,2018-19,56,Net_Irrigated_Area,4111.0
+Punjab,2019-20,56,Net_Irrigated_Area,4127.0
+Punjab,2020-21,56,Net_Irrigated_Area,4126.0
+Punjab,2021-22,56,Net_Irrigated_Area,4113.0
+Punjab,2022-23,56,Net_Irrigated_Area,4082.0
+Punjab,2023-24,56,Net_Irrigated_Area,4109.0
+Rajasthan,2004-05,56,Net_Irrigated_Area,5880.0
+Rajasthan,2005-06,56,Net_Irrigated_Area,6294.0
+Rajasthan,2006-07,56,Net_Irrigated_Area,6496.0
+Rajasthan,2007-08,56,Net_Irrigated_Area,6444.0
+Rajasthan,2008-09,56,Net_Irrigated_Area,6245.0
+Rajasthan,2009-10,56,Net_Irrigated_Area,5850.0
+Rajasthan,2010-11,56,Net_Irrigated_Area,6661.0
+Rajasthan,2011-12,56,Net_Irrigated_Area,7122.0
+Rajasthan,2012-13,56,Net_Irrigated_Area,7499.0
+Rajasthan,2013-14,56,Net_Irrigated_Area,7650.0
+Rajasthan,2014-15,56,Net_Irrigated_Area,7882.0
+Rajasthan,2015-16,56,Net_Irrigated_Area,7938.0
+Rajasthan,2016-17,56,Net_Irrigated_Area,8257.0
+Rajasthan,2017-18,56,Net_Irrigated_Area,7985.0
+Rajasthan,2018-19,56,Net_Irrigated_Area,8283.0
+Rajasthan,2019-20,56,Net_Irrigated_Area,8821.0
+Rajasthan,2020-21,56,Net_Irrigated_Area,8778.0
+Rajasthan,2021-22,56,Net_Irrigated_Area,8924.0
+Rajasthan,2022-23,56,Net_Irrigated_Area,9500.0
+Rajasthan,2023-24,56,Net_Irrigated_Area,9547.0
+Sikkim,2004-05,56,Net_Irrigated_Area,6.0
+Sikkim,2005-06,56,Net_Irrigated_Area,14.0
+Sikkim,2006-07,56,Net_Irrigated_Area,14.0
+Sikkim,2007-08,56,Net_Irrigated_Area,14.0
+Sikkim,2008-09,56,Net_Irrigated_Area,14.0
+Sikkim,2009-10,56,Net_Irrigated_Area,14.0
+Sikkim,2010-11,56,Net_Irrigated_Area,15.0
+Sikkim,2011-12,56,Net_Irrigated_Area,14.0
+Sikkim,2012-13,56,Net_Irrigated_Area,13.0
+Sikkim,2013-14,56,Net_Irrigated_Area,13.0
+Sikkim,2014-15,56,Net_Irrigated_Area,12.0
+Sikkim,2015-16,56,Net_Irrigated_Area,16.0
+Sikkim,2016-17,56,Net_Irrigated_Area,16.0
+Sikkim,2017-18,56,Net_Irrigated_Area,15.0
+Sikkim,2018-19,56,Net_Irrigated_Area,15.0
+Sikkim,2019-20,56,Net_Irrigated_Area,14.0
+Sikkim,2020-21,56,Net_Irrigated_Area,14.0
+Sikkim,2021-22,56,Net_Irrigated_Area,14.0
+Sikkim,2022-23,56,Net_Irrigated_Area,13.0
+Sikkim,2023-24,56,Net_Irrigated_Area,13.0
+Tamil Nadu,2004-05,56,Net_Irrigated_Area,2637.0
+Tamil Nadu,2005-06,56,Net_Irrigated_Area,2920.0
+Tamil Nadu,2006-07,56,Net_Irrigated_Area,2889.0
+Tamil Nadu,2007-08,56,Net_Irrigated_Area,2864.0
+Tamil Nadu,2008-09,56,Net_Irrigated_Area,2931.0
+Tamil Nadu,2009-10,56,Net_Irrigated_Area,2864.0
+Tamil Nadu,2010-11,56,Net_Irrigated_Area,2912.0
+Tamil Nadu,2011-12,56,Net_Irrigated_Area,2964.0
+Tamil Nadu,2012-13,56,Net_Irrigated_Area,2643.0
+Tamil Nadu,2013-14,56,Net_Irrigated_Area,2679.0
+Tamil Nadu,2014-15,56,Net_Irrigated_Area,2726.0
+Tamil Nadu,2015-16,56,Net_Irrigated_Area,2833.0
+Tamil Nadu,2016-17,56,Net_Irrigated_Area,2385.0
+Tamil Nadu,2017-18,56,Net_Irrigated_Area,2627.0
+Tamil Nadu,2018-19,56,Net_Irrigated_Area,2565.0
+Tamil Nadu,2019-20,56,Net_Irrigated_Area,2672.0
+Tamil Nadu,2020-21,56,Net_Irrigated_Area,2764.0
+Tamil Nadu,2021-22,56,Net_Irrigated_Area,2930.0
+Tamil Nadu,2022-23,56,Net_Irrigated_Area,2921.0
+Tamil Nadu,2023-24,56,Net_Irrigated_Area,2885.0
+Tripura,2004-05,56,Net_Irrigated_Area,73.0
+Tripura,2005-06,56,Net_Irrigated_Area,65.0
+Tripura,2006-07,56,Net_Irrigated_Area,59.0
+Tripura,2007-08,56,Net_Irrigated_Area,59.0
+Tripura,2008-09,56,Net_Irrigated_Area,60.0
+Tripura,2009-10,56,Net_Irrigated_Area,69.0
+Tripura,2010-11,56,Net_Irrigated_Area,69.0
+Tripura,2011-12,56,Net_Irrigated_Area,72.0
+Tripura,2012-13,56,Net_Irrigated_Area,81.0
+Tripura,2013-14,56,Net_Irrigated_Area,78.0
+Tripura,2014-15,56,Net_Irrigated_Area,79.0
+Tripura,2015-16,56,Net_Irrigated_Area,81.0
+Tripura,2016-17,56,Net_Irrigated_Area,82.0
+Tripura,2017-18,56,Net_Irrigated_Area,80.0
+Tripura,2018-19,56,Net_Irrigated_Area,87.0
+Tripura,2019-20,56,Net_Irrigated_Area,89.0
+Tripura,2020-21,56,Net_Irrigated_Area,90.0
+Tripura,2021-22,56,Net_Irrigated_Area,89.0
+Tripura,2022-23,56,Net_Irrigated_Area,90.0
+Tripura,2023-24,56,Net_Irrigated_Area,90.0
+Uttar Pradesh,2004-05,56,Net_Irrigated_Area,13119.0
+Uttar Pradesh,2005-06,56,Net_Irrigated_Area,13075.0
+Uttar Pradesh,2006-07,56,Net_Irrigated_Area,13313.0
+Uttar Pradesh,2007-08,56,Net_Irrigated_Area,13085.0
+Uttar Pradesh,2008-09,56,Net_Irrigated_Area,13435.0
+Uttar Pradesh,2009-10,56,Net_Irrigated_Area,13383.0
+Uttar Pradesh,2010-11,56,Net_Irrigated_Area,13440.0
+Uttar Pradesh,2011-12,56,Net_Irrigated_Area,13809.0
+Uttar Pradesh,2012-13,56,Net_Irrigated_Area,13929.0
+Uttar Pradesh,2013-14,56,Net_Irrigated_Area,14027.0
+Uttar Pradesh,2014-15,56,Net_Irrigated_Area,14389.0
+Uttar Pradesh,2015-16,56,Net_Irrigated_Area,14231.0
+Uttar Pradesh,2016-17,56,Net_Irrigated_Area,14337.0
+Uttar Pradesh,2017-18,56,Net_Irrigated_Area,14332.0
+Uttar Pradesh,2018-19,56,Net_Irrigated_Area,14392.0
+Uttar Pradesh,2019-20,56,Net_Irrigated_Area,14334.0
+Uttar Pradesh,2020-21,56,Net_Irrigated_Area,14334.0
+Uttar Pradesh,2021-22,56,Net_Irrigated_Area,13941.0
+Uttar Pradesh,2022-23,56,Net_Irrigated_Area,14044.0
+Uttar Pradesh,2023-24,56,Net_Irrigated_Area,13656.0
+Uttarakhand,2004-05,56,Net_Irrigated_Area,345.0
+Uttarakhand,2005-06,56,Net_Irrigated_Area,343.0
+Uttarakhand,2006-07,56,Net_Irrigated_Area,345.0
+Uttarakhand,2007-08,56,Net_Irrigated_Area,341.0
+Uttarakhand,2008-09,56,Net_Irrigated_Area,340.0
+Uttarakhand,2009-10,56,Net_Irrigated_Area,338.0
+Uttarakhand,2010-11,56,Net_Irrigated_Area,336.0
+Uttarakhand,2011-12,56,Net_Irrigated_Area,339.0
+Uttarakhand,2012-13,56,Net_Irrigated_Area,338.0
+Uttarakhand,2013-14,56,Net_Irrigated_Area,328.0
+Uttarakhand,2014-15,56,Net_Irrigated_Area,330.0
+Uttarakhand,2015-16,56,Net_Irrigated_Area,330.0
+Uttarakhand,2016-17,56,Net_Irrigated_Area,329.0
+Uttarakhand,2017-18,56,Net_Irrigated_Area,329.0
+Uttarakhand,2018-19,56,Net_Irrigated_Area,323.0
+Uttarakhand,2019-20,56,Net_Irrigated_Area,317.0
+Uttarakhand,2020-21,56,Net_Irrigated_Area,322.0
+Uttarakhand,2021-22,56,Net_Irrigated_Area,315.0
+Uttarakhand,2022-23,56,Net_Irrigated_Area,313.0
+Uttarakhand,2023-24,56,Net_Irrigated_Area,310.0
+West Bengal,2004-05,56,Net_Irrigated_Area,3182.0
+West Bengal,2005-06,56,Net_Irrigated_Area,3135.0
+West Bengal,2006-07,56,Net_Irrigated_Area,3136.0
+West Bengal,2007-08,56,Net_Irrigated_Area,3136.0
+West Bengal,2008-09,56,Net_Irrigated_Area,3135.0
+West Bengal,2009-10,56,Net_Irrigated_Area,3112.0
+West Bengal,2010-11,56,Net_Irrigated_Area,2955.0
+West Bengal,2011-12,56,Net_Irrigated_Area,3078.0
+West Bengal,2012-13,56,Net_Irrigated_Area,3082.0
+West Bengal,2013-14,56,Net_Irrigated_Area,3099.0
+West Bengal,2014-15,56,Net_Irrigated_Area,3102.0
+West Bengal,2015-16,56,Net_Irrigated_Area,3105.0
+West Bengal,2016-17,56,Net_Irrigated_Area,3106.0
+West Bengal,2017-18,56,Net_Irrigated_Area,3107.0
+West Bengal,2018-19,56,Net_Irrigated_Area,3107.0
+West Bengal,2019-20,56,Net_Irrigated_Area,3108.0
+West Bengal,2020-21,56,Net_Irrigated_Area,3128.0
+West Bengal,2021-22,56,Net_Irrigated_Area,3127.0
+West Bengal,2022-23,56,Net_Irrigated_Area,3088.0
+West Bengal,2023-24,56,Net_Irrigated_Area,3757.0
+Telangana,2013-14,56,Net_Irrigated_Area,2289.0
+Telangana,2014-15,56,Net_Irrigated_Area,1726.0
+Telangana,2015-16,56,Net_Irrigated_Area,1486.0
+Telangana,2016-17,56,Net_Irrigated_Area,2207.0
+Telangana,2017-18,56,Net_Irrigated_Area,2405.0
+Telangana,2018-19,56,Net_Irrigated_Area,2263.0
+Telangana,2019-20,56,Net_Irrigated_Area,2939.0
+Telangana,2020-21,56,Net_Irrigated_Area,3365.0
+Telangana,2021-22,56,Net_Irrigated_Area,3376.0
+Telangana,2022-23,56,Net_Irrigated_Area,3866.0
+Telangana,2023-24,56,Net_Irrigated_Area,3728.0

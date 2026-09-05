@@ -1,0 +1,334 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,64,Cotton_Production,2190.0
+Andhra Pradesh,2005-06,64,Cotton_Production,2108.0
+Andhra Pradesh,2006-07,64,Cotton_Production,2181.0
+Andhra Pradesh,2007-08,64,Cotton_Production,3491.0
+Andhra Pradesh,2008-09,64,Cotton_Production,3569.0
+Andhra Pradesh,2009-10,64,Cotton_Production,3227.0
+Andhra Pradesh,2010-11,64,Cotton_Production,1164.9
+Andhra Pradesh,2011-12,64,Cotton_Production,1367.4
+Andhra Pradesh,2012-13,64,Cotton_Production,2025.2
+Andhra Pradesh,2013-14,64,Cotton_Production,1411.1
+Andhra Pradesh,2014-15,64,Cotton_Production,2841.0
+Andhra Pradesh,2015-16,64,Cotton_Production,1888.0
+Andhra Pradesh,2016-17,64,Cotton_Production,1564.0
+Andhra Pradesh,2017-18,64,Cotton_Production,2087.0
+Andhra Pradesh,2018-19,64,Cotton_Production,1491.0
+Andhra Pradesh,2019-20,64,Cotton_Production,2508.0
+Andhra Pradesh,2020-21,64,Cotton_Production,1600.6
+Andhra Pradesh,2021-22,64,Cotton_Production,1707.6
+Andhra Pradesh,2022-23,64,Cotton_Production,1540.5
+Andhra Pradesh,2023-24,64,Cotton_Production,737.3
+Andhra Pradesh,2024-25,64,Cotton_Production,1131.2
+Assam,2004-05,64,Cotton_Production,1.0
+Assam,2005-06,64,Cotton_Production,0.6
+Assam,2006-07,64,Cotton_Production,0.6
+Assam,2007-08,64,Cotton_Production,0.6
+Assam,2008-09,64,Cotton_Production,0.6
+Assam,2009-10,64,Cotton_Production,0.8
+Assam,2020-21,64,Cotton_Production,0.4
+Assam,2021-22,64,Cotton_Production,0.4
+Assam,2022-23,64,Cotton_Production,0.5
+Assam,2023-24,64,Cotton_Production,0.5
+Assam,2024-25,64,Cotton_Production,0.3
+Chhattisgarh,2004-05,64,Cotton_Production,0.8
+Chhattisgarh,2005-06,64,Cotton_Production,0.4
+Chhattisgarh,2006-07,64,Cotton_Production,0.2
+Chhattisgarh,2007-08,64,Cotton_Production,0.1
+Chhattisgarh,2008-09,64,Cotton_Production,0.1
+Chhattisgarh,2009-10,64,Cotton_Production,0.3
+Chhattisgarh,2020-21,64,Cotton_Production,8.4
+Chhattisgarh,2021-22,64,Cotton_Production,7.5
+Chhattisgarh,2022-23,64,Cotton_Production,9.4
+Chhattisgarh,2023-24,64,Cotton_Production,12.7
+Chhattisgarh,2024-25,64,Cotton_Production,11.3
+Gujarat,2004-05,64,Cotton_Production,4724.8
+Gujarat,2005-06,64,Cotton_Production,6772.0
+Gujarat,2006-07,64,Cotton_Production,8787.0
+Gujarat,2007-08,64,Cotton_Production,8276.0
+Gujarat,2008-09,64,Cotton_Production,7013.8
+Gujarat,2009-10,64,Cotton_Production,7986.3
+Gujarat,2010-11,64,Cotton_Production,10400.0
+Gujarat,2011-12,64,Cotton_Production,12000.0
+Gujarat,2012-13,64,Cotton_Production,8850.0
+Gujarat,2013-14,64,Cotton_Production,10150.0
+Gujarat,2014-15,64,Cotton_Production,10500.0
+Gujarat,2015-16,64,Cotton_Production,9400.0
+Gujarat,2016-17,64,Cotton_Production,8575.0
+Gujarat,2017-18,64,Cotton_Production,10187.0
+Gujarat,2018-19,64,Cotton_Production,6279.0
+Gujarat,2019-20,64,Cotton_Production,8617.0
+Gujarat,2020-21,64,Cotton_Production,7212.2
+Gujarat,2021-22,64,Cotton_Production,7509.3
+Gujarat,2022-23,64,Cotton_Production,8795.3
+Gujarat,2023-24,64,Cotton_Production,9057.0
+Gujarat,2024-25,64,Cotton_Production,7156.8
+Haryana,2004-05,64,Cotton_Production,2075.0
+Haryana,2005-06,64,Cotton_Production,1499.0
+Haryana,2006-07,64,Cotton_Production,1814.0
+Haryana,2007-08,64,Cotton_Production,1885.0
+Haryana,2008-09,64,Cotton_Production,1858.0
+Haryana,2009-10,64,Cotton_Production,1926.0
+Haryana,2010-11,64,Cotton_Production,1750.0
+Haryana,2011-12,64,Cotton_Production,2650.0
+Haryana,2012-13,64,Cotton_Production,2500.0
+Haryana,2013-14,64,Cotton_Production,2302.0
+Haryana,2014-15,64,Cotton_Production,2300.0
+Haryana,2015-16,64,Cotton_Production,993.0
+Haryana,2016-17,64,Cotton_Production,2041.0
+Haryana,2017-18,64,Cotton_Production,1627.0
+Haryana,2018-19,64,Cotton_Production,2013.0
+Haryana,2019-20,64,Cotton_Production,2484.0
+Haryana,2020-21,64,Cotton_Production,1822.9
+Haryana,2021-22,64,Cotton_Production,1316.1
+Haryana,2022-23,64,Cotton_Production,1000.5
+Haryana,2023-24,64,Cotton_Production,1508.8
+Haryana,2024-25,64,Cotton_Production,1176.6
+Himachal Pradesh,2004-05,64,Cotton_Production,0.1
+Himachal Pradesh,2005-06,64,Cotton_Production,0.0
+Himachal Pradesh,2006-07,64,Cotton_Production,0.1
+Himachal Pradesh,2007-08,64,Cotton_Production,0.2
+Himachal Pradesh,2008-09,64,Cotton_Production,0.1
+Karnataka,2004-05,64,Cotton_Production,688.0
+Karnataka,2005-06,64,Cotton_Production,554.0
+Karnataka,2006-07,64,Cotton_Production,610.0
+Karnataka,2007-08,64,Cotton_Production,778.0
+Karnataka,2008-09,64,Cotton_Production,866.0
+Karnataka,2009-10,64,Cotton_Production,868.2
+Karnataka,2010-11,64,Cotton_Production,1200.0
+Karnataka,2011-12,64,Cotton_Production,1200.0
+Karnataka,2012-13,64,Cotton_Production,1255.0
+Karnataka,2013-14,64,Cotton_Production,1875.0
+Karnataka,2014-15,64,Cotton_Production,2311.0
+Karnataka,2015-16,64,Cotton_Production,2000.0
+Karnataka,2016-17,64,Cotton_Production,1010.0
+Karnataka,2017-18,64,Cotton_Production,1844.0
+Karnataka,2018-19,64,Cotton_Production,1400.0
+Karnataka,2019-20,64,Cotton_Production,2330.0
+Karnataka,2020-21,64,Cotton_Production,2320.1
+Karnataka,2021-22,64,Cotton_Production,1954.6
+Karnataka,2022-23,64,Cotton_Production,2567.9
+Karnataka,2023-24,64,Cotton_Production,2058.6
+Karnataka,2024-25,64,Cotton_Production,2273.3
+Kerala,2004-05,64,Cotton_Production,4.4
+Kerala,2005-06,64,Cotton_Production,3.5
+Kerala,2006-07,64,Cotton_Production,2.0
+Kerala,2007-08,64,Cotton_Production,1.7
+Kerala,2008-09,64,Cotton_Production,1.5
+Kerala,2009-10,64,Cotton_Production,1.3
+Kerala,2020-21,64,Cotton_Production,0.0
+Kerala,2021-22,64,Cotton_Production,0.0
+Kerala,2022-23,64,Cotton_Production,0.0
+Kerala,2023-24,64,Cotton_Production,0.1
+Kerala,2024-25,64,Cotton_Production,0.0
+Madhya Pradesh,2004-05,64,Cotton_Production,626.1
+Madhya Pradesh,2005-06,64,Cotton_Production,745.1
+Madhya Pradesh,2006-07,64,Cotton_Production,828.6
+Madhya Pradesh,2007-08,64,Cotton_Production,864.8
+Madhya Pradesh,2008-09,64,Cotton_Production,856.1
+Madhya Pradesh,2009-10,64,Cotton_Production,855.3
+Madhya Pradesh,2010-11,64,Cotton_Production,2000.0
+Madhya Pradesh,2011-12,64,Cotton_Production,2000.0
+Madhya Pradesh,2012-13,64,Cotton_Production,2200.0
+Madhya Pradesh,2013-14,64,Cotton_Production,1730.0
+Madhya Pradesh,2014-15,64,Cotton_Production,1750.0
+Madhya Pradesh,2015-16,64,Cotton_Production,1800.0
+Madhya Pradesh,2016-17,64,Cotton_Production,2050.7
+Madhya Pradesh,2017-18,64,Cotton_Production,1620.0
+Madhya Pradesh,2018-19,64,Cotton_Production,2329.0
+Madhya Pradesh,2019-20,64,Cotton_Production,1646.0
+Madhya Pradesh,2020-21,64,Cotton_Production,1338.6
+Madhya Pradesh,2021-22,64,Cotton_Production,1419.8
+Madhya Pradesh,2022-23,64,Cotton_Production,1433.3
+Madhya Pradesh,2023-24,64,Cotton_Production,1801.1
+Madhya Pradesh,2024-25,64,Cotton_Production,1535.2
+Maharashtra,2004-05,64,Cotton_Production,2939.0
+Maharashtra,2005-06,64,Cotton_Production,3160.0
+Maharashtra,2006-07,64,Cotton_Production,4618.0
+Maharashtra,2007-08,64,Cotton_Production,7015.0
+Maharashtra,2008-09,64,Cotton_Production,4752.0
+Maharashtra,2009-10,64,Cotton_Production,5859.3
+Maharashtra,2010-11,64,Cotton_Production,8500.0
+Maharashtra,2011-12,64,Cotton_Production,7200.0
+Maharashtra,2012-13,64,Cotton_Production,7655.0
+Maharashtra,2013-14,64,Cotton_Production,8834.0
+Maharashtra,2014-15,64,Cotton_Production,7000.0
+Maharashtra,2015-16,64,Cotton_Production,7500.0
+Maharashtra,2016-17,64,Cotton_Production,10618.8
+Maharashtra,2017-18,64,Cotton_Production,6094.0
+Maharashtra,2018-19,64,Cotton_Production,6593.0
+Maharashtra,2019-20,64,Cotton_Production,6639.0
+Maharashtra,2020-21,64,Cotton_Production,10105.1
+Maharashtra,2021-22,64,Cotton_Production,8249.2
+Maharashtra,2022-23,64,Cotton_Production,8315.7
+Maharashtra,2023-24,64,Cotton_Production,8045.5
+Maharashtra,2024-25,64,Cotton_Production,7372.9
+Meghalaya,2004-05,64,Cotton_Production,7.8
+Meghalaya,2005-06,64,Cotton_Production,7.8
+Meghalaya,2006-07,64,Cotton_Production,7.7
+Meghalaya,2007-08,64,Cotton_Production,6.5
+Meghalaya,2008-09,64,Cotton_Production,5.6
+Meghalaya,2009-10,64,Cotton_Production,5.5
+Meghalaya,2020-21,64,Cotton_Production,8.6
+Meghalaya,2021-22,64,Cotton_Production,8.6
+Meghalaya,2022-23,64,Cotton_Production,1.8
+Meghalaya,2023-24,64,Cotton_Production,1.8
+Meghalaya,2024-25,64,Cotton_Production,1.8
+Mizoram,2004-05,64,Cotton_Production,1.3
+Mizoram,2005-06,64,Cotton_Production,0.2
+Mizoram,2006-07,64,Cotton_Production,5.2
+Mizoram,2007-08,64,Cotton_Production,0.6
+Mizoram,2008-09,64,Cotton_Production,0.1
+Mizoram,2009-10,64,Cotton_Production,0.8
+Mizoram,2022-23,64,Cotton_Production,0.0
+Mizoram,2023-24,64,Cotton_Production,0.0
+Nagaland,2004-05,64,Cotton_Production,0.2
+Nagaland,2005-06,64,Cotton_Production,1.7
+Nagaland,2006-07,64,Cotton_Production,0.2
+Nagaland,2007-08,64,Cotton_Production,0.3
+Nagaland,2008-09,64,Cotton_Production,0.1
+Nagaland,2020-21,64,Cotton_Production,0.0
+Nagaland,2021-22,64,Cotton_Production,0.0
+Nagaland,2022-23,64,Cotton_Production,0.0
+Nagaland,2023-24,64,Cotton_Production,0.0
+Nagaland,2024-25,64,Cotton_Production,0.0
+Odisha,2004-05,64,Cotton_Production,111.2
+Odisha,2005-06,64,Cotton_Production,144.8
+Odisha,2006-07,64,Cotton_Production,107.9
+Odisha,2007-08,64,Cotton_Production,124.7
+Odisha,2008-09,64,Cotton_Production,146.6
+Odisha,2009-10,64,Cotton_Production,147.2
+Odisha,2010-11,64,Cotton_Production,250.0
+Odisha,2011-12,64,Cotton_Production,325.0
+Odisha,2012-13,64,Cotton_Production,400.0
+Odisha,2013-14,64,Cotton_Production,299.0
+Odisha,2014-15,64,Cotton_Production,400.0
+Odisha,2015-16,64,Cotton_Production,300.0
+Odisha,2016-17,64,Cotton_Production,382.0
+Odisha,2017-18,64,Cotton_Production,408.0
+Odisha,2018-19,64,Cotton_Production,455.0
+Odisha,2019-20,64,Cotton_Production,579.0
+Odisha,2020-21,64,Cotton_Production,551.0
+Odisha,2021-22,64,Cotton_Production,625.9
+Odisha,2022-23,64,Cotton_Production,704.9
+Odisha,2023-24,64,Cotton_Production,704.9
+Odisha,2024-25,64,Cotton_Production,822.5
+Puducherry,2004-05,64,Cotton_Production,2.9
+Puducherry,2005-06,64,Cotton_Production,0.3
+Puducherry,2006-07,64,Cotton_Production,0.3
+Puducherry,2007-08,64,Cotton_Production,0.2
+Puducherry,2020-21,64,Cotton_Production,0.8
+Puducherry,2022-23,64,Cotton_Production,1.1
+Puducherry,2023-24,64,Cotton_Production,2.1
+Puducherry,2024-25,64,Cotton_Production,1.9
+Punjab,2004-05,64,Cotton_Production,2087.0
+Punjab,2005-06,64,Cotton_Production,2395.0
+Punjab,2006-07,64,Cotton_Production,2678.0
+Punjab,2007-08,64,Cotton_Production,2355.0
+Punjab,2008-09,64,Cotton_Production,2285.0
+Punjab,2009-10,64,Cotton_Production,2006.0
+Punjab,2010-11,64,Cotton_Production,2100.0
+Punjab,2011-12,64,Cotton_Production,2300.0
+Punjab,2012-13,64,Cotton_Production,2000.0
+Punjab,2013-14,64,Cotton_Production,1968.0
+Punjab,2014-15,64,Cotton_Production,1600.0
+Punjab,2015-16,64,Cotton_Production,750.0
+Punjab,2016-17,64,Cotton_Production,1031.0
+Punjab,2017-18,64,Cotton_Production,1283.0
+Punjab,2018-19,64,Cotton_Production,1222.0
+Punjab,2019-20,64,Cotton_Production,1206.0
+Punjab,2020-21,64,Cotton_Production,1022.7
+Punjab,2021-22,64,Cotton_Production,646.0
+Punjab,2022-23,64,Cotton_Production,443.6
+Punjab,2023-24,64,Cotton_Production,628.8
+Punjab,2024-25,64,Cotton_Production,414.2
+Rajasthan,2004-05,64,Cotton_Production,764.6
+Rajasthan,2005-06,64,Cotton_Production,880.5
+Rajasthan,2006-07,64,Cotton_Production,746.8
+Rajasthan,2007-08,64,Cotton_Production,862.2
+Rajasthan,2008-09,64,Cotton_Production,725.7
+Rajasthan,2009-10,64,Cotton_Production,903.1
+Rajasthan,2010-11,64,Cotton_Production,900.0
+Rajasthan,2011-12,64,Cotton_Production,1335.0
+Rajasthan,2012-13,64,Cotton_Production,1400.0
+Rajasthan,2013-14,64,Cotton_Production,1287.0
+Rajasthan,2014-15,64,Cotton_Production,1527.0
+Rajasthan,2015-16,64,Cotton_Production,1214.0
+Rajasthan,2016-17,64,Cotton_Production,1401.9
+Rajasthan,2017-18,64,Cotton_Production,1893.0
+Rajasthan,2018-19,64,Cotton_Production,2026.0
+Rajasthan,2019-20,64,Cotton_Production,2788.0
+Rajasthan,2020-21,64,Cotton_Production,3207.6
+Rajasthan,2021-22,64,Cotton_Production,2481.0
+Rajasthan,2022-23,64,Cotton_Production,2774.5
+Rajasthan,2023-24,64,Cotton_Production,2621.7
+Rajasthan,2024-25,64,Cotton_Production,1786.2
+Tamil Nadu,2004-05,64,Cotton_Production,194.8
+Tamil Nadu,2005-06,64,Cotton_Production,213.3
+Tamil Nadu,2006-07,64,Cotton_Production,220.9
+Tamil Nadu,2007-08,64,Cotton_Production,200.7
+Tamil Nadu,2008-09,64,Cotton_Production,187.7
+Tamil Nadu,2009-10,64,Cotton_Production,225.0
+Tamil Nadu,2010-11,64,Cotton_Production,450.0
+Tamil Nadu,2011-12,64,Cotton_Production,450.0
+Tamil Nadu,2012-13,64,Cotton_Production,500.0
+Tamil Nadu,2013-14,64,Cotton_Production,408.0
+Tamil Nadu,2014-15,64,Cotton_Production,686.0
+Tamil Nadu,2015-16,64,Cotton_Production,369.0
+Tamil Nadu,2016-17,64,Cotton_Production,359.0
+Tamil Nadu,2017-18,64,Cotton_Production,445.0
+Tamil Nadu,2018-19,64,Cotton_Production,269.0
+Tamil Nadu,2019-20,64,Cotton_Production,418.0
+Tamil Nadu,2020-21,64,Cotton_Production,243.2
+Tamil Nadu,2021-22,64,Cotton_Production,301.9
+Tamil Nadu,2022-23,64,Cotton_Production,319.0
+Tamil Nadu,2023-24,64,Cotton_Production,251.8
+Tamil Nadu,2024-25,64,Cotton_Production,210.7
+Telangana,2010-11,64,Cotton_Production,4135.1
+Telangana,2011-12,64,Cotton_Production,3532.6
+Telangana,2012-13,64,Cotton_Production,5324.8
+Telangana,2013-14,64,Cotton_Production,5544.9
+Telangana,2014-15,64,Cotton_Production,3800.0
+Telangana,2015-16,64,Cotton_Production,3661.0
+Telangana,2016-17,64,Cotton_Production,3444.0
+Telangana,2017-18,64,Cotton_Production,5195.0
+Telangana,2018-19,64,Cotton_Production,3847.0
+Telangana,2019-20,64,Cotton_Production,6833.0
+Telangana,2020-21,64,Cotton_Production,5797.9
+Telangana,2021-22,64,Cotton_Production,4878.1
+Telangana,2022-23,64,Cotton_Production,5744.6
+Telangana,2023-24,64,Cotton_Production,5079.7
+Telangana,2024-25,64,Cotton_Production,5788.7
+Tripura,2004-05,64,Cotton_Production,1.5
+Tripura,2005-06,64,Cotton_Production,1.6
+Tripura,2006-07,64,Cotton_Production,1.6
+Tripura,2007-08,64,Cotton_Production,1.5
+Tripura,2008-09,64,Cotton_Production,1.4
+Tripura,2009-10,64,Cotton_Production,1.4
+Tripura,2020-21,64,Cotton_Production,0.9
+Tripura,2021-22,64,Cotton_Production,0.8
+Tripura,2022-23,64,Cotton_Production,0.4
+Tripura,2023-24,64,Cotton_Production,0.4
+Tripura,2024-25,64,Cotton_Production,0.5
+Uttar Pradesh,2004-05,64,Cotton_Production,5.1
+Uttar Pradesh,2005-06,64,Cotton_Production,5.2
+Uttar Pradesh,2006-07,64,Cotton_Production,7.0
+Uttar Pradesh,2007-08,64,Cotton_Production,6.8
+Uttar Pradesh,2008-09,64,Cotton_Production,0.8
+Uttar Pradesh,2009-10,64,Cotton_Production,5.0
+Uttar Pradesh,2020-21,64,Cotton_Production,6.5
+Uttar Pradesh,2021-22,64,Cotton_Production,8.6
+Uttar Pradesh,2022-23,64,Cotton_Production,6.7
+Uttar Pradesh,2023-24,64,Cotton_Production,9.1
+Uttar Pradesh,2024-25,64,Cotton_Production,39.5
+West Bengal,2004-05,64,Cotton_Production,3.0
+West Bengal,2005-06,64,Cotton_Production,6.0
+West Bengal,2006-07,64,Cotton_Production,14.7
+West Bengal,2007-08,64,Cotton_Production,13.2
+West Bengal,2008-09,64,Cotton_Production,6.0
+West Bengal,2009-10,64,Cotton_Production,3.3
+West Bengal,2020-21,64,Cotton_Production,0.9
+West Bengal,2021-22,64,Cotton_Production,0.3
+West Bengal,2022-23,64,Cotton_Production,0.4
+West Bengal,2023-24,64,Cotton_Production,0.4
+West Bengal,2024-25,64,Cotton_Production,0.4

@@ -1,0 +1,325 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2013-14,89,Fertiliser_Consumption_NPK,1780.3
+Andhra Pradesh,2014-15,89,Fertiliser_Consumption_NPK,1738.8
+Andhra Pradesh,2015-16,89,Fertiliser_Consumption_NPK,1698.2
+Andhra Pradesh,2016-17,89,Fertiliser_Consumption_NPK,1687.0
+Andhra Pradesh,2017-18,89,Fertiliser_Consumption_NPK,1564.0
+Andhra Pradesh,2018-19,89,Fertiliser_Consumption_NPK,1559.1
+Andhra Pradesh,2019-20,89,Fertiliser_Consumption_NPK,1683.0
+Andhra Pradesh,2020-21,89,Fertiliser_Consumption_NPK,2025.9
+Andhra Pradesh,2021-22,89,Fertiliser_Consumption_NPK,1699.6
+Telangana,2013-14,89,Fertiliser_Consumption_NPK,1339.2
+Telangana,2014-15,89,Fertiliser_Consumption_NPK,1177.6
+Telangana,2015-16,89,Fertiliser_Consumption_NPK,1316.3
+Telangana,2016-17,89,Fertiliser_Consumption_NPK,1371.9
+Telangana,2017-18,89,Fertiliser_Consumption_NPK,1391.7
+Telangana,2018-19,89,Fertiliser_Consumption_NPK,1323.6
+Telangana,2019-20,89,Fertiliser_Consumption_NPK,1479.2
+Telangana,2020-21,89,Fertiliser_Consumption_NPK,1817.6
+Telangana,2021-22,89,Fertiliser_Consumption_NPK,1636.4
+Karnataka,2013-14,89,Fertiliser_Consumption_NPK,1640.7
+Karnataka,2014-15,89,Fertiliser_Consumption_NPK,1832.0
+Karnataka,2015-16,89,Fertiliser_Consumption_NPK,1779.8
+Karnataka,2016-17,89,Fertiliser_Consumption_NPK,1628.2
+Karnataka,2017-18,89,Fertiliser_Consumption_NPK,1595.3
+Karnataka,2018-19,89,Fertiliser_Consumption_NPK,1734.2
+Karnataka,2019-20,89,Fertiliser_Consumption_NPK,1860.9
+Karnataka,2020-21,89,Fertiliser_Consumption_NPK,2222.8
+Karnataka,2021-22,89,Fertiliser_Consumption_NPK,2192.4
+Kerala,2013-14,89,Fertiliser_Consumption_NPK,322.2
+Kerala,2014-15,89,Fertiliser_Consumption_NPK,209.5
+Kerala,2015-16,89,Fertiliser_Consumption_NPK,228.6
+Kerala,2016-17,89,Fertiliser_Consumption_NPK,180.4
+Kerala,2017-18,89,Fertiliser_Consumption_NPK,242.0
+Kerala,2018-19,89,Fertiliser_Consumption_NPK,158.3
+Kerala,2019-20,89,Fertiliser_Consumption_NPK,174.9
+Kerala,2020-21,89,Fertiliser_Consumption_NPK,201.1
+Kerala,2021-22,89,Fertiliser_Consumption_NPK,166.1
+Tamil Nadu,2013-14,89,Fertiliser_Consumption_NPK,905.7
+Tamil Nadu,2014-15,89,Fertiliser_Consumption_NPK,1014.8
+Tamil Nadu,2015-16,89,Fertiliser_Consumption_NPK,1144.4
+Tamil Nadu,2016-17,89,Fertiliser_Consumption_NPK,908.5
+Tamil Nadu,2017-18,89,Fertiliser_Consumption_NPK,920.0
+Tamil Nadu,2018-19,89,Fertiliser_Consumption_NPK,960.6
+Tamil Nadu,2019-20,89,Fertiliser_Consumption_NPK,987.2
+Tamil Nadu,2020-21,89,Fertiliser_Consumption_NPK,1120.9
+Tamil Nadu,2021-22,89,Fertiliser_Consumption_NPK,1129.6
+Puducherry,2013-14,89,Fertiliser_Consumption_NPK,15.8
+Puducherry,2014-15,89,Fertiliser_Consumption_NPK,11.6
+Puducherry,2015-16,89,Fertiliser_Consumption_NPK,10.4
+Puducherry,2016-17,89,Fertiliser_Consumption_NPK,10.4
+Puducherry,2017-18,89,Fertiliser_Consumption_NPK,10.4
+Puducherry,2018-19,89,Fertiliser_Consumption_NPK,9.3
+Puducherry,2019-20,89,Fertiliser_Consumption_NPK,9.5
+Puducherry,2020-21,89,Fertiliser_Consumption_NPK,12.2
+Puducherry,2021-22,89,Fertiliser_Consumption_NPK,11.5
+Andaman & Nicobar Islands,2013-14,89,Fertiliser_Consumption_NPK,1.1
+Andaman & Nicobar Islands,2014-15,89,Fertiliser_Consumption_NPK,1.1
+Andaman & Nicobar Islands,2015-16,89,Fertiliser_Consumption_NPK,0.0
+Andaman & Nicobar Islands,2016-17,89,Fertiliser_Consumption_NPK,1.6
+Andaman & Nicobar Islands,2017-18,89,Fertiliser_Consumption_NPK,0.9
+Andaman & Nicobar Islands,2018-19,89,Fertiliser_Consumption_NPK,0.0
+Andaman & Nicobar Islands,2019-20,89,Fertiliser_Consumption_NPK,0.0
+Andaman & Nicobar Islands,2020-21,89,Fertiliser_Consumption_NPK,0.1
+Andaman & Nicobar Islands,2021-22,89,Fertiliser_Consumption_NPK,0.7
+Lakshadweep,2013-14,89,Fertiliser_Consumption_NPK,0.0
+Lakshadweep,2014-15,89,Fertiliser_Consumption_NPK,0.0
+Lakshadweep,2015-16,89,Fertiliser_Consumption_NPK,0.0
+Lakshadweep,2016-17,89,Fertiliser_Consumption_NPK,0.0
+Lakshadweep,2017-18,89,Fertiliser_Consumption_NPK,0.0
+Lakshadweep,2018-19,89,Fertiliser_Consumption_NPK,0.0
+Lakshadweep,2019-20,89,Fertiliser_Consumption_NPK,0.0
+Lakshadweep,2020-21,89,Fertiliser_Consumption_NPK,0.0
+Lakshadweep,2021-22,89,Fertiliser_Consumption_NPK,0.0
+Gujarat,2013-14,89,Fertiliser_Consumption_NPK,1564.9
+Gujarat,2014-15,89,Fertiliser_Consumption_NPK,1684.0
+Gujarat,2015-16,89,Fertiliser_Consumption_NPK,1516.8
+Gujarat,2016-17,89,Fertiliser_Consumption_NPK,1604.5
+Gujarat,2017-18,89,Fertiliser_Consumption_NPK,1841.6
+Gujarat,2018-19,89,Fertiliser_Consumption_NPK,1546.9
+Gujarat,2019-20,89,Fertiliser_Consumption_NPK,1791.7
+Gujarat,2020-21,89,Fertiliser_Consumption_NPK,1957.4
+Gujarat,2021-22,89,Fertiliser_Consumption_NPK,1699.8
+Madhya Pradesh,2013-14,89,Fertiliser_Consumption_NPK,1901.0
+Madhya Pradesh,2014-15,89,Fertiliser_Consumption_NPK,1796.9
+Madhya Pradesh,2015-16,89,Fertiliser_Consumption_NPK,1966.5
+Madhya Pradesh,2016-17,89,Fertiliser_Consumption_NPK,1981.9
+Madhya Pradesh,2017-18,89,Fertiliser_Consumption_NPK,2015.9
+Madhya Pradesh,2018-19,89,Fertiliser_Consumption_NPK,2621.1
+Madhya Pradesh,2019-20,89,Fertiliser_Consumption_NPK,2683.4
+Madhya Pradesh,2020-21,89,Fertiliser_Consumption_NPK,2893.5
+Madhya Pradesh,2021-22,89,Fertiliser_Consumption_NPK,2651.7
+Chhattisgarh,2013-14,89,Fertiliser_Consumption_NPK,567.7
+Chhattisgarh,2014-15,89,Fertiliser_Consumption_NPK,605.4
+Chhattisgarh,2015-16,89,Fertiliser_Consumption_NPK,637.6
+Chhattisgarh,2016-17,89,Fertiliser_Consumption_NPK,673.4
+Chhattisgarh,2017-18,89,Fertiliser_Consumption_NPK,550.5
+Chhattisgarh,2018-19,89,Fertiliser_Consumption_NPK,722.8
+Chhattisgarh,2019-20,89,Fertiliser_Consumption_NPK,737.4
+Chhattisgarh,2020-21,89,Fertiliser_Consumption_NPK,871.6
+Chhattisgarh,2021-22,89,Fertiliser_Consumption_NPK,758.0
+Maharashtra,2013-14,89,Fertiliser_Consumption_NPK,2784.8
+Maharashtra,2014-15,89,Fertiliser_Consumption_NPK,2814.7
+Maharashtra,2015-16,89,Fertiliser_Consumption_NPK,2724.6
+Maharashtra,2016-17,89,Fertiliser_Consumption_NPK,2806.1
+Maharashtra,2017-18,89,Fertiliser_Consumption_NPK,2943.5
+Maharashtra,2018-19,89,Fertiliser_Consumption_NPK,2788.7
+Maharashtra,2019-20,89,Fertiliser_Consumption_NPK,2941.3
+Maharashtra,2020-21,89,Fertiliser_Consumption_NPK,3413.6
+Maharashtra,2021-22,89,Fertiliser_Consumption_NPK,3135.6
+Rajasthan,2013-14,89,Fertiliser_Consumption_NPK,1217.6
+Rajasthan,2014-15,89,Fertiliser_Consumption_NPK,1299.0
+Rajasthan,2015-16,89,Fertiliser_Consumption_NPK,1530.6
+Rajasthan,2016-17,89,Fertiliser_Consumption_NPK,1354.7
+Rajasthan,2017-18,89,Fertiliser_Consumption_NPK,1204.0
+Rajasthan,2018-19,89,Fertiliser_Consumption_NPK,1524.6
+Rajasthan,2019-20,89,Fertiliser_Consumption_NPK,1717.6
+Rajasthan,2020-21,89,Fertiliser_Consumption_NPK,1777.0
+Rajasthan,2021-22,89,Fertiliser_Consumption_NPK,1611.4
+Goa,2013-14,89,Fertiliser_Consumption_NPK,5.2
+Goa,2014-15,89,Fertiliser_Consumption_NPK,4.5
+Goa,2015-16,89,Fertiliser_Consumption_NPK,4.8
+Goa,2016-17,89,Fertiliser_Consumption_NPK,4.6
+Goa,2017-18,89,Fertiliser_Consumption_NPK,3.9
+Goa,2018-19,89,Fertiliser_Consumption_NPK,4.0
+Goa,2019-20,89,Fertiliser_Consumption_NPK,3.2
+Goa,2020-21,89,Fertiliser_Consumption_NPK,3.7
+Goa,2021-22,89,Fertiliser_Consumption_NPK,3.2
+Daman & Diu,2013-14,89,Fertiliser_Consumption_NPK,0.1
+Daman & Diu,2014-15,89,Fertiliser_Consumption_NPK,0.0
+Daman & Diu,2015-16,89,Fertiliser_Consumption_NPK,0.2
+Daman & Diu,2016-17,89,Fertiliser_Consumption_NPK,0.2
+Daman & Diu,2017-18,89,Fertiliser_Consumption_NPK,0.1
+Daman & Diu,2018-19,89,Fertiliser_Consumption_NPK,0.0
+Daman & Diu,2019-20,89,Fertiliser_Consumption_NPK,0.0
+Daman & Diu,2020-21,89,Fertiliser_Consumption_NPK,0.0
+Daman & Diu,2021-22,89,Fertiliser_Consumption_NPK,0.0
+Dadra & Nagar Haveli,2013-14,89,Fertiliser_Consumption_NPK,0.9
+Dadra & Nagar Haveli,2014-15,89,Fertiliser_Consumption_NPK,1.1
+Dadra & Nagar Haveli,2015-16,89,Fertiliser_Consumption_NPK,0.9
+Dadra & Nagar Haveli,2016-17,89,Fertiliser_Consumption_NPK,1.2
+Dadra & Nagar Haveli,2017-18,89,Fertiliser_Consumption_NPK,0.5
+Dadra & Nagar Haveli,2018-19,89,Fertiliser_Consumption_NPK,0.2
+Dadra & Nagar Haveli,2019-20,89,Fertiliser_Consumption_NPK,0.0
+Dadra & Nagar Haveli,2020-21,89,Fertiliser_Consumption_NPK,0.9
+Dadra & Nagar Haveli,2021-22,89,Fertiliser_Consumption_NPK,0.4
+Haryana,2013-14,89,Fertiliser_Consumption_NPK,1164.7
+Haryana,2014-15,89,Fertiliser_Consumption_NPK,1303.2
+Haryana,2015-16,89,Fertiliser_Consumption_NPK,1347.4
+Haryana,2016-17,89,Fertiliser_Consumption_NPK,1342.9
+Haryana,2017-18,89,Fertiliser_Consumption_NPK,1375.8
+Haryana,2018-19,89,Fertiliser_Consumption_NPK,1438.0
+Haryana,2019-20,89,Fertiliser_Consumption_NPK,1410.5
+Haryana,2020-21,89,Fertiliser_Consumption_NPK,1464.7
+Haryana,2021-22,89,Fertiliser_Consumption_NPK,1374.0
+Punjab,2013-14,89,Fertiliser_Consumption_NPK,1713.3
+Punjab,2014-15,89,Fertiliser_Consumption_NPK,1717.8
+Punjab,2015-16,89,Fertiliser_Consumption_NPK,1943.7
+Punjab,2016-17,89,Fertiliser_Consumption_NPK,1818.5
+Punjab,2017-18,89,Fertiliser_Consumption_NPK,1674.5
+Punjab,2018-19,89,Fertiliser_Consumption_NPK,1875.9
+Punjab,2019-20,89,Fertiliser_Consumption_NPK,1905.9
+Punjab,2020-21,89,Fertiliser_Consumption_NPK,1933.3
+Punjab,2021-22,89,Fertiliser_Consumption_NPK,1989.8
+Uttar Pradesh,2013-14,89,Fertiliser_Consumption_NPK,3842.0
+Uttar Pradesh,2014-15,89,Fertiliser_Consumption_NPK,4271.6
+Uttar Pradesh,2015-16,89,Fertiliser_Consumption_NPK,4230.1
+Uttar Pradesh,2016-17,89,Fertiliser_Consumption_NPK,4261.1
+Uttar Pradesh,2017-18,89,Fertiliser_Consumption_NPK,4655.0
+Uttar Pradesh,2018-19,89,Fertiliser_Consumption_NPK,4476.1
+Uttar Pradesh,2019-20,89,Fertiliser_Consumption_NPK,5173.0
+Uttar Pradesh,2020-21,89,Fertiliser_Consumption_NPK,5629.0
+Uttar Pradesh,2021-22,89,Fertiliser_Consumption_NPK,5169.1
+Uttarakhand,2013-14,89,Fertiliser_Consumption_NPK,162.8
+Uttarakhand,2014-15,89,Fertiliser_Consumption_NPK,170.4
+Uttarakhand,2015-16,89,Fertiliser_Consumption_NPK,201.2
+Uttarakhand,2016-17,89,Fertiliser_Consumption_NPK,202.1
+Uttarakhand,2017-18,89,Fertiliser_Consumption_NPK,182.7
+Uttarakhand,2018-19,89,Fertiliser_Consumption_NPK,165.5
+Uttarakhand,2019-20,89,Fertiliser_Consumption_NPK,163.4
+Uttarakhand,2020-21,89,Fertiliser_Consumption_NPK,158.0
+Uttarakhand,2021-22,89,Fertiliser_Consumption_NPK,135.9
+Himachal Pradesh,2013-14,89,Fertiliser_Consumption_NPK,50.2
+Himachal Pradesh,2014-15,89,Fertiliser_Consumption_NPK,53.1
+Himachal Pradesh,2015-16,89,Fertiliser_Consumption_NPK,56.2
+Himachal Pradesh,2016-17,89,Fertiliser_Consumption_NPK,56.5
+Himachal Pradesh,2017-18,89,Fertiliser_Consumption_NPK,57.6
+Himachal Pradesh,2018-19,89,Fertiliser_Consumption_NPK,56.3
+Himachal Pradesh,2019-20,89,Fertiliser_Consumption_NPK,58.6
+Himachal Pradesh,2020-21,89,Fertiliser_Consumption_NPK,59.3
+Himachal Pradesh,2021-22,89,Fertiliser_Consumption_NPK,56.0
+Jammu & Kashmir,2013-14,89,Fertiliser_Consumption_NPK,103.4
+Jammu & Kashmir,2014-15,89,Fertiliser_Consumption_NPK,110.1
+Jammu & Kashmir,2015-16,89,Fertiliser_Consumption_NPK,122.3
+Jammu & Kashmir,2016-17,89,Fertiliser_Consumption_NPK,116.7
+Jammu & Kashmir,2017-18,89,Fertiliser_Consumption_NPK,134.7
+Jammu & Kashmir,2018-19,89,Fertiliser_Consumption_NPK,108.5
+Jammu & Kashmir,2019-20,89,Fertiliser_Consumption_NPK,78.8
+Jammu & Kashmir,2020-21,89,Fertiliser_Consumption_NPK,180.5
+Jammu & Kashmir,2021-22,89,Fertiliser_Consumption_NPK,120.1
+Delhi,2013-14,89,Fertiliser_Consumption_NPK,3.6
+Delhi,2014-15,89,Fertiliser_Consumption_NPK,8.6
+Delhi,2015-16,89,Fertiliser_Consumption_NPK,5.6
+Delhi,2016-17,89,Fertiliser_Consumption_NPK,7.9
+Delhi,2017-18,89,Fertiliser_Consumption_NPK,7.6
+Delhi,2018-19,89,Fertiliser_Consumption_NPK,11.6
+Delhi,2019-20,89,Fertiliser_Consumption_NPK,14.6
+Delhi,2020-21,89,Fertiliser_Consumption_NPK,12.7
+Delhi,2021-22,89,Fertiliser_Consumption_NPK,14.7
+Chandigarh,2013-14,89,Fertiliser_Consumption_NPK,0.0
+Chandigarh,2014-15,89,Fertiliser_Consumption_NPK,0.0
+Chandigarh,2015-16,89,Fertiliser_Consumption_NPK,0.0
+Chandigarh,2016-17,89,Fertiliser_Consumption_NPK,0.0
+Chandigarh,2017-18,89,Fertiliser_Consumption_NPK,0.0
+Chandigarh,2018-19,89,Fertiliser_Consumption_NPK,0.0
+Chandigarh,2019-20,89,Fertiliser_Consumption_NPK,0.0
+Chandigarh,2020-21,89,Fertiliser_Consumption_NPK,0.0
+Chandigarh,2021-22,89,Fertiliser_Consumption_NPK,0.0
+Bihar,2013-14,89,Fertiliser_Consumption_NPK,1260.8
+Bihar,2014-15,89,Fertiliser_Consumption_NPK,1346.2
+Bihar,2015-16,89,Fertiliser_Consumption_NPK,1696.9
+Bihar,2016-17,89,Fertiliser_Consumption_NPK,1508.6
+Bihar,2017-18,89,Fertiliser_Consumption_NPK,1657.6
+Bihar,2018-19,89,Fertiliser_Consumption_NPK,1676.3
+Bihar,2019-20,89,Fertiliser_Consumption_NPK,1820.5
+Bihar,2020-21,89,Fertiliser_Consumption_NPK,1911.0
+Bihar,2021-22,89,Fertiliser_Consumption_NPK,1613.5
+Jharkhand,2013-14,89,Fertiliser_Consumption_NPK,103.5
+Jharkhand,2014-15,89,Fertiliser_Consumption_NPK,114.6
+Jharkhand,2015-16,89,Fertiliser_Consumption_NPK,169.3
+Jharkhand,2016-17,89,Fertiliser_Consumption_NPK,148.9
+Jharkhand,2017-18,89,Fertiliser_Consumption_NPK,177.8
+Jharkhand,2018-19,89,Fertiliser_Consumption_NPK,171.2
+Jharkhand,2019-20,89,Fertiliser_Consumption_NPK,181.7
+Jharkhand,2020-21,89,Fertiliser_Consumption_NPK,208.2
+Jharkhand,2021-22,89,Fertiliser_Consumption_NPK,201.8
+Odisha,2013-14,89,Fertiliser_Consumption_NPK,487.1
+Odisha,2014-15,89,Fertiliser_Consumption_NPK,499.5
+Odisha,2015-16,89,Fertiliser_Consumption_NPK,519.7
+Odisha,2016-17,89,Fertiliser_Consumption_NPK,494.3
+Odisha,2017-18,89,Fertiliser_Consumption_NPK,536.9
+Odisha,2018-19,89,Fertiliser_Consumption_NPK,508.0
+Odisha,2019-20,89,Fertiliser_Consumption_NPK,574.4
+Odisha,2020-21,89,Fertiliser_Consumption_NPK,611.2
+Odisha,2021-22,89,Fertiliser_Consumption_NPK,587.4
+West Bengal,2013-14,89,Fertiliser_Consumption_NPK,1226.9
+West Bengal,2014-15,89,Fertiliser_Consumption_NPK,1466.9
+West Bengal,2015-16,89,Fertiliser_Consumption_NPK,1615.7
+West Bengal,2016-17,89,Fertiliser_Consumption_NPK,1502.0
+West Bengal,2017-18,89,Fertiliser_Consumption_NPK,1551.0
+West Bengal,2018-19,89,Fertiliser_Consumption_NPK,1494.3
+West Bengal,2019-20,89,Fertiliser_Consumption_NPK,1599.2
+West Bengal,2020-21,89,Fertiliser_Consumption_NPK,1737.6
+West Bengal,2021-22,89,Fertiliser_Consumption_NPK,1542.9
+Assam,2013-14,89,Fertiliser_Consumption_NPK,273.0
+Assam,2014-15,89,Fertiliser_Consumption_NPK,286.4
+Assam,2015-16,89,Fertiliser_Consumption_NPK,242.6
+Assam,2016-17,89,Fertiliser_Consumption_NPK,231.0
+Assam,2017-18,89,Fertiliser_Consumption_NPK,251.9
+Assam,2018-19,89,Fertiliser_Consumption_NPK,316.3
+Assam,2019-20,89,Fertiliser_Consumption_NPK,278.3
+Assam,2020-21,89,Fertiliser_Consumption_NPK,279.6
+Assam,2021-22,89,Fertiliser_Consumption_NPK,261.6
+Tripura,2013-14,89,Fertiliser_Consumption_NPK,22.9
+Tripura,2014-15,89,Fertiliser_Consumption_NPK,19.1
+Tripura,2015-16,89,Fertiliser_Consumption_NPK,22.3
+Tripura,2016-17,89,Fertiliser_Consumption_NPK,26.1
+Tripura,2017-18,89,Fertiliser_Consumption_NPK,15.7
+Tripura,2018-19,89,Fertiliser_Consumption_NPK,18.2
+Tripura,2019-20,89,Fertiliser_Consumption_NPK,19.6
+Tripura,2020-21,89,Fertiliser_Consumption_NPK,16.0
+Tripura,2021-22,89,Fertiliser_Consumption_NPK,19.4
+Manipur,2013-14,89,Fertiliser_Consumption_NPK,10.8
+Manipur,2014-15,89,Fertiliser_Consumption_NPK,15.1
+Manipur,2015-16,89,Fertiliser_Consumption_NPK,14.8
+Manipur,2016-17,89,Fertiliser_Consumption_NPK,12.6
+Manipur,2017-18,89,Fertiliser_Consumption_NPK,20.7
+Manipur,2018-19,89,Fertiliser_Consumption_NPK,11.7
+Manipur,2019-20,89,Fertiliser_Consumption_NPK,17.5
+Manipur,2020-21,89,Fertiliser_Consumption_NPK,14.9
+Manipur,2021-22,89,Fertiliser_Consumption_NPK,12.4
+Meghalaya,2013-14,89,Fertiliser_Consumption_NPK,4.8
+Meghalaya,2014-15,89,Fertiliser_Consumption_NPK,0.0
+Meghalaya,2015-16,89,Fertiliser_Consumption_NPK,0.0
+Meghalaya,2016-17,89,Fertiliser_Consumption_NPK,0.0
+Meghalaya,2017-18,89,Fertiliser_Consumption_NPK,0.0
+Meghalaya,2018-19,89,Fertiliser_Consumption_NPK,0.0
+Meghalaya,2019-20,89,Fertiliser_Consumption_NPK,0.0
+Meghalaya,2020-21,89,Fertiliser_Consumption_NPK,0.0
+Meghalaya,2021-22,89,Fertiliser_Consumption_NPK,0.0
+Nagaland,2013-14,89,Fertiliser_Consumption_NPK,2.1
+Nagaland,2014-15,89,Fertiliser_Consumption_NPK,2.6
+Nagaland,2015-16,89,Fertiliser_Consumption_NPK,2.5
+Nagaland,2016-17,89,Fertiliser_Consumption_NPK,2.6
+Nagaland,2017-18,89,Fertiliser_Consumption_NPK,2.7
+Nagaland,2018-19,89,Fertiliser_Consumption_NPK,0.2
+Nagaland,2019-20,89,Fertiliser_Consumption_NPK,0.0
+Nagaland,2020-21,89,Fertiliser_Consumption_NPK,0.3
+Nagaland,2021-22,89,Fertiliser_Consumption_NPK,0.2
+Arunachal Pradesh,2013-14,89,Fertiliser_Consumption_NPK,0.0
+Arunachal Pradesh,2014-15,89,Fertiliser_Consumption_NPK,0.0
+Arunachal Pradesh,2015-16,89,Fertiliser_Consumption_NPK,0.6
+Arunachal Pradesh,2016-17,89,Fertiliser_Consumption_NPK,0.0
+Arunachal Pradesh,2017-18,89,Fertiliser_Consumption_NPK,0.0
+Arunachal Pradesh,2018-19,89,Fertiliser_Consumption_NPK,0.0
+Arunachal Pradesh,2019-20,89,Fertiliser_Consumption_NPK,0.0
+Arunachal Pradesh,2020-21,89,Fertiliser_Consumption_NPK,0.0
+Arunachal Pradesh,2021-22,89,Fertiliser_Consumption_NPK,0.0
+Mizoram,2013-14,89,Fertiliser_Consumption_NPK,3.5
+Mizoram,2014-15,89,Fertiliser_Consumption_NPK,0.0
+Mizoram,2015-16,89,Fertiliser_Consumption_NPK,2.3
+Mizoram,2016-17,89,Fertiliser_Consumption_NPK,2.9
+Mizoram,2017-18,89,Fertiliser_Consumption_NPK,4.7
+Mizoram,2018-19,89,Fertiliser_Consumption_NPK,6.2
+Mizoram,2019-20,89,Fertiliser_Consumption_NPK,4.1
+Mizoram,2020-21,89,Fertiliser_Consumption_NPK,1.1
+Mizoram,2021-22,89,Fertiliser_Consumption_NPK,1.3
+Sikkim,2013-14,89,Fertiliser_Consumption_NPK,0.0
+Sikkim,2014-15,89,Fertiliser_Consumption_NPK,0.0
+Sikkim,2015-16,89,Fertiliser_Consumption_NPK,0.0
+Sikkim,2016-17,89,Fertiliser_Consumption_NPK,0.0
+Sikkim,2017-18,89,Fertiliser_Consumption_NPK,0.0
+Sikkim,2018-19,89,Fertiliser_Consumption_NPK,0.0
+Sikkim,2019-20,89,Fertiliser_Consumption_NPK,0.0
+Sikkim,2020-21,89,Fertiliser_Consumption_NPK,0.0
+Sikkim,2021-22,89,Fertiliser_Consumption_NPK,0.0

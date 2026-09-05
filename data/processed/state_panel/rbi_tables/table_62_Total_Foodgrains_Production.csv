@@ -1,0 +1,646 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,62,Total_Foodgrains_Production,13396.0
+Andhra Pradesh,2005-06,62,Total_Foodgrains_Production,16951.0
+Andhra Pradesh,2006-07,62,Total_Foodgrains_Production,16229.0
+Andhra Pradesh,2007-08,62,Total_Foodgrains_Production,19303.0
+Andhra Pradesh,2008-09,62,Total_Foodgrains_Production,20421.0
+Andhra Pradesh,2009-10,62,Total_Foodgrains_Production,15295.0
+Andhra Pradesh,2010-11,62,Total_Foodgrains_Production,11052.5
+Andhra Pradesh,2011-12,62,Total_Foodgrains_Production,10868.1
+Andhra Pradesh,2012-13,62,Total_Foodgrains_Production,10429.8
+Andhra Pradesh,2013-14,62,Total_Foodgrains_Production,10522.3
+Andhra Pradesh,2014-15,62,Total_Foodgrains_Production,10494.1
+Andhra Pradesh,2015-16,62,Total_Foodgrains_Production,10633.7
+Andhra Pradesh,2016-17,62,Total_Foodgrains_Production,10365.4
+Andhra Pradesh,2017-18,62,Total_Foodgrains_Production,12159.8
+Andhra Pradesh,2018-19,62,Total_Foodgrains_Production,10838.8
+Andhra Pradesh,2019-20,62,Total_Foodgrains_Production,12356.8
+Andhra Pradesh,2020-21,62,Total_Foodgrains_Production,11299.0
+Andhra Pradesh,2021-22,62,Total_Foodgrains_Production,11076.5
+Andhra Pradesh,2022-23,62,Total_Foodgrains_Production,12148.8
+Andhra Pradesh,2023-24,62,Total_Foodgrains_Production,10412.6
+Andhra Pradesh,2024-25,62,Total_Foodgrains_Production,11722.0
+Arunachal Pradesh,2004-05,62,Total_Foodgrains_Production,226.9
+Arunachal Pradesh,2005-06,62,Total_Foodgrains_Production,240.9
+Arunachal Pradesh,2006-07,62,Total_Foodgrains_Production,245.7
+Arunachal Pradesh,2007-08,62,Total_Foodgrains_Production,248.5
+Arunachal Pradesh,2008-09,62,Total_Foodgrains_Production,255.8
+Arunachal Pradesh,2009-10,62,Total_Foodgrains_Production,308.9
+Arunachal Pradesh,2010-11,62,Total_Foodgrains_Production,333.7
+Arunachal Pradesh,2011-12,62,Total_Foodgrains_Production,362.5
+Arunachal Pradesh,2012-13,62,Total_Foodgrains_Production,369.6
+Arunachal Pradesh,2013-14,62,Total_Foodgrains_Production,384.6
+Arunachal Pradesh,2014-15,62,Total_Foodgrains_Production,409.0
+Arunachal Pradesh,2015-16,62,Total_Foodgrains_Production,327.5
+Arunachal Pradesh,2016-17,62,Total_Foodgrains_Production,343.3
+Arunachal Pradesh,2017-18,62,Total_Foodgrains_Production,359.1
+Arunachal Pradesh,2018-19,62,Total_Foodgrains_Production,365.2
+Arunachal Pradesh,2019-20,62,Total_Foodgrains_Production,373.2
+Arunachal Pradesh,2020-21,62,Total_Foodgrains_Production,377.1
+Arunachal Pradesh,2021-22,62,Total_Foodgrains_Production,388.2
+Arunachal Pradesh,2022-23,62,Total_Foodgrains_Production,392.6
+Arunachal Pradesh,2023-24,62,Total_Foodgrains_Production,392.4
+Arunachal Pradesh,2024-25,62,Total_Foodgrains_Production,393.1
+Assam,2004-05,62,Total_Foodgrains_Production,3618.2
+Assam,2005-06,62,Total_Foodgrains_Production,3677.8
+Assam,2006-07,62,Total_Foodgrains_Production,3060.0
+Assam,2007-08,62,Total_Foodgrains_Production,3470.0
+Assam,2008-09,62,Total_Foodgrains_Production,4143.0
+Assam,2009-10,62,Total_Foodgrains_Production,4481.2
+Assam,2010-11,62,Total_Foodgrains_Production,4876.5
+Assam,2011-12,62,Total_Foodgrains_Production,4663.3
+Assam,2012-13,62,Total_Foodgrains_Production,5280.6
+Assam,2013-14,62,Total_Foodgrains_Production,5096.8
+Assam,2014-15,62,Total_Foodgrains_Production,5458.8
+Assam,2015-16,62,Total_Foodgrains_Production,5358.6
+Assam,2016-17,62,Total_Foodgrains_Production,4952.5
+Assam,2017-18,62,Total_Foodgrains_Production,5525.9
+Assam,2018-19,62,Total_Foodgrains_Production,5465.9
+Assam,2019-20,62,Total_Foodgrains_Production,5236.4
+Assam,2020-21,62,Total_Foodgrains_Production,5487.5
+Assam,2021-22,62,Total_Foodgrains_Production,4677.7
+Assam,2022-23,62,Total_Foodgrains_Production,5944.8
+Assam,2023-24,62,Total_Foodgrains_Production,6259.4
+Assam,2024-25,62,Total_Foodgrains_Production,5533.4
+Bihar,2004-05,62,Total_Foodgrains_Production,7704.4
+Bihar,2005-06,62,Total_Foodgrains_Production,8586.8
+Bihar,2006-07,62,Total_Foodgrains_Production,11098.6
+Bihar,2007-08,62,Total_Foodgrains_Production,10864.1
+Bihar,2008-09,62,Total_Foodgrains_Production,12220.7
+Bihar,2009-10,62,Total_Foodgrains_Production,10150.6
+Bihar,2010-11,62,Total_Foodgrains_Production,9221.9
+Bihar,2011-12,62,Total_Foodgrains_Production,14047.2
+Bihar,2012-13,62,Total_Foodgrains_Production,15939.6
+Bihar,2013-14,62,Total_Foodgrains_Production,12905.8
+Bihar,2014-15,62,Total_Foodgrains_Production,13208.6
+Bihar,2015-16,62,Total_Foodgrains_Production,14507.9
+Bihar,2016-17,62,Total_Foodgrains_Production,16530.8
+Bihar,2017-18,62,Total_Foodgrains_Production,17036.9
+Bihar,2018-19,62,Total_Foodgrains_Production,15600.1
+Bihar,2019-20,62,Total_Foodgrains_Production,14233.0
+Bihar,2020-21,62,Total_Foodgrains_Production,15382.6
+Bihar,2021-22,62,Total_Foodgrains_Production,17018.2
+Bihar,2022-23,62,Total_Foodgrains_Production,18342.7
+Bihar,2023-24,62,Total_Foodgrains_Production,21200.8
+Bihar,2024-25,62,Total_Foodgrains_Production,21373.3
+Chhattisgarh,2004-05,62,Total_Foodgrains_Production,5023.0
+Chhattisgarh,2005-06,62,Total_Foodgrains_Production,5714.8
+Chhattisgarh,2006-07,62,Total_Foodgrains_Production,5805.0
+Chhattisgarh,2007-08,62,Total_Foodgrains_Production,6291.9
+Chhattisgarh,2008-09,62,Total_Foodgrains_Production,5167.3
+Chhattisgarh,2009-10,62,Total_Foodgrains_Production,4902.8
+Chhattisgarh,2010-11,62,Total_Foodgrains_Production,7055.2
+Chhattisgarh,2011-12,62,Total_Foodgrains_Production,6870.5
+Chhattisgarh,2012-13,62,Total_Foodgrains_Production,7643.6
+Chhattisgarh,2013-14,62,Total_Foodgrains_Production,7598.0
+Chhattisgarh,2014-15,62,Total_Foodgrains_Production,7463.1
+Chhattisgarh,2015-16,62,Total_Foodgrains_Production,6654.3
+Chhattisgarh,2016-17,62,Total_Foodgrains_Production,9324.1
+Chhattisgarh,2017-18,62,Total_Foodgrains_Production,5958.7
+Chhattisgarh,2018-19,62,Total_Foodgrains_Production,7558.6
+Chhattisgarh,2019-20,62,Total_Foodgrains_Production,7501.8
+Chhattisgarh,2020-21,62,Total_Foodgrains_Production,8225.5
+Chhattisgarh,2021-22,62,Total_Foodgrains_Production,9023.6
+Chhattisgarh,2022-23,62,Total_Foodgrains_Production,10893.5
+Chhattisgarh,2023-24,62,Total_Foodgrains_Production,10619.5
+Chhattisgarh,2024-25,62,Total_Foodgrains_Production,11384.2
+Delhi,2004-05,62,Total_Foodgrains_Production,102.1
+Delhi,2005-06,62,Total_Foodgrains_Production,117.8
+Delhi,2006-07,62,Total_Foodgrains_Production,123.6
+Delhi,2007-08,62,Total_Foodgrains_Production,119.9
+Delhi,2008-09,62,Total_Foodgrains_Production,118.2
+Delhi,2009-10,62,Total_Foodgrains_Production,125.8
+Delhi,2010-11,62,Total_Foodgrains_Production,153.3
+Delhi,2011-12,62,Total_Foodgrains_Production,112.0
+Delhi,2012-13,62,Total_Foodgrains_Production,90.3
+Delhi,2013-14,62,Total_Foodgrains_Production,122.1
+Delhi,2014-15,62,Total_Foodgrains_Production,118.1
+Delhi,2015-16,62,Total_Foodgrains_Production,111.7
+Delhi,2016-17,62,Total_Foodgrains_Production,111.2
+Delhi,2017-18,62,Total_Foodgrains_Production,106.9
+Delhi,2018-19,62,Total_Foodgrains_Production,106.3
+Delhi,2019-20,62,Total_Foodgrains_Production,106.2
+Delhi,2020-21,62,Total_Foodgrains_Production,111.8
+Delhi,2021-22,62,Total_Foodgrains_Production,107.2
+Delhi,2022-23,62,Total_Foodgrains_Production,105.9
+Delhi,2023-24,62,Total_Foodgrains_Production,104.8
+Delhi,2024-25,62,Total_Foodgrains_Production,105.9
+Goa,2004-05,62,Total_Foodgrains_Production,155.7
+Goa,2005-06,62,Total_Foodgrains_Production,159.8
+Goa,2006-07,62,Total_Foodgrains_Production,147.4
+Goa,2007-08,62,Total_Foodgrains_Production,133.6
+Goa,2008-09,62,Total_Foodgrains_Production,134.3
+Goa,2009-10,62,Total_Foodgrains_Production,109.9
+Goa,2010-11,62,Total_Foodgrains_Production,123.1
+Goa,2011-12,62,Total_Foodgrains_Production,130.2
+Goa,2012-13,62,Total_Foodgrains_Production,131.8
+Goa,2013-14,62,Total_Foodgrains_Production,135.5
+Goa,2014-15,62,Total_Foodgrains_Production,128.6
+Goa,2015-16,62,Total_Foodgrains_Production,115.3
+Goa,2016-17,62,Total_Foodgrains_Production,119.1
+Goa,2017-18,62,Total_Foodgrains_Production,107.8
+Goa,2018-19,62,Total_Foodgrains_Production,105.2
+Goa,2019-20,62,Total_Foodgrains_Production,94.2
+Goa,2020-21,62,Total_Foodgrains_Production,91.1
+Goa,2021-22,62,Total_Foodgrains_Production,93.5
+Goa,2022-23,62,Total_Foodgrains_Production,91.6
+Goa,2023-24,62,Total_Foodgrains_Production,98.5
+Goa,2024-25,62,Total_Foodgrains_Production,80.1
+Gujarat,2004-05,62,Total_Foodgrains_Production,5257.5
+Gujarat,2005-06,62,Total_Foodgrains_Production,6154.0
+Gujarat,2006-07,62,Total_Foodgrains_Production,6499.0
+Gujarat,2007-08,62,Total_Foodgrains_Production,8206.0
+Gujarat,2008-09,62,Total_Foodgrains_Production,6481.0
+Gujarat,2009-10,62,Total_Foodgrains_Production,5761.0
+Gujarat,2010-11,62,Total_Foodgrains_Production,8341.6
+Gujarat,2011-12,62,Total_Foodgrains_Production,8874.3
+Gujarat,2012-13,62,Total_Foodgrains_Production,7056.2
+Gujarat,2013-14,62,Total_Foodgrains_Production,9179.6
+Gujarat,2014-15,62,Total_Foodgrains_Production,7109.3
+Gujarat,2015-16,62,Total_Foodgrains_Production,6279.3
+Gujarat,2016-17,62,Total_Foodgrains_Production,7422.0
+Gujarat,2017-18,62,Total_Foodgrains_Production,7664.7
+Gujarat,2018-19,62,Total_Foodgrains_Production,6803.6
+Gujarat,2019-20,62,Total_Foodgrains_Production,8153.4
+Gujarat,2020-21,62,Total_Foodgrains_Production,8973.9
+Gujarat,2021-22,62,Total_Foodgrains_Production,10130.7
+Gujarat,2022-23,62,Total_Foodgrains_Production,9874.6
+Gujarat,2023-24,62,Total_Foodgrains_Production,10045.4
+Gujarat,2024-25,62,Total_Foodgrains_Production,10476.1
+Haryana,2004-05,62,Total_Foodgrains_Production,13109.0
+Haryana,2005-06,62,Total_Foodgrains_Production,12998.1
+Haryana,2006-07,62,Total_Foodgrains_Production,14763.0
+Haryana,2007-08,62,Total_Foodgrains_Production,15307.8
+Haryana,2008-09,62,Total_Foodgrains_Production,15613.4
+Haryana,2009-10,62,Total_Foodgrains_Production,15357.0
+Haryana,2010-11,62,Total_Foodgrains_Production,16629.5
+Haryana,2011-12,62,Total_Foodgrains_Production,17958.7
+Haryana,2012-13,62,Total_Foodgrains_Production,16226.4
+Haryana,2013-14,62,Total_Foodgrains_Production,16974.1
+Haryana,2014-15,62,Total_Foodgrains_Production,15235.1
+Haryana,2015-16,62,Total_Foodgrains_Production,16358.7
+Haryana,2016-17,62,Total_Foodgrains_Production,17162.7
+Haryana,2017-18,62,Total_Foodgrains_Production,16191.8
+Haryana,2018-19,62,Total_Foodgrains_Production,18145.0
+Haryana,2019-20,62,Total_Foodgrains_Production,17863.5
+Haryana,2020-21,62,Total_Foodgrains_Production,18309.5
+Haryana,2021-22,62,Total_Foodgrains_Production,16329.7
+Haryana,2022-23,62,Total_Foodgrains_Production,17393.5
+Haryana,2023-24,62,Total_Foodgrains_Production,18439.3
+Haryana,2024-25,62,Total_Foodgrains_Production,18902.0
+Himachal Pradesh,2004-05,62,Total_Foodgrains_Production,1612.3
+Himachal Pradesh,2005-06,62,Total_Foodgrains_Production,1381.4
+Himachal Pradesh,2006-07,62,Total_Foodgrains_Production,1382.2
+Himachal Pradesh,2007-08,62,Total_Foodgrains_Production,1558.1
+Himachal Pradesh,2008-09,62,Total_Foodgrains_Production,1401.2
+Himachal Pradesh,2009-10,62,Total_Foodgrains_Production,1017.2
+Himachal Pradesh,2010-11,62,Total_Foodgrains_Production,1421.1
+Himachal Pradesh,2011-12,62,Total_Foodgrains_Production,1510.3
+Himachal Pradesh,2012-13,62,Total_Foodgrains_Production,1480.7
+Himachal Pradesh,2013-14,62,Total_Foodgrains_Production,1528.4
+Himachal Pradesh,2014-15,62,Total_Foodgrains_Production,1432.0
+Himachal Pradesh,2015-16,62,Total_Foodgrains_Production,1615.0
+Himachal Pradesh,2016-17,62,Total_Foodgrains_Production,1740.6
+Himachal Pradesh,2017-18,62,Total_Foodgrains_Production,1488.3
+Himachal Pradesh,2018-19,62,Total_Foodgrains_Production,1501.1
+Himachal Pradesh,2019-20,62,Total_Foodgrains_Production,1530.1
+Himachal Pradesh,2020-21,62,Total_Foodgrains_Production,1535.5
+Himachal Pradesh,2021-22,62,Total_Foodgrains_Production,1606.5
+Himachal Pradesh,2022-23,62,Total_Foodgrains_Production,1479.1
+Himachal Pradesh,2023-24,62,Total_Foodgrains_Production,1647.5
+Himachal Pradesh,2024-25,62,Total_Foodgrains_Production,1568.5
+Jammu & Kashmir,2004-05,62,Total_Foodgrains_Production,1499.0
+Jammu & Kashmir,2005-06,62,Total_Foodgrains_Production,1482.0
+Jammu & Kashmir,2006-07,62,Total_Foodgrains_Production,1572.7
+Jammu & Kashmir,2007-08,62,Total_Foodgrains_Production,1572.1
+Jammu & Kashmir,2008-09,62,Total_Foodgrains_Production,1721.3
+Jammu & Kashmir,2009-10,62,Total_Foodgrains_Production,1314.2
+Jammu & Kashmir,2010-11,62,Total_Foodgrains_Production,1521.6
+Jammu & Kashmir,2011-12,62,Total_Foodgrains_Production,1586.3
+Jammu & Kashmir,2012-13,62,Total_Foodgrains_Production,1831.9
+Jammu & Kashmir,2013-14,62,Total_Foodgrains_Production,1777.9
+Jammu & Kashmir,2014-15,62,Total_Foodgrains_Production,1220.3
+Jammu & Kashmir,2015-16,62,Total_Foodgrains_Production,1732.6
+Jammu & Kashmir,2016-17,62,Total_Foodgrains_Production,1618.9
+Jammu & Kashmir,2017-18,62,Total_Foodgrains_Production,1571.1
+Jammu & Kashmir,2018-19,62,Total_Foodgrains_Production,1892.5
+Jammu & Kashmir,2019-20,62,Total_Foodgrains_Production,1671.2
+Jammu & Kashmir,2020-21,62,Total_Foodgrains_Production,1595.0
+Jammu & Kashmir,2021-22,62,Total_Foodgrains_Production,1678.5
+Jammu & Kashmir,2022-23,62,Total_Foodgrains_Production,1762.7
+Jammu & Kashmir,2023-24,62,Total_Foodgrains_Production,1844.5
+Jammu & Kashmir,2024-25,62,Total_Foodgrains_Production,1844.9
+Jharkhand,2004-05,62,Total_Foodgrains_Production,2311.1
+Jharkhand,2005-06,62,Total_Foodgrains_Production,2067.6
+Jharkhand,2006-07,62,Total_Foodgrains_Production,3686.8
+Jharkhand,2007-08,62,Total_Foodgrains_Production,4164.5
+Jharkhand,2008-09,62,Total_Foodgrains_Production,4188.7
+Jharkhand,2009-10,62,Total_Foodgrains_Production,2152.2
+Jharkhand,2010-11,62,Total_Foodgrains_Production,1876.6
+Jharkhand,2011-12,62,Total_Foodgrains_Production,4175.3
+Jharkhand,2012-13,62,Total_Foodgrains_Production,4557.5
+Jharkhand,2013-14,62,Total_Foodgrains_Production,4285.7
+Jharkhand,2014-15,62,Total_Foodgrains_Production,4777.0
+Jharkhand,2015-16,62,Total_Foodgrains_Production,4092.1
+Jharkhand,2016-17,62,Total_Foodgrains_Production,5664.4
+Jharkhand,2017-18,62,Total_Foodgrains_Production,6001.3
+Jharkhand,2018-19,62,Total_Foodgrains_Production,4399.7
+Jharkhand,2019-20,62,Total_Foodgrains_Production,4792.3
+Jharkhand,2020-21,62,Total_Foodgrains_Production,4871.7
+Jharkhand,2021-22,62,Total_Foodgrains_Production,5001.5
+Jharkhand,2022-23,62,Total_Foodgrains_Production,3165.7
+Jharkhand,2023-24,62,Total_Foodgrains_Production,3357.9
+Jharkhand,2024-25,62,Total_Foodgrains_Production,5041.6
+Karnataka,2004-05,62,Total_Foodgrains_Production,10495.0
+Karnataka,2005-06,62,Total_Foodgrains_Production,13489.0
+Karnataka,2006-07,62,Total_Foodgrains_Production,9599.0
+Karnataka,2007-08,62,Total_Foodgrains_Production,12186.0
+Karnataka,2008-09,62,Total_Foodgrains_Production,11275.0
+Karnataka,2009-10,62,Total_Foodgrains_Production,10955.0
+Karnataka,2010-11,62,Total_Foodgrains_Production,13877.3
+Karnataka,2011-12,62,Total_Foodgrains_Production,15133.1
+Karnataka,2012-13,62,Total_Foodgrains_Production,10863.3
+Karnataka,2013-14,62,Total_Foodgrains_Production,12208.9
+Karnataka,2014-15,62,Total_Foodgrains_Production,12138.0
+Karnataka,2015-16,62,Total_Foodgrains_Production,9924.0
+Karnataka,2016-17,62,Total_Foodgrains_Production,9794.7
+Karnataka,2017-18,62,Total_Foodgrains_Production,11791.2
+Karnataka,2018-19,62,Total_Foodgrains_Production,10888.4
+Karnataka,2019-20,62,Total_Foodgrains_Production,12783.7
+Karnataka,2020-21,62,Total_Foodgrains_Production,14550.1
+Karnataka,2021-22,62,Total_Foodgrains_Production,13776.5
+Karnataka,2022-23,62,Total_Foodgrains_Production,14180.8
+Karnataka,2023-24,62,Total_Foodgrains_Production,12776.8
+Karnataka,2024-25,62,Total_Foodgrains_Production,14631.0
+Kerala,2004-05,62,Total_Foodgrains_Production,670.9
+Kerala,2005-06,62,Total_Foodgrains_Production,638.3
+Kerala,2006-07,62,Total_Foodgrains_Production,640.5
+Kerala,2007-08,62,Total_Foodgrains_Production,539.7
+Kerala,2008-09,62,Total_Foodgrains_Production,598.3
+Kerala,2009-10,62,Total_Foodgrains_Production,610.8
+Kerala,2010-11,62,Total_Foodgrains_Production,527.1
+Kerala,2011-12,62,Total_Foodgrains_Production,572.1
+Kerala,2012-13,62,Total_Foodgrains_Production,511.8
+Kerala,2013-14,62,Total_Foodgrains_Production,512.4
+Kerala,2014-15,62,Total_Foodgrains_Production,563.8
+Kerala,2015-16,62,Total_Foodgrains_Production,553.8
+Kerala,2016-17,62,Total_Foodgrains_Production,439.0
+Kerala,2017-18,62,Total_Foodgrains_Production,523.8
+Kerala,2018-19,62,Total_Foodgrains_Production,581.2
+Kerala,2019-20,62,Total_Foodgrains_Production,608.4
+Kerala,2020-21,62,Total_Foodgrains_Production,636.4
+Kerala,2021-22,62,Total_Foodgrains_Production,489.3
+Kerala,2022-23,62,Total_Foodgrains_Production,598.0
+Kerala,2023-24,62,Total_Foodgrains_Production,501.9
+Kerala,2024-25,62,Total_Foodgrains_Production,517.6
+Madhya Pradesh,2004-05,62,Total_Foodgrains_Production,14104.8
+Madhya Pradesh,2005-06,62,Total_Foodgrains_Production,13195.0
+Madhya Pradesh,2006-07,62,Total_Foodgrains_Production,13747.0
+Madhya Pradesh,2007-08,62,Total_Foodgrains_Production,12070.5
+Madhya Pradesh,2008-09,62,Total_Foodgrains_Production,13914.6
+Madhya Pradesh,2009-10,62,Total_Foodgrains_Production,16016.4
+Madhya Pradesh,2010-11,62,Total_Foodgrains_Production,14952.1
+Madhya Pradesh,2011-12,62,Total_Foodgrains_Production,20394.8
+Madhya Pradesh,2012-13,62,Total_Foodgrains_Production,23690.4
+Madhya Pradesh,2013-14,62,Total_Foodgrains_Production,22978.0
+Madhya Pradesh,2014-15,62,Total_Foodgrains_Production,28687.0
+Madhya Pradesh,2015-16,62,Total_Foodgrains_Production,30385.6
+Madhya Pradesh,2016-17,62,Total_Foodgrains_Production,33224.4
+Madhya Pradesh,2017-18,62,Total_Foodgrains_Production,33450.4
+Madhya Pradesh,2018-19,62,Total_Foodgrains_Production,32208.7
+Madhya Pradesh,2019-20,62,Total_Foodgrains_Production,33523.1
+Madhya Pradesh,2020-21,62,Total_Foodgrains_Production,32844.2
+Madhya Pradesh,2021-22,62,Total_Foodgrains_Production,39308.3
+Madhya Pradesh,2022-23,62,Total_Foodgrains_Production,41932.3
+Madhya Pradesh,2023-24,62,Total_Foodgrains_Production,41468.5
+Madhya Pradesh,2024-25,62,Total_Foodgrains_Production,46631.3
+Maharashtra,2004-05,62,Total_Foodgrains_Production,10540.7
+Maharashtra,2005-06,62,Total_Foodgrains_Production,12087.0
+Maharashtra,2006-07,62,Total_Foodgrains_Production,12645.1
+Maharashtra,2007-08,62,Total_Foodgrains_Production,15191.7
+Maharashtra,2008-09,62,Total_Foodgrains_Production,11427.6
+Maharashtra,2009-10,62,Total_Foodgrains_Production,12586.3
+Maharashtra,2010-11,62,Total_Foodgrains_Production,15420.4
+Maharashtra,2011-12,62,Total_Foodgrains_Production,12544.0
+Maharashtra,2012-13,62,Total_Foodgrains_Production,10973.3
+Maharashtra,2013-14,62,Total_Foodgrains_Production,13846.2
+Maharashtra,2014-15,62,Total_Foodgrains_Production,11311.9
+Maharashtra,2015-16,62,Total_Foodgrains_Production,8754.4
+Maharashtra,2016-17,62,Total_Foodgrains_Production,15331.6
+Maharashtra,2017-18,62,Total_Foodgrains_Production,13246.7
+Maharashtra,2018-19,62,Total_Foodgrains_Production,10304.1
+Maharashtra,2019-20,62,Total_Foodgrains_Production,12819.9
+Maharashtra,2020-21,62,Total_Foodgrains_Production,15766.1
+Maharashtra,2021-22,62,Total_Foodgrains_Production,16656.4
+Maharashtra,2022-23,62,Total_Foodgrains_Production,16725.9
+Maharashtra,2023-24,62,Total_Foodgrains_Production,14508.9
+Maharashtra,2024-25,62,Total_Foodgrains_Production,18468.5
+Manipur,2004-05,62,Total_Foodgrains_Production,447.8
+Manipur,2005-06,62,Total_Foodgrains_Production,398.5
+Manipur,2006-07,62,Total_Foodgrains_Production,398.5
+Manipur,2007-08,62,Total_Foodgrains_Production,421.8
+Manipur,2008-09,62,Total_Foodgrains_Production,415.0
+Manipur,2009-10,62,Total_Foodgrains_Production,338.9
+Manipur,2010-11,62,Total_Foodgrains_Production,592.7
+Manipur,2011-12,62,Total_Foodgrains_Production,669.1
+Manipur,2012-13,62,Total_Foodgrains_Production,336.7
+Manipur,2013-14,62,Total_Foodgrains_Production,492.6
+Manipur,2014-15,62,Total_Foodgrains_Production,429.3
+Manipur,2015-16,62,Total_Foodgrains_Production,435.7
+Manipur,2016-17,62,Total_Foodgrains_Production,525.1
+Manipur,2017-18,62,Total_Foodgrains_Production,706.5
+Manipur,2018-19,62,Total_Foodgrains_Production,495.0
+Manipur,2019-20,62,Total_Foodgrains_Production,421.4
+Manipur,2020-21,62,Total_Foodgrains_Production,697.1
+Manipur,2021-22,62,Total_Foodgrains_Production,655.2
+Manipur,2022-23,62,Total_Foodgrains_Production,443.3
+Manipur,2023-24,62,Total_Foodgrains_Production,437.7
+Manipur,2024-25,62,Total_Foodgrains_Production,498.7
+Meghalaya,2004-05,62,Total_Foodgrains_Production,225.2
+Meghalaya,2005-06,62,Total_Foodgrains_Production,183.1
+Meghalaya,2006-07,62,Total_Foodgrains_Production,231.5
+Meghalaya,2007-08,62,Total_Foodgrains_Production,231.8
+Meghalaya,2008-09,62,Total_Foodgrains_Production,236.3
+Meghalaya,2009-10,62,Total_Foodgrains_Production,239.2
+Meghalaya,2010-11,62,Total_Foodgrains_Production,239.0
+Meghalaya,2011-12,62,Total_Foodgrains_Production,249.1
+Meghalaya,2012-13,62,Total_Foodgrains_Production,265.0
+Meghalaya,2013-14,62,Total_Foodgrains_Production,320.0
+Meghalaya,2014-15,62,Total_Foodgrains_Production,353.8
+Meghalaya,2015-16,62,Total_Foodgrains_Production,357.7
+Meghalaya,2016-17,62,Total_Foodgrains_Production,260.1
+Meghalaya,2017-18,62,Total_Foodgrains_Production,361.8
+Meghalaya,2018-19,62,Total_Foodgrains_Production,260.7
+Meghalaya,2019-20,62,Total_Foodgrains_Production,360.8
+Meghalaya,2020-21,62,Total_Foodgrains_Production,353.3
+Meghalaya,2021-22,62,Total_Foodgrains_Production,355.0
+Meghalaya,2022-23,62,Total_Foodgrains_Production,339.2
+Meghalaya,2023-24,62,Total_Foodgrains_Production,324.6
+Meghalaya,2024-25,62,Total_Foodgrains_Production,339.2
+Mizoram,2004-05,62,Total_Foodgrains_Production,124.6
+Mizoram,2005-06,62,Total_Foodgrains_Production,129.8
+Mizoram,2006-07,62,Total_Foodgrains_Production,56.3
+Mizoram,2007-08,62,Total_Foodgrains_Production,19.1
+Mizoram,2008-09,62,Total_Foodgrains_Production,58.9
+Mizoram,2009-10,62,Total_Foodgrains_Production,62.3
+Mizoram,2010-11,62,Total_Foodgrains_Production,66.9
+Mizoram,2011-12,62,Total_Foodgrains_Production,68.0
+Mizoram,2012-13,62,Total_Foodgrains_Production,41.8
+Mizoram,2013-14,62,Total_Foodgrains_Production,72.8
+Mizoram,2014-15,62,Total_Foodgrains_Production,75.3
+Mizoram,2015-16,62,Total_Foodgrains_Production,77.4
+Mizoram,2016-17,62,Total_Foodgrains_Production,75.2
+Mizoram,2017-18,62,Total_Foodgrains_Production,74.2
+Mizoram,2018-19,62,Total_Foodgrains_Production,76.9
+Mizoram,2019-20,62,Total_Foodgrains_Production,76.5
+Mizoram,2020-21,62,Total_Foodgrains_Production,80.7
+Mizoram,2021-22,62,Total_Foodgrains_Production,77.9
+Mizoram,2022-23,62,Total_Foodgrains_Production,63.1
+Mizoram,2023-24,62,Total_Foodgrains_Production,54.9
+Mizoram,2024-25,62,Total_Foodgrains_Production,46.6
+Nagaland,2004-05,62,Total_Foodgrains_Production,403.5
+Nagaland,2005-06,62,Total_Foodgrains_Production,424.8
+Nagaland,2006-07,62,Total_Foodgrains_Production,436.2
+Nagaland,2007-08,62,Total_Foodgrains_Production,473.2
+Nagaland,2008-09,62,Total_Foodgrains_Production,514.2
+Nagaland,2009-10,62,Total_Foodgrains_Production,354.2
+Nagaland,2010-11,62,Total_Foodgrains_Production,568.3
+Nagaland,2011-12,62,Total_Foodgrains_Production,566.5
+Nagaland,2012-13,62,Total_Foodgrains_Production,600.6
+Nagaland,2013-14,62,Total_Foodgrains_Production,624.6
+Nagaland,2014-15,62,Total_Foodgrains_Production,649.6
+Nagaland,2015-16,62,Total_Foodgrains_Production,515.8
+Nagaland,2016-17,62,Total_Foodgrains_Production,536.9
+Nagaland,2017-18,62,Total_Foodgrains_Production,552.3
+Nagaland,2018-19,62,Total_Foodgrains_Production,558.1
+Nagaland,2019-20,62,Total_Foodgrains_Production,565.4
+Nagaland,2020-21,62,Total_Foodgrains_Production,570.2
+Nagaland,2021-22,62,Total_Foodgrains_Production,253.4
+Nagaland,2022-23,62,Total_Foodgrains_Production,513.9
+Nagaland,2023-24,62,Total_Foodgrains_Production,519.3
+Nagaland,2024-25,62,Total_Foodgrains_Production,493.6
+Odisha,2004-05,62,Total_Foodgrains_Production,6889.7
+Odisha,2005-06,62,Total_Foodgrains_Production,7359.7
+Odisha,2006-07,62,Total_Foodgrains_Production,7344.7
+Odisha,2007-08,62,Total_Foodgrains_Production,8143.3
+Odisha,2008-09,62,Total_Foodgrains_Production,7399.1
+Odisha,2009-10,62,Total_Foodgrains_Production,7552.9
+Odisha,2010-11,62,Total_Foodgrains_Production,7619.3
+Odisha,2011-12,62,Total_Foodgrains_Production,6412.3
+Odisha,2012-13,62,Total_Foodgrains_Production,8008.8
+Odisha,2013-14,62,Total_Foodgrains_Production,8359.4
+Odisha,2014-15,62,Total_Foodgrains_Production,8980.5
+Odisha,2015-16,62,Total_Foodgrains_Production,6408.1
+Odisha,2016-17,62,Total_Foodgrains_Production,9061.3
+Odisha,2017-18,62,Total_Foodgrains_Production,7151.3
+Odisha,2018-19,62,Total_Foodgrains_Production,8315.2
+Odisha,2019-20,62,Total_Foodgrains_Production,9030.1
+Odisha,2020-21,62,Total_Foodgrains_Production,9523.6
+Odisha,2021-22,62,Total_Foodgrains_Production,10125.2
+Odisha,2022-23,62,Total_Foodgrains_Production,9072.9
+Odisha,2023-24,62,Total_Foodgrains_Production,9432.4
+Odisha,2024-25,62,Total_Foodgrains_Production,10397.1
+Puducherry,2004-05,62,Total_Foodgrains_Production,67.6
+Puducherry,2005-06,62,Total_Foodgrains_Production,61.9
+Puducherry,2006-07,62,Total_Foodgrains_Production,61.9
+Puducherry,2007-08,62,Total_Foodgrains_Production,54.1
+Puducherry,2008-09,62,Total_Foodgrains_Production,51.5
+Puducherry,2009-10,62,Total_Foodgrains_Production,52.9
+Puducherry,2010-11,62,Total_Foodgrains_Production,53.4
+Puducherry,2011-12,62,Total_Foodgrains_Production,43.2
+Puducherry,2012-13,62,Total_Foodgrains_Production,47.5
+Puducherry,2013-14,62,Total_Foodgrains_Production,50.4
+Puducherry,2014-15,62,Total_Foodgrains_Production,54.0
+Puducherry,2015-16,62,Total_Foodgrains_Production,44.7
+Puducherry,2016-17,62,Total_Foodgrains_Production,52.8
+Puducherry,2017-18,62,Total_Foodgrains_Production,44.1
+Puducherry,2018-19,62,Total_Foodgrains_Production,64.3
+Puducherry,2019-20,62,Total_Foodgrains_Production,60.3
+Puducherry,2020-21,62,Total_Foodgrains_Production,50.7
+Puducherry,2021-22,62,Total_Foodgrains_Production,57.8
+Puducherry,2022-23,62,Total_Foodgrains_Production,66.4
+Puducherry,2023-24,62,Total_Foodgrains_Production,62.5
+Puducherry,2024-25,62,Total_Foodgrains_Production,48.1
+Punjab,2004-05,62,Total_Foodgrains_Production,25670.7
+Punjab,2005-06,62,Total_Foodgrains_Production,25184.2
+Punjab,2006-07,62,Total_Foodgrains_Production,25313.1
+Punjab,2007-08,62,Total_Foodgrains_Production,26815.1
+Punjab,2008-09,62,Total_Foodgrains_Production,27329.8
+Punjab,2009-10,62,Total_Foodgrains_Production,26950.1
+Punjab,2010-11,62,Total_Foodgrains_Production,27866.3
+Punjab,2011-12,62,Total_Foodgrains_Production,28389.1
+Punjab,2012-13,62,Total_Foodgrains_Production,28543.0
+Punjab,2013-14,62,Total_Foodgrains_Production,29480.4
+Punjab,2014-15,62,Total_Foodgrains_Production,26698.0
+Punjab,2015-16,62,Total_Foodgrains_Production,28400.8
+Punjab,2016-17,62,Total_Foodgrains_Production,28536.9
+Punjab,2017-18,62,Total_Foodgrains_Production,31691.9
+Punjab,2018-19,62,Total_Foodgrains_Production,31532.4
+Punjab,2019-20,62,Total_Foodgrains_Production,29857.3
+Punjab,2020-21,62,Total_Foodgrains_Production,30418.3
+Punjab,2021-22,62,Total_Foodgrains_Production,28252.5
+Punjab,2022-23,62,Total_Foodgrains_Production,30235.8
+Punjab,2023-24,62,Total_Foodgrains_Production,32544.0
+Punjab,2024-25,62,Total_Foodgrains_Production,32777.7
+Rajasthan,2004-05,62,Total_Foodgrains_Production,12150.8
+Rajasthan,2005-06,62,Total_Foodgrains_Production,11445.0
+Rajasthan,2006-07,62,Total_Foodgrains_Production,14208.8
+Rajasthan,2007-08,62,Total_Foodgrains_Production,16058.7
+Rajasthan,2008-09,62,Total_Foodgrains_Production,16680.2
+Rajasthan,2009-10,62,Total_Foodgrains_Production,12350.1
+Rajasthan,2010-11,62,Total_Foodgrains_Production,18832.2
+Rajasthan,2011-12,62,Total_Foodgrains_Production,19469.7
+Rajasthan,2012-13,62,Total_Foodgrains_Production,18367.7
+Rajasthan,2013-14,62,Total_Foodgrains_Production,17899.6
+Rajasthan,2014-15,62,Total_Foodgrains_Production,19621.9
+Rajasthan,2015-16,62,Total_Foodgrains_Production,18039.9
+Rajasthan,2016-17,62,Total_Foodgrains_Production,19353.6
+Rajasthan,2017-18,62,Total_Foodgrains_Production,19957.0
+Rajasthan,2018-19,62,Total_Foodgrains_Production,21288.8
+Rajasthan,2019-20,62,Total_Foodgrains_Production,23227.1
+Rajasthan,2020-21,62,Total_Foodgrains_Production,24282.3
+Rajasthan,2021-22,62,Total_Foodgrains_Production,21662.8
+Rajasthan,2022-23,62,Total_Foodgrains_Production,23808.9
+Rajasthan,2023-24,62,Total_Foodgrains_Production,21871.9
+Rajasthan,2024-25,62,Total_Foodgrains_Production,25571.8
+Sikkim,2004-05,62,Total_Foodgrains_Production,103.9
+Sikkim,2005-06,62,Total_Foodgrains_Production,100.3
+Sikkim,2006-07,62,Total_Foodgrains_Production,100.3
+Sikkim,2007-08,62,Total_Foodgrains_Production,111.6
+Sikkim,2008-09,62,Total_Foodgrains_Production,107.5
+Sikkim,2009-10,62,Total_Foodgrains_Production,117.3
+Sikkim,2010-11,62,Total_Foodgrains_Production,110.3
+Sikkim,2011-12,62,Total_Foodgrains_Production,103.2
+Sikkim,2012-13,62,Total_Foodgrains_Production,106.0
+Sikkim,2013-14,62,Total_Foodgrains_Production,102.4
+Sikkim,2014-15,62,Total_Foodgrains_Production,102.2
+Sikkim,2015-16,62,Total_Foodgrains_Production,94.1
+Sikkim,2016-17,62,Total_Foodgrains_Production,101.3
+Sikkim,2017-18,62,Total_Foodgrains_Production,93.9
+Sikkim,2018-19,62,Total_Foodgrains_Production,92.0
+Sikkim,2019-20,62,Total_Foodgrains_Production,92.1
+Sikkim,2020-21,62,Total_Foodgrains_Production,91.8
+Sikkim,2021-22,62,Total_Foodgrains_Production,91.3
+Sikkim,2022-23,62,Total_Foodgrains_Production,83.0
+Sikkim,2023-24,62,Total_Foodgrains_Production,68.5
+Sikkim,2024-25,62,Total_Foodgrains_Production,68.5
+Tamil Nadu,2004-05,62,Total_Foodgrains_Production,6175.8
+Tamil Nadu,2005-06,62,Total_Foodgrains_Production,6127.2
+Tamil Nadu,2006-07,62,Total_Foodgrains_Production,8263.0
+Tamil Nadu,2007-08,62,Total_Foodgrains_Production,6582.3
+Tamil Nadu,2008-09,62,Total_Foodgrains_Production,7102.3
+Tamil Nadu,2009-10,62,Total_Foodgrains_Production,7511.4
+Tamil Nadu,2010-11,62,Total_Foodgrains_Production,7594.9
+Tamil Nadu,2011-12,62,Total_Foodgrains_Production,10151.8
+Tamil Nadu,2012-13,62,Total_Foodgrains_Production,5592.8
+Tamil Nadu,2013-14,62,Total_Foodgrains_Production,8783.2
+Tamil Nadu,2014-15,62,Total_Foodgrains_Production,9623.7
+Tamil Nadu,2015-16,62,Total_Foodgrains_Production,11478.5
+Tamil Nadu,2016-17,62,Total_Foodgrains_Production,4141.6
+Tamil Nadu,2017-18,62,Total_Foodgrains_Production,10713.6
+Tamil Nadu,2018-19,62,Total_Foodgrains_Production,10390.1
+Tamil Nadu,2019-20,62,Total_Foodgrains_Production,11269.8
+Tamil Nadu,2020-21,62,Total_Foodgrains_Production,10823.6
+Tamil Nadu,2021-22,62,Total_Foodgrains_Production,11998.0
+Tamil Nadu,2022-23,62,Total_Foodgrains_Production,11680.4
+Tamil Nadu,2023-24,62,Total_Foodgrains_Production,10700.1
+Tamil Nadu,2024-25,62,Total_Foodgrains_Production,10926.4
+Telangana,2010-11,62,Total_Foodgrains_Production,9262.5
+Telangana,2011-12,62,Total_Foodgrains_Production,7495.0
+Telangana,2012-13,62,Total_Foodgrains_Production,8232.7
+Telangana,2013-14,62,Total_Foodgrains_Production,9142.9
+Telangana,2014-15,62,Total_Foodgrains_Production,7114.8
+Telangana,2015-16,62,Total_Foodgrains_Production,5129.0
+Telangana,2016-17,62,Total_Foodgrains_Production,8484.6
+Telangana,2017-18,62,Total_Foodgrains_Production,9421.1
+Telangana,2018-19,62,Total_Foodgrains_Production,9275.2
+Telangana,2019-20,62,Total_Foodgrains_Production,11125.1
+Telangana,2020-21,62,Total_Foodgrains_Production,12745.6
+Telangana,2021-22,62,Total_Foodgrains_Production,15348.8
+Telangana,2022-23,62,Total_Foodgrains_Production,19375.0
+Telangana,2023-24,62,Total_Foodgrains_Production,20276.4
+Telangana,2024-25,62,Total_Foodgrains_Production,21634.6
+Tripura,2004-05,62,Total_Foodgrains_Production,556.4
+Tripura,2005-06,62,Total_Foodgrains_Production,563.6
+Tripura,2006-07,62,Total_Foodgrains_Production,630.0
+Tripura,2007-08,62,Total_Foodgrains_Production,633.3
+Tripura,2008-09,62,Total_Foodgrains_Production,634.7
+Tripura,2009-10,62,Total_Foodgrains_Production,647.9
+Tripura,2010-11,62,Total_Foodgrains_Production,712.4
+Tripura,2011-12,62,Total_Foodgrains_Production,729.9
+Tripura,2012-13,62,Total_Foodgrains_Production,725.2
+Tripura,2013-14,62,Total_Foodgrains_Production,726.7
+Tripura,2014-15,62,Total_Foodgrains_Production,761.5
+Tripura,2015-16,62,Total_Foodgrains_Production,818.3
+Tripura,2016-17,62,Total_Foodgrains_Production,859.6
+Tripura,2017-18,62,Total_Foodgrains_Production,855.4
+Tripura,2018-19,62,Total_Foodgrains_Production,836.4
+Tripura,2019-20,62,Total_Foodgrains_Production,853.3
+Tripura,2020-21,62,Total_Foodgrains_Production,867.6
+Tripura,2021-22,62,Total_Foodgrains_Production,870.9
+Tripura,2022-23,62,Total_Foodgrains_Production,841.7
+Tripura,2023-24,62,Total_Foodgrains_Production,841.7
+Tripura,2024-25,62,Total_Foodgrains_Production,764.7
+Uttar Pradesh,2004-05,62,Total_Foodgrains_Production,37836.3
+Uttar Pradesh,2005-06,62,Total_Foodgrains_Production,40410.2
+Uttar Pradesh,2006-07,62,Total_Foodgrains_Production,41214.5
+Uttar Pradesh,2007-08,62,Total_Foodgrains_Production,42094.8
+Uttar Pradesh,2008-09,62,Total_Foodgrains_Production,46729.3
+Uttar Pradesh,2009-10,62,Total_Foodgrains_Production,43195.3
+Uttar Pradesh,2010-11,62,Total_Foodgrains_Production,47247.5
+Uttar Pradesh,2011-12,62,Total_Foodgrains_Production,50283.6
+Uttar Pradesh,2012-13,62,Total_Foodgrains_Production,50745.4
+Uttar Pradesh,2013-14,62,Total_Foodgrains_Production,50027.5
+Uttar Pradesh,2014-15,62,Total_Foodgrains_Production,39594.0
+Uttar Pradesh,2015-16,62,Total_Foodgrains_Production,42550.8
+Uttar Pradesh,2016-17,62,Total_Foodgrains_Production,49903.4
+Uttar Pradesh,2017-18,62,Total_Foodgrains_Production,51369.9
+Uttar Pradesh,2018-19,62,Total_Foodgrains_Production,54643.4
+Uttar Pradesh,2019-20,62,Total_Foodgrains_Production,56169.1
+Uttar Pradesh,2020-21,62,Total_Foodgrains_Production,58106.9
+Uttar Pradesh,2021-22,62,Total_Foodgrains_Production,56188.1
+Uttar Pradesh,2022-23,62,Total_Foodgrains_Production,57508.8
+Uttar Pradesh,2023-24,62,Total_Foodgrains_Production,60285.5
+Uttar Pradesh,2024-25,62,Total_Foodgrains_Production,63848.2
+Uttarakhand,2004-05,62,Total_Foodgrains_Production,1761.0
+Uttarakhand,2005-06,62,Total_Foodgrains_Production,1594.0
+Uttarakhand,2006-07,62,Total_Foodgrains_Production,1735.0
+Uttarakhand,2007-08,62,Total_Foodgrains_Production,1796.0
+Uttarakhand,2008-09,62,Total_Foodgrains_Production,1765.0
+Uttarakhand,2009-10,62,Total_Foodgrains_Production,1796.0
+Uttarakhand,2010-11,62,Total_Foodgrains_Production,1815.5
+Uttarakhand,2011-12,62,Total_Foodgrains_Production,1852.0
+Uttarakhand,2012-13,62,Total_Foodgrains_Production,1827.7
+Uttarakhand,2013-14,62,Total_Foodgrains_Production,1776.5
+Uttarakhand,2014-15,62,Total_Foodgrains_Production,1626.0
+Uttarakhand,2015-16,62,Total_Foodgrains_Production,1746.0
+Uttarakhand,2016-17,62,Total_Foodgrains_Production,1873.0
+Uttarakhand,2017-18,62,Total_Foodgrains_Production,1903.2
+Uttarakhand,2018-19,62,Total_Foodgrains_Production,1876.1
+Uttarakhand,2019-20,62,Total_Foodgrains_Production,1886.0
+Uttarakhand,2020-21,62,Total_Foodgrains_Production,2001.8
+Uttarakhand,2021-22,62,Total_Foodgrains_Production,1924.4
+Uttarakhand,2022-23,62,Total_Foodgrains_Production,1771.1
+Uttarakhand,2023-24,62,Total_Foodgrains_Production,1799.8
+Uttarakhand,2024-25,62,Total_Foodgrains_Production,1717.3
+West Bengal,2004-05,62,Total_Foodgrains_Production,16055.4
+West Bengal,2005-06,62,Total_Foodgrains_Production,15608.9
+West Bengal,2006-07,62,Total_Foodgrains_Production,15974.5
+West Bengal,2007-08,62,Total_Foodgrains_Production,16050.2
+West Bengal,2008-09,62,Total_Foodgrains_Production,16295.7
+West Bengal,2009-10,62,Total_Foodgrains_Production,15741.5
+West Bengal,2010-11,62,Total_Foodgrains_Production,14466.9
+West Bengal,2011-12,62,Total_Foodgrains_Production,15985.7
+West Bengal,2012-13,62,Total_Foodgrains_Production,16546.5
+West Bengal,2013-14,62,Total_Foodgrains_Production,17078.9
+West Bengal,2014-15,62,Total_Foodgrains_Production,16531.8
+West Bengal,2015-16,62,Total_Foodgrains_Production,17980.6
+West Bengal,2016-17,62,Total_Foodgrains_Production,17146.3
+West Bengal,2017-18,62,Total_Foodgrains_Production,16877.5
+West Bengal,2018-19,62,Total_Foodgrains_Production,18689.9
+West Bengal,2019-20,62,Total_Foodgrains_Production,18794.3
+West Bengal,2020-21,62,Total_Foodgrains_Production,20004.6
+West Bengal,2021-22,62,Total_Foodgrains_Production,20307.6
+West Bengal,2022-23,62,Total_Foodgrains_Production,18774.1
+West Bengal,2023-24,62,Total_Foodgrains_Production,19324.3
+West Bengal,2024-25,62,Total_Foodgrains_Production,19850.3

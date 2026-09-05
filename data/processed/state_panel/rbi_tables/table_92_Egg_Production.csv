@@ -1,0 +1,679 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2005-06,92,Egg_Production,158040.0
+Andhra Pradesh,2006-07,92,Egg_Production,164534.0
+Andhra Pradesh,2007-08,92,Egg_Production,159411.0
+Andhra Pradesh,2008-09,92,Egg_Production,175884.0
+Andhra Pradesh,2009-10,92,Egg_Production,183446.0
+Andhra Pradesh,2010-11,92,Egg_Production,193958.0
+Andhra Pradesh,2011-12,92,Egg_Production,201277.0
+Andhra Pradesh,2012-13,92,Egg_Production,212103.0
+Andhra Pradesh,2013-14,92,Egg_Production,222974.0
+Andhra Pradesh,2015-16,92,Egg_Production,130958.0
+Andhra Pradesh,2016-17,92,Egg_Production,141743.0
+Andhra Pradesh,2017-18,92,Egg_Production,158274.0
+Andhra Pradesh,2018-19,92,Egg_Production,177776.0
+Andhra Pradesh,2019-20,92,Egg_Production,197545.0
+Andhra Pradesh,2020-21,92,Egg_Production,219275.0
+Andhra Pradesh,2021-22,92,Egg_Production,249639.0
+Andhra Pradesh,2022-23,92,Egg_Production,264503.0
+Andhra Pradesh,2023-24,92,Egg_Production,278498.0
+Arunachal Pradesh,2004-05,92,Egg_Production,90.0
+Arunachal Pradesh,2005-06,92,Egg_Production,73.0
+Arunachal Pradesh,2006-07,92,Egg_Production,73.0
+Arunachal Pradesh,2007-08,92,Egg_Production,394.0
+Arunachal Pradesh,2008-09,92,Egg_Production,361.0
+Arunachal Pradesh,2009-10,92,Egg_Production,380.0
+Arunachal Pradesh,2010-11,92,Egg_Production,407.0
+Arunachal Pradesh,2011-12,92,Egg_Production,53.0
+Arunachal Pradesh,2012-13,92,Egg_Production,439.0
+Arunachal Pradesh,2013-14,92,Egg_Production,400.0
+Arunachal Pradesh,2014-15,92,Egg_Production,417.0
+Arunachal Pradesh,2015-16,92,Egg_Production,427.0
+Arunachal Pradesh,2016-17,92,Egg_Production,495.0
+Arunachal Pradesh,2017-18,92,Egg_Production,550.0
+Arunachal Pradesh,2018-19,92,Egg_Production,595.0
+Arunachal Pradesh,2019-20,92,Egg_Production,605.0
+Arunachal Pradesh,2020-21,92,Egg_Production,639.0
+Arunachal Pradesh,2021-22,92,Egg_Production,667.0
+Arunachal Pradesh,2022-23,92,Egg_Production,658.0
+Arunachal Pradesh,2023-24,92,Egg_Production,459.0
+Assam,2004-05,92,Egg_Production,5216.0
+Assam,2005-06,92,Egg_Production,5359.0
+Assam,2006-07,92,Egg_Production,5350.0
+Assam,2007-08,92,Egg_Production,4910.0
+Assam,2008-09,92,Egg_Production,4659.0
+Assam,2009-10,92,Egg_Production,4671.0
+Assam,2010-11,92,Egg_Production,4707.0
+Assam,2011-12,92,Egg_Production,4705.0
+Assam,2012-13,92,Egg_Production,4710.0
+Assam,2013-14,92,Egg_Production,4717.0
+Assam,2014-15,92,Egg_Production,4728.0
+Assam,2015-16,92,Egg_Production,4740.0
+Assam,2016-17,92,Egg_Production,4771.0
+Assam,2017-18,92,Egg_Production,4952.0
+Assam,2018-19,92,Egg_Production,5015.0
+Assam,2019-20,92,Egg_Production,5149.0
+Assam,2020-21,92,Egg_Production,5253.0
+Assam,2021-22,92,Egg_Production,5422.0
+Assam,2022-23,92,Egg_Production,5590.0
+Assam,2023-24,92,Egg_Production,6229.0
+Bihar,2004-05,92,Egg_Production,7894.0
+Bihar,2005-06,92,Egg_Production,10012.0
+Bihar,2006-07,92,Egg_Production,9454.0
+Bihar,2007-08,92,Egg_Production,10707.0
+Bihar,2008-09,92,Egg_Production,10740.0
+Bihar,2009-10,92,Egg_Production,11002.0
+Bihar,2010-11,92,Egg_Production,7446.0
+Bihar,2011-12,92,Egg_Production,7552.0
+Bihar,2012-13,92,Egg_Production,8372.0
+Bihar,2013-14,92,Egg_Production,9308.0
+Bihar,2014-15,92,Egg_Production,9845.0
+Bihar,2015-16,92,Egg_Production,10021.0
+Bihar,2016-17,92,Egg_Production,11117.0
+Bihar,2017-18,92,Egg_Production,12185.0
+Bihar,2018-19,92,Egg_Production,17633.0
+Bihar,2019-20,92,Egg_Production,27408.0
+Bihar,2020-21,92,Egg_Production,30132.0
+Bihar,2021-22,92,Egg_Production,30666.0
+Bihar,2022-23,92,Egg_Production,32743.0
+Bihar,2023-24,92,Egg_Production,34401.0
+Chandigarh,2004-05,92,Egg_Production,280.0
+Chandigarh,2005-06,92,Egg_Production,280.0
+Chandigarh,2006-07,92,Egg_Production,291.0
+Chandigarh,2007-08,92,Egg_Production,9184.0
+Chandigarh,2008-09,92,Egg_Production,9738.0
+Chandigarh,2009-10,92,Egg_Production,249.0
+Chandigarh,2010-11,92,Egg_Production,180.0
+Chandigarh,2011-12,92,Egg_Production,181.0
+Chandigarh,2012-13,92,Egg_Production,170.0
+Chandigarh,2013-14,92,Egg_Production,173.0
+Chandigarh,2014-15,92,Egg_Production,169.0
+Chandigarh,2015-16,92,Egg_Production,167.0
+Chandigarh,2016-17,92,Egg_Production,154.0
+Chandigarh,2017-18,92,Egg_Production,160.0
+Chandigarh,2018-19,92,Egg_Production,164.0
+Chandigarh,2019-20,92,Egg_Production,125.0
+Chandigarh,2020-21,92,Egg_Production,130.0
+Chandigarh,2021-22,92,Egg_Production,115.0
+Chandigarh,2022-23,92,Egg_Production,46.0
+Chandigarh,2023-24,92,Egg_Production,24.0
+Chhattisgarh,2004-05,92,Egg_Production,8795.0
+Chhattisgarh,2005-06,92,Egg_Production,8875.0
+Chhattisgarh,2006-07,92,Egg_Production,9216.0
+Chhattisgarh,2007-08,92,Egg_Production,282.0
+Chhattisgarh,2008-09,92,Egg_Production,273.0
+Chhattisgarh,2009-10,92,Egg_Production,10520.0
+Chhattisgarh,2010-11,92,Egg_Production,12454.0
+Chhattisgarh,2011-12,92,Egg_Production,12984.0
+Chhattisgarh,2012-13,92,Egg_Production,13704.0
+Chhattisgarh,2013-14,92,Egg_Production,14330.0
+Chhattisgarh,2014-15,92,Egg_Production,14732.0
+Chhattisgarh,2015-16,92,Egg_Production,15028.0
+Chhattisgarh,2016-17,92,Egg_Production,16638.0
+Chhattisgarh,2017-18,92,Egg_Production,17718.0
+Chhattisgarh,2018-19,92,Egg_Production,18927.0
+Chhattisgarh,2019-20,92,Egg_Production,20289.0
+Chhattisgarh,2020-21,92,Egg_Production,19788.0
+Chhattisgarh,2021-22,92,Egg_Production,20316.0
+Chhattisgarh,2022-23,92,Egg_Production,22102.0
+Chhattisgarh,2023-24,92,Egg_Production,23876.0
+Dadra & Nagar Haveli,2004-05,92,Egg_Production,50.0
+Dadra & Nagar Haveli,2005-06,92,Egg_Production,48.0
+Dadra & Nagar Haveli,2006-07,92,Egg_Production,0.0
+Dadra & Nagar Haveli,2007-08,92,Egg_Production,70.0
+Dadra & Nagar Haveli,2008-09,92,Egg_Production,71.0
+Dadra & Nagar Haveli,2009-10,92,Egg_Production,71.0
+Dadra & Nagar Haveli,2010-11,92,Egg_Production,70.0
+Dadra & Nagar Haveli,2011-12,92,Egg_Production,73.0
+Dadra & Nagar Haveli,2012-13,92,Egg_Production,73.0
+Dadra & Nagar Haveli,2013-14,92,Egg_Production,73.0
+Dadra & Nagar Haveli,2014-15,92,Egg_Production,73.0
+Dadra & Nagar Haveli,2015-16,92,Egg_Production,73.0
+Dadra & Nagar Haveli,2016-17,92,Egg_Production,73.0
+Dadra & Nagar Haveli,2017-18,92,Egg_Production,73.0
+Dadra & Nagar Haveli,2018-19,92,Egg_Production,0.0
+Dadra & Nagar Haveli,2019-20,92,Egg_Production,0.0
+Daman & Diu,2004-05,92,Egg_Production,9.0
+Daman & Diu,2005-06,92,Egg_Production,11.0
+Daman & Diu,2006-07,92,Egg_Production,11.0
+Daman & Diu,2007-08,92,Egg_Production,19.0
+Daman & Diu,2008-09,92,Egg_Production,19.0
+Daman & Diu,2009-10,92,Egg_Production,19.0
+Daman & Diu,2010-11,92,Egg_Production,19.0
+Daman & Diu,2011-12,92,Egg_Production,20.0
+Daman & Diu,2012-13,92,Egg_Production,20.0
+Daman & Diu,2013-14,92,Egg_Production,13.0
+Daman & Diu,2014-15,92,Egg_Production,19.0
+Daman & Diu,2015-16,92,Egg_Production,8.0
+Daman & Diu,2016-17,92,Egg_Production,4.0
+Daman & Diu,2017-18,92,Egg_Production,5.0
+Daman & Diu,2018-19,92,Egg_Production,5.0
+Daman & Diu,2019-20,92,Egg_Production,5.0
+Delhi,2004-05,92,Egg_Production,264.0
+Delhi,2005-06,92,Egg_Production,196.0
+Delhi,2006-07,92,Egg_Production,186.0
+Delhi,2007-08,92,Egg_Production,1.0
+Delhi,2008-09,92,Egg_Production,1.0
+Delhi,2009-10,92,Egg_Production,1.0
+Delhi,2010-11,92,Egg_Production,1.0
+Delhi,2011-12,92,Egg_Production,1.0
+Goa,2004-05,92,Egg_Production,146.0
+Goa,2005-06,92,Egg_Production,146.0
+Goa,2006-07,92,Egg_Production,135.0
+Goa,2007-08,92,Egg_Production,152.0
+Goa,2008-09,92,Egg_Production,149.0
+Goa,2009-10,92,Egg_Production,148.0
+Goa,2010-11,92,Egg_Production,149.0
+Goa,2011-12,92,Egg_Production,149.0
+Goa,2012-13,92,Egg_Production,458.0
+Goa,2013-14,92,Egg_Production,60.0
+Goa,2014-15,92,Egg_Production,75.0
+Goa,2015-16,92,Egg_Production,352.0
+Goa,2016-17,92,Egg_Production,292.0
+Goa,2017-18,92,Egg_Production,299.0
+Goa,2018-19,92,Egg_Production,327.0
+Goa,2019-20,92,Egg_Production,400.0
+Goa,2020-21,92,Egg_Production,400.0
+Goa,2021-22,92,Egg_Production,438.0
+Goa,2022-23,92,Egg_Production,424.0
+Goa,2023-24,92,Egg_Production,429.0
+Gujarat,2004-05,92,Egg_Production,5031.0
+Gujarat,2005-06,92,Egg_Production,5775.0
+Gujarat,2006-07,92,Egg_Production,7757.0
+Gujarat,2007-08,92,Egg_Production,8256.0
+Gujarat,2008-09,92,Egg_Production,12675.0
+Gujarat,2009-10,92,Egg_Production,12762.0
+Gujarat,2010-11,92,Egg_Production,13269.0
+Gujarat,2011-12,92,Egg_Production,14269.0
+Gujarat,2012-13,92,Egg_Production,14558.0
+Gujarat,2013-14,92,Egg_Production,15551.0
+Gujarat,2014-15,92,Egg_Production,16565.0
+Gujarat,2015-16,92,Egg_Production,17216.0
+Gujarat,2016-17,92,Egg_Production,17940.0
+Gujarat,2017-18,92,Egg_Production,17868.0
+Gujarat,2018-19,92,Egg_Production,18544.0
+Gujarat,2019-20,92,Egg_Production,19274.0
+Gujarat,2020-21,92,Egg_Production,19319.0
+Gujarat,2021-22,92,Egg_Production,19494.0
+Gujarat,2022-23,92,Egg_Production,18790.0
+Gujarat,2023-24,92,Egg_Production,18930.0
+Haryana,2004-05,92,Egg_Production,14816.0
+Haryana,2005-06,92,Egg_Production,15126.0
+Haryana,2006-07,92,Egg_Production,39596.0
+Haryana,2007-08,92,Egg_Production,41031.0
+Haryana,2008-09,92,Egg_Production,38150.0
+Haryana,2009-10,92,Egg_Production,38453.0
+Haryana,2010-11,92,Egg_Production,39644.0
+Haryana,2011-12,92,Egg_Production,41142.0
+Haryana,2012-13,92,Egg_Production,42343.0
+Haryana,2013-14,92,Egg_Production,43591.0
+Haryana,2014-15,92,Egg_Production,45790.0
+Haryana,2015-16,92,Egg_Production,49133.0
+Haryana,2016-17,92,Egg_Production,52139.0
+Haryana,2017-18,92,Egg_Production,55855.0
+Haryana,2018-19,92,Egg_Production,60577.0
+Haryana,2019-20,92,Egg_Production,66153.0
+Haryana,2020-21,92,Egg_Production,72734.0
+Haryana,2021-22,92,Egg_Production,77476.0
+Haryana,2022-23,92,Egg_Production,81806.0
+Haryana,2023-24,92,Egg_Production,85596.0
+Himachal Pradesh,2004-05,92,Egg_Production,811.0
+Himachal Pradesh,2005-06,92,Egg_Production,753.0
+Himachal Pradesh,2006-07,92,Egg_Production,772.0
+Himachal Pradesh,2007-08,92,Egg_Production,843.0
+Himachal Pradesh,2008-09,92,Egg_Production,977.0
+Himachal Pradesh,2009-10,92,Egg_Production,1000.0
+Himachal Pradesh,2010-11,92,Egg_Production,1021.0
+Himachal Pradesh,2011-12,92,Egg_Production,1050.0
+Himachal Pradesh,2012-13,92,Egg_Production,1069.0
+Himachal Pradesh,2013-14,92,Egg_Production,1075.0
+Himachal Pradesh,2014-15,92,Egg_Production,1084.0
+Himachal Pradesh,2015-16,92,Egg_Production,812.0
+Himachal Pradesh,2016-17,92,Egg_Production,959.0
+Himachal Pradesh,2017-18,92,Egg_Production,981.0
+Himachal Pradesh,2018-19,92,Egg_Production,1007.0
+Himachal Pradesh,2019-20,92,Egg_Production,1066.0
+Himachal Pradesh,2020-21,92,Egg_Production,1111.0
+Himachal Pradesh,2021-22,92,Egg_Production,1016.0
+Himachal Pradesh,2022-23,92,Egg_Production,914.0
+Himachal Pradesh,2023-24,92,Egg_Production,858.0
+Jammu & Kashmir,2004-05,92,Egg_Production,6105.0
+Jammu & Kashmir,2005-06,92,Egg_Production,6320.0
+Jammu & Kashmir,2006-07,92,Egg_Production,6320.0
+Jammu & Kashmir,2007-08,92,Egg_Production,6682.0
+Jammu & Kashmir,2008-09,92,Egg_Production,7208.0
+Jammu & Kashmir,2009-10,92,Egg_Production,7242.0
+Jammu & Kashmir,2010-11,92,Egg_Production,7725.0
+Jammu & Kashmir,2011-12,92,Egg_Production,6520.0
+Jammu & Kashmir,2012-13,92,Egg_Production,6715.0
+Jammu & Kashmir,2013-14,92,Egg_Production,6649.0
+Jammu & Kashmir,2014-15,92,Egg_Production,4958.0
+Jammu & Kashmir,2015-16,92,Egg_Production,2309.0
+Jammu & Kashmir,2016-17,92,Egg_Production,2305.0
+Jammu & Kashmir,2017-18,92,Egg_Production,2334.0
+Jammu & Kashmir,2018-19,92,Egg_Production,2349.0
+Jammu & Kashmir,2019-20,92,Egg_Production,2216.0
+Jammu & Kashmir,2020-21,92,Egg_Production,2128.0
+Jammu & Kashmir,2021-22,92,Egg_Production,1831.0
+Jammu & Kashmir,2022-23,92,Egg_Production,1787.0
+Jammu & Kashmir,2023-24,92,Egg_Production,1832.0
+Jharkhand,2004-05,92,Egg_Production,6980.0
+Jharkhand,2005-06,92,Egg_Production,6970.0
+Jharkhand,2006-07,92,Egg_Production,7110.0
+Jharkhand,2007-08,92,Egg_Production,7130.0
+Jharkhand,2008-09,92,Egg_Production,3995.0
+Jharkhand,2009-10,92,Egg_Production,3925.0
+Jharkhand,2010-11,92,Egg_Production,4153.0
+Jharkhand,2011-12,92,Egg_Production,4313.0
+Jharkhand,2012-13,92,Egg_Production,4239.0
+Jharkhand,2013-14,92,Egg_Production,4445.0
+Jharkhand,2014-15,92,Egg_Production,4663.0
+Jharkhand,2015-16,92,Egg_Production,4833.0
+Jharkhand,2016-17,92,Egg_Production,5103.0
+Jharkhand,2017-18,92,Egg_Production,5531.0
+Jharkhand,2018-19,92,Egg_Production,6379.0
+Jharkhand,2019-20,92,Egg_Production,6928.0
+Jharkhand,2020-21,92,Egg_Production,7843.0
+Jharkhand,2021-22,92,Egg_Production,8770.0
+Jharkhand,2022-23,92,Egg_Production,9191.0
+Jharkhand,2023-24,92,Egg_Production,10480.0
+Karnataka,2004-05,92,Egg_Production,17719.0
+Karnataka,2005-06,92,Egg_Production,18348.0
+Karnataka,2006-07,92,Egg_Production,19498.0
+Karnataka,2007-08,92,Egg_Production,20181.0
+Karnataka,2008-09,92,Egg_Production,23688.0
+Karnataka,2009-10,92,Egg_Production,29094.0
+Karnataka,2010-11,92,Egg_Production,30674.0
+Karnataka,2011-12,92,Egg_Production,34699.0
+Karnataka,2012-13,92,Egg_Production,36773.0
+Karnataka,2013-14,92,Egg_Production,41301.0
+Karnataka,2014-15,92,Egg_Production,43968.0
+Karnataka,2015-16,92,Egg_Production,47660.0
+Karnataka,2016-17,92,Egg_Production,50671.0
+Karnataka,2017-18,92,Egg_Production,55661.0
+Karnataka,2018-19,92,Egg_Production,59994.0
+Karnataka,2019-20,92,Egg_Production,66511.0
+Karnataka,2020-21,92,Egg_Production,76199.0
+Karnataka,2021-22,92,Egg_Production,82638.0
+Karnataka,2022-23,92,Egg_Production,90087.0
+Karnataka,2023-24,92,Egg_Production,94591.0
+Kerala,2004-05,92,Egg_Production,11974.0
+Kerala,2005-06,92,Egg_Production,11956.0
+Kerala,2006-07,92,Egg_Production,11987.0
+Kerala,2007-08,92,Egg_Production,13831.0
+Kerala,2008-09,92,Egg_Production,15095.0
+Kerala,2009-10,92,Egg_Production,16330.0
+Kerala,2010-11,92,Egg_Production,16856.0
+Kerala,2011-12,92,Egg_Production,17049.0
+Kerala,2012-13,92,Egg_Production,22375.0
+Kerala,2013-14,92,Egg_Production,24769.0
+Kerala,2014-15,92,Egg_Production,25036.0
+Kerala,2015-16,92,Egg_Production,24425.0
+Kerala,2016-17,92,Egg_Production,23444.0
+Kerala,2017-18,92,Egg_Production,23481.0
+Kerala,2018-19,92,Egg_Production,22906.0
+Kerala,2019-20,92,Egg_Production,21845.0
+Kerala,2020-21,92,Egg_Production,22135.0
+Kerala,2021-22,92,Egg_Production,22301.0
+Kerala,2022-23,92,Egg_Production,22475.0
+Kerala,2023-24,92,Egg_Production,24053.0
+Lakshadweep,2004-05,92,Egg_Production,120.0
+Lakshadweep,2005-06,92,Egg_Production,124.0
+Lakshadweep,2006-07,92,Egg_Production,127.0
+Lakshadweep,2007-08,92,Egg_Production,128.0
+Lakshadweep,2008-09,92,Egg_Production,135.0
+Lakshadweep,2009-10,92,Egg_Production,138.0
+Lakshadweep,2010-11,92,Egg_Production,138.0
+Lakshadweep,2011-12,92,Egg_Production,140.0
+Lakshadweep,2012-13,92,Egg_Production,140.0
+Lakshadweep,2013-14,92,Egg_Production,129.0
+Lakshadweep,2014-15,92,Egg_Production,126.0
+Lakshadweep,2015-16,92,Egg_Production,144.0
+Lakshadweep,2016-17,92,Egg_Production,147.0
+Lakshadweep,2017-18,92,Egg_Production,142.0
+Lakshadweep,2018-19,92,Egg_Production,142.0
+Lakshadweep,2019-20,92,Egg_Production,153.0
+Lakshadweep,2020-21,92,Egg_Production,163.0
+Lakshadweep,2021-22,92,Egg_Production,72.0
+Lakshadweep,2022-23,92,Egg_Production,72.0
+Lakshadweep,2023-24,92,Egg_Production,74.0
+Madhya Pradesh,2004-05,92,Egg_Production,9023.0
+Madhya Pradesh,2005-06,92,Egg_Production,9414.0
+Madhya Pradesh,2006-07,92,Egg_Production,9518.0
+Madhya Pradesh,2007-08,92,Egg_Production,9747.0
+Madhya Pradesh,2008-09,92,Egg_Production,6713.0
+Madhya Pradesh,2009-10,92,Egg_Production,7075.0
+Madhya Pradesh,2010-11,92,Egg_Production,7577.0
+Madhya Pradesh,2011-12,92,Egg_Production,7972.0
+Madhya Pradesh,2012-13,92,Egg_Production,8711.0
+Madhya Pradesh,2013-14,92,Egg_Production,9671.0
+Madhya Pradesh,2014-15,92,Egg_Production,11776.0
+Madhya Pradesh,2015-16,92,Egg_Production,14414.0
+Madhya Pradesh,2016-17,92,Egg_Production,16940.0
+Madhya Pradesh,2017-18,92,Egg_Production,19422.0
+Madhya Pradesh,2018-19,92,Egg_Production,21432.0
+Madhya Pradesh,2019-20,92,Egg_Production,23794.0
+Madhya Pradesh,2020-21,92,Egg_Production,26516.0
+Madhya Pradesh,2021-22,92,Egg_Production,29092.0
+Madhya Pradesh,2022-23,92,Egg_Production,31850.0
+Madhya Pradesh,2023-24,92,Egg_Production,34919.0
+Maharashtra,2004-05,92,Egg_Production,34362.0
+Maharashtra,2005-06,92,Egg_Production,35227.0
+Maharashtra,2006-07,92,Egg_Production,33950.0
+Maharashtra,2007-08,92,Egg_Production,34640.0
+Maharashtra,2008-09,92,Egg_Production,35502.0
+Maharashtra,2009-10,92,Egg_Production,38640.0
+Maharashtra,2010-11,92,Egg_Production,42245.0
+Maharashtra,2011-12,92,Egg_Production,43861.0
+Maharashtra,2012-13,92,Egg_Production,45661.0
+Maharashtra,2013-14,92,Egg_Production,48315.0
+Maharashtra,2014-15,92,Egg_Production,50792.0
+Maharashtra,2015-16,92,Egg_Production,52858.0
+Maharashtra,2016-17,92,Egg_Production,54774.0
+Maharashtra,2017-18,92,Egg_Production,56991.0
+Maharashtra,2018-19,92,Egg_Production,59649.0
+Maharashtra,2019-20,92,Egg_Production,63713.0
+Maharashtra,2020-21,92,Egg_Production,64028.0
+Maharashtra,2021-22,92,Egg_Production,70183.0
+Maharashtra,2022-23,92,Egg_Production,73844.0
+Maharashtra,2023-24,92,Egg_Production,77938.0
+Manipur,2004-05,92,Egg_Production,822.0
+Manipur,2005-06,92,Egg_Production,835.0
+Manipur,2006-07,92,Egg_Production,836.0
+Manipur,2007-08,92,Egg_Production,845.0
+Manipur,2008-09,92,Egg_Production,1105.0
+Manipur,2009-10,92,Egg_Production,1119.0
+Manipur,2010-11,92,Egg_Production,1137.0
+Manipur,2011-12,92,Egg_Production,1149.0
+Manipur,2012-13,92,Egg_Production,1162.0
+Manipur,2013-14,92,Egg_Production,1164.0
+Manipur,2014-15,92,Egg_Production,1129.0
+Manipur,2015-16,92,Egg_Production,1037.0
+Manipur,2016-17,92,Egg_Production,992.0
+Manipur,2017-18,92,Egg_Production,1018.0
+Manipur,2018-19,92,Egg_Production,1053.0
+Manipur,2019-20,92,Egg_Production,1082.0
+Manipur,2020-21,92,Egg_Production,1142.0
+Manipur,2021-22,92,Egg_Production,1148.0
+Manipur,2022-23,92,Egg_Production,1216.0
+Manipur,2023-24,92,Egg_Production,1627.0
+Meghalaya,2004-05,92,Egg_Production,946.0
+Meghalaya,2005-06,92,Egg_Production,973.0
+Meghalaya,2006-07,92,Egg_Production,978.0
+Meghalaya,2007-08,92,Egg_Production,990.0
+Meghalaya,2008-09,92,Egg_Production,995.0
+Meghalaya,2009-10,92,Egg_Production,999.0
+Meghalaya,2010-11,92,Egg_Production,1011.0
+Meghalaya,2011-12,92,Egg_Production,1021.0
+Meghalaya,2012-13,92,Egg_Production,1028.0
+Meghalaya,2013-14,92,Egg_Production,1049.0
+Meghalaya,2014-15,92,Egg_Production,1057.0
+Meghalaya,2015-16,92,Egg_Production,1064.0
+Meghalaya,2016-17,92,Egg_Production,1064.0
+Meghalaya,2017-18,92,Egg_Production,1074.0
+Meghalaya,2018-19,92,Egg_Production,1090.0
+Meghalaya,2019-20,92,Egg_Production,1102.0
+Meghalaya,2020-21,92,Egg_Production,1108.0
+Meghalaya,2021-22,92,Egg_Production,1115.0
+Meghalaya,2022-23,92,Egg_Production,1128.0
+Meghalaya,2023-24,92,Egg_Production,1173.0
+Mizoram,2004-05,92,Egg_Production,317.0
+Mizoram,2005-06,92,Egg_Production,326.0
+Mizoram,2006-07,92,Egg_Production,348.0
+Mizoram,2007-08,92,Egg_Production,403.0
+Mizoram,2008-09,92,Egg_Production,411.0
+Mizoram,2009-10,92,Egg_Production,371.0
+Mizoram,2010-11,92,Egg_Production,387.0
+Mizoram,2011-12,92,Egg_Production,349.0
+Mizoram,2012-13,92,Egg_Production,352.0
+Mizoram,2013-14,92,Egg_Production,362.0
+Mizoram,2014-15,92,Egg_Production,377.0
+Mizoram,2015-16,92,Egg_Production,391.0
+Mizoram,2016-17,92,Egg_Production,408.0
+Mizoram,2017-18,92,Egg_Production,410.0
+Mizoram,2018-19,92,Egg_Production,415.0
+Mizoram,2019-20,92,Egg_Production,433.0
+Mizoram,2020-21,92,Egg_Production,434.0
+Mizoram,2021-22,92,Egg_Production,408.0
+Mizoram,2022-23,92,Egg_Production,397.0
+Mizoram,2023-24,92,Egg_Production,400.0
+Nagaland,2004-05,92,Egg_Production,755.0
+Nagaland,2005-06,92,Egg_Production,868.0
+Nagaland,2006-07,92,Egg_Production,868.0
+Nagaland,2007-08,92,Egg_Production,802.0
+Nagaland,2008-09,92,Egg_Production,832.0
+Nagaland,2009-10,92,Egg_Production,834.0
+Nagaland,2010-11,92,Egg_Production,802.0
+Nagaland,2011-12,92,Egg_Production,704.0
+Nagaland,2012-13,92,Egg_Production,618.0
+Nagaland,2013-14,92,Egg_Production,223.0
+Nagaland,2014-15,92,Egg_Production,353.0
+Nagaland,2015-16,92,Egg_Production,465.0
+Nagaland,2016-17,92,Egg_Production,397.0
+Nagaland,2017-18,92,Egg_Production,401.0
+Nagaland,2018-19,92,Egg_Production,375.0
+Nagaland,2019-20,92,Egg_Production,382.0
+Nagaland,2020-21,92,Egg_Production,385.0
+Nagaland,2021-22,92,Egg_Production,354.0
+Nagaland,2022-23,92,Egg_Production,355.0
+Nagaland,2023-24,92,Egg_Production,443.0
+Odisha,2004-05,92,Egg_Production,12160.0
+Odisha,2005-06,92,Egg_Production,12787.0
+Odisha,2006-07,92,Egg_Production,14246.0
+Odisha,2007-08,92,Egg_Production,15479.0
+Odisha,2008-09,92,Egg_Production,19940.0
+Odisha,2009-10,92,Egg_Production,23193.0
+Odisha,2010-11,92,Egg_Production,23571.0
+Odisha,2011-12,92,Egg_Production,23007.0
+Odisha,2012-13,92,Egg_Production,23230.0
+Odisha,2013-14,92,Egg_Production,23609.0
+Odisha,2014-15,92,Egg_Production,19245.0
+Odisha,2015-16,92,Egg_Production,19273.0
+Odisha,2016-17,92,Egg_Production,19745.0
+Odisha,2017-18,92,Egg_Production,20622.0
+Odisha,2018-19,92,Egg_Production,23453.0
+Odisha,2019-20,92,Egg_Production,23814.0
+Odisha,2020-21,92,Egg_Production,24243.0
+Odisha,2021-22,92,Egg_Production,30785.0
+Odisha,2022-23,92,Egg_Production,34108.0
+Odisha,2023-24,92,Egg_Production,37229.0
+Puducherry,2004-05,92,Egg_Production,102.0
+Puducherry,2005-06,92,Egg_Production,105.0
+Puducherry,2006-07,92,Egg_Production,107.0
+Puducherry,2007-08,92,Egg_Production,137.0
+Puducherry,2008-09,92,Egg_Production,112.0
+Puducherry,2009-10,92,Egg_Production,113.0
+Puducherry,2010-11,92,Egg_Production,114.0
+Puducherry,2011-12,92,Egg_Production,116.0
+Puducherry,2012-13,92,Egg_Production,113.0
+Puducherry,2013-14,92,Egg_Production,113.0
+Puducherry,2014-15,92,Egg_Production,113.0
+Puducherry,2015-16,92,Egg_Production,114.0
+Puducherry,2016-17,92,Egg_Production,114.0
+Puducherry,2017-18,92,Egg_Production,114.0
+Puducherry,2018-19,92,Egg_Production,114.0
+Puducherry,2019-20,92,Egg_Production,114.0
+Puducherry,2020-21,92,Egg_Production,114.0
+Puducherry,2021-22,92,Egg_Production,114.0
+Puducherry,2022-23,92,Egg_Production,114.0
+Puducherry,2023-24,92,Egg_Production,114.0
+Punjab,2004-05,92,Egg_Production,36800.0
+Punjab,2005-06,92,Egg_Production,35200.0
+Punjab,2006-07,92,Egg_Production,37740.0
+Punjab,2007-08,92,Egg_Production,37914.0
+Punjab,2008-09,92,Egg_Production,36790.0
+Punjab,2009-10,92,Egg_Production,32828.0
+Punjab,2010-11,92,Egg_Production,35449.0
+Punjab,2011-12,92,Egg_Production,36030.0
+Punjab,2012-13,92,Egg_Production,37911.0
+Punjab,2013-14,92,Egg_Production,43376.0
+Punjab,2014-15,92,Egg_Production,42642.0
+Punjab,2015-16,92,Egg_Production,44218.0
+Punjab,2016-17,92,Egg_Production,47826.0
+Punjab,2017-18,92,Egg_Production,52250.0
+Punjab,2018-19,92,Egg_Production,55909.0
+Punjab,2019-20,92,Egg_Production,56388.0
+Punjab,2020-21,92,Egg_Production,56512.0
+Punjab,2021-22,92,Egg_Production,60664.0
+Punjab,2022-23,92,Egg_Production,62603.0
+Punjab,2023-24,92,Egg_Production,47062.0
+Rajasthan,2004-05,92,Egg_Production,6932.0
+Rajasthan,2005-06,92,Egg_Production,7029.0
+Rajasthan,2006-07,92,Egg_Production,6631.0
+Rajasthan,2007-08,92,Egg_Production,6730.0
+Rajasthan,2008-09,92,Egg_Production,6449.0
+Rajasthan,2009-10,92,Egg_Production,6713.0
+Rajasthan,2010-11,92,Egg_Production,6697.0
+Rajasthan,2011-12,92,Egg_Production,9605.0
+Rajasthan,2012-13,92,Egg_Production,10335.0
+Rajasthan,2013-14,92,Egg_Production,11903.0
+Rajasthan,2014-15,92,Egg_Production,13202.0
+Rajasthan,2015-16,92,Egg_Production,13853.0
+Rajasthan,2016-17,92,Egg_Production,13633.0
+Rajasthan,2017-18,92,Egg_Production,14548.0
+Rajasthan,2018-19,92,Egg_Production,16616.0
+Rajasthan,2019-20,92,Egg_Production,26962.0
+Rajasthan,2020-21,92,Egg_Production,27983.0
+Rajasthan,2021-22,92,Egg_Production,26884.0
+Rajasthan,2022-23,92,Egg_Production,27606.0
+Rajasthan,2023-24,92,Egg_Production,30873.0
+Sikkim,2004-05,92,Egg_Production,140.0
+Sikkim,2005-06,92,Egg_Production,146.0
+Sikkim,2006-07,92,Egg_Production,144.0
+Sikkim,2007-08,92,Egg_Production,135.0
+Sikkim,2008-09,92,Egg_Production,137.0
+Sikkim,2009-10,92,Egg_Production,136.0
+Sikkim,2010-11,92,Egg_Production,140.0
+Sikkim,2011-12,92,Egg_Production,146.0
+Sikkim,2012-13,92,Egg_Production,146.0
+Sikkim,2013-14,92,Egg_Production,99.0
+Sikkim,2014-15,92,Egg_Production,58.0
+Sikkim,2015-16,92,Egg_Production,102.0
+Sikkim,2016-17,92,Egg_Production,68.0
+Sikkim,2017-18,92,Egg_Production,63.0
+Sikkim,2018-19,92,Egg_Production,55.0
+Sikkim,2019-20,92,Egg_Production,48.0
+Sikkim,2020-21,92,Egg_Production,98.0
+Sikkim,2021-22,92,Egg_Production,82.0
+Sikkim,2022-23,92,Egg_Production,98.0
+Sikkim,2023-24,92,Egg_Production,126.0
+Tamil Nadu,2004-05,92,Egg_Production,63948.0
+Tamil Nadu,2005-06,92,Egg_Production,62225.0
+Tamil Nadu,2006-07,92,Egg_Production,80435.0
+Tamil Nadu,2007-08,92,Egg_Production,83937.0
+Tamil Nadu,2008-09,92,Egg_Production,88098.0
+Tamil Nadu,2009-10,92,Egg_Production,108476.0
+Tamil Nadu,2010-11,92,Egg_Production,115137.0
+Tamil Nadu,2011-12,92,Egg_Production,118518.0
+Tamil Nadu,2012-13,92,Egg_Production,119334.0
+Tamil Nadu,2013-14,92,Egg_Production,141235.0
+Tamil Nadu,2014-15,92,Egg_Production,159253.0
+Tamil Nadu,2015-16,92,Egg_Production,161252.0
+Tamil Nadu,2016-17,92,Egg_Production,166824.0
+Tamil Nadu,2017-18,92,Egg_Production,174161.0
+Tamil Nadu,2018-19,92,Egg_Production,188422.0
+Tamil Nadu,2019-20,92,Egg_Production,200216.0
+Tamil Nadu,2020-21,92,Egg_Production,201208.0
+Tamil Nadu,2021-22,92,Egg_Production,208336.0
+Tamil Nadu,2022-23,92,Egg_Production,215607.0
+Tamil Nadu,2023-24,92,Egg_Production,223325.0
+Tripura,2004-05,92,Egg_Production,1071.0
+Tripura,2005-06,92,Egg_Production,1100.0
+Tripura,2006-07,92,Egg_Production,1193.0
+Tripura,2007-08,92,Egg_Production,1320.0
+Tripura,2008-09,92,Egg_Production,1388.0
+Tripura,2009-10,92,Egg_Production,1442.0
+Tripura,2010-11,92,Egg_Production,1569.0
+Tripura,2011-12,92,Egg_Production,1650.0
+Tripura,2012-13,92,Egg_Production,1565.0
+Tripura,2013-14,92,Egg_Production,1794.0
+Tripura,2014-15,92,Egg_Production,1979.0
+Tripura,2015-16,92,Egg_Production,2161.0
+Tripura,2016-17,92,Egg_Production,2294.0
+Tripura,2017-18,92,Egg_Production,2621.0
+Tripura,2018-19,92,Egg_Production,2760.0
+Tripura,2019-20,92,Egg_Production,2950.0
+Tripura,2020-21,92,Egg_Production,3042.0
+Tripura,2021-22,92,Egg_Production,3153.0
+Tripura,2022-23,92,Egg_Production,3280.0
+Tripura,2023-24,92,Egg_Production,3596.0
+Uttar Pradesh,2004-05,92,Egg_Production,9018.0
+Uttar Pradesh,2005-06,92,Egg_Production,9228.0
+Uttar Pradesh,2006-07,92,Egg_Production,9483.0
+Uttar Pradesh,2007-08,92,Egg_Production,9814.0
+Uttar Pradesh,2008-09,92,Egg_Production,10140.0
+Uttar Pradesh,2009-10,92,Egg_Production,10596.0
+Uttar Pradesh,2010-11,92,Egg_Production,10991.0
+Uttar Pradesh,2011-12,92,Egg_Production,16075.0
+Uttar Pradesh,2012-13,92,Egg_Production,17074.0
+Uttar Pradesh,2013-14,92,Egg_Production,18122.0
+Uttar Pradesh,2014-15,92,Egg_Production,20776.0
+Uttar Pradesh,2015-16,92,Egg_Production,21929.0
+Uttar Pradesh,2016-17,92,Egg_Production,22889.0
+Uttar Pradesh,2017-18,92,Egg_Production,24398.0
+Uttar Pradesh,2018-19,92,Egg_Production,26050.0
+Uttar Pradesh,2019-20,92,Egg_Production,34049.0
+Uttar Pradesh,2020-21,92,Egg_Production,36289.0
+Uttar Pradesh,2021-22,92,Egg_Production,40412.0
+Uttar Pradesh,2022-23,92,Egg_Production,45585.0
+Uttar Pradesh,2023-24,92,Egg_Production,59207.0
+Uttarakhand,2004-05,92,Egg_Production,1866.0
+Uttarakhand,2005-06,92,Egg_Production,1673.0
+Uttarakhand,2006-07,92,Egg_Production,1889.0
+Uttarakhand,2007-08,92,Egg_Production,1911.0
+Uttarakhand,2008-09,92,Egg_Production,1962.0
+Uttarakhand,2009-10,92,Egg_Production,2536.0
+Uttarakhand,2010-11,92,Egg_Production,2614.0
+Uttarakhand,2011-12,92,Egg_Production,2712.0
+Uttarakhand,2012-13,92,Egg_Production,3079.0
+Uttarakhand,2013-14,92,Egg_Production,3370.0
+Uttarakhand,2014-15,92,Egg_Production,3697.0
+Uttarakhand,2015-16,92,Egg_Production,3907.0
+Uttarakhand,2016-17,92,Egg_Production,4119.0
+Uttarakhand,2017-18,92,Egg_Production,4298.0
+Uttarakhand,2018-19,92,Egg_Production,4532.0
+Uttarakhand,2019-20,92,Egg_Production,4786.0
+Uttarakhand,2020-21,92,Egg_Production,4924.0
+Uttarakhand,2021-22,92,Egg_Production,5137.0
+Uttarakhand,2022-23,92,Egg_Production,5413.0
+Uttarakhand,2023-24,92,Egg_Production,5941.0
+West Bengal,2004-05,92,Egg_Production,28877.0
+West Bengal,2005-06,92,Egg_Production,29637.0
+West Bengal,2006-07,92,Egg_Production,30386.0
+West Bengal,2007-08,92,Egg_Production,30542.0
+West Bengal,2008-09,92,Egg_Production,33056.0
+West Bengal,2009-10,92,Egg_Production,36978.0
+West Bengal,2010-11,92,Egg_Production,39939.0
+West Bengal,2011-12,92,Egg_Production,43433.0
+West Bengal,2012-13,92,Egg_Production,47115.0
+West Bengal,2013-14,92,Egg_Production,47460.0
+West Bengal,2014-15,92,Egg_Production,48136.0
+West Bengal,2015-16,92,Egg_Production,60108.0
+West Bengal,2016-17,92,Egg_Production,65536.0
+West Bengal,2017-18,92,Egg_Production,76434.0
+West Bengal,2018-19,92,Egg_Production,85999.0
+West Bengal,2019-20,92,Egg_Production,97350.0
+West Bengal,2020-21,92,Egg_Production,105008.0
+West Bengal,2021-22,92,Egg_Production,114520.0
+West Bengal,2022-23,92,Egg_Production,137541.0
+West Bengal,2023-24,92,Egg_Production,162394.0
+Andaman & Nicobar Islands,2014-15,92,Egg_Production,861.0
+Andaman & Nicobar Islands,2015-16,92,Egg_Production,989.0
+Andaman & Nicobar Islands,2016-17,92,Egg_Production,1032.0
+Andaman & Nicobar Islands,2017-18,92,Egg_Production,1074.0
+Andaman & Nicobar Islands,2018-19,92,Egg_Production,1139.0
+Andaman & Nicobar Islands,2019-20,92,Egg_Production,1189.0
+Andaman & Nicobar Islands,2020-21,92,Egg_Production,1362.0
+Andaman & Nicobar Islands,2021-22,92,Egg_Production,1159.0
+Andaman & Nicobar Islands,2022-23,92,Egg_Production,1097.0
+Andaman & Nicobar Islands,2023-24,92,Egg_Production,751.0
+Telangana,2014-15,92,Egg_Production,106185.0
+Telangana,2015-16,92,Egg_Production,112058.0
+Telangana,2016-17,92,Egg_Production,118186.0
+Telangana,2017-18,92,Egg_Production,126700.0
+Telangana,2018-19,92,Egg_Production,136868.0
+Telangana,2019-20,92,Egg_Production,148055.0
+Telangana,2020-21,92,Egg_Production,158470.0
+Telangana,2021-22,92,Egg_Production,166708.0
+Telangana,2022-23,92,Egg_Production,176706.0
+Telangana,2023-24,92,Egg_Production,183850.0

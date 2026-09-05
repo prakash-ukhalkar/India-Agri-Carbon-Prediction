@@ -1,0 +1,644 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,76,Oilseeds_Area,2918.4
+Andhra Pradesh,2005-06,76,Oilseeds_Area,2922.0
+Andhra Pradesh,2006-07,76,Oilseeds_Area,2235.0
+Andhra Pradesh,2007-08,76,Oilseeds_Area,2657.0
+Andhra Pradesh,2008-09,76,Oilseeds_Area,2599.0
+Andhra Pradesh,2009-10,76,Oilseeds_Area,2072.0
+Andhra Pradesh,2010-11,76,Oilseeds_Area,2319.0
+Andhra Pradesh,2011-12,76,Oilseeds_Area,1500.2
+Andhra Pradesh,2012-13,76,Oilseeds_Area,1439.5
+Andhra Pradesh,2013-14,76,Oilseeds_Area,1398.9
+Andhra Pradesh,2014-15,76,Oilseeds_Area,1072.0
+Andhra Pradesh,2015-16,76,Oilseeds_Area,915.0
+Andhra Pradesh,2016-17,76,Oilseeds_Area,1144.0
+Andhra Pradesh,2017-18,76,Oilseeds_Area,825.5
+Andhra Pradesh,2018-19,76,Oilseeds_Area,857.0
+Andhra Pradesh,2019-20,76,Oilseeds_Area,755.0
+Andhra Pradesh,2020-21,76,Oilseeds_Area,942.0
+Andhra Pradesh,2021-22,76,Oilseeds_Area,911.0
+Andhra Pradesh,2022-23,76,Oilseeds_Area,719.0
+Andhra Pradesh,2023-24,76,Oilseeds_Area,426.8
+Andhra Pradesh,2024-25,76,Oilseeds_Area,404.0
+Arunachal Pradesh,2004-05,76,Oilseeds_Area,25.9
+Arunachal Pradesh,2005-06,76,Oilseeds_Area,27.1
+Arunachal Pradesh,2006-07,76,Oilseeds_Area,27.1
+Arunachal Pradesh,2007-08,76,Oilseeds_Area,26.6
+Arunachal Pradesh,2008-09,76,Oilseeds_Area,31.7
+Arunachal Pradesh,2009-10,76,Oilseeds_Area,30.5
+Arunachal Pradesh,2010-11,76,Oilseeds_Area,31.6
+Arunachal Pradesh,2011-12,76,Oilseeds_Area,32.5
+Arunachal Pradesh,2012-13,76,Oilseeds_Area,32.3
+Arunachal Pradesh,2013-14,76,Oilseeds_Area,32.8
+Arunachal Pradesh,2014-15,76,Oilseeds_Area,34.9
+Arunachal Pradesh,2015-16,76,Oilseeds_Area,35.0
+Arunachal Pradesh,2016-17,76,Oilseeds_Area,35.2
+Arunachal Pradesh,2017-18,76,Oilseeds_Area,35.6
+Arunachal Pradesh,2018-19,76,Oilseeds_Area,35.6
+Arunachal Pradesh,2019-20,76,Oilseeds_Area,35.7
+Arunachal Pradesh,2020-21,76,Oilseeds_Area,35.6
+Arunachal Pradesh,2021-22,76,Oilseeds_Area,35.8
+Arunachal Pradesh,2022-23,76,Oilseeds_Area,36.7
+Arunachal Pradesh,2023-24,76,Oilseeds_Area,36.8
+Arunachal Pradesh,2024-25,76,Oilseeds_Area,36.9
+Assam,2004-05,76,Oilseeds_Area,277.4
+Assam,2005-06,76,Oilseeds_Area,243.4
+Assam,2006-07,76,Oilseeds_Area,270.5
+Assam,2007-08,76,Oilseeds_Area,266.0
+Assam,2008-09,76,Oilseeds_Area,254.7
+Assam,2009-10,76,Oilseeds_Area,275.3
+Assam,2010-11,76,Oilseeds_Area,266.7
+Assam,2011-12,76,Oilseeds_Area,268.3
+Assam,2012-13,76,Oilseeds_Area,306.2
+Assam,2013-14,76,Oilseeds_Area,304.2
+Assam,2014-15,76,Oilseeds_Area,306.9
+Assam,2015-16,76,Oilseeds_Area,310.1
+Assam,2016-17,76,Oilseeds_Area,317.6
+Assam,2017-18,76,Oilseeds_Area,314.2
+Assam,2018-19,76,Oilseeds_Area,308.9
+Assam,2019-20,76,Oilseeds_Area,310.8
+Assam,2020-21,76,Oilseeds_Area,309.7
+Assam,2021-22,76,Oilseeds_Area,311.7
+Assam,2022-23,76,Oilseeds_Area,321.0
+Assam,2023-24,76,Oilseeds_Area,346.4
+Assam,2024-25,76,Oilseeds_Area,333.6
+Bihar,2004-05,76,Oilseeds_Area,131.8
+Bihar,2005-06,76,Oilseeds_Area,139.0
+Bihar,2006-07,76,Oilseeds_Area,142.9
+Bihar,2007-08,76,Oilseeds_Area,140.8
+Bihar,2008-09,76,Oilseeds_Area,138.1
+Bihar,2009-10,76,Oilseeds_Area,138.8
+Bihar,2010-11,76,Oilseeds_Area,130.0
+Bihar,2011-12,76,Oilseeds_Area,133.4
+Bihar,2012-13,76,Oilseeds_Area,128.0
+Bihar,2013-14,76,Oilseeds_Area,123.7
+Bihar,2014-15,76,Oilseeds_Area,116.2
+Bihar,2015-16,76,Oilseeds_Area,119.5
+Bihar,2016-17,76,Oilseeds_Area,108.9
+Bihar,2017-18,76,Oilseeds_Area,102.9
+Bihar,2018-19,76,Oilseeds_Area,100.2
+Bihar,2019-20,76,Oilseeds_Area,113.5
+Bihar,2020-21,76,Oilseeds_Area,115.3
+Bihar,2021-22,76,Oilseeds_Area,115.9
+Bihar,2022-23,76,Oilseeds_Area,113.1
+Bihar,2023-24,76,Oilseeds_Area,129.6
+Bihar,2024-25,76,Oilseeds_Area,107.1
+Chhattisgarh,2004-05,76,Oilseeds_Area,290.7
+Chhattisgarh,2005-06,76,Oilseeds_Area,302.1
+Chhattisgarh,2006-07,76,Oilseeds_Area,321.1
+Chhattisgarh,2007-08,76,Oilseeds_Area,361.8
+Chhattisgarh,2008-09,76,Oilseeds_Area,381.5
+Chhattisgarh,2009-10,76,Oilseeds_Area,330.1
+Chhattisgarh,2010-11,76,Oilseeds_Area,316.5
+Chhattisgarh,2011-12,76,Oilseeds_Area,308.3
+Chhattisgarh,2012-13,76,Oilseeds_Area,297.5
+Chhattisgarh,2013-14,76,Oilseeds_Area,289.6
+Chhattisgarh,2014-15,76,Oilseeds_Area,291.1
+Chhattisgarh,2015-16,76,Oilseeds_Area,298.9
+Chhattisgarh,2016-17,76,Oilseeds_Area,296.9
+Chhattisgarh,2017-18,76,Oilseeds_Area,266.5
+Chhattisgarh,2018-19,76,Oilseeds_Area,260.3
+Chhattisgarh,2019-20,76,Oilseeds_Area,221.0
+Chhattisgarh,2020-21,76,Oilseeds_Area,198.3
+Chhattisgarh,2021-22,76,Oilseeds_Area,156.5
+Chhattisgarh,2022-23,76,Oilseeds_Area,130.7
+Chhattisgarh,2023-24,76,Oilseeds_Area,118.0
+Chhattisgarh,2024-25,76,Oilseeds_Area,110.1
+Delhi,2004-05,76,Oilseeds_Area,4.1
+Delhi,2005-06,76,Oilseeds_Area,3.8
+Delhi,2006-07,76,Oilseeds_Area,0.2
+Delhi,2007-08,76,Oilseeds_Area,3.1
+Delhi,2008-09,76,Oilseeds_Area,3.9
+Delhi,2009-10,76,Oilseeds_Area,3.9
+Delhi,2010-11,76,Oilseeds_Area,1.0
+Delhi,2011-12,76,Oilseeds_Area,4.0
+Delhi,2012-13,76,Oilseeds_Area,6.8
+Delhi,2014-15,76,Oilseeds_Area,0.0
+Delhi,2015-16,76,Oilseeds_Area,3.7
+Delhi,2016-17,76,Oilseeds_Area,3.6
+Delhi,2017-18,76,Oilseeds_Area,3.6
+Delhi,2018-19,76,Oilseeds_Area,3.6
+Delhi,2019-20,76,Oilseeds_Area,3.6
+Delhi,2020-21,76,Oilseeds_Area,3.6
+Delhi,2021-22,76,Oilseeds_Area,4.2
+Delhi,2022-23,76,Oilseeds_Area,0.0
+Delhi,2023-24,76,Oilseeds_Area,4.6
+Delhi,2024-25,76,Oilseeds_Area,4.6
+Goa,2004-05,76,Oilseeds_Area,3.4
+Goa,2005-06,76,Oilseeds_Area,3.3
+Goa,2006-07,76,Oilseeds_Area,2.6
+Goa,2007-08,76,Oilseeds_Area,3.7
+Goa,2008-09,76,Oilseeds_Area,3.8
+Goa,2009-10,76,Oilseeds_Area,2.9
+Goa,2010-11,76,Oilseeds_Area,2.9
+Goa,2011-12,76,Oilseeds_Area,3.2
+Goa,2012-13,76,Oilseeds_Area,3.1
+Goa,2013-14,76,Oilseeds_Area,2.6
+Goa,2014-15,76,Oilseeds_Area,2.3
+Goa,2015-16,76,Oilseeds_Area,1.9
+Goa,2016-17,76,Oilseeds_Area,1.7
+Goa,2017-18,76,Oilseeds_Area,1.5
+Goa,2018-19,76,Oilseeds_Area,0.4
+Goa,2019-20,76,Oilseeds_Area,0.2
+Goa,2020-21,76,Oilseeds_Area,0.1
+Goa,2021-22,76,Oilseeds_Area,0.1
+Goa,2022-23,76,Oilseeds_Area,0.1
+Goa,2023-24,76,Oilseeds_Area,0.1
+Goa,2024-25,76,Oilseeds_Area,0.1
+Gujarat,2004-05,76,Oilseeds_Area,3016.1
+Gujarat,2005-06,76,Oilseeds_Area,3032.0
+Gujarat,2006-07,76,Oilseeds_Area,2828.0
+Gujarat,2007-08,76,Oilseeds_Area,2920.0
+Gujarat,2008-09,76,Oilseeds_Area,2984.8
+Gujarat,2009-10,76,Oilseeds_Area,2793.0
+Gujarat,2010-11,76,Oilseeds_Area,2893.0
+Gujarat,2011-12,76,Oilseeds_Area,3131.0
+Gujarat,2012-13,76,Oilseeds_Area,2452.0
+Gujarat,2013-14,76,Oilseeds_Area,3079.0
+Gujarat,2014-15,76,Oilseeds_Area,2545.6
+Gujarat,2015-16,76,Oilseeds_Area,2568.0
+Gujarat,2016-17,76,Oilseeds_Area,2776.0
+Gujarat,2017-18,76,Oilseeds_Area,2758.0
+Gujarat,2018-19,76,Oilseeds_Area,2560.4
+Gujarat,2019-20,76,Oilseeds_Area,2867.7
+Gujarat,2020-21,76,Oilseeds_Area,3356.1
+Gujarat,2021-22,76,Oilseeds_Area,3325.1
+Gujarat,2022-23,76,Oilseeds_Area,3206.1
+Gujarat,2023-24,76,Oilseeds_Area,3138.0
+Gujarat,2024-25,76,Oilseeds_Area,3345.1
+Haryana,2004-05,76,Oilseeds_Area,714.6
+Haryana,2005-06,76,Oilseeds_Area,734.2
+Haryana,2006-07,76,Oilseeds_Area,621.0
+Haryana,2007-08,76,Oilseeds_Area,529.3
+Haryana,2008-09,76,Oilseeds_Area,541.3
+Haryana,2009-10,76,Oilseeds_Area,533.4
+Haryana,2010-11,76,Oilseeds_Area,519.5
+Haryana,2011-12,76,Oilseeds_Area,553.0
+Haryana,2012-13,76,Oilseeds_Area,580.2
+Haryana,2013-14,76,Oilseeds_Area,549.1
+Haryana,2014-15,76,Oilseeds_Area,510.6
+Haryana,2015-16,76,Oilseeds_Area,522.2
+Haryana,2016-17,76,Oilseeds_Area,526.6
+Haryana,2017-18,76,Oilseeds_Area,559.2
+Haryana,2018-19,76,Oilseeds_Area,625.4
+Haryana,2019-20,76,Oilseeds_Area,659.0
+Haryana,2020-21,76,Oilseeds_Area,671.6
+Haryana,2021-22,76,Oilseeds_Area,744.7
+Haryana,2022-23,76,Oilseeds_Area,787.2
+Haryana,2023-24,76,Oilseeds_Area,762.1
+Haryana,2024-25,76,Oilseeds_Area,706.5
+Himachal Pradesh,2004-05,76,Oilseeds_Area,19.0
+Himachal Pradesh,2005-06,76,Oilseeds_Area,15.1
+Himachal Pradesh,2006-07,76,Oilseeds_Area,14.9
+Himachal Pradesh,2007-08,76,Oilseeds_Area,14.7
+Himachal Pradesh,2008-09,76,Oilseeds_Area,13.7
+Himachal Pradesh,2009-10,76,Oilseeds_Area,13.9
+Himachal Pradesh,2010-11,76,Oilseeds_Area,15.0
+Himachal Pradesh,2011-12,76,Oilseeds_Area,14.9
+Himachal Pradesh,2012-13,76,Oilseeds_Area,13.5
+Himachal Pradesh,2013-14,76,Oilseeds_Area,12.5
+Himachal Pradesh,2014-15,76,Oilseeds_Area,12.2
+Himachal Pradesh,2015-16,76,Oilseeds_Area,12.6
+Himachal Pradesh,2016-17,76,Oilseeds_Area,12.7
+Himachal Pradesh,2017-18,76,Oilseeds_Area,9.9
+Himachal Pradesh,2018-19,76,Oilseeds_Area,10.3
+Himachal Pradesh,2019-20,76,Oilseeds_Area,10.4
+Himachal Pradesh,2020-21,76,Oilseeds_Area,10.9
+Himachal Pradesh,2021-22,76,Oilseeds_Area,10.6
+Himachal Pradesh,2022-23,76,Oilseeds_Area,10.8
+Himachal Pradesh,2023-24,76,Oilseeds_Area,10.2
+Himachal Pradesh,2024-25,76,Oilseeds_Area,9.9
+Jammu & Kashmir,2004-05,76,Oilseeds_Area,110.4
+Jammu & Kashmir,2005-06,76,Oilseeds_Area,6.3
+Jammu & Kashmir,2006-07,76,Oilseeds_Area,69.4
+Jammu & Kashmir,2007-08,76,Oilseeds_Area,63.0
+Jammu & Kashmir,2008-09,76,Oilseeds_Area,65.3
+Jammu & Kashmir,2009-10,76,Oilseeds_Area,65.1
+Jammu & Kashmir,2010-11,76,Oilseeds_Area,64.6
+Jammu & Kashmir,2011-12,76,Oilseeds_Area,64.5
+Jammu & Kashmir,2012-13,76,Oilseeds_Area,64.8
+Jammu & Kashmir,2013-14,76,Oilseeds_Area,65.7
+Jammu & Kashmir,2014-15,76,Oilseeds_Area,59.2
+Jammu & Kashmir,2015-16,76,Oilseeds_Area,54.4
+Jammu & Kashmir,2016-17,76,Oilseeds_Area,54.7
+Jammu & Kashmir,2017-18,76,Oilseeds_Area,51.8
+Jammu & Kashmir,2018-19,76,Oilseeds_Area,51.8
+Jammu & Kashmir,2019-20,76,Oilseeds_Area,49.3
+Jammu & Kashmir,2020-21,76,Oilseeds_Area,51.3
+Jammu & Kashmir,2021-22,76,Oilseeds_Area,45.6
+Jammu & Kashmir,2022-23,76,Oilseeds_Area,45.7
+Jammu & Kashmir,2023-24,76,Oilseeds_Area,45.4
+Jammu & Kashmir,2024-25,76,Oilseeds_Area,45.4
+Jharkhand,2004-05,76,Oilseeds_Area,29.0
+Jharkhand,2005-06,76,Oilseeds_Area,27.3
+Jharkhand,2006-07,76,Oilseeds_Area,118.5
+Jharkhand,2007-08,76,Oilseeds_Area,124.4
+Jharkhand,2008-09,76,Oilseeds_Area,130.6
+Jharkhand,2009-10,76,Oilseeds_Area,141.5
+Jharkhand,2010-11,76,Oilseeds_Area,182.0
+Jharkhand,2011-12,76,Oilseeds_Area,228.9
+Jharkhand,2012-13,76,Oilseeds_Area,250.6
+Jharkhand,2013-14,76,Oilseeds_Area,275.8
+Jharkhand,2014-15,76,Oilseeds_Area,267.5
+Jharkhand,2015-16,76,Oilseeds_Area,259.2
+Jharkhand,2016-17,76,Oilseeds_Area,360.7
+Jharkhand,2017-18,76,Oilseeds_Area,416.8
+Jharkhand,2018-19,76,Oilseeds_Area,334.1
+Jharkhand,2019-20,76,Oilseeds_Area,368.1
+Jharkhand,2020-21,76,Oilseeds_Area,513.6
+Jharkhand,2021-22,76,Oilseeds_Area,494.9
+Jharkhand,2022-23,76,Oilseeds_Area,460.6
+Jharkhand,2023-24,76,Oilseeds_Area,469.2
+Jharkhand,2024-25,76,Oilseeds_Area,528.8
+Karnataka,2004-05,76,Oilseeds_Area,2674.0
+Karnataka,2005-06,76,Oilseeds_Area,2857.0
+Karnataka,2006-07,76,Oilseeds_Area,2354.0
+Karnataka,2007-08,76,Oilseeds_Area,2276.0
+Karnataka,2008-09,76,Oilseeds_Area,2178.0
+Karnataka,2009-10,76,Oilseeds_Area,2001.0
+Karnataka,2010-11,76,Oilseeds_Area,1624.0
+Karnataka,2011-12,76,Oilseeds_Area,1416.0
+Karnataka,2012-13,76,Oilseeds_Area,1422.0
+Karnataka,2013-14,76,Oilseeds_Area,1410.0
+Karnataka,2014-15,76,Oilseeds_Area,1373.0
+Karnataka,2015-16,76,Oilseeds_Area,1286.0
+Karnataka,2016-17,76,Oilseeds_Area,1293.0
+Karnataka,2017-18,76,Oilseeds_Area,1099.0
+Karnataka,2018-19,76,Oilseeds_Area,949.2
+Karnataka,2019-20,76,Oilseeds_Area,1014.0
+Karnataka,2020-21,76,Oilseeds_Area,1209.4
+Karnataka,2021-22,76,Oilseeds_Area,1195.8
+Karnataka,2022-23,76,Oilseeds_Area,1257.1
+Karnataka,2023-24,76,Oilseeds_Area,880.1
+Karnataka,2024-25,76,Oilseeds_Area,921.3
+Kerala,2004-05,76,Oilseeds_Area,2.4
+Kerala,2005-06,76,Oilseeds_Area,3.9
+Kerala,2006-07,76,Oilseeds_Area,3.6
+Kerala,2007-08,76,Oilseeds_Area,3.4
+Kerala,2008-09,76,Oilseeds_Area,2.3
+Kerala,2009-10,76,Oilseeds_Area,1.9
+Kerala,2010-11,76,Oilseeds_Area,2.0
+Kerala,2011-12,76,Oilseeds_Area,1.9
+Kerala,2012-13,76,Oilseeds_Area,1.0
+Kerala,2013-14,76,Oilseeds_Area,1.0
+Kerala,2014-15,76,Oilseeds_Area,0.7
+Kerala,2015-16,76,Oilseeds_Area,0.6
+Kerala,2016-17,76,Oilseeds_Area,4.5
+Kerala,2017-18,76,Oilseeds_Area,0.5
+Kerala,2018-19,76,Oilseeds_Area,0.6
+Kerala,2019-20,76,Oilseeds_Area,0.3
+Kerala,2020-21,76,Oilseeds_Area,0.7
+Kerala,2021-22,76,Oilseeds_Area,0.7
+Kerala,2022-23,76,Oilseeds_Area,0.5
+Kerala,2023-24,76,Oilseeds_Area,0.6
+Kerala,2024-25,76,Oilseeds_Area,0.5
+Madhya Pradesh,2004-05,76,Oilseeds_Area,5760.2
+Madhya Pradesh,2005-06,76,Oilseeds_Area,5668.3
+Madhya Pradesh,2006-07,76,Oilseeds_Area,6086.7
+Madhya Pradesh,2007-08,76,Oilseeds_Area,6258.1
+Madhya Pradesh,2008-09,76,Oilseeds_Area,6489.6
+Madhya Pradesh,2009-10,76,Oilseeds_Area,6765.1
+Madhya Pradesh,2010-11,76,Oilseeds_Area,7029.9
+Madhya Pradesh,2011-12,76,Oilseeds_Area,7201.6
+Madhya Pradesh,2012-13,76,Oilseeds_Area,7534.4
+Madhya Pradesh,2013-14,76,Oilseeds_Area,7732.0
+Madhya Pradesh,2014-15,76,Oilseeds_Area,7066.1
+Madhya Pradesh,2015-16,76,Oilseeds_Area,7336.0
+Madhya Pradesh,2016-17,76,Oilseeds_Area,6986.0
+Madhya Pradesh,2017-18,76,Oilseeds_Area,6642.0
+Madhya Pradesh,2018-19,76,Oilseeds_Area,6654.0
+Madhya Pradesh,2019-20,76,Oilseeds_Area,7470.0
+Madhya Pradesh,2020-21,76,Oilseeds_Area,8204.0
+Madhya Pradesh,2021-22,76,Oilseeds_Area,7490.0
+Madhya Pradesh,2022-23,76,Oilseeds_Area,7746.9
+Madhya Pradesh,2023-24,76,Oilseeds_Area,8172.0
+Madhya Pradesh,2024-25,76,Oilseeds_Area,7747.0
+Maharashtra,2004-05,76,Oilseeds_Area,3359.0
+Maharashtra,2005-06,76,Oilseeds_Area,3648.0
+Maharashtra,2006-07,76,Oilseeds_Area,3863.0
+Maharashtra,2007-08,76,Oilseeds_Area,3825.0
+Maharashtra,2008-09,76,Oilseeds_Area,3980.0
+Maharashtra,2009-10,76,Oilseeds_Area,3884.0
+Maharashtra,2010-11,76,Oilseeds_Area,3615.0
+Maharashtra,2011-12,76,Oilseeds_Area,3667.0
+Maharashtra,2012-13,76,Oilseeds_Area,3806.0
+Maharashtra,2013-14,76,Oilseeds_Area,4148.0
+Maharashtra,2014-15,76,Oilseeds_Area,4242.0
+Maharashtra,2015-16,76,Oilseeds_Area,4204.0
+Maharashtra,2016-17,76,Oilseeds_Area,4408.8
+Maharashtra,2017-18,76,Oilseeds_Area,4134.1
+Maharashtra,2018-19,76,Oilseeds_Area,4457.5
+Maharashtra,2019-20,76,Oilseeds_Area,4526.2
+Maharashtra,2020-21,76,Oilseeds_Area,4724.9
+Maharashtra,2021-22,76,Oilseeds_Area,5035.3
+Maharashtra,2022-23,76,Oilseeds_Area,5252.9
+Maharashtra,2023-24,76,Oilseeds_Area,5449.4
+Maharashtra,2024-25,76,Oilseeds_Area,5451.2
+Manipur,2004-05,76,Oilseeds_Area,1.8
+Manipur,2005-06,76,Oilseeds_Area,0.1
+Manipur,2006-07,76,Oilseeds_Area,0.1
+Manipur,2007-08,76,Oilseeds_Area,2.1
+Manipur,2008-09,76,Oilseeds_Area,0.9
+Manipur,2009-10,76,Oilseeds_Area,0.9
+Manipur,2010-11,76,Oilseeds_Area,34.5
+Manipur,2011-12,76,Oilseeds_Area,35.9
+Manipur,2012-13,76,Oilseeds_Area,44.1
+Manipur,2013-14,76,Oilseeds_Area,36.9
+Manipur,2014-15,76,Oilseeds_Area,36.7
+Manipur,2015-16,76,Oilseeds_Area,37.5
+Manipur,2016-17,76,Oilseeds_Area,37.6
+Manipur,2017-18,76,Oilseeds_Area,37.7
+Manipur,2018-19,76,Oilseeds_Area,37.7
+Manipur,2019-20,76,Oilseeds_Area,32.4
+Manipur,2020-21,76,Oilseeds_Area,37.9
+Manipur,2021-22,76,Oilseeds_Area,37.9
+Manipur,2022-23,76,Oilseeds_Area,39.0
+Manipur,2023-24,76,Oilseeds_Area,37.1
+Manipur,2024-25,76,Oilseeds_Area,30.3
+Meghalaya,2004-05,76,Oilseeds_Area,9.8
+Meghalaya,2005-06,76,Oilseeds_Area,9.8
+Meghalaya,2006-07,76,Oilseeds_Area,9.8
+Meghalaya,2007-08,76,Oilseeds_Area,10.0
+Meghalaya,2008-09,76,Oilseeds_Area,10.5
+Meghalaya,2009-10,76,Oilseeds_Area,9.9
+Meghalaya,2010-11,76,Oilseeds_Area,10.0
+Meghalaya,2011-12,76,Oilseeds_Area,9.9
+Meghalaya,2012-13,76,Oilseeds_Area,10.0
+Meghalaya,2013-14,76,Oilseeds_Area,13.7
+Meghalaya,2014-15,76,Oilseeds_Area,13.9
+Meghalaya,2015-16,76,Oilseeds_Area,13.9
+Meghalaya,2016-17,76,Oilseeds_Area,14.2
+Meghalaya,2017-18,76,Oilseeds_Area,14.3
+Meghalaya,2018-19,76,Oilseeds_Area,14.3
+Meghalaya,2019-20,76,Oilseeds_Area,14.3
+Meghalaya,2020-21,76,Oilseeds_Area,14.3
+Meghalaya,2021-22,76,Oilseeds_Area,14.3
+Meghalaya,2022-23,76,Oilseeds_Area,14.4
+Meghalaya,2023-24,76,Oilseeds_Area,14.4
+Meghalaya,2024-25,76,Oilseeds_Area,14.4
+Mizoram,2004-05,76,Oilseeds_Area,7.3
+Mizoram,2005-06,76,Oilseeds_Area,4.8
+Mizoram,2006-07,76,Oilseeds_Area,4.1
+Mizoram,2007-08,76,Oilseeds_Area,3.5
+Mizoram,2008-09,76,Oilseeds_Area,3.2
+Mizoram,2009-10,76,Oilseeds_Area,2.7
+Mizoram,2010-11,76,Oilseeds_Area,3.2
+Mizoram,2011-12,76,Oilseeds_Area,2.5
+Mizoram,2012-13,76,Oilseeds_Area,2.1
+Mizoram,2013-14,76,Oilseeds_Area,2.1
+Mizoram,2014-15,76,Oilseeds_Area,2.1
+Mizoram,2015-16,76,Oilseeds_Area,2.7
+Mizoram,2016-17,76,Oilseeds_Area,2.2
+Mizoram,2017-18,76,Oilseeds_Area,2.2
+Mizoram,2018-19,76,Oilseeds_Area,2.3
+Mizoram,2019-20,76,Oilseeds_Area,2.5
+Mizoram,2020-21,76,Oilseeds_Area,2.5
+Mizoram,2021-22,76,Oilseeds_Area,3.0
+Mizoram,2022-23,76,Oilseeds_Area,4.5
+Mizoram,2023-24,76,Oilseeds_Area,2.3
+Mizoram,2024-25,76,Oilseeds_Area,2.0
+Nagaland,2004-05,76,Oilseeds_Area,70.3
+Nagaland,2005-06,76,Oilseeds_Area,67.8
+Nagaland,2006-07,76,Oilseeds_Area,69.5
+Nagaland,2007-08,76,Oilseeds_Area,76.0
+Nagaland,2008-09,76,Oilseeds_Area,62.6
+Nagaland,2009-10,76,Oilseeds_Area,101.3
+Nagaland,2010-11,76,Oilseeds_Area,63.7
+Nagaland,2011-12,76,Oilseeds_Area,64.0
+Nagaland,2012-13,76,Oilseeds_Area,64.5
+Nagaland,2013-14,76,Oilseeds_Area,64.8
+Nagaland,2014-15,76,Oilseeds_Area,65.0
+Nagaland,2015-16,76,Oilseeds_Area,65.5
+Nagaland,2016-17,76,Oilseeds_Area,65.7
+Nagaland,2017-18,76,Oilseeds_Area,65.9
+Nagaland,2018-19,76,Oilseeds_Area,66.2
+Nagaland,2019-20,76,Oilseeds_Area,67.4
+Nagaland,2020-21,76,Oilseeds_Area,66.5
+Nagaland,2021-22,76,Oilseeds_Area,19.3
+Nagaland,2022-23,76,Oilseeds_Area,36.3
+Nagaland,2023-24,76,Oilseeds_Area,36.7
+Nagaland,2024-25,76,Oilseeds_Area,36.5
+Odisha,2004-05,76,Oilseeds_Area,316.0
+Odisha,2005-06,76,Oilseeds_Area,332.0
+Odisha,2006-07,76,Oilseeds_Area,318.1
+Odisha,2007-08,76,Oilseeds_Area,323.2
+Odisha,2008-09,76,Oilseeds_Area,298.3
+Odisha,2009-10,76,Oilseeds_Area,292.2
+Odisha,2010-11,76,Oilseeds_Area,290.4
+Odisha,2011-12,76,Oilseeds_Area,250.7
+Odisha,2012-13,76,Oilseeds_Area,243.3
+Odisha,2013-14,76,Oilseeds_Area,223.4
+Odisha,2014-15,76,Oilseeds_Area,212.0
+Odisha,2015-16,76,Oilseeds_Area,190.1
+Odisha,2016-17,76,Oilseeds_Area,177.9
+Odisha,2017-18,76,Oilseeds_Area,148.9
+Odisha,2018-19,76,Oilseeds_Area,137.5
+Odisha,2019-20,76,Oilseeds_Area,137.2
+Odisha,2020-21,76,Oilseeds_Area,145.7
+Odisha,2021-22,76,Oilseeds_Area,167.0
+Odisha,2022-23,76,Oilseeds_Area,147.4
+Odisha,2023-24,76,Oilseeds_Area,157.6
+Odisha,2024-25,76,Oilseeds_Area,173.0
+Puducherry,2004-05,76,Oilseeds_Area,1.7
+Puducherry,2005-06,76,Oilseeds_Area,1.8
+Puducherry,2006-07,76,Oilseeds_Area,1.8
+Puducherry,2007-08,76,Oilseeds_Area,0.9
+Puducherry,2008-09,76,Oilseeds_Area,0.9
+Puducherry,2009-10,76,Oilseeds_Area,0.7
+Puducherry,2010-11,76,Oilseeds_Area,0.5
+Puducherry,2011-12,76,Oilseeds_Area,0.5
+Puducherry,2012-13,76,Oilseeds_Area,0.5
+Puducherry,2013-14,76,Oilseeds_Area,0.5
+Puducherry,2014-15,76,Oilseeds_Area,0.5
+Puducherry,2015-16,76,Oilseeds_Area,0.4
+Puducherry,2016-17,76,Oilseeds_Area,0.3
+Puducherry,2017-18,76,Oilseeds_Area,0.4
+Puducherry,2018-19,76,Oilseeds_Area,0.4
+Puducherry,2019-20,76,Oilseeds_Area,0.5
+Puducherry,2020-21,76,Oilseeds_Area,0.4
+Puducherry,2021-22,76,Oilseeds_Area,0.9
+Puducherry,2022-23,76,Oilseeds_Area,1.0
+Puducherry,2023-24,76,Oilseeds_Area,0.9
+Puducherry,2024-25,76,Oilseeds_Area,0.8
+Punjab,2004-05,76,Oilseeds_Area,91.4
+Punjab,2005-06,76,Oilseeds_Area,81.7
+Punjab,2006-07,76,Oilseeds_Area,70.4
+Punjab,2007-08,76,Oilseeds_Area,59.4
+Punjab,2008-09,76,Oilseeds_Area,59.7
+Punjab,2009-10,76,Oilseeds_Area,61.6
+Punjab,2010-11,76,Oilseeds_Area,53.5
+Punjab,2011-12,76,Oilseeds_Area,50.0
+Punjab,2012-13,76,Oilseeds_Area,51.4
+Punjab,2013-14,76,Oilseeds_Area,48.1
+Punjab,2014-15,76,Oilseeds_Area,45.6
+Punjab,2015-16,76,Oilseeds_Area,43.1
+Punjab,2016-17,76,Oilseeds_Area,41.7
+Punjab,2017-18,76,Oilseeds_Area,40.1
+Punjab,2018-19,76,Oilseeds_Area,39.7
+Punjab,2019-20,76,Oilseeds_Area,39.7
+Punjab,2020-21,76,Oilseeds_Area,38.0
+Punjab,2021-22,76,Oilseeds_Area,49.5
+Punjab,2022-23,76,Oilseeds_Area,59.3
+Punjab,2023-24,76,Oilseeds_Area,47.5
+Punjab,2024-25,76,Oilseeds_Area,46.2
+Rajasthan,2004-05,76,Oilseeds_Area,5133.4
+Rajasthan,2005-06,76,Oilseeds_Area,5257.0
+Rajasthan,2006-07,76,Oilseeds_Area,4508.0
+Rajasthan,2007-08,76,Oilseeds_Area,3995.4
+Rajasthan,2008-09,76,Oilseeds_Area,4649.0
+Rajasthan,2009-10,76,Oilseeds_Area,4133.0
+Rajasthan,2010-11,76,Oilseeds_Area,5488.4
+Rajasthan,2011-12,76,Oilseeds_Area,4622.7
+Rajasthan,2012-13,76,Oilseeds_Area,4912.2
+Rajasthan,2013-14,76,Oilseeds_Area,5274.0
+Rajasthan,2014-15,76,Oilseeds_Area,4457.2
+Rajasthan,2015-16,76,Oilseeds_Area,4814.0
+Rajasthan,2016-17,76,Oilseeds_Area,4619.6
+Rajasthan,2017-18,76,Oilseeds_Area,4136.9
+Rajasthan,2018-19,76,Oilseeds_Area,4363.4
+Rajasthan,2019-20,76,Oilseeds_Area,5422.7
+Rajasthan,2020-21,76,Oilseeds_Area,5192.0
+Rajasthan,2021-22,76,Oilseeds_Area,5757.5
+Rajasthan,2022-23,76,Oilseeds_Area,6426.8
+Rajasthan,2023-24,76,Oilseeds_Area,6230.0
+Rajasthan,2024-25,76,Oilseeds_Area,6076.0
+Sikkim,2004-05,76,Oilseeds_Area,9.9
+Sikkim,2005-06,76,Oilseeds_Area,9.9
+Sikkim,2006-07,76,Oilseeds_Area,9.9
+Sikkim,2007-08,76,Oilseeds_Area,8.6
+Sikkim,2008-09,76,Oilseeds_Area,9.7
+Sikkim,2009-10,76,Oilseeds_Area,9.8
+Sikkim,2010-11,76,Oilseeds_Area,9.5
+Sikkim,2011-12,76,Oilseeds_Area,9.3
+Sikkim,2012-13,76,Oilseeds_Area,8.2
+Sikkim,2013-14,76,Oilseeds_Area,8.0
+Sikkim,2014-15,76,Oilseeds_Area,7.9
+Sikkim,2015-16,76,Oilseeds_Area,6.9
+Sikkim,2016-17,76,Oilseeds_Area,7.0
+Sikkim,2017-18,76,Oilseeds_Area,6.3
+Sikkim,2018-19,76,Oilseeds_Area,6.1
+Sikkim,2019-20,76,Oilseeds_Area,6.1
+Sikkim,2020-21,76,Oilseeds_Area,6.1
+Sikkim,2021-22,76,Oilseeds_Area,6.1
+Sikkim,2022-23,76,Oilseeds_Area,5.2
+Sikkim,2023-24,76,Oilseeds_Area,2.3
+Sikkim,2024-25,76,Oilseeds_Area,2.3
+Tamil Nadu,2004-05,76,Oilseeds_Area,715.7
+Tamil Nadu,2005-06,76,Oilseeds_Area,709.9
+Tamil Nadu,2006-07,76,Oilseeds_Area,592.4
+Tamil Nadu,2007-08,76,Oilseeds_Area,659.3
+Tamil Nadu,2008-09,76,Oilseeds_Area,585.4
+Tamil Nadu,2009-10,76,Oilseeds_Area,494.9
+Tamil Nadu,2010-11,76,Oilseeds_Area,449.4
+Tamil Nadu,2011-12,76,Oilseeds_Area,449.2
+Tamil Nadu,2012-13,76,Oilseeds_Area,388.5
+Tamil Nadu,2013-14,76,Oilseeds_Area,408.2
+Tamil Nadu,2014-15,76,Oilseeds_Area,415.0
+Tamil Nadu,2015-16,76,Oilseeds_Area,407.1
+Tamil Nadu,2016-17,76,Oilseeds_Area,323.1
+Tamil Nadu,2017-18,76,Oilseeds_Area,380.4
+Tamil Nadu,2018-19,76,Oilseeds_Area,390.2
+Tamil Nadu,2019-20,76,Oilseeds_Area,409.3
+Tamil Nadu,2020-21,76,Oilseeds_Area,473.6
+Tamil Nadu,2021-22,76,Oilseeds_Area,432.3
+Tamil Nadu,2022-23,76,Oilseeds_Area,414.8
+Tamil Nadu,2023-24,76,Oilseeds_Area,400.9
+Tamil Nadu,2024-25,76,Oilseeds_Area,406.3
+Telangana,2011-12,76,Oilseeds_Area,444.9
+Telangana,2012-13,76,Oilseeds_Area,505.5
+Telangana,2013-14,76,Oilseeds_Area,631.7
+Telangana,2014-15,76,Oilseeds_Area,496.0
+Telangana,2015-16,76,Oilseeds_Area,450.0
+Telangana,2016-17,76,Oilseeds_Area,522.0
+Telangana,2017-18,76,Oilseeds_Area,374.0
+Telangana,2018-19,76,Oilseeds_Area,321.0
+Telangana,2019-20,76,Oilseeds_Area,339.0
+Telangana,2020-21,76,Oilseeds_Area,335.0
+Telangana,2021-22,76,Oilseeds_Area,375.0
+Telangana,2022-23,76,Oilseeds_Area,342.0
+Telangana,2023-24,76,Oilseeds_Area,304.0
+Telangana,2024-25,76,Oilseeds_Area,285.4
+Tripura,2004-05,76,Oilseeds_Area,5.4
+Tripura,2005-06,76,Oilseeds_Area,5.5
+Tripura,2006-07,76,Oilseeds_Area,4.4
+Tripura,2007-08,76,Oilseeds_Area,4.0
+Tripura,2008-09,76,Oilseeds_Area,3.5
+Tripura,2009-10,76,Oilseeds_Area,3.5
+Tripura,2010-11,76,Oilseeds_Area,4.6
+Tripura,2011-12,76,Oilseeds_Area,4.7
+Tripura,2012-13,76,Oilseeds_Area,4.8
+Tripura,2013-14,76,Oilseeds_Area,6.1
+Tripura,2014-15,76,Oilseeds_Area,8.9
+Tripura,2015-16,76,Oilseeds_Area,11.7
+Tripura,2016-17,76,Oilseeds_Area,15.4
+Tripura,2017-18,76,Oilseeds_Area,17.7
+Tripura,2018-19,76,Oilseeds_Area,17.1
+Tripura,2019-20,76,Oilseeds_Area,17.2
+Tripura,2020-21,76,Oilseeds_Area,15.3
+Tripura,2021-22,76,Oilseeds_Area,15.1
+Tripura,2022-23,76,Oilseeds_Area,13.3
+Tripura,2023-24,76,Oilseeds_Area,13.3
+Tripura,2024-25,76,Oilseeds_Area,14.1
+Uttar Pradesh,2004-05,76,Oilseeds_Area,1105.6
+Uttar Pradesh,2005-06,76,Oilseeds_Area,1073.5
+Uttar Pradesh,2006-07,76,Oilseeds_Area,1234.2
+Uttar Pradesh,2007-08,76,Oilseeds_Area,1340.1
+Uttar Pradesh,2008-09,76,Oilseeds_Area,1346.2
+Uttar Pradesh,2009-10,76,Oilseeds_Area,1084.0
+Uttar Pradesh,2010-11,76,Oilseeds_Area,1105.0
+Uttar Pradesh,2011-12,76,Oilseeds_Area,1129.0
+Uttar Pradesh,2012-13,76,Oilseeds_Area,1147.0
+Uttar Pradesh,2013-14,76,Oilseeds_Area,1106.0
+Uttar Pradesh,2014-15,76,Oilseeds_Area,1127.0
+Uttar Pradesh,2015-16,76,Oilseeds_Area,1291.0
+Uttar Pradesh,2016-17,76,Oilseeds_Area,1199.2
+Uttar Pradesh,2017-18,76,Oilseeds_Area,1087.0
+Uttar Pradesh,2018-19,76,Oilseeds_Area,1233.0
+Uttar Pradesh,2019-20,76,Oilseeds_Area,1262.3
+Uttar Pradesh,2020-21,76,Oilseeds_Area,1197.0
+Uttar Pradesh,2021-22,76,Oilseeds_Area,1207.0
+Uttar Pradesh,2022-23,76,Oilseeds_Area,1613.4
+Uttar Pradesh,2023-24,76,Oilseeds_Area,1919.0
+Uttar Pradesh,2024-25,76,Oilseeds_Area,2579.1
+Uttarakhand,2004-05,76,Oilseeds_Area,41.0
+Uttarakhand,2005-06,76,Oilseeds_Area,35.0
+Uttarakhand,2006-07,76,Oilseeds_Area,28.0
+Uttarakhand,2007-08,76,Oilseeds_Area,30.0
+Uttarakhand,2008-09,76,Oilseeds_Area,26.0
+Uttarakhand,2009-10,76,Oilseeds_Area,29.0
+Uttarakhand,2010-11,76,Oilseeds_Area,27.2
+Uttarakhand,2011-12,76,Oilseeds_Area,30.0
+Uttarakhand,2012-13,76,Oilseeds_Area,32.2
+Uttarakhand,2013-14,76,Oilseeds_Area,31.8
+Uttarakhand,2014-15,76,Oilseeds_Area,31.6
+Uttarakhand,2015-16,76,Oilseeds_Area,32.4
+Uttarakhand,2016-17,76,Oilseeds_Area,28.0
+Uttarakhand,2017-18,76,Oilseeds_Area,29.0
+Uttarakhand,2018-19,76,Oilseeds_Area,29.0
+Uttarakhand,2019-20,76,Oilseeds_Area,26.0
+Uttarakhand,2020-21,76,Oilseeds_Area,27.0
+Uttarakhand,2021-22,76,Oilseeds_Area,29.0
+Uttarakhand,2022-23,76,Oilseeds_Area,30.6
+Uttarakhand,2023-24,76,Oilseeds_Area,34.0
+Uttarakhand,2024-25,76,Oilseeds_Area,27.7
+West Bengal,2004-05,76,Oilseeds_Area,677.5
+West Bengal,2005-06,76,Oilseeds_Area,641.1
+West Bengal,2006-07,76,Oilseeds_Area,703.4
+West Bengal,2007-08,76,Oilseeds_Area,707.1
+West Bengal,2008-09,76,Oilseeds_Area,703.7
+West Bengal,2009-10,76,Oilseeds_Area,682.6
+West Bengal,2010-11,76,Oilseeds_Area,671.6
+West Bengal,2011-12,76,Oilseeds_Area,676.1
+West Bengal,2012-13,76,Oilseeds_Area,732.1
+West Bengal,2013-14,76,Oilseeds_Area,770.3
+West Bengal,2014-15,76,Oilseeds_Area,776.4
+West Bengal,2015-16,76,Oilseeds_Area,793.5
+West Bengal,2016-17,76,Oilseeds_Area,792.2
+West Bengal,2017-18,76,Oilseeds_Area,946.3
+West Bengal,2018-19,76,Oilseeds_Area,927.2
+West Bengal,2019-20,76,Oilseeds_Area,958.0
+West Bengal,2020-21,76,Oilseeds_Area,935.5
+West Bengal,2021-22,76,Oilseeds_Area,953.5
+West Bengal,2022-23,76,Oilseeds_Area,1002.3
+West Bengal,2023-24,76,Oilseeds_Area,1002.4
+West Bengal,2024-25,76,Oilseeds_Area,993.7

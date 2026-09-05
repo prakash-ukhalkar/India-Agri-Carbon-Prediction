@@ -1,0 +1,527 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,81,Wheat_Yield,556.0
+Andhra Pradesh,2005-06,81,Wheat_Yield,818.0
+Andhra Pradesh,2006-07,81,Wheat_Yield,900.0
+Andhra Pradesh,2007-08,81,Wheat_Yield,889.0
+Andhra Pradesh,2008-09,81,Wheat_Yield,1143.0
+Andhra Pradesh,2009-10,81,Wheat_Yield,1000.0
+Andhra Pradesh,2010-11,81,Wheat_Yield,1300.0
+Andhra Pradesh,2012-13,81,Wheat_Yield,125.0
+Andhra Pradesh,2013-14,81,Wheat_Yield,500.0
+Andhra Pradesh,2016-17,81,Wheat_Yield,0.0
+Andhra Pradesh,2017-18,81,Wheat_Yield,0.0
+Andhra Pradesh,2018-19,81,Wheat_Yield,0.0
+Andhra Pradesh,2019-20,81,Wheat_Yield,0.0
+Andhra Pradesh,2020-21,81,Wheat_Yield,0.0
+Andhra Pradesh,2021-22,81,Wheat_Yield,0.0
+Arunachal Pradesh,2004-05,81,Wheat_Yield,2023.0
+Arunachal Pradesh,2005-06,81,Wheat_Yield,1525.0
+Arunachal Pradesh,2006-07,81,Wheat_Yield,1575.0
+Arunachal Pradesh,2007-08,81,Wheat_Yield,1472.0
+Arunachal Pradesh,2008-09,81,Wheat_Yield,1576.0
+Arunachal Pradesh,2009-10,81,Wheat_Yield,1505.0
+Arunachal Pradesh,2010-11,81,Wheat_Yield,1595.0
+Arunachal Pradesh,2011-12,81,Wheat_Yield,1757.0
+Arunachal Pradesh,2012-13,81,Wheat_Yield,1498.0
+Arunachal Pradesh,2013-14,81,Wheat_Yield,1510.0
+Arunachal Pradesh,2014-15,81,Wheat_Yield,1974.0
+Arunachal Pradesh,2015-16,81,Wheat_Yield,1969.0
+Arunachal Pradesh,2016-17,81,Wheat_Yield,1969.0
+Arunachal Pradesh,2017-18,81,Wheat_Yield,1970.0
+Arunachal Pradesh,2018-19,81,Wheat_Yield,1970.0
+Arunachal Pradesh,2019-20,81,Wheat_Yield,1970.0
+Arunachal Pradesh,2020-21,81,Wheat_Yield,1970.0
+Arunachal Pradesh,2021-22,81,Wheat_Yield,1974.0
+Arunachal Pradesh,2022-23,81,Wheat_Yield,1977.0
+Arunachal Pradesh,2023-24,81,Wheat_Yield,1974.0
+Arunachal Pradesh,2024-25,81,Wheat_Yield,1975.0
+Assam,2004-05,81,Wheat_Yield,1066.0
+Assam,2005-06,81,Wheat_Yield,1074.0
+Assam,2006-07,81,Wheat_Yield,1117.0
+Assam,2007-08,81,Wheat_Yield,1268.0
+Assam,2008-09,81,Wheat_Yield,1090.0
+Assam,2009-10,81,Wheat_Yield,1087.0
+Assam,2010-11,81,Wheat_Yield,1179.0
+Assam,2011-12,81,Wheat_Yield,1147.0
+Assam,2012-13,81,Wheat_Yield,1304.0
+Assam,2013-14,81,Wheat_Yield,1292.0
+Assam,2014-15,81,Wheat_Yield,1216.0
+Assam,2015-16,81,Wheat_Yield,1634.0
+Assam,2016-17,81,Wheat_Yield,1344.0
+Assam,2017-18,81,Wheat_Yield,1386.0
+Assam,2018-19,81,Wheat_Yield,1398.0
+Assam,2019-20,81,Wheat_Yield,1273.0
+Assam,2020-21,81,Wheat_Yield,1379.0
+Assam,2021-22,81,Wheat_Yield,1248.0
+Assam,2022-23,81,Wheat_Yield,1322.0
+Assam,2023-24,81,Wheat_Yield,1434.0
+Assam,2024-25,81,Wheat_Yield,1349.0
+Bihar,2004-05,81,Wheat_Yield,1609.0
+Bihar,2005-06,81,Wheat_Yield,1617.0
+Bihar,2006-07,81,Wheat_Yield,1908.0
+Bihar,2007-08,81,Wheat_Yield,2058.0
+Bihar,2008-09,81,Wheat_Yield,2043.0
+Bihar,2009-10,81,Wheat_Yield,2084.0
+Bihar,2010-11,81,Wheat_Yield,1948.0
+Bihar,2011-12,81,Wheat_Yield,2206.0
+Bihar,2012-13,81,Wheat_Yield,2427.0
+Bihar,2013-14,81,Wheat_Yield,2358.0
+Bihar,2014-15,81,Wheat_Yield,1851.0
+Bihar,2015-16,81,Wheat_Yield,2244.0
+Bihar,2016-17,81,Wheat_Yield,2427.0
+Bihar,2017-18,81,Wheat_Yield,2905.0
+Bihar,2018-19,81,Wheat_Yield,2998.0
+Bihar,2019-20,81,Wheat_Yield,2595.0
+Bihar,2020-21,81,Wheat_Yield,2767.0
+Bihar,2021-22,81,Wheat_Yield,2780.0
+Bihar,2022-23,81,Wheat_Yield,2958.0
+Bihar,2023-24,81,Wheat_Yield,3150.0
+Bihar,2024-25,81,Wheat_Yield,3145.0
+Chhattisgarh,2004-05,81,Wheat_Yield,853.0
+Chhattisgarh,2005-06,81,Wheat_Yield,886.0
+Chhattisgarh,2006-07,81,Wheat_Yield,1002.0
+Chhattisgarh,2007-08,81,Wheat_Yield,1059.0
+Chhattisgarh,2008-09,81,Wheat_Yield,1040.0
+Chhattisgarh,2009-10,81,Wheat_Yield,1086.0
+Chhattisgarh,2010-11,81,Wheat_Yield,1144.0
+Chhattisgarh,2011-12,81,Wheat_Yield,1227.0
+Chhattisgarh,2012-13,81,Wheat_Yield,1396.0
+Chhattisgarh,2013-14,81,Wheat_Yield,1304.0
+Chhattisgarh,2014-15,81,Wheat_Yield,1388.0
+Chhattisgarh,2015-16,81,Wheat_Yield,1270.0
+Chhattisgarh,2016-17,81,Wheat_Yield,1391.0
+Chhattisgarh,2017-18,81,Wheat_Yield,1289.0
+Chhattisgarh,2018-19,81,Wheat_Yield,1548.0
+Chhattisgarh,2019-20,81,Wheat_Yield,1050.0
+Chhattisgarh,2020-21,81,Wheat_Yield,1551.0
+Chhattisgarh,2021-22,81,Wheat_Yield,1229.0
+Chhattisgarh,2022-23,81,Wheat_Yield,1427.0
+Chhattisgarh,2023-24,81,Wheat_Yield,1350.0
+Chhattisgarh,2024-25,81,Wheat_Yield,1599.0
+Delhi,2004-05,81,Wheat_Yield,3944.0
+Delhi,2005-06,81,Wheat_Yield,4339.0
+Delhi,2006-07,81,Wheat_Yield,4341.0
+Delhi,2007-08,81,Wheat_Yield,4354.0
+Delhi,2008-09,81,Wheat_Yield,4351.0
+Delhi,2009-10,81,Wheat_Yield,4352.0
+Delhi,2010-11,81,Wheat_Yield,4340.0
+Delhi,2011-12,81,Wheat_Yield,4349.0
+Delhi,2012-13,81,Wheat_Yield,4406.0
+Delhi,2013-14,81,Wheat_Yield,4418.0
+Delhi,2014-15,81,Wheat_Yield,4419.0
+Delhi,2015-16,81,Wheat_Yield,4419.0
+Delhi,2016-17,81,Wheat_Yield,4419.0
+Delhi,2017-18,81,Wheat_Yield,4434.0
+Delhi,2018-19,81,Wheat_Yield,4311.0
+Delhi,2019-20,81,Wheat_Yield,4312.0
+Delhi,2020-21,81,Wheat_Yield,4316.0
+Delhi,2021-22,81,Wheat_Yield,4360.0
+Delhi,2022-23,81,Wheat_Yield,4650.0
+Delhi,2023-24,81,Wheat_Yield,4650.0
+Delhi,2024-25,81,Wheat_Yield,4650.0
+Gujarat,2004-05,81,Wheat_Yield,2482.0
+Gujarat,2005-06,81,Wheat_Yield,2700.0
+Gujarat,2006-07,81,Wheat_Yield,2498.0
+Gujarat,2007-08,81,Wheat_Yield,3013.0
+Gujarat,2008-09,81,Wheat_Yield,2377.0
+Gujarat,2009-10,81,Wheat_Yield,2679.0
+Gujarat,2010-11,81,Wheat_Yield,3155.0
+Gujarat,2011-12,81,Wheat_Yield,3014.0
+Gujarat,2012-13,81,Wheat_Yield,2875.0
+Gujarat,2013-14,81,Wheat_Yield,3255.0
+Gujarat,2014-15,81,Wheat_Yield,2751.0
+Gujarat,2015-16,81,Wheat_Yield,2919.0
+Gujarat,2016-17,81,Wheat_Yield,2751.0
+Gujarat,2017-18,81,Wheat_Yield,2898.0
+Gujarat,2018-19,81,Wheat_Yield,3020.0
+Gujarat,2019-20,81,Wheat_Yield,3268.0
+Gujarat,2020-21,81,Wheat_Yield,3205.0
+Gujarat,2021-22,81,Wheat_Yield,3205.0
+Gujarat,2022-23,81,Wheat_Yield,3248.0
+Gujarat,2023-24,81,Wheat_Yield,3027.0
+Gujarat,2024-25,81,Wheat_Yield,3017.0
+Haryana,2004-05,81,Wheat_Yield,3901.0
+Haryana,2005-06,81,Wheat_Yield,3844.0
+Haryana,2006-07,81,Wheat_Yield,4232.0
+Haryana,2007-08,81,Wheat_Yield,4158.0
+Haryana,2008-09,81,Wheat_Yield,4390.0
+Haryana,2009-10,81,Wheat_Yield,4213.0
+Haryana,2010-11,81,Wheat_Yield,4624.0
+Haryana,2011-12,81,Wheat_Yield,5030.0
+Haryana,2012-13,81,Wheat_Yield,4452.0
+Haryana,2013-14,81,Wheat_Yield,4722.0
+Haryana,2014-15,81,Wheat_Yield,3981.0
+Haryana,2015-16,81,Wheat_Yield,4407.0
+Haryana,2016-17,81,Wheat_Yield,4514.0
+Haryana,2017-18,81,Wheat_Yield,4412.0
+Haryana,2018-19,81,Wheat_Yield,4925.0
+Haryana,2019-20,81,Wheat_Yield,4687.0
+Haryana,2020-21,81,Wheat_Yield,4834.0
+Haryana,2021-22,81,Wheat_Yield,4533.0
+Haryana,2022-23,81,Wheat_Yield,4704.0
+Haryana,2023-24,81,Wheat_Yield,4723.0
+Haryana,2024-25,81,Wheat_Yield,4774.0
+Himachal Pradesh,2004-05,81,Wheat_Yield,1890.0
+Himachal Pradesh,2005-06,81,Wheat_Yield,1894.0
+Himachal Pradesh,2006-07,81,Wheat_Yield,1385.0
+Himachal Pradesh,2007-08,81,Wheat_Yield,1376.0
+Himachal Pradesh,2008-09,81,Wheat_Yield,1520.0
+Himachal Pradesh,2009-10,81,Wheat_Yield,928.0
+Himachal Pradesh,2010-11,81,Wheat_Yield,1530.0
+Himachal Pradesh,2011-12,81,Wheat_Yield,1671.0
+Himachal Pradesh,2012-13,81,Wheat_Yield,1671.0
+Himachal Pradesh,2013-14,81,Wheat_Yield,1873.0
+Himachal Pradesh,2014-15,81,Wheat_Yield,1957.0
+Himachal Pradesh,2015-16,81,Wheat_Yield,1958.0
+Himachal Pradesh,2016-17,81,Wheat_Yield,2033.0
+Himachal Pradesh,2017-18,81,Wheat_Yield,1774.0
+Himachal Pradesh,2018-19,81,Wheat_Yield,1770.0
+Himachal Pradesh,2019-20,81,Wheat_Yield,1970.0
+Himachal Pradesh,2020-21,81,Wheat_Yield,1712.0
+Himachal Pradesh,2021-22,81,Wheat_Yield,1714.0
+Himachal Pradesh,2022-23,81,Wheat_Yield,1853.0
+Himachal Pradesh,2023-24,81,Wheat_Yield,2480.0
+Himachal Pradesh,2024-25,81,Wheat_Yield,2120.0
+Jammu & Kashmir,2004-05,81,Wheat_Yield,1910.0
+Jammu & Kashmir,2005-06,81,Wheat_Yield,1790.0
+Jammu & Kashmir,2006-07,81,Wheat_Yield,1893.0
+Jammu & Kashmir,2007-08,81,Wheat_Yield,1782.0
+Jammu & Kashmir,2008-09,81,Wheat_Yield,1735.0
+Jammu & Kashmir,2009-10,81,Wheat_Yield,1003.0
+Jammu & Kashmir,2010-11,81,Wheat_Yield,1535.0
+Jammu & Kashmir,2011-12,81,Wheat_Yield,1689.0
+Jammu & Kashmir,2012-13,81,Wheat_Yield,1595.0
+Jammu & Kashmir,2013-14,81,Wheat_Yield,2061.0
+Jammu & Kashmir,2014-15,81,Wheat_Yield,979.0
+Jammu & Kashmir,2015-16,81,Wheat_Yield,1947.0
+Jammu & Kashmir,2016-17,81,Wheat_Yield,1638.0
+Jammu & Kashmir,2017-18,81,Wheat_Yield,1628.0
+Jammu & Kashmir,2018-19,81,Wheat_Yield,2330.0
+Jammu & Kashmir,2019-20,81,Wheat_Yield,2002.0
+Jammu & Kashmir,2020-21,81,Wheat_Yield,1985.0
+Jammu & Kashmir,2021-22,81,Wheat_Yield,2066.0
+Jammu & Kashmir,2022-23,81,Wheat_Yield,2062.0
+Jammu & Kashmir,2023-24,81,Wheat_Yield,2062.0
+Jammu & Kashmir,2024-25,81,Wheat_Yield,2062.0
+Jharkhand,2004-05,81,Wheat_Yield,2381.0
+Jharkhand,2005-06,81,Wheat_Yield,1340.0
+Jharkhand,2006-07,81,Wheat_Yield,1529.0
+Jharkhand,2007-08,81,Wheat_Yield,1621.0
+Jharkhand,2008-09,81,Wheat_Yield,1541.0
+Jharkhand,2009-10,81,Wheat_Yield,1738.0
+Jharkhand,2010-11,81,Wheat_Yield,1642.0
+Jharkhand,2011-12,81,Wheat_Yield,1908.0
+Jharkhand,2012-13,81,Wheat_Yield,1944.0
+Jharkhand,2013-14,81,Wheat_Yield,2123.0
+Jharkhand,2014-15,81,Wheat_Yield,1931.0
+Jharkhand,2015-16,81,Wheat_Yield,1835.0
+Jharkhand,2016-17,81,Wheat_Yield,2011.0
+Jharkhand,2017-18,81,Wheat_Yield,2121.0
+Jharkhand,2018-19,81,Wheat_Yield,1847.0
+Jharkhand,2019-20,81,Wheat_Yield,2046.0
+Jharkhand,2020-21,81,Wheat_Yield,2337.0
+Jharkhand,2021-22,81,Wheat_Yield,2282.0
+Jharkhand,2022-23,81,Wheat_Yield,2146.0
+Jharkhand,2023-24,81,Wheat_Yield,2110.0
+Jharkhand,2024-25,81,Wheat_Yield,2201.0
+Karnataka,2004-05,81,Wheat_Yield,740.0
+Karnataka,2005-06,81,Wheat_Yield,858.0
+Karnataka,2006-07,81,Wheat_Yield,762.0
+Karnataka,2007-08,81,Wheat_Yield,946.0
+Karnataka,2008-09,81,Wheat_Yield,918.0
+Karnataka,2009-10,81,Wheat_Yield,887.0
+Karnataka,2010-11,81,Wheat_Yield,1094.0
+Karnataka,2011-12,81,Wheat_Yield,858.0
+Karnataka,2012-13,81,Wheat_Yield,796.0
+Karnataka,2013-14,81,Wheat_Yield,1005.0
+Karnataka,2014-15,81,Wheat_Yield,1318.0
+Karnataka,2015-16,81,Wheat_Yield,897.0
+Karnataka,2016-17,81,Wheat_Yield,1018.0
+Karnataka,2017-18,81,Wheat_Yield,1193.0
+Karnataka,2018-19,81,Wheat_Yield,1090.0
+Karnataka,2019-20,81,Wheat_Yield,1198.0
+Karnataka,2020-21,81,Wheat_Yield,1291.0
+Karnataka,2021-22,81,Wheat_Yield,1287.0
+Karnataka,2022-23,81,Wheat_Yield,1373.0
+Karnataka,2023-24,81,Wheat_Yield,1309.0
+Karnataka,2024-25,81,Wheat_Yield,1255.0
+Madhya Pradesh,2004-05,81,Wheat_Yield,1735.0
+Madhya Pradesh,2005-06,81,Wheat_Yield,1613.0
+Madhya Pradesh,2006-07,81,Wheat_Yield,1835.0
+Madhya Pradesh,2007-08,81,Wheat_Yield,1612.0
+Madhya Pradesh,2008-09,81,Wheat_Yield,1723.0
+Madhya Pradesh,2009-10,81,Wheat_Yield,1967.0
+Madhya Pradesh,2010-11,81,Wheat_Yield,1757.0
+Madhya Pradesh,2011-12,81,Wheat_Yield,2360.0
+Madhya Pradesh,2012-13,81,Wheat_Yield,2478.0
+Madhya Pradesh,2013-14,81,Wheat_Yield,2405.0
+Madhya Pradesh,2014-15,81,Wheat_Yield,2850.0
+Madhya Pradesh,2015-16,81,Wheat_Yield,2993.0
+Madhya Pradesh,2016-17,81,Wheat_Yield,2976.0
+Madhya Pradesh,2017-18,81,Wheat_Yield,2993.0
+Madhya Pradesh,2018-19,81,Wheat_Yield,2993.0
+Madhya Pradesh,2019-20,81,Wheat_Yield,2993.0
+Madhya Pradesh,2020-21,81,Wheat_Yield,2989.0
+Madhya Pradesh,2021-22,81,Wheat_Yield,3535.0
+Madhya Pradesh,2022-23,81,Wheat_Yield,3179.0
+Madhya Pradesh,2023-24,81,Wheat_Yield,3012.0
+Madhya Pradesh,2024-25,81,Wheat_Yield,3163.0
+Maharashtra,2004-05,81,Wheat_Yield,1344.0
+Maharashtra,2005-06,81,Wheat_Yield,1393.0
+Maharashtra,2006-07,81,Wheat_Yield,1325.0
+Maharashtra,2007-08,81,Wheat_Yield,1659.0
+Maharashtra,2008-09,81,Wheat_Yield,1483.0
+Maharashtra,2009-10,81,Wheat_Yield,1610.0
+Maharashtra,2010-11,81,Wheat_Yield,1761.0
+Maharashtra,2011-12,81,Wheat_Yield,1558.0
+Maharashtra,2012-13,81,Wheat_Yield,1528.0
+Maharashtra,2013-14,81,Wheat_Yield,1460.0
+Maharashtra,2014-15,81,Wheat_Yield,1226.0
+Maharashtra,2015-16,81,Wheat_Yield,1077.0
+Maharashtra,2016-17,81,Wheat_Yield,1474.0
+Maharashtra,2017-18,81,Wheat_Yield,1657.0
+Maharashtra,2018-19,81,Wheat_Yield,1497.0
+Maharashtra,2019-20,81,Wheat_Yield,1697.0
+Maharashtra,2020-21,81,Wheat_Yield,1839.0
+Maharashtra,2021-22,81,Wheat_Yield,1894.0
+Maharashtra,2022-23,81,Wheat_Yield,1948.0
+Maharashtra,2023-24,81,Wheat_Yield,1899.0
+Maharashtra,2024-25,81,Wheat_Yield,1922.0
+Manipur,2010-11,81,Wheat_Yield,2500.0
+Manipur,2011-12,81,Wheat_Yield,2498.0
+Manipur,2012-13,81,Wheat_Yield,2500.0
+Manipur,2013-14,81,Wheat_Yield,2498.0
+Manipur,2014-15,81,Wheat_Yield,2602.0
+Manipur,2015-16,81,Wheat_Yield,2498.0
+Manipur,2016-17,81,Wheat_Yield,2498.0
+Manipur,2017-18,81,Wheat_Yield,2498.0
+Manipur,2018-19,81,Wheat_Yield,2502.0
+Manipur,2019-20,81,Wheat_Yield,2502.0
+Manipur,2020-21,81,Wheat_Yield,2535.0
+Manipur,2021-22,81,Wheat_Yield,2457.0
+Manipur,2022-23,81,Wheat_Yield,2481.0
+Manipur,2023-24,81,Wheat_Yield,2600.0
+Manipur,2024-25,81,Wheat_Yield,2320.0
+Meghalaya,2004-05,81,Wheat_Yield,1778.0
+Meghalaya,2005-06,81,Wheat_Yield,1714.0
+Meghalaya,2006-07,81,Wheat_Yield,2000.0
+Meghalaya,2007-08,81,Wheat_Yield,1833.0
+Meghalaya,2008-09,81,Wheat_Yield,1750.0
+Meghalaya,2009-10,81,Wheat_Yield,1773.0
+Meghalaya,2010-11,81,Wheat_Yield,1791.0
+Meghalaya,2011-12,81,Wheat_Yield,1564.0
+Meghalaya,2012-13,81,Wheat_Yield,1806.0
+Meghalaya,2013-14,81,Wheat_Yield,1881.0
+Meghalaya,2014-15,81,Wheat_Yield,1909.0
+Meghalaya,2015-16,81,Wheat_Yield,1953.0
+Meghalaya,2016-17,81,Wheat_Yield,1913.0
+Meghalaya,2017-18,81,Wheat_Yield,1928.0
+Meghalaya,2018-19,81,Wheat_Yield,1931.0
+Meghalaya,2019-20,81,Wheat_Yield,1935.0
+Meghalaya,2020-21,81,Wheat_Yield,1935.0
+Meghalaya,2021-22,81,Wheat_Yield,1935.0
+Meghalaya,2022-23,81,Wheat_Yield,1790.0
+Meghalaya,2023-24,81,Wheat_Yield,1790.0
+Meghalaya,2024-25,81,Wheat_Yield,1790.0
+Nagaland,2004-05,81,Wheat_Yield,1585.0
+Nagaland,2005-06,81,Wheat_Yield,1583.0
+Nagaland,2006-07,81,Wheat_Yield,867.0
+Nagaland,2007-08,81,Wheat_Yield,1067.0
+Nagaland,2008-09,81,Wheat_Yield,1500.0
+Nagaland,2009-10,81,Wheat_Yield,1200.0
+Nagaland,2010-11,81,Wheat_Yield,1712.0
+Nagaland,2011-12,81,Wheat_Yield,1711.0
+Nagaland,2012-13,81,Wheat_Yield,1801.0
+Nagaland,2013-14,81,Wheat_Yield,1823.0
+Nagaland,2014-15,81,Wheat_Yield,1824.0
+Nagaland,2015-16,81,Wheat_Yield,1831.0
+Nagaland,2016-17,81,Wheat_Yield,1840.0
+Nagaland,2017-18,81,Wheat_Yield,1836.0
+Nagaland,2018-19,81,Wheat_Yield,1830.0
+Nagaland,2019-20,81,Wheat_Yield,1831.0
+Nagaland,2020-21,81,Wheat_Yield,1834.0
+Nagaland,2021-22,81,Wheat_Yield,1688.0
+Nagaland,2022-23,81,Wheat_Yield,1838.0
+Nagaland,2023-24,81,Wheat_Yield,1840.0
+Nagaland,2024-25,81,Wheat_Yield,1840.0
+Odisha,2004-05,81,Wheat_Yield,1250.0
+Odisha,2005-06,81,Wheat_Yield,1364.0
+Odisha,2006-07,81,Wheat_Yield,1487.0
+Odisha,2007-08,81,Wheat_Yield,1554.0
+Odisha,2008-09,81,Wheat_Yield,1396.0
+Odisha,2009-10,81,Wheat_Yield,1450.0
+Odisha,2010-11,81,Wheat_Yield,1458.0
+Odisha,2011-12,81,Wheat_Yield,1644.0
+Odisha,2012-13,81,Wheat_Yield,1894.0
+Odisha,2013-14,81,Wheat_Yield,1574.0
+Odisha,2014-15,81,Wheat_Yield,1650.0
+Odisha,2015-16,81,Wheat_Yield,1324.0
+Odisha,2016-17,81,Wheat_Yield,1333.0
+Odisha,2017-18,81,Wheat_Yield,2163.0
+Odisha,2018-19,81,Wheat_Yield,1815.0
+Odisha,2019-20,81,Wheat_Yield,1390.0
+Odisha,2020-21,81,Wheat_Yield,1640.0
+Odisha,2021-22,81,Wheat_Yield,1705.0
+Odisha,2022-23,81,Wheat_Yield,1548.0
+Odisha,2023-24,81,Wheat_Yield,1894.0
+Odisha,2024-25,81,Wheat_Yield,1796.0
+Punjab,2004-05,81,Wheat_Yield,4221.0
+Punjab,2005-06,81,Wheat_Yield,4179.0
+Punjab,2006-07,81,Wheat_Yield,4210.0
+Punjab,2007-08,81,Wheat_Yield,4507.0
+Punjab,2008-09,81,Wheat_Yield,4462.0
+Punjab,2009-10,81,Wheat_Yield,4307.0
+Punjab,2010-11,81,Wheat_Yield,4693.0
+Punjab,2011-12,81,Wheat_Yield,4898.0
+Punjab,2012-13,81,Wheat_Yield,4724.0
+Punjab,2013-14,81,Wheat_Yield,5017.0
+Punjab,2014-15,81,Wheat_Yield,4294.0
+Punjab,2015-16,81,Wheat_Yield,4583.0
+Punjab,2016-17,81,Wheat_Yield,4704.0
+Punjab,2017-18,81,Wheat_Yield,5077.0
+Punjab,2018-19,81,Wheat_Yield,5188.0
+Punjab,2019-20,81,Wheat_Yield,5003.0
+Punjab,2020-21,81,Wheat_Yield,4868.0
+Punjab,2021-22,81,Wheat_Yield,4216.0
+Punjab,2022-23,81,Wheat_Yield,4748.0
+Punjab,2023-24,81,Wheat_Yield,5045.0
+Punjab,2024-25,81,Wheat_Yield,5123.0
+Rajasthan,2004-05,81,Wheat_Yield,2839.0
+Rajasthan,2005-06,81,Wheat_Yield,2762.0
+Rajasthan,2006-07,81,Wheat_Yield,2751.0
+Rajasthan,2007-08,81,Wheat_Yield,2749.0
+Rajasthan,2008-09,81,Wheat_Yield,3175.0
+Rajasthan,2009-10,81,Wheat_Yield,3133.0
+Rajasthan,2010-11,81,Wheat_Yield,2910.0
+Rajasthan,2011-12,81,Wheat_Yield,3175.0
+Rajasthan,2012-13,81,Wheat_Yield,3028.0
+Rajasthan,2013-14,81,Wheat_Yield,3083.0
+Rajasthan,2014-15,81,Wheat_Yield,2961.0
+Rajasthan,2015-16,81,Wheat_Yield,3175.0
+Rajasthan,2016-17,81,Wheat_Yield,3175.0
+Rajasthan,2017-18,81,Wheat_Yield,3334.0
+Rajasthan,2018-19,81,Wheat_Yield,3501.0
+Rajasthan,2019-20,81,Wheat_Yield,3501.0
+Rajasthan,2020-21,81,Wheat_Yield,3676.0
+Rajasthan,2021-22,81,Wheat_Yield,3913.0
+Rajasthan,2022-23,81,Wheat_Yield,3807.0
+Rajasthan,2023-24,81,Wheat_Yield,3540.0
+Rajasthan,2024-25,81,Wheat_Yield,3559.0
+Sikkim,2004-05,81,Wheat_Yield,1456.0
+Sikkim,2005-06,81,Wheat_Yield,1385.0
+Sikkim,2006-07,81,Wheat_Yield,1385.0
+Sikkim,2007-08,81,Wheat_Yield,1000.0
+Sikkim,2008-09,81,Wheat_Yield,1345.0
+Sikkim,2009-10,81,Wheat_Yield,1135.0
+Sikkim,2010-11,81,Wheat_Yield,1023.0
+Sikkim,2011-12,81,Wheat_Yield,1060.0
+Sikkim,2012-13,81,Wheat_Yield,1058.0
+Sikkim,2013-14,81,Wheat_Yield,1083.0
+Sikkim,2014-15,81,Wheat_Yield,1077.0
+Sikkim,2015-16,81,Wheat_Yield,1094.0
+Sikkim,2016-17,81,Wheat_Yield,1078.0
+Sikkim,2017-18,81,Wheat_Yield,1079.0
+Sikkim,2018-19,81,Wheat_Yield,1079.0
+Sikkim,2019-20,81,Wheat_Yield,1082.0
+Sikkim,2020-21,81,Wheat_Yield,1154.0
+Sikkim,2021-22,81,Wheat_Yield,1155.0
+Sikkim,2022-23,81,Wheat_Yield,1155.0
+Sikkim,2023-24,81,Wheat_Yield,1160.0
+Sikkim,2024-25,81,Wheat_Yield,1160.0
+Tamil Nadu,2010-11,81,Wheat_Yield,500.0
+Telangana,2011-12,81,Wheat_Yield,1375.0
+Telangana,2014-15,81,Wheat_Yield,1167.0
+Telangana,2015-16,81,Wheat_Yield,1696.0
+Telangana,2016-17,81,Wheat_Yield,1400.0
+Telangana,2017-18,81,Wheat_Yield,1388.0
+Telangana,2018-19,81,Wheat_Yield,1877.0
+Telangana,2019-20,81,Wheat_Yield,1842.0
+Telangana,2020-21,81,Wheat_Yield,2640.0
+Telangana,2021-22,81,Wheat_Yield,2009.0
+Telangana,2022-23,81,Wheat_Yield,2073.0
+Telangana,2023-24,81,Wheat_Yield,1714.0
+Telangana,2024-25,81,Wheat_Yield,1973.0
+Tripura,2004-05,81,Wheat_Yield,2545.0
+Tripura,2005-06,81,Wheat_Yield,2636.0
+Tripura,2006-07,81,Wheat_Yield,1800.0
+Tripura,2007-08,81,Wheat_Yield,1900.0
+Tripura,2008-09,81,Wheat_Yield,2000.0
+Tripura,2009-10,81,Wheat_Yield,1984.0
+Tripura,2010-11,81,Wheat_Yield,2025.0
+Tripura,2011-12,81,Wheat_Yield,2000.0
+Tripura,2012-13,81,Wheat_Yield,2000.0
+Tripura,2013-14,81,Wheat_Yield,2000.0
+Tripura,2014-15,81,Wheat_Yield,2143.0
+Tripura,2015-16,81,Wheat_Yield,2236.0
+Tripura,2016-17,81,Wheat_Yield,2300.0
+Tripura,2017-18,81,Wheat_Yield,2031.0
+Tripura,2018-19,81,Wheat_Yield,2115.0
+Tripura,2019-20,81,Wheat_Yield,2230.0
+Tripura,2020-21,81,Wheat_Yield,2071.0
+Tripura,2021-22,81,Wheat_Yield,2071.0
+Tripura,2022-23,81,Wheat_Yield,2048.0
+Tripura,2023-24,81,Wheat_Yield,2048.0
+Tripura,2024-25,81,Wheat_Yield,2172.0
+Uttar Pradesh,2004-05,81,Wheat_Yield,2502.0
+Uttar Pradesh,2005-06,81,Wheat_Yield,2627.0
+Uttar Pradesh,2006-07,81,Wheat_Yield,2721.0
+Uttar Pradesh,2007-08,81,Wheat_Yield,2817.0
+Uttar Pradesh,2008-09,81,Wheat_Yield,3002.0
+Uttar Pradesh,2009-10,81,Wheat_Yield,2846.0
+Uttar Pradesh,2010-11,81,Wheat_Yield,3113.0
+Uttar Pradesh,2011-12,81,Wheat_Yield,3113.0
+Uttar Pradesh,2012-13,81,Wheat_Yield,3113.0
+Uttar Pradesh,2013-14,81,Wheat_Yield,3038.0
+Uttar Pradesh,2014-15,81,Wheat_Yield,2277.0
+Uttar Pradesh,2015-16,81,Wheat_Yield,2636.0
+Uttar Pradesh,2016-17,81,Wheat_Yield,3113.0
+Uttar Pradesh,2017-18,81,Wheat_Yield,3269.0
+Uttar Pradesh,2018-19,81,Wheat_Yield,3432.0
+Uttar Pradesh,2019-20,81,Wheat_Yield,3432.0
+Uttar Pradesh,2020-21,81,Wheat_Yield,3604.0
+Uttar Pradesh,2021-22,81,Wheat_Yield,3604.0
+Uttar Pradesh,2022-23,81,Wheat_Yield,3531.0
+Uttar Pradesh,2023-24,81,Wheat_Yield,3708.0
+Uttar Pradesh,2024-25,81,Wheat_Yield,3714.0
+Uttarakhand,2004-05,81,Wheat_Yield,2038.0
+Uttarakhand,2005-06,81,Wheat_Yield,1633.0
+Uttarakhand,2006-07,81,Wheat_Yield,2049.0
+Uttarakhand,2007-08,81,Wheat_Yield,2050.0
+Uttarakhand,2008-09,81,Wheat_Yield,2003.0
+Uttarakhand,2009-10,81,Wheat_Yield,2139.0
+Uttarakhand,2010-11,81,Wheat_Yield,2316.0
+Uttarakhand,2011-12,81,Wheat_Yield,2379.0
+Uttarakhand,2012-13,81,Wheat_Yield,2396.0
+Uttarakhand,2013-14,81,Wheat_Yield,2422.0
+Uttarakhand,2014-15,81,Wheat_Yield,1881.0
+Uttarakhand,2015-16,81,Wheat_Yield,2258.0
+Uttarakhand,2016-17,81,Wheat_Yield,2587.0
+Uttarakhand,2017-18,81,Wheat_Yield,2749.0
+Uttarakhand,2018-19,81,Wheat_Yield,2910.0
+Uttarakhand,2019-20,81,Wheat_Yield,2861.0
+Uttarakhand,2020-21,81,Wheat_Yield,3062.0
+Uttarakhand,2021-22,81,Wheat_Yield,2896.0
+Uttarakhand,2022-23,81,Wheat_Yield,2916.0
+Uttarakhand,2023-24,81,Wheat_Yield,3244.0
+Uttarakhand,2024-25,81,Wheat_Yield,3310.0
+West Bengal,2004-05,81,Wheat_Yield,2103.0
+West Bengal,2005-06,81,Wheat_Yield,2109.0
+West Bengal,2006-07,81,Wheat_Yield,2282.0
+West Bengal,2007-08,81,Wheat_Yield,2602.0
+West Bengal,2008-09,81,Wheat_Yield,2490.0
+West Bengal,2009-10,81,Wheat_Yield,2680.0
+West Bengal,2010-11,81,Wheat_Yield,2760.0
+West Bengal,2011-12,81,Wheat_Yield,2765.0
+West Bengal,2012-13,81,Wheat_Yield,2786.0
+West Bengal,2013-14,81,Wheat_Yield,2791.0
+West Bengal,2014-15,81,Wheat_Yield,2807.0
+West Bengal,2015-16,81,Wheat_Yield,2825.0
+West Bengal,2016-17,81,Wheat_Yield,2682.0
+West Bengal,2017-18,81,Wheat_Yield,2667.0
+West Bengal,2018-19,81,Wheat_Yield,3012.0
+West Bengal,2019-20,81,Wheat_Yield,2708.0
+West Bengal,2020-21,81,Wheat_Yield,3077.0
+West Bengal,2021-22,81,Wheat_Yield,2974.0
+West Bengal,2022-23,81,Wheat_Yield,3088.0
+West Bengal,2023-24,81,Wheat_Yield,3127.0
+West Bengal,2024-25,81,Wheat_Yield,3130.0

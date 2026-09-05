@@ -1,0 +1,644 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2005-06,90,Meat_Production,451.0
+Andhra Pradesh,2006-07,90,Meat_Production,457.0
+Andhra Pradesh,2007-08,90,Meat_Production,484.0
+Andhra Pradesh,2008-09,90,Meat_Production,556.0
+Andhra Pradesh,2009-10,90,Meat_Production,604.0
+Andhra Pradesh,2010-11,90,Meat_Production,679.0
+Andhra Pradesh,2011-12,90,Meat_Production,747.0
+Andhra Pradesh,2012-13,90,Meat_Production,824.0
+Andhra Pradesh,2013-14,90,Meat_Production,906.0
+Andhra Pradesh,2015-16,90,Meat_Production,528.0
+Andhra Pradesh,2016-17,90,Meat_Production,566.0
+Andhra Pradesh,2017-18,90,Meat_Production,633.0
+Andhra Pradesh,2018-19,90,Meat_Production,709.0
+Andhra Pradesh,2019-20,90,Meat_Production,781.0
+Andhra Pradesh,2020-21,90,Meat_Production,850.0
+Andhra Pradesh,2021-22,90,Meat_Production,954.0
+Andhra Pradesh,2022-23,90,Meat_Production,1026.0
+Andhra Pradesh,2023-24,90,Meat_Production,1094.0
+Arunachal Pradesh,2004-05,90,Meat_Production,8.0
+Arunachal Pradesh,2005-06,90,Meat_Production,20.0
+Arunachal Pradesh,2006-07,90,Meat_Production,21.0
+Arunachal Pradesh,2007-08,90,Meat_Production,21.0
+Arunachal Pradesh,2008-09,90,Meat_Production,20.0
+Arunachal Pradesh,2009-10,90,Meat_Production,21.0
+Arunachal Pradesh,2010-11,90,Meat_Production,21.0
+Arunachal Pradesh,2011-12,90,Meat_Production,19.0
+Arunachal Pradesh,2012-13,90,Meat_Production,18.0
+Arunachal Pradesh,2013-14,90,Meat_Production,18.0
+Arunachal Pradesh,2014-15,90,Meat_Production,19.0
+Arunachal Pradesh,2015-16,90,Meat_Production,19.0
+Arunachal Pradesh,2016-17,90,Meat_Production,20.0
+Arunachal Pradesh,2017-18,90,Meat_Production,21.0
+Arunachal Pradesh,2018-19,90,Meat_Production,22.0
+Arunachal Pradesh,2019-20,90,Meat_Production,23.0
+Arunachal Pradesh,2020-21,90,Meat_Production,22.0
+Arunachal Pradesh,2021-22,90,Meat_Production,22.0
+Arunachal Pradesh,2022-23,90,Meat_Production,24.0
+Arunachal Pradesh,2023-24,90,Meat_Production,20.0
+Assam,2004-05,90,Meat_Production,25.0
+Assam,2005-06,90,Meat_Production,27.0
+Assam,2006-07,90,Meat_Production,29.0
+Assam,2007-08,90,Meat_Production,30.0
+Assam,2008-09,90,Meat_Production,31.0
+Assam,2009-10,90,Meat_Production,32.0
+Assam,2010-11,90,Meat_Production,34.0
+Assam,2011-12,90,Meat_Production,34.0
+Assam,2012-13,90,Meat_Production,37.0
+Assam,2013-14,90,Meat_Production,38.0
+Assam,2014-15,90,Meat_Production,43.0
+Assam,2015-16,90,Meat_Production,45.0
+Assam,2016-17,90,Meat_Production,47.0
+Assam,2017-18,90,Meat_Production,48.0
+Assam,2018-19,90,Meat_Production,50.0
+Assam,2019-20,90,Meat_Production,53.0
+Assam,2020-21,90,Meat_Production,54.0
+Assam,2021-22,90,Meat_Production,56.0
+Assam,2022-23,90,Meat_Production,58.0
+Assam,2023-24,90,Meat_Production,69.0
+Bihar,2004-05,90,Meat_Production,175.0
+Bihar,2005-06,90,Meat_Production,176.0
+Bihar,2006-07,90,Meat_Production,178.0
+Bihar,2007-08,90,Meat_Production,181.0
+Bihar,2008-09,90,Meat_Production,209.0
+Bihar,2009-10,90,Meat_Production,218.0
+Bihar,2010-11,90,Meat_Production,223.0
+Bihar,2011-12,90,Meat_Production,228.0
+Bihar,2012-13,90,Meat_Production,228.0
+Bihar,2013-14,90,Meat_Production,292.0
+Bihar,2014-15,90,Meat_Production,294.0
+Bihar,2015-16,90,Meat_Production,302.0
+Bihar,2016-17,90,Meat_Production,326.0
+Bihar,2017-18,90,Meat_Production,343.0
+Bihar,2018-19,90,Meat_Production,365.0
+Bihar,2019-20,90,Meat_Production,384.0
+Bihar,2020-21,90,Meat_Production,397.0
+Bihar,2021-22,90,Meat_Production,392.0
+Bihar,2022-23,90,Meat_Production,396.0
+Bihar,2023-24,90,Meat_Production,404.0
+Chandigarh,2004-05,90,Meat_Production,1.0
+Chandigarh,2005-06,90,Meat_Production,1.0
+Chandigarh,2006-07,90,Meat_Production,1.0
+Chandigarh,2007-08,90,Meat_Production,1.0
+Chandigarh,2008-09,90,Meat_Production,1.0
+Chandigarh,2009-10,90,Meat_Production,1.0
+Chandigarh,2010-11,90,Meat_Production,1.0
+Chandigarh,2011-12,90,Meat_Production,1.0
+Chandigarh,2012-13,90,Meat_Production,1.0
+Chandigarh,2013-14,90,Meat_Production,1.0
+Chandigarh,2014-15,90,Meat_Production,1.0
+Chandigarh,2015-16,90,Meat_Production,1.0
+Chandigarh,2016-17,90,Meat_Production,1.0
+Chandigarh,2017-18,90,Meat_Production,1.0
+Chandigarh,2018-19,90,Meat_Production,1.0
+Chandigarh,2019-20,90,Meat_Production,1.0
+Chandigarh,2020-21,90,Meat_Production,1.0
+Chandigarh,2021-22,90,Meat_Production,1.0
+Chandigarh,2022-23,90,Meat_Production,1.0
+Chandigarh,2023-24,90,Meat_Production,1.0
+Chhattisgarh,2004-05,90,Meat_Production,4.0
+Chhattisgarh,2005-06,90,Meat_Production,4.0
+Chhattisgarh,2006-07,90,Meat_Production,4.0
+Chhattisgarh,2007-08,90,Meat_Production,18.0
+Chhattisgarh,2008-09,90,Meat_Production,20.0
+Chhattisgarh,2009-10,90,Meat_Production,25.0
+Chhattisgarh,2010-11,90,Meat_Production,27.0
+Chhattisgarh,2011-12,90,Meat_Production,30.0
+Chhattisgarh,2012-13,90,Meat_Production,34.0
+Chhattisgarh,2013-14,90,Meat_Production,29.0
+Chhattisgarh,2014-15,90,Meat_Production,38.0
+Chhattisgarh,2015-16,90,Meat_Production,41.0
+Chhattisgarh,2016-17,90,Meat_Production,49.0
+Chhattisgarh,2017-18,90,Meat_Production,55.0
+Chhattisgarh,2018-19,90,Meat_Production,61.0
+Chhattisgarh,2019-20,90,Meat_Production,66.0
+Chhattisgarh,2020-21,90,Meat_Production,47.0
+Chhattisgarh,2021-22,90,Meat_Production,50.0
+Chhattisgarh,2022-23,90,Meat_Production,55.0
+Chhattisgarh,2023-24,90,Meat_Production,61.0
+Delhi,2004-05,90,Meat_Production,31.0
+Delhi,2005-06,90,Meat_Production,31.0
+Delhi,2006-07,90,Meat_Production,33.0
+Delhi,2007-08,90,Meat_Production,32.0
+Delhi,2008-09,90,Meat_Production,26.0
+Delhi,2009-10,90,Meat_Production,26.0
+Delhi,2010-11,90,Meat_Production,42.0
+Delhi,2011-12,90,Meat_Production,45.0
+Delhi,2012-13,90,Meat_Production,81.0
+Delhi,2013-14,90,Meat_Production,77.0
+Delhi,2014-15,90,Meat_Production,70.0
+Delhi,2015-16,90,Meat_Production,70.0
+Delhi,2016-17,90,Meat_Production,66.0
+Delhi,2017-18,90,Meat_Production,66.0
+Delhi,2021-22,90,Meat_Production,0.0
+Delhi,2022-23,90,Meat_Production,0.0
+Delhi,2023-24,90,Meat_Production,0.0
+Goa,2006-07,90,Meat_Production,2.0
+Goa,2008-09,90,Meat_Production,6.0
+Goa,2009-10,90,Meat_Production,6.0
+Goa,2010-11,90,Meat_Production,7.0
+Goa,2011-12,90,Meat_Production,10.0
+Goa,2012-13,90,Meat_Production,8.0
+Goa,2013-14,90,Meat_Production,5.0
+Goa,2014-15,90,Meat_Production,8.0
+Goa,2015-16,90,Meat_Production,8.0
+Goa,2016-17,90,Meat_Production,7.0
+Goa,2017-18,90,Meat_Production,8.0
+Goa,2018-19,90,Meat_Production,8.0
+Goa,2019-20,90,Meat_Production,7.0
+Goa,2020-21,90,Meat_Production,6.0
+Goa,2021-22,90,Meat_Production,6.0
+Goa,2022-23,90,Meat_Production,7.0
+Goa,2023-24,90,Meat_Production,8.0
+Gujarat,2004-05,90,Meat_Production,13.0
+Gujarat,2005-06,90,Meat_Production,18.0
+Gujarat,2006-07,90,Meat_Production,18.0
+Gujarat,2007-08,90,Meat_Production,17.0
+Gujarat,2008-09,90,Meat_Production,19.0
+Gujarat,2009-10,90,Meat_Production,21.0
+Gujarat,2010-11,90,Meat_Production,22.0
+Gujarat,2011-12,90,Meat_Production,35.0
+Gujarat,2012-13,90,Meat_Production,35.0
+Gujarat,2013-14,90,Meat_Production,33.0
+Gujarat,2014-15,90,Meat_Production,34.0
+Gujarat,2015-16,90,Meat_Production,34.0
+Gujarat,2016-17,90,Meat_Production,33.0
+Gujarat,2017-18,90,Meat_Production,33.0
+Gujarat,2018-19,90,Meat_Production,33.0
+Gujarat,2019-20,90,Meat_Production,33.0
+Gujarat,2020-21,90,Meat_Production,33.0
+Gujarat,2021-22,90,Meat_Production,35.0
+Gujarat,2022-23,90,Meat_Production,35.0
+Gujarat,2023-24,90,Meat_Production,37.0
+Haryana,2004-05,90,Meat_Production,9.0
+Haryana,2005-06,90,Meat_Production,7.0
+Haryana,2006-07,90,Meat_Production,8.0
+Haryana,2007-08,90,Meat_Production,194.0
+Haryana,2008-09,90,Meat_Production,230.0
+Haryana,2009-10,90,Meat_Production,241.0
+Haryana,2010-11,90,Meat_Production,319.0
+Haryana,2011-12,90,Meat_Production,337.0
+Haryana,2012-13,90,Meat_Production,348.0
+Haryana,2013-14,90,Meat_Production,367.0
+Haryana,2014-15,90,Meat_Production,381.0
+Haryana,2015-16,90,Meat_Production,403.0
+Haryana,2016-17,90,Meat_Production,427.0
+Haryana,2017-18,90,Meat_Production,470.0
+Haryana,2018-19,90,Meat_Production,512.0
+Haryana,2019-20,90,Meat_Production,554.0
+Haryana,2020-21,90,Meat_Production,597.0
+Haryana,2021-22,90,Meat_Production,641.0
+Haryana,2022-23,90,Meat_Production,665.0
+Haryana,2023-24,90,Meat_Production,691.0
+Himachal Pradesh,2004-05,90,Meat_Production,3.0
+Himachal Pradesh,2005-06,90,Meat_Production,3.0
+Himachal Pradesh,2006-07,90,Meat_Production,3.0
+Himachal Pradesh,2007-08,90,Meat_Production,4.0
+Himachal Pradesh,2008-09,90,Meat_Production,4.0
+Himachal Pradesh,2009-10,90,Meat_Production,4.0
+Himachal Pradesh,2010-11,90,Meat_Production,3.0
+Himachal Pradesh,2011-12,90,Meat_Production,4.0
+Himachal Pradesh,2012-13,90,Meat_Production,4.0
+Himachal Pradesh,2013-14,90,Meat_Production,4.0
+Himachal Pradesh,2014-15,90,Meat_Production,4.0
+Himachal Pradesh,2015-16,90,Meat_Production,4.0
+Himachal Pradesh,2016-17,90,Meat_Production,4.0
+Himachal Pradesh,2017-18,90,Meat_Production,4.0
+Himachal Pradesh,2018-19,90,Meat_Production,5.0
+Himachal Pradesh,2019-20,90,Meat_Production,5.0
+Himachal Pradesh,2020-21,90,Meat_Production,4.0
+Himachal Pradesh,2021-22,90,Meat_Production,5.0
+Himachal Pradesh,2022-23,90,Meat_Production,5.0
+Himachal Pradesh,2023-24,90,Meat_Production,6.0
+Jammu & Kashmir,2005-06,90,Meat_Production,27.0
+Jammu & Kashmir,2006-07,90,Meat_Production,27.0
+Jammu & Kashmir,2007-08,90,Meat_Production,28.0
+Jammu & Kashmir,2008-09,90,Meat_Production,28.0
+Jammu & Kashmir,2009-10,90,Meat_Production,30.0
+Jammu & Kashmir,2010-11,90,Meat_Production,31.0
+Jammu & Kashmir,2011-12,90,Meat_Production,32.0
+Jammu & Kashmir,2012-13,90,Meat_Production,34.0
+Jammu & Kashmir,2013-14,90,Meat_Production,33.0
+Jammu & Kashmir,2014-15,90,Meat_Production,45.0
+Jammu & Kashmir,2015-16,90,Meat_Production,75.0
+Jammu & Kashmir,2016-17,90,Meat_Production,85.0
+Jammu & Kashmir,2017-18,90,Meat_Production,87.0
+Jammu & Kashmir,2018-19,90,Meat_Production,92.0
+Jammu & Kashmir,2019-20,90,Meat_Production,95.0
+Jammu & Kashmir,2020-21,90,Meat_Production,88.0
+Jammu & Kashmir,2021-22,90,Meat_Production,88.0
+Jammu & Kashmir,2022-23,90,Meat_Production,90.0
+Jammu & Kashmir,2023-24,90,Meat_Production,91.0
+Jharkhand,2004-05,90,Meat_Production,43.0
+Jharkhand,2005-06,90,Meat_Production,43.0
+Jharkhand,2006-07,90,Meat_Production,44.0
+Jharkhand,2007-08,90,Meat_Production,44.0
+Jharkhand,2008-09,90,Meat_Production,47.0
+Jharkhand,2009-10,90,Meat_Production,47.0
+Jharkhand,2010-11,90,Meat_Production,44.0
+Jharkhand,2011-12,90,Meat_Production,46.0
+Jharkhand,2012-13,90,Meat_Production,45.0
+Jharkhand,2013-14,90,Meat_Production,45.0
+Jharkhand,2014-15,90,Meat_Production,48.0
+Jharkhand,2015-16,90,Meat_Production,51.0
+Jharkhand,2016-17,90,Meat_Production,55.0
+Jharkhand,2017-18,90,Meat_Production,58.0
+Jharkhand,2018-19,90,Meat_Production,62.0
+Jharkhand,2019-20,90,Meat_Production,67.0
+Jharkhand,2020-21,90,Meat_Production,70.0
+Jharkhand,2021-22,90,Meat_Production,79.0
+Jharkhand,2022-23,90,Meat_Production,84.0
+Jharkhand,2023-24,90,Meat_Production,91.0
+Karnataka,2004-05,90,Meat_Production,99.0
+Karnataka,2005-06,90,Meat_Production,100.0
+Karnataka,2006-07,90,Meat_Production,107.0
+Karnataka,2007-08,90,Meat_Production,110.0
+Karnataka,2008-09,90,Meat_Production,115.0
+Karnataka,2009-10,90,Meat_Production,119.0
+Karnataka,2010-11,90,Meat_Production,124.0
+Karnataka,2011-12,90,Meat_Production,140.0
+Karnataka,2012-13,90,Meat_Production,166.0
+Karnataka,2013-14,90,Meat_Production,170.0
+Karnataka,2014-15,90,Meat_Production,181.0
+Karnataka,2015-16,90,Meat_Production,197.0
+Karnataka,2016-17,90,Meat_Production,209.0
+Karnataka,2017-18,90,Meat_Production,228.0
+Karnataka,2018-19,90,Meat_Production,254.0
+Karnataka,2019-20,90,Meat_Production,305.0
+Karnataka,2020-21,90,Meat_Production,364.0
+Karnataka,2021-22,90,Meat_Production,396.0
+Karnataka,2022-23,90,Meat_Production,433.0
+Karnataka,2023-24,90,Meat_Production,454.0
+Kerala,2004-05,90,Meat_Production,87.0
+Kerala,2005-06,90,Meat_Production,56.0
+Kerala,2006-07,90,Meat_Production,76.0
+Kerala,2007-08,90,Meat_Production,77.0
+Kerala,2008-09,90,Meat_Production,124.0
+Kerala,2009-10,90,Meat_Production,118.0
+Kerala,2010-11,90,Meat_Production,124.0
+Kerala,2011-12,90,Meat_Production,426.0
+Kerala,2012-13,90,Meat_Production,401.0
+Kerala,2013-14,90,Meat_Production,416.0
+Kerala,2014-15,90,Meat_Production,446.0
+Kerala,2015-16,90,Meat_Production,466.0
+Kerala,2016-17,90,Meat_Production,469.0
+Kerala,2017-18,90,Meat_Production,469.0
+Kerala,2018-19,90,Meat_Production,457.0
+Kerala,2019-20,90,Meat_Production,453.0
+Kerala,2020-21,90,Meat_Production,461.0
+Kerala,2021-22,90,Meat_Production,464.0
+Kerala,2022-23,90,Meat_Production,473.0
+Kerala,2023-24,90,Meat_Production,518.0
+Lakshadweep,2013-14,90,Meat_Production,0.0
+Lakshadweep,2014-15,90,Meat_Production,0.0
+Lakshadweep,2015-16,90,Meat_Production,1.0
+Lakshadweep,2016-17,90,Meat_Production,0.0
+Lakshadweep,2017-18,90,Meat_Production,0.0
+Lakshadweep,2018-19,90,Meat_Production,0.0
+Lakshadweep,2020-21,90,Meat_Production,1.0
+Lakshadweep,2021-22,90,Meat_Production,0.0
+Lakshadweep,2022-23,90,Meat_Production,0.0
+Lakshadweep,2023-24,90,Meat_Production,0.0
+Madhya Pradesh,2004-05,90,Meat_Production,16.0
+Madhya Pradesh,2005-06,90,Meat_Production,19.0
+Madhya Pradesh,2006-07,90,Meat_Production,20.0
+Madhya Pradesh,2007-08,90,Meat_Production,36.0
+Madhya Pradesh,2008-09,90,Meat_Production,34.0
+Madhya Pradesh,2009-10,90,Meat_Production,36.0
+Madhya Pradesh,2010-11,90,Meat_Production,38.0
+Madhya Pradesh,2011-12,90,Meat_Production,39.0
+Madhya Pradesh,2012-13,90,Meat_Production,43.0
+Madhya Pradesh,2013-14,90,Meat_Production,48.0
+Madhya Pradesh,2014-15,90,Meat_Production,59.0
+Madhya Pradesh,2015-16,90,Meat_Production,70.0
+Madhya Pradesh,2016-17,90,Meat_Production,79.0
+Madhya Pradesh,2017-18,90,Meat_Production,89.0
+Madhya Pradesh,2018-19,90,Meat_Production,97.0
+Madhya Pradesh,2019-20,90,Meat_Production,107.0
+Madhya Pradesh,2020-21,90,Meat_Production,116.0
+Madhya Pradesh,2021-22,90,Meat_Production,127.0
+Madhya Pradesh,2022-23,90,Meat_Production,139.0
+Madhya Pradesh,2023-24,90,Meat_Production,152.0
+Maharashtra,2004-05,90,Meat_Production,230.0
+Maharashtra,2005-06,90,Meat_Production,236.0
+Maharashtra,2006-07,90,Meat_Production,243.0
+Maharashtra,2007-08,90,Meat_Production,525.0
+Maharashtra,2008-09,90,Meat_Production,536.0
+Maharashtra,2009-10,90,Meat_Production,545.0
+Maharashtra,2010-11,90,Meat_Production,563.0
+Maharashtra,2011-12,90,Meat_Production,585.0
+Maharashtra,2012-13,90,Meat_Production,591.0
+Maharashtra,2013-14,90,Meat_Production,605.0
+Maharashtra,2014-15,90,Meat_Production,631.0
+Maharashtra,2015-16,90,Meat_Production,675.0
+Maharashtra,2016-17,90,Meat_Production,845.0
+Maharashtra,2017-18,90,Meat_Production,925.0
+Maharashtra,2018-19,90,Meat_Production,1021.0
+Maharashtra,2019-20,90,Meat_Production,1140.0
+Maharashtra,2020-21,90,Meat_Production,1109.0
+Maharashtra,2021-22,90,Meat_Production,1138.0
+Maharashtra,2022-23,90,Meat_Production,1124.0
+Maharashtra,2023-24,90,Meat_Production,1157.0
+Manipur,2004-05,90,Meat_Production,23.0
+Manipur,2005-06,90,Meat_Production,23.0
+Manipur,2006-07,90,Meat_Production,23.0
+Manipur,2007-08,90,Meat_Production,24.0
+Manipur,2008-09,90,Meat_Production,23.0
+Manipur,2009-10,90,Meat_Production,24.0
+Manipur,2010-11,90,Meat_Production,24.0
+Manipur,2011-12,90,Meat_Production,24.0
+Manipur,2012-13,90,Meat_Production,25.0
+Manipur,2013-14,90,Meat_Production,25.0
+Manipur,2014-15,90,Meat_Production,27.0
+Manipur,2015-16,90,Meat_Production,26.0
+Manipur,2016-17,90,Meat_Production,27.0
+Manipur,2017-18,90,Meat_Production,28.0
+Manipur,2018-19,90,Meat_Production,28.0
+Manipur,2019-20,90,Meat_Production,29.0
+Manipur,2020-21,90,Meat_Production,29.0
+Manipur,2021-22,90,Meat_Production,29.0
+Manipur,2022-23,90,Meat_Production,29.0
+Manipur,2023-24,90,Meat_Production,31.0
+Meghalaya,2004-05,90,Meat_Production,36.0
+Meghalaya,2005-06,90,Meat_Production,37.0
+Meghalaya,2006-07,90,Meat_Production,36.0
+Meghalaya,2007-08,90,Meat_Production,37.0
+Meghalaya,2008-09,90,Meat_Production,37.0
+Meghalaya,2009-10,90,Meat_Production,37.0
+Meghalaya,2010-11,90,Meat_Production,38.0
+Meghalaya,2011-12,90,Meat_Production,38.0
+Meghalaya,2012-13,90,Meat_Production,39.0
+Meghalaya,2013-14,90,Meat_Production,40.0
+Meghalaya,2014-15,90,Meat_Production,41.0
+Meghalaya,2015-16,90,Meat_Production,41.0
+Meghalaya,2016-17,90,Meat_Production,41.0
+Meghalaya,2017-18,90,Meat_Production,43.0
+Meghalaya,2018-19,90,Meat_Production,45.0
+Meghalaya,2019-20,90,Meat_Production,46.0
+Meghalaya,2020-21,90,Meat_Production,39.0
+Meghalaya,2021-22,90,Meat_Production,37.0
+Meghalaya,2022-23,90,Meat_Production,52.0
+Meghalaya,2023-24,90,Meat_Production,55.0
+Mizoram,2004-05,90,Meat_Production,9.0
+Mizoram,2005-06,90,Meat_Production,9.0
+Mizoram,2006-07,90,Meat_Production,10.0
+Mizoram,2007-08,90,Meat_Production,11.0
+Mizoram,2008-09,90,Meat_Production,13.0
+Mizoram,2009-10,90,Meat_Production,10.0
+Mizoram,2010-11,90,Meat_Production,10.0
+Mizoram,2011-12,90,Meat_Production,13.0
+Mizoram,2012-13,90,Meat_Production,12.0
+Mizoram,2013-14,90,Meat_Production,12.0
+Mizoram,2014-15,90,Meat_Production,13.0
+Mizoram,2015-16,90,Meat_Production,14.0
+Mizoram,2016-17,90,Meat_Production,15.0
+Mizoram,2017-18,90,Meat_Production,16.0
+Mizoram,2018-19,90,Meat_Production,16.0
+Mizoram,2019-20,90,Meat_Production,16.0
+Mizoram,2020-21,90,Meat_Production,15.0
+Mizoram,2021-22,90,Meat_Production,15.0
+Mizoram,2022-23,90,Meat_Production,16.0
+Mizoram,2023-24,90,Meat_Production,16.0
+Nagaland,2004-05,90,Meat_Production,61.0
+Nagaland,2005-06,90,Meat_Production,63.0
+Nagaland,2006-07,90,Meat_Production,63.0
+Nagaland,2007-08,90,Meat_Production,22.0
+Nagaland,2008-09,90,Meat_Production,63.0
+Nagaland,2009-10,90,Meat_Production,66.0
+Nagaland,2010-11,90,Meat_Production,65.0
+Nagaland,2011-12,90,Meat_Production,78.0
+Nagaland,2012-13,90,Meat_Production,71.0
+Nagaland,2013-14,90,Meat_Production,67.0
+Nagaland,2014-15,90,Meat_Production,67.0
+Nagaland,2015-16,90,Meat_Production,36.0
+Nagaland,2016-17,90,Meat_Production,31.0
+Nagaland,2017-18,90,Meat_Production,32.0
+Nagaland,2018-19,90,Meat_Production,32.0
+Nagaland,2019-20,90,Meat_Production,32.0
+Nagaland,2020-21,90,Meat_Production,24.0
+Nagaland,2021-22,90,Meat_Production,24.0
+Nagaland,2022-23,90,Meat_Production,23.0
+Nagaland,2023-24,90,Meat_Production,24.0
+Odisha,2004-05,90,Meat_Production,51.0
+Odisha,2005-06,90,Meat_Production,52.0
+Odisha,2006-07,90,Meat_Production,55.0
+Odisha,2007-08,90,Meat_Production,110.0
+Odisha,2008-09,90,Meat_Production,118.0
+Odisha,2009-10,90,Meat_Production,128.0
+Odisha,2010-11,90,Meat_Production,138.0
+Odisha,2011-12,90,Meat_Production,138.0
+Odisha,2012-13,90,Meat_Production,141.0
+Odisha,2013-14,90,Meat_Production,154.0
+Odisha,2014-15,90,Meat_Production,163.0
+Odisha,2015-16,90,Meat_Production,165.0
+Odisha,2016-17,90,Meat_Production,177.0
+Odisha,2017-18,90,Meat_Production,183.0
+Odisha,2018-19,90,Meat_Production,202.0
+Odisha,2019-20,90,Meat_Production,205.0
+Odisha,2020-21,90,Meat_Production,213.0
+Odisha,2021-22,90,Meat_Production,216.0
+Odisha,2022-23,90,Meat_Production,227.0
+Odisha,2023-24,90,Meat_Production,242.0
+Puducherry,2004-05,90,Meat_Production,3.0
+Puducherry,2005-06,90,Meat_Production,7.0
+Puducherry,2006-07,90,Meat_Production,9.0
+Puducherry,2007-08,90,Meat_Production,8.0
+Puducherry,2008-09,90,Meat_Production,9.0
+Puducherry,2009-10,90,Meat_Production,11.0
+Puducherry,2010-11,90,Meat_Production,13.0
+Puducherry,2011-12,90,Meat_Production,14.0
+Puducherry,2012-13,90,Meat_Production,14.0
+Puducherry,2013-14,90,Meat_Production,14.0
+Puducherry,2014-15,90,Meat_Production,14.0
+Puducherry,2015-16,90,Meat_Production,15.0
+Puducherry,2016-17,90,Meat_Production,15.0
+Puducherry,2017-18,90,Meat_Production,15.0
+Puducherry,2018-19,90,Meat_Production,15.0
+Puducherry,2019-20,90,Meat_Production,15.0
+Puducherry,2020-21,90,Meat_Production,15.0
+Puducherry,2021-22,90,Meat_Production,15.0
+Puducherry,2022-23,90,Meat_Production,15.0
+Puducherry,2023-24,90,Meat_Production,15.0
+Punjab,2004-05,90,Meat_Production,4.0
+Punjab,2005-06,90,Meat_Production,4.0
+Punjab,2006-07,90,Meat_Production,70.0
+Punjab,2007-08,90,Meat_Production,109.0
+Punjab,2008-09,90,Meat_Production,108.0
+Punjab,2009-10,90,Meat_Production,147.0
+Punjab,2010-11,90,Meat_Production,175.0
+Punjab,2011-12,90,Meat_Production,181.0
+Punjab,2012-13,90,Meat_Production,212.0
+Punjab,2013-14,90,Meat_Production,235.0
+Punjab,2014-15,90,Meat_Production,237.0
+Punjab,2015-16,90,Meat_Production,250.0
+Punjab,2016-17,90,Meat_Production,249.0
+Punjab,2017-18,90,Meat_Production,276.0
+Punjab,2018-19,90,Meat_Production,231.0
+Punjab,2019-20,90,Meat_Production,248.0
+Punjab,2020-21,90,Meat_Production,224.0
+Punjab,2021-22,90,Meat_Production,228.0
+Punjab,2022-23,90,Meat_Production,252.0
+Punjab,2023-24,90,Meat_Production,263.0
+Rajasthan,2004-05,90,Meat_Production,64.0
+Rajasthan,2005-06,90,Meat_Production,68.0
+Rajasthan,2006-07,90,Meat_Production,69.0
+Rajasthan,2007-08,90,Meat_Production,80.0
+Rajasthan,2008-09,90,Meat_Production,84.0
+Rajasthan,2009-10,90,Meat_Production,92.0
+Rajasthan,2010-11,90,Meat_Production,107.0
+Rajasthan,2011-12,90,Meat_Production,122.0
+Rajasthan,2012-13,90,Meat_Production,152.0
+Rajasthan,2013-14,90,Meat_Production,175.0
+Rajasthan,2014-15,90,Meat_Production,181.0
+Rajasthan,2015-16,90,Meat_Production,180.0
+Rajasthan,2016-17,90,Meat_Production,180.0
+Rajasthan,2017-18,90,Meat_Production,188.0
+Rajasthan,2018-19,90,Meat_Production,192.0
+Rajasthan,2019-20,90,Meat_Production,200.0
+Rajasthan,2020-21,90,Meat_Production,213.0
+Rajasthan,2021-22,90,Meat_Production,221.0
+Rajasthan,2022-23,90,Meat_Production,240.0
+Rajasthan,2023-24,90,Meat_Production,248.0
+Sikkim,2008-09,90,Meat_Production,1.0
+Sikkim,2009-10,90,Meat_Production,3.0
+Sikkim,2010-11,90,Meat_Production,3.0
+Sikkim,2011-12,90,Meat_Production,3.0
+Sikkim,2012-13,90,Meat_Production,3.0
+Sikkim,2013-14,90,Meat_Production,3.0
+Sikkim,2014-15,90,Meat_Production,3.0
+Sikkim,2015-16,90,Meat_Production,6.0
+Sikkim,2016-17,90,Meat_Production,4.0
+Sikkim,2017-18,90,Meat_Production,4.0
+Sikkim,2018-19,90,Meat_Production,4.0
+Sikkim,2019-20,90,Meat_Production,4.0
+Sikkim,2020-21,90,Meat_Production,3.0
+Sikkim,2021-22,90,Meat_Production,3.0
+Sikkim,2022-23,90,Meat_Production,5.0
+Sikkim,2023-24,90,Meat_Production,5.0
+Tamil Nadu,2004-05,90,Meat_Production,85.0
+Tamil Nadu,2005-06,90,Meat_Production,119.0
+Tamil Nadu,2006-07,90,Meat_Production,220.0
+Tamil Nadu,2007-08,90,Meat_Production,398.0
+Tamil Nadu,2008-09,90,Meat_Production,457.0
+Tamil Nadu,2009-10,90,Meat_Production,502.0
+Tamil Nadu,2010-11,90,Meat_Production,466.0
+Tamil Nadu,2011-12,90,Meat_Production,460.0
+Tamil Nadu,2012-13,90,Meat_Production,462.0
+Tamil Nadu,2013-14,90,Meat_Production,465.0
+Tamil Nadu,2014-15,90,Meat_Production,492.0
+Tamil Nadu,2015-16,90,Meat_Production,544.0
+Tamil Nadu,2016-17,90,Meat_Production,573.0
+Tamil Nadu,2017-18,90,Meat_Production,603.0
+Tamil Nadu,2018-19,90,Meat_Production,634.0
+Tamil Nadu,2019-20,90,Meat_Production,663.0
+Tamil Nadu,2020-21,90,Meat_Production,669.0
+Tamil Nadu,2021-22,90,Meat_Production,686.0
+Tamil Nadu,2022-23,90,Meat_Production,704.0
+Tamil Nadu,2023-24,90,Meat_Production,768.0
+Tripura,2004-05,90,Meat_Production,9.0
+Tripura,2005-06,90,Meat_Production,12.0
+Tripura,2006-07,90,Meat_Production,13.0
+Tripura,2007-08,90,Meat_Production,14.0
+Tripura,2008-09,90,Meat_Production,19.0
+Tripura,2009-10,90,Meat_Production,21.0
+Tripura,2010-11,90,Meat_Production,23.0
+Tripura,2011-12,90,Meat_Production,25.0
+Tripura,2012-13,90,Meat_Production,32.0
+Tripura,2013-14,90,Meat_Production,32.0
+Tripura,2014-15,90,Meat_Production,34.0
+Tripura,2015-16,90,Meat_Production,37.0
+Tripura,2016-17,90,Meat_Production,40.0
+Tripura,2017-18,90,Meat_Production,45.0
+Tripura,2018-19,90,Meat_Production,48.0
+Tripura,2019-20,90,Meat_Production,51.0
+Tripura,2020-21,90,Meat_Production,52.0
+Tripura,2021-22,90,Meat_Production,54.0
+Tripura,2022-23,90,Meat_Production,56.0
+Tripura,2023-24,90,Meat_Production,60.0
+Uttar Pradesh,2004-05,90,Meat_Production,190.0
+Uttar Pradesh,2005-06,90,Meat_Production,198.0
+Uttar Pradesh,2006-07,90,Meat_Production,200.0
+Uttar Pradesh,2007-08,90,Meat_Production,631.0
+Uttar Pradesh,2008-09,90,Meat_Production,767.0
+Uttar Pradesh,2009-10,90,Meat_Production,800.0
+Uttar Pradesh,2010-11,90,Meat_Production,845.0
+Uttar Pradesh,2011-12,90,Meat_Production,956.0
+Uttar Pradesh,2012-13,90,Meat_Production,1137.0
+Uttar Pradesh,2013-14,90,Meat_Production,1221.0
+Uttar Pradesh,2014-15,90,Meat_Production,1397.0
+Uttar Pradesh,2015-16,90,Meat_Production,1418.0
+Uttar Pradesh,2016-17,90,Meat_Production,1346.0
+Uttar Pradesh,2017-18,90,Meat_Production,1151.0
+Uttar Pradesh,2018-19,90,Meat_Production,1227.0
+Uttar Pradesh,2019-20,90,Meat_Production,1166.0
+Uttar Pradesh,2020-21,90,Meat_Production,1038.0
+Uttar Pradesh,2021-22,90,Meat_Production,1128.0
+Uttar Pradesh,2022-23,90,Meat_Production,1192.0
+Uttar Pradesh,2023-24,90,Meat_Production,1260.0
+Uttarakhand,2004-05,90,Meat_Production,6.0
+Uttarakhand,2005-06,90,Meat_Production,6.0
+Uttarakhand,2006-07,90,Meat_Production,7.0
+Uttarakhand,2007-08,90,Meat_Production,9.0
+Uttarakhand,2008-09,90,Meat_Production,10.0
+Uttarakhand,2009-10,90,Meat_Production,10.0
+Uttarakhand,2010-11,90,Meat_Production,14.0
+Uttarakhand,2011-12,90,Meat_Production,16.0
+Uttarakhand,2012-13,90,Meat_Production,22.0
+Uttarakhand,2013-14,90,Meat_Production,24.0
+Uttarakhand,2014-15,90,Meat_Production,26.0
+Uttarakhand,2015-16,90,Meat_Production,271.0
+Uttarakhand,2016-17,90,Meat_Production,28.0
+Uttarakhand,2017-18,90,Meat_Production,29.0
+Uttarakhand,2018-19,90,Meat_Production,29.0
+Uttarakhand,2019-20,90,Meat_Production,25.0
+Uttarakhand,2020-21,90,Meat_Production,19.0
+Uttarakhand,2021-22,90,Meat_Production,18.0
+Uttarakhand,2022-23,90,Meat_Production,21.0
+Uttarakhand,2023-24,90,Meat_Production,25.0
+West Bengal,2004-05,90,Meat_Production,475.0
+West Bengal,2005-06,90,Meat_Production,487.0
+West Bengal,2006-07,90,Meat_Production,229.0
+West Bengal,2007-08,90,Meat_Production,357.0
+West Bengal,2008-09,90,Meat_Production,516.0
+West Bengal,2009-10,90,Meat_Production,544.0
+West Bengal,2010-11,90,Meat_Production,577.0
+West Bengal,2011-12,90,Meat_Production,611.0
+West Bengal,2012-13,90,Meat_Production,648.0
+West Bengal,2013-14,90,Meat_Production,649.0
+West Bengal,2014-15,90,Meat_Production,657.0
+West Bengal,2015-16,90,Meat_Production,686.0
+West Bengal,2016-17,90,Meat_Production,706.0
+West Bengal,2017-18,90,Meat_Production,773.0
+West Bengal,2018-19,90,Meat_Production,831.0
+West Bengal,2019-20,90,Meat_Production,903.0
+West Bengal,2020-21,90,Meat_Production,994.0
+West Bengal,2021-22,90,Meat_Production,1080.0
+West Bengal,2022-23,90,Meat_Production,1166.0
+West Bengal,2023-24,90,Meat_Production,1294.0
+Andaman & Nicobar Islands,2014-15,90,Meat_Production,5.0
+Andaman & Nicobar Islands,2015-16,90,Meat_Production,5.0
+Andaman & Nicobar Islands,2016-17,90,Meat_Production,5.0
+Andaman & Nicobar Islands,2017-18,90,Meat_Production,5.0
+Andaman & Nicobar Islands,2018-19,90,Meat_Production,5.0
+Andaman & Nicobar Islands,2019-20,90,Meat_Production,6.0
+Andaman & Nicobar Islands,2020-21,90,Meat_Production,6.0
+Andaman & Nicobar Islands,2021-22,90,Meat_Production,6.0
+Andaman & Nicobar Islands,2022-23,90,Meat_Production,6.0
+Andaman & Nicobar Islands,2023-24,90,Meat_Production,6.0
+Daman & Diu,2014-15,90,Meat_Production,1.0
+Daman & Diu,2015-16,90,Meat_Production,1.0
+Daman & Diu,2016-17,90,Meat_Production,1.0
+Daman & Diu,2017-18,90,Meat_Production,0.0
+Daman & Diu,2018-19,90,Meat_Production,0.0
+Daman & Diu,2019-20,90,Meat_Production,0.0
+Telangana,2014-15,90,Meat_Production,505.0
+Telangana,2015-16,90,Meat_Production,542.0
+Telangana,2016-17,90,Meat_Production,591.0
+Telangana,2017-18,90,Meat_Production,645.0
+Telangana,2018-19,90,Meat_Production,754.0
+Telangana,2019-20,90,Meat_Production,848.0
+Telangana,2020-21,90,Meat_Production,920.0
+Telangana,2021-22,90,Meat_Production,1005.0
+Telangana,2022-23,90,Meat_Production,1081.0
+Telangana,2023-24,90,Meat_Production,1113.0

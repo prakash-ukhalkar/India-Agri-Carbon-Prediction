@@ -1,0 +1,599 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,65,Sugarcane_Production,15739.0
+Andhra Pradesh,2005-06,65,Sugarcane_Production,17656.0
+Andhra Pradesh,2006-07,65,Sugarcane_Production,21692.0
+Andhra Pradesh,2007-08,65,Sugarcane_Production,20296.0
+Andhra Pradesh,2008-09,65,Sugarcane_Production,15380.0
+Andhra Pradesh,2009-10,65,Sugarcane_Production,11708.0
+Andhra Pradesh,2010-11,65,Sugarcane_Production,11893.5
+Andhra Pradesh,2011-12,65,Sugarcane_Production,12842.5
+Andhra Pradesh,2012-13,65,Sugarcane_Production,11993.0
+Andhra Pradesh,2013-14,65,Sugarcane_Production,12008.8
+Andhra Pradesh,2014-15,65,Sugarcane_Production,9987.0
+Andhra Pradesh,2015-16,65,Sugarcane_Production,9353.0
+Andhra Pradesh,2016-17,65,Sugarcane_Production,7830.0
+Andhra Pradesh,2017-18,65,Sugarcane_Production,7789.6
+Andhra Pradesh,2018-19,65,Sugarcane_Production,8094.6
+Andhra Pradesh,2019-20,65,Sugarcane_Production,6724.0
+Andhra Pradesh,2020-21,65,Sugarcane_Production,4138.6
+Andhra Pradesh,2021-22,65,Sugarcane_Production,3645.4
+Andhra Pradesh,2022-23,65,Sugarcane_Production,2955.7
+Andhra Pradesh,2023-24,65,Sugarcane_Production,2213.9
+Andhra Pradesh,2024-25,65,Sugarcane_Production,1985.3
+Arunachal Pradesh,2004-05,65,Sugarcane_Production,14.1
+Arunachal Pradesh,2005-06,65,Sugarcane_Production,16.8
+Arunachal Pradesh,2006-07,65,Sugarcane_Production,16.8
+Arunachal Pradesh,2007-08,65,Sugarcane_Production,21.8
+Arunachal Pradesh,2008-09,65,Sugarcane_Production,23.4
+Arunachal Pradesh,2009-10,65,Sugarcane_Production,27.1
+Arunachal Pradesh,2010-11,65,Sugarcane_Production,29.0
+Arunachal Pradesh,2011-12,65,Sugarcane_Production,30.0
+Arunachal Pradesh,2012-13,65,Sugarcane_Production,30.2
+Arunachal Pradesh,2013-14,65,Sugarcane_Production,30.4
+Arunachal Pradesh,2014-15,65,Sugarcane_Production,29.7
+Arunachal Pradesh,2015-16,65,Sugarcane_Production,40.8
+Arunachal Pradesh,2016-17,65,Sugarcane_Production,37.7
+Arunachal Pradesh,2017-18,65,Sugarcane_Production,38.4
+Arunachal Pradesh,2018-19,65,Sugarcane_Production,45.8
+Arunachal Pradesh,2019-20,65,Sugarcane_Production,39.2
+Arunachal Pradesh,2020-21,65,Sugarcane_Production,46.4
+Arunachal Pradesh,2021-22,65,Sugarcane_Production,46.3
+Arunachal Pradesh,2022-23,65,Sugarcane_Production,46.6
+Arunachal Pradesh,2023-24,65,Sugarcane_Production,46.7
+Arunachal Pradesh,2024-25,65,Sugarcane_Production,46.9
+Assam,2004-05,65,Sugarcane_Production,883.9
+Assam,2005-06,65,Sugarcane_Production,871.2
+Assam,2006-07,65,Sugarcane_Production,1055.0
+Assam,2007-08,65,Sugarcane_Production,980.0
+Assam,2008-09,65,Sugarcane_Production,1099.7
+Assam,2009-10,65,Sugarcane_Production,1059.0
+Assam,2010-11,65,Sugarcane_Production,1075.0
+Assam,2011-12,65,Sugarcane_Production,993.5
+Assam,2012-13,65,Sugarcane_Production,1028.2
+Assam,2013-14,65,Sugarcane_Production,1075.2
+Assam,2014-15,65,Sugarcane_Production,1099.1
+Assam,2015-16,65,Sugarcane_Production,1038.3
+Assam,2016-17,65,Sugarcane_Production,1207.2
+Assam,2017-18,65,Sugarcane_Production,1143.0
+Assam,2018-19,65,Sugarcane_Production,1093.9
+Assam,2019-20,65,Sugarcane_Production,1218.1
+Assam,2020-21,65,Sugarcane_Production,1093.1
+Assam,2021-22,65,Sugarcane_Production,1160.0
+Assam,2022-23,65,Sugarcane_Production,1264.1
+Assam,2023-24,65,Sugarcane_Production,1379.9
+Assam,2024-25,65,Sugarcane_Production,1237.5
+Bihar,2004-05,65,Sugarcane_Production,4111.7
+Bihar,2005-06,65,Sugarcane_Production,4337.9
+Bihar,2006-07,65,Sugarcane_Production,5955.5
+Bihar,2007-08,65,Sugarcane_Production,3854.9
+Bihar,2008-09,65,Sugarcane_Production,4959.9
+Bihar,2009-10,65,Sugarcane_Production,5032.6
+Bihar,2010-11,65,Sugarcane_Production,12763.6
+Bihar,2011-12,65,Sugarcane_Production,11288.6
+Bihar,2012-13,65,Sugarcane_Production,12741.4
+Bihar,2013-14,65,Sugarcane_Production,12881.8
+Bihar,2014-15,65,Sugarcane_Production,14034.1
+Bihar,2015-16,65,Sugarcane_Production,12649.3
+Bihar,2016-17,65,Sugarcane_Production,13036.0
+Bihar,2017-18,65,Sugarcane_Production,13824.6
+Bihar,2018-19,65,Sugarcane_Production,20116.3
+Bihar,2019-20,65,Sugarcane_Production,13578.8
+Bihar,2020-21,65,Sugarcane_Production,12109.8
+Bihar,2021-22,65,Sugarcane_Production,12025.6
+Bihar,2022-23,65,Sugarcane_Production,12742.6
+Bihar,2023-24,65,Sugarcane_Production,12084.1
+Bihar,2024-25,65,Sugarcane_Production,12149.5
+Chhattisgarh,2004-05,65,Sugarcane_Production,15.6
+Chhattisgarh,2005-06,65,Sugarcane_Production,16.4
+Chhattisgarh,2006-07,65,Sugarcane_Production,18.7
+Chhattisgarh,2007-08,65,Sugarcane_Production,27.5
+Chhattisgarh,2008-09,65,Sugarcane_Production,25.4
+Chhattisgarh,2009-10,65,Sugarcane_Production,29.2
+Chhattisgarh,2010-11,65,Sugarcane_Production,21.8
+Chhattisgarh,2011-12,65,Sugarcane_Production,24.4
+Chhattisgarh,2012-13,65,Sugarcane_Production,37.3
+Chhattisgarh,2013-14,65,Sugarcane_Production,22.1
+Chhattisgarh,2014-15,65,Sugarcane_Production,49.3
+Chhattisgarh,2015-16,65,Sugarcane_Production,67.8
+Chhattisgarh,2016-17,65,Sugarcane_Production,848.0
+Chhattisgarh,2017-18,65,Sugarcane_Production,1158.5
+Chhattisgarh,2018-19,65,Sugarcane_Production,1452.1
+Chhattisgarh,2019-20,65,Sugarcane_Production,1759.0
+Chhattisgarh,2020-21,65,Sugarcane_Production,1756.4
+Chhattisgarh,2021-22,65,Sugarcane_Production,1958.0
+Chhattisgarh,2022-23,65,Sugarcane_Production,2388.2
+Chhattisgarh,2023-24,65,Sugarcane_Production,2040.6
+Chhattisgarh,2024-25,65,Sugarcane_Production,1866.4
+Goa,2004-05,65,Sugarcane_Production,60.6
+Goa,2005-06,65,Sugarcane_Production,55.9
+Goa,2006-07,65,Sugarcane_Production,58.0
+Goa,2007-08,65,Sugarcane_Production,56.0
+Goa,2008-09,65,Sugarcane_Production,49.3
+Goa,2009-10,65,Sugarcane_Production,52.3
+Goa,2010-11,65,Sugarcane_Production,49.1
+Goa,2011-12,65,Sugarcane_Production,46.6
+Goa,2012-13,65,Sugarcane_Production,46.0
+Goa,2013-14,65,Sugarcane_Production,47.7
+Goa,2014-15,65,Sugarcane_Production,49.2
+Goa,2015-16,65,Sugarcane_Production,0.0
+Goa,2016-17,65,Sugarcane_Production,40.2
+Goa,2017-18,65,Sugarcane_Production,0.0
+Goa,2018-19,65,Sugarcane_Production,35.3
+Goa,2019-20,65,Sugarcane_Production,53.7
+Goa,2020-21,65,Sugarcane_Production,35.6
+Goa,2021-22,65,Sugarcane_Production,35.3
+Goa,2022-23,65,Sugarcane_Production,30.5
+Goa,2023-24,65,Sugarcane_Production,25.7
+Goa,2024-25,65,Sugarcane_Production,21.5
+Gujarat,2004-05,65,Sugarcane_Production,14570.0
+Gujarat,2005-06,65,Sugarcane_Production,14580.0
+Gujarat,2006-07,65,Sugarcane_Production,15630.0
+Gujarat,2007-08,65,Sugarcane_Production,15190.0
+Gujarat,2008-09,65,Sugarcane_Production,15510.0
+Gujarat,2009-10,65,Sugarcane_Production,12400.0
+Gujarat,2010-11,65,Sugarcane_Production,13760.0
+Gujarat,2011-12,65,Sugarcane_Production,12750.0
+Gujarat,2012-13,65,Sugarcane_Production,12690.0
+Gujarat,2013-14,65,Sugarcane_Production,12550.0
+Gujarat,2014-15,65,Sugarcane_Production,14330.0
+Gujarat,2015-16,65,Sugarcane_Production,11120.0
+Gujarat,2016-17,65,Sugarcane_Production,11950.0
+Gujarat,2017-18,65,Sugarcane_Production,12072.1
+Gujarat,2018-19,65,Sugarcane_Production,11326.4
+Gujarat,2019-20,65,Sugarcane_Production,11570.0
+Gujarat,2020-21,65,Sugarcane_Production,16954.7
+Gujarat,2021-22,65,Sugarcane_Production,17459.1
+Gujarat,2022-23,65,Sugarcane_Production,13461.5
+Gujarat,2023-24,65,Sugarcane_Production,14480.3
+Gujarat,2024-25,65,Sugarcane_Production,13714.3
+Haryana,2004-05,65,Sugarcane_Production,8060.0
+Haryana,2005-06,65,Sugarcane_Production,8180.0
+Haryana,2006-07,65,Sugarcane_Production,9580.0
+Haryana,2007-08,65,Sugarcane_Production,8860.0
+Haryana,2008-09,65,Sugarcane_Production,5130.0
+Haryana,2009-10,65,Sugarcane_Production,5335.0
+Haryana,2010-11,65,Sugarcane_Production,6042.0
+Haryana,2011-12,65,Sugarcane_Production,6959.0
+Haryana,2012-13,65,Sugarcane_Production,7437.0
+Haryana,2013-14,65,Sugarcane_Production,7499.0
+Haryana,2014-15,65,Sugarcane_Production,7650.0
+Haryana,2015-16,65,Sugarcane_Production,6692.0
+Haryana,2016-17,65,Sugarcane_Production,8223.0
+Haryana,2017-18,65,Sugarcane_Production,9632.9
+Haryana,2018-19,65,Sugarcane_Production,8505.0
+Haryana,2019-20,65,Sugarcane_Production,7730.4
+Haryana,2020-21,65,Sugarcane_Production,8531.7
+Haryana,2021-22,65,Sugarcane_Production,8822.6
+Haryana,2022-23,65,Sugarcane_Production,8860.5
+Haryana,2023-24,65,Sugarcane_Production,7373.6
+Haryana,2024-25,65,Sugarcane_Production,5830.2
+Himachal Pradesh,2004-05,65,Sugarcane_Production,61.9
+Himachal Pradesh,2005-06,65,Sugarcane_Production,25.1
+Himachal Pradesh,2006-07,65,Sugarcane_Production,59.0
+Himachal Pradesh,2007-08,65,Sugarcane_Production,58.4
+Himachal Pradesh,2008-09,65,Sugarcane_Production,53.1
+Himachal Pradesh,2009-10,65,Sugarcane_Production,45.6
+Himachal Pradesh,2010-11,65,Sugarcane_Production,38.3
+Himachal Pradesh,2011-12,65,Sugarcane_Production,28.3
+Himachal Pradesh,2012-13,65,Sugarcane_Production,42.0
+Himachal Pradesh,2013-14,65,Sugarcane_Production,35.7
+Himachal Pradesh,2014-15,65,Sugarcane_Production,37.6
+Himachal Pradesh,2015-16,65,Sugarcane_Production,38.7
+Himachal Pradesh,2016-17,65,Sugarcane_Production,21.1
+Himachal Pradesh,2017-18,65,Sugarcane_Production,36.7
+Himachal Pradesh,2018-19,65,Sugarcane_Production,33.3
+Himachal Pradesh,2019-20,65,Sugarcane_Production,32.0
+Himachal Pradesh,2020-21,65,Sugarcane_Production,22.7
+Himachal Pradesh,2021-22,65,Sugarcane_Production,22.7
+Himachal Pradesh,2022-23,65,Sugarcane_Production,22.2
+Himachal Pradesh,2023-24,65,Sugarcane_Production,22.1
+Himachal Pradesh,2024-25,65,Sugarcane_Production,20.6
+Jammu & Kashmir,2004-05,65,Sugarcane_Production,0.5
+Jammu & Kashmir,2005-06,65,Sugarcane_Production,0.8
+Jammu & Kashmir,2006-07,65,Sugarcane_Production,0.8
+Jammu & Kashmir,2007-08,65,Sugarcane_Production,0.2
+Jammu & Kashmir,2008-09,65,Sugarcane_Production,0.0
+Jammu & Kashmir,2012-13,65,Sugarcane_Production,0.0
+Jammu & Kashmir,2013-14,65,Sugarcane_Production,0.0
+Jammu & Kashmir,2014-15,65,Sugarcane_Production,2.0
+Jammu & Kashmir,2015-16,65,Sugarcane_Production,0.3
+Jammu & Kashmir,2016-17,65,Sugarcane_Production,0.0
+Jammu & Kashmir,2017-18,65,Sugarcane_Production,0.0
+Jammu & Kashmir,2018-19,65,Sugarcane_Production,0.0
+Jammu & Kashmir,2019-20,65,Sugarcane_Production,0.0
+Jammu & Kashmir,2020-21,65,Sugarcane_Production,0.1
+Jammu & Kashmir,2021-22,65,Sugarcane_Production,0.0
+Jammu & Kashmir,2022-23,65,Sugarcane_Production,0.3
+Jammu & Kashmir,2023-24,65,Sugarcane_Production,0.3
+Jammu & Kashmir,2024-25,65,Sugarcane_Production,0.3
+Jharkhand,2004-05,65,Sugarcane_Production,141.6
+Jharkhand,2005-06,65,Sugarcane_Production,142.0
+Jharkhand,2006-07,65,Sugarcane_Production,142.0
+Jharkhand,2007-08,65,Sugarcane_Production,150.0
+Jharkhand,2008-09,65,Sugarcane_Production,348.8
+Jharkhand,2009-10,65,Sugarcane_Production,447.0
+Jharkhand,2010-11,65,Sugarcane_Production,457.3
+Jharkhand,2011-12,65,Sugarcane_Production,457.3
+Jharkhand,2012-13,65,Sugarcane_Production,461.9
+Jharkhand,2013-14,65,Sugarcane_Production,462.8
+Jharkhand,2014-15,65,Sugarcane_Production,469.8
+Jharkhand,2015-16,65,Sugarcane_Production,708.9
+Jharkhand,2016-17,65,Sugarcane_Production,512.9
+Jharkhand,2017-18,65,Sugarcane_Production,574.8
+Jharkhand,2018-19,65,Sugarcane_Production,0.0
+Jharkhand,2019-20,65,Sugarcane_Production,0.0
+Jharkhand,2020-21,65,Sugarcane_Production,0.0
+Jharkhand,2021-22,65,Sugarcane_Production,0.0
+Jharkhand,2024-25,65,Sugarcane_Production,33.9
+Karnataka,2004-05,65,Sugarcane_Production,14276.0
+Karnataka,2005-06,65,Sugarcane_Production,18267.0
+Karnataka,2006-07,65,Sugarcane_Production,28669.7
+Karnataka,2007-08,65,Sugarcane_Production,26240.0
+Karnataka,2008-09,65,Sugarcane_Production,23328.0
+Karnataka,2009-10,65,Sugarcane_Production,30443.0
+Karnataka,2010-11,65,Sugarcane_Production,39657.0
+Karnataka,2011-12,65,Sugarcane_Production,38808.0
+Karnataka,2012-13,65,Sugarcane_Production,35732.0
+Karnataka,2013-14,65,Sugarcane_Production,37905.0
+Karnataka,2014-15,65,Sugarcane_Production,43776.0
+Karnataka,2015-16,65,Sugarcane_Production,37833.8
+Karnataka,2016-17,65,Sugarcane_Production,27378.0
+Karnataka,2017-18,65,Sugarcane_Production,31135.2
+Karnataka,2018-19,65,Sugarcane_Production,42408.0
+Karnataka,2019-20,65,Sugarcane_Production,38181.0
+Karnataka,2020-21,65,Sugarcane_Production,42528.0
+Karnataka,2021-22,65,Sugarcane_Production,61152.0
+Karnataka,2022-23,65,Sugarcane_Production,59346.0
+Karnataka,2023-24,65,Sugarcane_Production,41811.0
+Karnataka,2024-25,65,Sugarcane_Production,48060.0
+Kerala,2004-05,65,Sugarcane_Production,283.0
+Kerala,2005-06,65,Sugarcane_Production,916.5
+Kerala,2006-07,65,Sugarcane_Production,440.0
+Kerala,2007-08,65,Sugarcane_Production,218.0
+Kerala,2008-09,65,Sugarcane_Production,275.5
+Kerala,2009-10,65,Sugarcane_Production,285.0
+Kerala,2010-11,65,Sugarcane_Production,271.8
+Kerala,2011-12,65,Sugarcane_Production,263.0
+Kerala,2012-13,65,Sugarcane_Production,165.7
+Kerala,2013-14,65,Sugarcane_Production,221.5
+Kerala,2014-15,65,Sugarcane_Production,148.5
+Kerala,2015-16,65,Sugarcane_Production,138.1
+Kerala,2016-17,65,Sugarcane_Production,113.1
+Kerala,2017-18,65,Sugarcane_Production,115.1
+Kerala,2018-19,65,Sugarcane_Production,106.3
+Kerala,2019-20,65,Sugarcane_Production,120.8
+Kerala,2020-21,65,Sugarcane_Production,106.7
+Kerala,2021-22,65,Sugarcane_Production,10.4
+Kerala,2022-23,65,Sugarcane_Production,101.2
+Kerala,2023-24,65,Sugarcane_Production,75.9
+Kerala,2024-25,65,Sugarcane_Production,21.1
+Madhya Pradesh,2004-05,65,Sugarcane_Production,2148.0
+Madhya Pradesh,2005-06,65,Sugarcane_Production,2425.0
+Madhya Pradesh,2006-07,65,Sugarcane_Production,2806.0
+Madhya Pradesh,2007-08,65,Sugarcane_Production,3180.0
+Madhya Pradesh,2008-09,65,Sugarcane_Production,2975.0
+Madhya Pradesh,2009-10,65,Sugarcane_Production,2535.0
+Madhya Pradesh,2010-11,65,Sugarcane_Production,2667.0
+Madhya Pradesh,2011-12,65,Sugarcane_Production,2677.0
+Madhya Pradesh,2012-13,65,Sugarcane_Production,2641.9
+Madhya Pradesh,2013-14,65,Sugarcane_Production,3173.7
+Madhya Pradesh,2014-15,65,Sugarcane_Production,4567.0
+Madhya Pradesh,2015-16,65,Sugarcane_Production,5281.0
+Madhya Pradesh,2016-17,65,Sugarcane_Production,4730.0
+Madhya Pradesh,2017-18,65,Sugarcane_Production,5430.0
+Madhya Pradesh,2018-19,65,Sugarcane_Production,5281.7
+Madhya Pradesh,2019-20,65,Sugarcane_Production,7433.8
+Madhya Pradesh,2020-21,65,Sugarcane_Production,5440.7
+Madhya Pradesh,2021-22,65,Sugarcane_Production,5379.1
+Madhya Pradesh,2022-23,65,Sugarcane_Production,6443.7
+Madhya Pradesh,2023-24,65,Sugarcane_Production,7590.0
+Madhya Pradesh,2024-25,65,Sugarcane_Production,6108.6
+Maharashtra,2004-05,65,Sugarcane_Production,20475.0
+Maharashtra,2005-06,65,Sugarcane_Production,38853.0
+Maharashtra,2006-07,65,Sugarcane_Production,78568.0
+Maharashtra,2007-08,65,Sugarcane_Production,88437.0
+Maharashtra,2008-09,65,Sugarcane_Production,60648.0
+Maharashtra,2009-10,65,Sugarcane_Production,64159.0
+Maharashtra,2010-11,65,Sugarcane_Production,81895.7
+Maharashtra,2011-12,65,Sugarcane_Production,86733.1
+Maharashtra,2012-13,65,Sugarcane_Production,69648.1
+Maharashtra,2013-14,65,Sugarcane_Production,76901.0
+Maharashtra,2014-15,65,Sugarcane_Production,84699.0
+Maharashtra,2015-16,65,Sugarcane_Production,73679.6
+Maharashtra,2016-17,65,Sugarcane_Production,52262.5
+Maharashtra,2017-18,65,Sugarcane_Production,82984.0
+Maharashtra,2018-19,65,Sugarcane_Production,89768.2
+Maharashtra,2019-20,65,Sugarcane_Production,69311.9
+Maharashtra,2020-21,65,Sugarcane_Production,105137.6
+Maharashtra,2021-22,65,Sugarcane_Production,116076.4
+Maharashtra,2022-23,65,Sugarcane_Production,123968.2
+Maharashtra,2023-24,65,Sugarcane_Production,112087.6
+Maharashtra,2024-25,65,Sugarcane_Production,109970.2
+Manipur,2004-05,65,Sugarcane_Production,21.8
+Manipur,2005-06,65,Sugarcane_Production,23.0
+Manipur,2006-07,65,Sugarcane_Production,23.0
+Manipur,2007-08,65,Sugarcane_Production,16.8
+Manipur,2008-09,65,Sugarcane_Production,21.3
+Manipur,2009-10,65,Sugarcane_Production,21.3
+Manipur,2010-11,65,Sugarcane_Production,301.3
+Manipur,2011-12,65,Sugarcane_Production,333.0
+Manipur,2012-13,65,Sugarcane_Production,311.7
+Manipur,2013-14,65,Sugarcane_Production,339.3
+Manipur,2014-15,65,Sugarcane_Production,339.3
+Manipur,2015-16,65,Sugarcane_Production,348.0
+Manipur,2016-17,65,Sugarcane_Production,348.0
+Manipur,2017-18,65,Sugarcane_Production,348.0
+Manipur,2018-19,65,Sugarcane_Production,315.1
+Manipur,2019-20,65,Sugarcane_Production,0.0
+Manipur,2020-21,65,Sugarcane_Production,279.4
+Manipur,2021-22,65,Sugarcane_Production,279.4
+Manipur,2022-23,65,Sugarcane_Production,289.5
+Manipur,2023-24,65,Sugarcane_Production,278.3
+Manipur,2024-25,65,Sugarcane_Production,290.2
+Meghalaya,2004-05,65,Sugarcane_Production,0.2
+Meghalaya,2005-06,65,Sugarcane_Production,0.2
+Meghalaya,2006-07,65,Sugarcane_Production,0.2
+Meghalaya,2007-08,65,Sugarcane_Production,0.3
+Meghalaya,2008-09,65,Sugarcane_Production,0.3
+Meghalaya,2009-10,65,Sugarcane_Production,0.2
+Meghalaya,2010-11,65,Sugarcane_Production,0.2
+Meghalaya,2011-12,65,Sugarcane_Production,0.2
+Meghalaya,2012-13,65,Sugarcane_Production,0.2
+Meghalaya,2013-14,65,Sugarcane_Production,0.3
+Meghalaya,2014-15,65,Sugarcane_Production,0.3
+Meghalaya,2015-16,65,Sugarcane_Production,0.4
+Meghalaya,2016-17,65,Sugarcane_Production,0.4
+Meghalaya,2017-18,65,Sugarcane_Production,0.4
+Meghalaya,2018-19,65,Sugarcane_Production,0.4
+Meghalaya,2019-20,65,Sugarcane_Production,0.4
+Meghalaya,2020-21,65,Sugarcane_Production,0.4
+Meghalaya,2021-22,65,Sugarcane_Production,0.4
+Meghalaya,2022-23,65,Sugarcane_Production,0.4
+Meghalaya,2023-24,65,Sugarcane_Production,0.4
+Meghalaya,2024-25,65,Sugarcane_Production,0.4
+Mizoram,2004-05,65,Sugarcane_Production,5.7
+Mizoram,2005-06,65,Sugarcane_Production,4.6
+Mizoram,2006-07,65,Sugarcane_Production,4.6
+Mizoram,2007-08,65,Sugarcane_Production,0.8
+Mizoram,2008-09,65,Sugarcane_Production,13.7
+Mizoram,2009-10,65,Sugarcane_Production,12.4
+Mizoram,2010-11,65,Sugarcane_Production,7.9
+Mizoram,2011-12,65,Sugarcane_Production,7.5
+Mizoram,2012-13,65,Sugarcane_Production,6.8
+Mizoram,2013-14,65,Sugarcane_Production,7.0
+Mizoram,2014-15,65,Sugarcane_Production,44.3
+Mizoram,2015-16,65,Sugarcane_Production,51.3
+Mizoram,2016-17,65,Sugarcane_Production,50.5
+Mizoram,2017-18,65,Sugarcane_Production,44.8
+Mizoram,2018-19,65,Sugarcane_Production,44.3
+Mizoram,2019-20,65,Sugarcane_Production,44.3
+Mizoram,2020-21,65,Sugarcane_Production,43.0
+Mizoram,2021-22,65,Sugarcane_Production,37.0
+Mizoram,2022-23,65,Sugarcane_Production,41.4
+Mizoram,2023-24,65,Sugarcane_Production,24.2
+Mizoram,2024-25,65,Sugarcane_Production,21.3
+Nagaland,2004-05,65,Sugarcane_Production,142.1
+Nagaland,2005-06,65,Sugarcane_Production,210.9
+Nagaland,2006-07,65,Sugarcane_Production,233.9
+Nagaland,2007-08,65,Sugarcane_Production,247.3
+Nagaland,2008-09,65,Sugarcane_Production,185.8
+Nagaland,2009-10,65,Sugarcane_Production,152.9
+Nagaland,2010-11,65,Sugarcane_Production,184.9
+Nagaland,2011-12,65,Sugarcane_Production,186.7
+Nagaland,2012-13,65,Sugarcane_Production,187.6
+Nagaland,2013-14,65,Sugarcane_Production,188.5
+Nagaland,2014-15,65,Sugarcane_Production,189.3
+Nagaland,2015-16,65,Sugarcane_Production,190.2
+Nagaland,2016-17,65,Sugarcane_Production,192.4
+Nagaland,2017-18,65,Sugarcane_Production,192.8
+Nagaland,2018-19,65,Sugarcane_Production,193.2
+Nagaland,2019-20,65,Sugarcane_Production,193.6
+Nagaland,2020-21,65,Sugarcane_Production,203.0
+Nagaland,2021-22,65,Sugarcane_Production,104.6
+Nagaland,2022-23,65,Sugarcane_Production,108.5
+Nagaland,2023-24,65,Sugarcane_Production,115.1
+Nagaland,2024-25,65,Sugarcane_Production,87.1
+Odisha,2004-05,65,Sugarcane_Production,859.9
+Odisha,2005-06,65,Sugarcane_Production,1073.0
+Odisha,2006-07,65,Sugarcane_Production,1274.4
+Odisha,2007-08,65,Sugarcane_Production,1096.2
+Odisha,2008-09,65,Sugarcane_Production,646.2
+Odisha,2009-10,65,Sugarcane_Production,489.9
+Odisha,2010-11,65,Sugarcane_Production,902.7
+Odisha,2011-12,65,Sugarcane_Production,884.7
+Odisha,2012-13,65,Sugarcane_Production,952.4
+Odisha,2013-14,65,Sugarcane_Production,936.5
+Odisha,2014-15,65,Sugarcane_Production,722.9
+Odisha,2015-16,65,Sugarcane_Production,577.2
+Odisha,2016-17,65,Sugarcane_Production,344.3
+Odisha,2017-18,65,Sugarcane_Production,240.1
+Odisha,2018-19,65,Sugarcane_Production,417.8
+Odisha,2019-20,65,Sugarcane_Production,505.0
+Odisha,2020-21,65,Sugarcane_Production,381.3
+Odisha,2021-22,65,Sugarcane_Production,397.6
+Odisha,2022-23,65,Sugarcane_Production,394.2
+Odisha,2023-24,65,Sugarcane_Production,411.9
+Odisha,2024-25,65,Sugarcane_Production,680.7
+Puducherry,2004-05,65,Sugarcane_Production,127.3
+Puducherry,2005-06,65,Sugarcane_Production,157.3
+Puducherry,2006-07,65,Sugarcane_Production,157.3
+Puducherry,2007-08,65,Sugarcane_Production,228.4
+Puducherry,2008-09,65,Sugarcane_Production,162.3
+Puducherry,2009-10,65,Sugarcane_Production,247.3
+Puducherry,2010-11,65,Sugarcane_Production,277.7
+Puducherry,2011-12,65,Sugarcane_Production,287.8
+Puducherry,2012-13,65,Sugarcane_Production,304.5
+Puducherry,2013-14,65,Sugarcane_Production,304.1
+Puducherry,2014-15,65,Sugarcane_Production,317.0
+Puducherry,2015-16,65,Sugarcane_Production,214.0
+Puducherry,2016-17,65,Sugarcane_Production,0.0
+Puducherry,2017-18,65,Sugarcane_Production,180.6
+Puducherry,2018-19,65,Sugarcane_Production,187.7
+Puducherry,2019-20,65,Sugarcane_Production,183.1
+Puducherry,2020-21,65,Sugarcane_Production,187.0
+Puducherry,2021-22,65,Sugarcane_Production,0.0
+Puducherry,2022-23,65,Sugarcane_Production,161.2
+Puducherry,2023-24,65,Sugarcane_Production,150.8
+Puducherry,2024-25,65,Sugarcane_Production,92.3
+Punjab,2004-05,65,Sugarcane_Production,5170.0
+Punjab,2005-06,65,Sugarcane_Production,4860.0
+Punjab,2006-07,65,Sugarcane_Production,6020.0
+Punjab,2007-08,65,Sugarcane_Production,6690.0
+Punjab,2008-09,65,Sugarcane_Production,4670.0
+Punjab,2009-10,65,Sugarcane_Production,3700.0
+Punjab,2010-11,65,Sugarcane_Production,4170.0
+Punjab,2011-12,65,Sugarcane_Production,5653.0
+Punjab,2012-13,65,Sugarcane_Production,5919.0
+Punjab,2013-14,65,Sugarcane_Production,6675.0
+Punjab,2014-15,65,Sugarcane_Production,7039.0
+Punjab,2015-16,65,Sugarcane_Production,6607.0
+Punjab,2016-17,65,Sugarcane_Production,7152.0
+Punjab,2017-18,65,Sugarcane_Production,8023.7
+Punjab,2018-19,65,Sugarcane_Production,7773.7
+Punjab,2019-20,65,Sugarcane_Production,7302.0
+Punjab,2020-21,65,Sugarcane_Production,7487.0
+Punjab,2021-22,65,Sugarcane_Production,7130.9
+Punjab,2022-23,65,Sugarcane_Production,7506.0
+Punjab,2023-24,65,Sugarcane_Production,7509.5
+Punjab,2024-25,65,Sugarcane_Production,7279.5
+Rajasthan,2004-05,65,Sugarcane_Production,276.6
+Rajasthan,2005-06,65,Sugarcane_Production,482.6
+Rajasthan,2006-07,65,Sugarcane_Production,629.7
+Rajasthan,2007-08,65,Sugarcane_Production,593.8
+Rajasthan,2008-09,65,Sugarcane_Production,388.2
+Rajasthan,2009-10,65,Sugarcane_Production,344.5
+Rajasthan,2010-11,65,Sugarcane_Production,367.9
+Rajasthan,2011-12,65,Sugarcane_Production,451.3
+Rajasthan,2012-13,65,Sugarcane_Production,401.8
+Rajasthan,2013-14,65,Sugarcane_Production,362.9
+Rajasthan,2014-15,65,Sugarcane_Production,408.9
+Rajasthan,2015-16,65,Sugarcane_Production,531.3
+Rajasthan,2016-17,65,Sugarcane_Production,488.7
+Rajasthan,2017-18,65,Sugarcane_Production,381.9
+Rajasthan,2018-19,65,Sugarcane_Production,448.0
+Rajasthan,2019-20,65,Sugarcane_Production,326.2
+Rajasthan,2020-21,65,Sugarcane_Production,393.7
+Rajasthan,2021-22,65,Sugarcane_Production,321.4
+Rajasthan,2022-23,65,Sugarcane_Production,310.2
+Rajasthan,2023-24,65,Sugarcane_Production,345.3
+Rajasthan,2024-25,65,Sugarcane_Production,465.5
+Tamil Nadu,2004-05,65,Sugarcane_Production,23396.0
+Tamil Nadu,2005-06,65,Sugarcane_Production,35106.5
+Tamil Nadu,2006-07,65,Sugarcane_Production,41124.0
+Tamil Nadu,2007-08,65,Sugarcane_Production,38071.0
+Tamil Nadu,2008-09,65,Sugarcane_Production,32804.4
+Tamil Nadu,2009-10,65,Sugarcane_Production,29745.6
+Tamil Nadu,2010-11,65,Sugarcane_Production,34251.8
+Tamil Nadu,2011-12,65,Sugarcane_Production,38575.7
+Tamil Nadu,2012-13,65,Sugarcane_Production,33919.2
+Tamil Nadu,2013-14,65,Sugarcane_Production,32454.1
+Tamil Nadu,2014-15,65,Sugarcane_Production,28092.8
+Tamil Nadu,2015-16,65,Sugarcane_Production,25494.1
+Tamil Nadu,2016-17,65,Sugarcane_Production,18987.6
+Tamil Nadu,2017-18,65,Sugarcane_Production,17154.0
+Tamil Nadu,2018-19,65,Sugarcane_Production,17140.2
+Tamil Nadu,2019-20,65,Sugarcane_Production,14119.1
+Tamil Nadu,2020-21,65,Sugarcane_Production,13284.6
+Tamil Nadu,2021-22,65,Sugarcane_Production,16166.4
+Tamil Nadu,2022-23,65,Sugarcane_Production,17658.4
+Tamil Nadu,2023-24,65,Sugarcane_Production,15927.5
+Tamil Nadu,2024-25,65,Sugarcane_Production,13350.8
+Telangana,2010-11,65,Sugarcane_Production,3070.5
+Telangana,2011-12,65,Sugarcane_Production,3843.5
+Telangana,2012-13,65,Sugarcane_Production,3574.0
+Telangana,2013-14,65,Sugarcane_Production,3376.2
+Telangana,2014-15,65,Sugarcane_Production,3343.0
+Telangana,2015-16,65,Sugarcane_Production,2405.0
+Telangana,2016-17,65,Sugarcane_Production,2061.0
+Telangana,2017-18,65,Sugarcane_Production,2604.5
+Telangana,2018-19,65,Sugarcane_Production,3183.6
+Telangana,2019-20,65,Sugarcane_Production,2012.9
+Telangana,2020-21,65,Sugarcane_Production,1751.0
+Telangana,2021-22,65,Sugarcane_Production,2864.6
+Telangana,2022-23,65,Sugarcane_Production,2942.7
+Telangana,2023-24,65,Sugarcane_Production,2433.1
+Telangana,2024-25,65,Sugarcane_Production,1916.2
+Tripura,2004-05,65,Sugarcane_Production,52.4
+Tripura,2005-06,65,Sugarcane_Production,52.6
+Tripura,2006-07,65,Sugarcane_Production,42.4
+Tripura,2007-08,65,Sugarcane_Production,46.7
+Tripura,2008-09,65,Sugarcane_Production,51.7
+Tripura,2009-10,65,Sugarcane_Production,44.9
+Tripura,2010-11,65,Sugarcane_Production,46.5
+Tripura,2011-12,65,Sugarcane_Production,45.0
+Tripura,2012-13,65,Sugarcane_Production,45.4
+Tripura,2013-14,65,Sugarcane_Production,49.6
+Tripura,2014-15,65,Sugarcane_Production,0.0
+Tripura,2015-16,65,Sugarcane_Production,40.5
+Tripura,2016-17,65,Sugarcane_Production,44.1
+Tripura,2017-18,65,Sugarcane_Production,42.5
+Tripura,2018-19,65,Sugarcane_Production,35.9
+Tripura,2019-20,65,Sugarcane_Production,36.4
+Tripura,2020-21,65,Sugarcane_Production,48.6
+Tripura,2021-22,65,Sugarcane_Production,48.4
+Tripura,2022-23,65,Sugarcane_Production,37.9
+Tripura,2023-24,65,Sugarcane_Production,37.9
+Tripura,2024-25,65,Sugarcane_Production,29.7
+Uttar Pradesh,2004-05,65,Sugarcane_Production,118715.6
+Uttar Pradesh,2005-06,65,Sugarcane_Production,125469.9
+Uttar Pradesh,2006-07,65,Sugarcane_Production,133949.4
+Uttar Pradesh,2007-08,65,Sugarcane_Production,124665.3
+Uttar Pradesh,2008-09,65,Sugarcane_Production,109048.0
+Uttar Pradesh,2009-10,65,Sugarcane_Production,117140.0
+Uttar Pradesh,2010-11,65,Sugarcane_Production,120545.0
+Uttar Pradesh,2011-12,65,Sugarcane_Production,128819.0
+Uttar Pradesh,2012-13,65,Sugarcane_Production,132427.7
+Uttar Pradesh,2013-14,65,Sugarcane_Production,134688.6
+Uttar Pradesh,2014-15,65,Sugarcane_Production,133061.4
+Uttar Pradesh,2015-16,65,Sugarcane_Production,145385.0
+Uttar Pradesh,2016-17,65,Sugarcane_Production,140169.2
+Uttar Pradesh,2017-18,65,Sugarcane_Production,177033.3
+Uttar Pradesh,2018-19,65,Sugarcane_Production,179714.8
+Uttar Pradesh,2019-20,65,Sugarcane_Production,179539.1
+Uttar Pradesh,2020-21,65,Sugarcane_Production,178339.3
+Uttar Pradesh,2021-22,65,Sugarcane_Production,179167.1
+Uttar Pradesh,2022-23,65,Sugarcane_Production,224245.9
+Uttar Pradesh,2023-24,65,Sugarcane_Production,215810.9
+Uttar Pradesh,2024-25,65,Sugarcane_Production,220801.3
+Uttarakhand,2004-05,65,Sugarcane_Production,6441.0
+Uttarakhand,2005-06,65,Sugarcane_Production,6134.0
+Uttarakhand,2006-07,65,Sugarcane_Production,6100.0
+Uttarakhand,2007-08,65,Sugarcane_Production,7686.0
+Uttarakhand,2008-09,65,Sugarcane_Production,5590.0
+Uttarakhand,2009-10,65,Sugarcane_Production,5842.0
+Uttarakhand,2010-11,65,Sugarcane_Production,6497.6
+Uttarakhand,2011-12,65,Sugarcane_Production,6311.0
+Uttarakhand,2012-13,65,Sugarcane_Production,6784.8
+Uttarakhand,2013-14,65,Sugarcane_Production,5939.8
+Uttarakhand,2014-15,65,Sugarcane_Production,6165.1
+Uttarakhand,2015-16,65,Sugarcane_Production,5885.8
+Uttarakhand,2016-17,65,Sugarcane_Production,6477.0
+Uttarakhand,2017-18,65,Sugarcane_Production,6271.4
+Uttarakhand,2018-19,65,Sugarcane_Production,6329.3
+Uttarakhand,2019-20,65,Sugarcane_Production,6937.7
+Uttarakhand,2020-21,65,Sugarcane_Production,3680.0
+Uttarakhand,2021-22,65,Sugarcane_Production,3520.0
+Uttarakhand,2022-23,65,Sugarcane_Production,3760.0
+Uttarakhand,2023-24,65,Sugarcane_Production,7776.0
+Uttarakhand,2024-25,65,Sugarcane_Production,7650.2
+West Bengal,2004-05,65,Sugarcane_Production,1033.2
+West Bengal,2005-06,65,Sugarcane_Production,1247.7
+West Bengal,2006-07,65,Sugarcane_Production,1266.7
+West Bengal,2007-08,65,Sugarcane_Production,1272.0
+West Bengal,2008-09,65,Sugarcane_Production,1638.3
+West Bengal,2009-10,65,Sugarcane_Production,1000.8
+West Bengal,2010-11,65,Sugarcane_Production,1134.1
+West Bengal,2011-12,65,Sugarcane_Production,1681.4
+West Bengal,2012-13,65,Sugarcane_Production,1617.0
+West Bengal,2013-14,65,Sugarcane_Production,1945.0
+West Bengal,2014-15,65,Sugarcane_Production,2105.5
+West Bengal,2015-16,65,Sugarcane_Production,2075.0
+West Bengal,2016-17,65,Sugarcane_Production,1549.7
+West Bengal,2017-18,65,Sugarcane_Production,1437.0
+West Bengal,2018-19,65,Sugarcane_Production,1335.4
+West Bengal,2019-20,65,Sugarcane_Production,1527.6
+West Bengal,2020-21,65,Sugarcane_Production,1418.3
+West Bengal,2021-22,65,Sugarcane_Production,1591.3
+West Bengal,2022-23,65,Sugarcane_Production,1442.9
+West Bengal,2023-24,65,Sugarcane_Production,1103.9
+West Bengal,2024-25,65,Sugarcane_Production,879.3

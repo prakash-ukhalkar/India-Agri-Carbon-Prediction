@@ -1,0 +1,636 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,60,Coarse_Cereals_Production,2771.0
+Andhra Pradesh,2005-06,60,Coarse_Cereals_Production,3862.0
+Andhra Pradesh,2006-07,60,Coarse_Cereals_Production,3001.0
+Andhra Pradesh,2007-08,60,Coarse_Cereals_Production,4274.0
+Andhra Pradesh,2008-09,60,Coarse_Cereals_Production,4716.0
+Andhra Pradesh,2009-10,60,Coarse_Cereals_Production,3318.0
+Andhra Pradesh,2010-11,60,Coarse_Cereals_Production,2205.0
+Andhra Pradesh,2011-12,60,Coarse_Cereals_Production,2188.3
+Andhra Pradesh,2012-13,60,Coarse_Cereals_Production,2433.6
+Andhra Pradesh,2013-14,60,Coarse_Cereals_Production,2486.8
+Andhra Pradesh,2014-15,60,Coarse_Cereals_Production,2310.2
+Andhra Pradesh,2015-16,60,Coarse_Cereals_Production,1916.0
+Andhra Pradesh,2016-17,60,Coarse_Cereals_Production,1982.0
+Andhra Pradesh,2017-18,60,Coarse_Cereals_Production,2776.1
+Andhra Pradesh,2018-19,60,Coarse_Cereals_Production,1864.6
+Andhra Pradesh,2019-20,60,Coarse_Cereals_Production,2531.2
+Andhra Pradesh,2020-21,60,Coarse_Cereals_Production,2321.6
+Andhra Pradesh,2021-22,60,Coarse_Cereals_Production,2258.4
+Andhra Pradesh,2022-23,60,Coarse_Cereals_Production,3131.3
+Andhra Pradesh,2023-24,60,Coarse_Cereals_Production,2248.0
+Andhra Pradesh,2024-25,60,Coarse_Cereals_Production,2566.9
+Arunachal Pradesh,2004-05,60,Coarse_Cereals_Production,76.4
+Arunachal Pradesh,2005-06,60,Coarse_Cereals_Production,80.3
+Arunachal Pradesh,2006-07,60,Coarse_Cereals_Production,84.9
+Arunachal Pradesh,2007-08,60,Coarse_Cereals_Production,76.8
+Arunachal Pradesh,2008-09,60,Coarse_Cereals_Production,77.7
+Arunachal Pradesh,2009-10,60,Coarse_Cereals_Production,78.6
+Arunachal Pradesh,2010-11,60,Coarse_Cereals_Production,84.7
+Arunachal Pradesh,2011-12,60,Coarse_Cereals_Production,90.5
+Arunachal Pradesh,2012-13,60,Coarse_Cereals_Production,91.6
+Arunachal Pradesh,2013-14,60,Coarse_Cereals_Production,92.8
+Arunachal Pradesh,2014-15,60,Coarse_Cereals_Production,102.0
+Arunachal Pradesh,2015-16,60,Coarse_Cereals_Production,102.8
+Arunachal Pradesh,2016-17,60,Coarse_Cereals_Production,102.5
+Arunachal Pradesh,2017-18,60,Coarse_Cereals_Production,104.5
+Arunachal Pradesh,2018-19,60,Coarse_Cereals_Production,105.4
+Arunachal Pradesh,2019-20,60,Coarse_Cereals_Production,107.6
+Arunachal Pradesh,2020-21,60,Coarse_Cereals_Production,108.0
+Arunachal Pradesh,2021-22,60,Coarse_Cereals_Production,113.4
+Arunachal Pradesh,2022-23,60,Coarse_Cereals_Production,114.8
+Arunachal Pradesh,2023-24,60,Coarse_Cereals_Production,115.8
+Arunachal Pradesh,2024-25,60,Coarse_Cereals_Production,116.5
+Assam,2004-05,60,Coarse_Cereals_Production,18.0
+Assam,2005-06,60,Coarse_Cereals_Production,17.6
+Assam,2006-07,60,Coarse_Cereals_Production,18.0
+Assam,2007-08,60,Coarse_Cereals_Production,17.0
+Assam,2008-09,60,Coarse_Cereals_Production,15.4
+Assam,2009-10,60,Coarse_Cereals_Production,17.2
+Assam,2010-11,60,Coarse_Cereals_Production,17.0
+Assam,2011-12,60,Coarse_Cereals_Production,18.2
+Assam,2012-13,60,Coarse_Cereals_Production,23.5
+Assam,2013-14,60,Coarse_Cereals_Production,25.0
+Assam,2014-15,60,Coarse_Cereals_Production,96.4
+Assam,2015-16,60,Coarse_Cereals_Production,91.6
+Assam,2016-17,60,Coarse_Cereals_Production,94.1
+Assam,2017-18,60,Coarse_Cereals_Production,101.8
+Assam,2018-19,60,Coarse_Cereals_Production,108.1
+Assam,2019-20,60,Coarse_Cereals_Production,131.3
+Assam,2020-21,60,Coarse_Cereals_Production,151.2
+Assam,2021-22,60,Coarse_Cereals_Production,173.4
+Assam,2022-23,60,Coarse_Cereals_Production,197.1
+Assam,2023-24,60,Coarse_Cereals_Production,539.9
+Assam,2024-25,60,Coarse_Cereals_Production,482.0
+Bihar,2004-05,60,Coarse_Cereals_Production,1501.9
+Bihar,2005-06,60,Coarse_Cereals_Production,1405.5
+Bihar,2006-07,60,Coarse_Cereals_Production,1759.7
+Bihar,2007-08,60,Coarse_Cereals_Production,1498.5
+Bihar,2008-09,60,Coarse_Cereals_Production,1751.3
+Bihar,2009-10,60,Coarse_Cereals_Production,1508.0
+Bihar,2010-11,60,Coarse_Cereals_Production,1484.5
+Bihar,2011-12,60,Coarse_Cereals_Production,1648.3
+Bihar,2012-13,60,Coarse_Cereals_Production,2510.3
+Bihar,2013-14,60,Coarse_Cereals_Production,2139.9
+Bihar,2014-15,60,Coarse_Cereals_Production,2371.0
+Bihar,2015-16,60,Coarse_Cereals_Production,2548.6
+Bihar,2016-17,60,Coarse_Cereals_Production,2719.1
+Bihar,2017-18,60,Coarse_Cereals_Production,2385.3
+Bihar,2018-19,60,Coarse_Cereals_Production,2525.5
+Bihar,2019-20,60,Coarse_Cereals_Production,2020.9
+Bihar,2020-21,60,Coarse_Cereals_Production,2109.1
+Bihar,2021-22,60,Coarse_Cereals_Production,2689.5
+Bihar,2022-23,60,Coarse_Cereals_Production,4399.2
+Bihar,2023-24,60,Coarse_Cereals_Production,5731.7
+Bihar,2024-25,60,Coarse_Cereals_Production,5491.0
+Chhattisgarh,2004-05,60,Coarse_Cereals_Production,189.5
+Chhattisgarh,2005-06,60,Coarse_Cereals_Production,159.3
+Chhattisgarh,2006-07,60,Coarse_Cereals_Production,178.3
+Chhattisgarh,2007-08,60,Coarse_Cereals_Production,229.7
+Chhattisgarh,2008-09,60,Coarse_Cereals_Production,184.4
+Chhattisgarh,2009-10,60,Coarse_Cereals_Production,181.8
+Chhattisgarh,2010-11,60,Coarse_Cereals_Production,231.9
+Chhattisgarh,2011-12,60,Coarse_Cereals_Production,209.9
+Chhattisgarh,2012-13,60,Coarse_Cereals_Production,244.7
+Chhattisgarh,2013-14,60,Coarse_Cereals_Production,263.1
+Chhattisgarh,2014-15,60,Coarse_Cereals_Production,267.2
+Chhattisgarh,2015-16,60,Coarse_Cereals_Production,215.5
+Chhattisgarh,2016-17,60,Coarse_Cereals_Production,357.5
+Chhattisgarh,2017-18,60,Coarse_Cereals_Production,347.3
+Chhattisgarh,2018-19,60,Coarse_Cereals_Production,331.5
+Chhattisgarh,2019-20,60,Coarse_Cereals_Production,370.5
+Chhattisgarh,2020-21,60,Coarse_Cereals_Production,368.5
+Chhattisgarh,2021-22,60,Coarse_Cereals_Production,423.1
+Chhattisgarh,2022-23,60,Coarse_Cereals_Production,417.7
+Chhattisgarh,2023-24,60,Coarse_Cereals_Production,370.3
+Chhattisgarh,2024-25,60,Coarse_Cereals_Production,379.8
+Delhi,2004-05,60,Coarse_Cereals_Production,16.5
+Delhi,2005-06,60,Coarse_Cereals_Production,13.9
+Delhi,2006-07,60,Coarse_Cereals_Production,14.1
+Delhi,2007-08,60,Coarse_Cereals_Production,11.6
+Delhi,2008-09,60,Coarse_Cereals_Production,11.7
+Delhi,2009-10,60,Coarse_Cereals_Production,3.3
+Delhi,2010-11,60,Coarse_Cereals_Production,12.1
+Delhi,2011-12,60,Coarse_Cereals_Production,6.7
+Delhi,2012-13,60,Coarse_Cereals_Production,4.7
+Delhi,2013-14,60,Coarse_Cereals_Production,7.8
+Delhi,2014-15,60,Coarse_Cereals_Production,6.6
+Delhi,2015-16,60,Coarse_Cereals_Production,7.7
+Delhi,2016-17,60,Coarse_Cereals_Production,6.7
+Delhi,2017-18,60,Coarse_Cereals_Production,6.7
+Delhi,2018-19,60,Coarse_Cereals_Production,6.6
+Delhi,2019-20,60,Coarse_Cereals_Production,6.5
+Delhi,2020-21,60,Coarse_Cereals_Production,8.4
+Delhi,2021-22,60,Coarse_Cereals_Production,6.8
+Delhi,2022-23,60,Coarse_Cereals_Production,8.0
+Delhi,2023-24,60,Coarse_Cereals_Production,7.7
+Delhi,2024-25,60,Coarse_Cereals_Production,10.8
+Goa,2004-05,60,Coarse_Cereals_Production,1.1
+Goa,2005-06,60,Coarse_Cereals_Production,1.0
+Goa,2006-07,60,Coarse_Cereals_Production,0.8
+Goa,2007-08,60,Coarse_Cereals_Production,0.7
+Goa,2008-09,60,Coarse_Cereals_Production,0.8
+Goa,2009-10,60,Coarse_Cereals_Production,0.8
+Goa,2010-11,60,Coarse_Cereals_Production,0.1
+Goa,2011-12,60,Coarse_Cereals_Production,0.1
+Goa,2012-13,60,Coarse_Cereals_Production,0.1
+Goa,2013-14,60,Coarse_Cereals_Production,0.01
+Goa,2014-15,60,Coarse_Cereals_Production,0.01
+Gujarat,2004-05,60,Coarse_Cereals_Production,1734.5
+Gujarat,2005-06,60,Coarse_Cereals_Production,1836.0
+Gujarat,2006-07,60,Coarse_Cereals_Production,1516.0
+Gujarat,2007-08,60,Coarse_Cereals_Production,2151.0
+Gujarat,2008-09,60,Coarse_Cereals_Production,1976.0
+Gujarat,2009-10,60,Coarse_Cereals_Production,1600.0
+Gujarat,2010-11,60,Coarse_Cereals_Production,2102.6
+Gujarat,2011-12,60,Coarse_Cereals_Production,2232.3
+Gujarat,2012-13,60,Coarse_Cereals_Production,1999.0
+Gujarat,2013-14,60,Coarse_Cereals_Production,2120.6
+Gujarat,2014-15,60,Coarse_Cereals_Production,1644.9
+Gujarat,2015-16,60,Coarse_Cereals_Production,1549.7
+Gujarat,2016-17,60,Coarse_Cereals_Production,1937.0
+Gujarat,2017-18,60,Coarse_Cereals_Production,1782.2
+Gujarat,2018-19,60,Coarse_Cereals_Production,1802.8
+Gujarat,2019-20,60,Coarse_Cereals_Production,1786.3
+Gujarat,2020-21,60,Coarse_Cereals_Production,1759.6
+Gujarat,2021-22,60,Coarse_Cereals_Production,1995.3
+Gujarat,2022-23,60,Coarse_Cereals_Production,2221.4
+Gujarat,2023-24,60,Coarse_Cereals_Production,2318.2
+Gujarat,2024-25,60,Coarse_Cereals_Production,2142.1
+Haryana,2004-05,60,Coarse_Cereals_Production,882.0
+Haryana,2005-06,60,Coarse_Cereals_Production,813.0
+Haryana,2006-07,60,Coarse_Cereals_Production,1197.0
+Haryana,2007-08,60,Coarse_Cereals_Production,1357.0
+Haryana,2008-09,60,Coarse_Cereals_Production,1329.4
+Haryana,2009-10,60,Coarse_Cereals_Production,1132.0
+Haryana,2010-11,60,Coarse_Cereals_Production,1369.0
+Haryana,2011-12,60,Coarse_Cereals_Production,1387.0
+Haryana,2012-13,60,Coarse_Cereals_Production,1003.0
+Haryana,2013-14,60,Coarse_Cereals_Production,1051.0
+Haryana,2014-15,60,Coarse_Cereals_Production,819.0
+Haryana,2015-16,60,Coarse_Cereals_Production,796.0
+Haryana,2016-17,60,Coarse_Cereals_Production,1087.0
+Haryana,2017-18,60,Coarse_Cereals_Production,833.8
+Haryana,2018-19,60,Coarse_Cereals_Production,972.8
+Haryana,2019-20,60,Coarse_Cereals_Production,1098.4
+Haryana,2020-21,60,Coarse_Cereals_Production,1417.6
+Haryana,2021-22,60,Coarse_Cereals_Production,1158.4
+Haryana,2022-23,60,Coarse_Cereals_Production,1276.0
+Haryana,2023-24,60,Coarse_Cereals_Production,1235.1
+Haryana,2024-25,60,Coarse_Cereals_Production,1360.2
+Himachal Pradesh,2004-05,60,Coarse_Cereals_Production,788.2
+Himachal Pradesh,2005-06,60,Coarse_Cereals_Production,570.7
+Himachal Pradesh,2006-07,60,Coarse_Cereals_Production,728.2
+Himachal Pradesh,2007-08,60,Coarse_Cereals_Production,896.2
+Himachal Pradesh,2008-09,60,Coarse_Cereals_Production,712.1
+Himachal Pradesh,2009-10,60,Coarse_Cereals_Production,563.5
+Himachal Pradesh,2010-11,60,Coarse_Cereals_Production,704.1
+Himachal Pradesh,2011-12,60,Coarse_Cereals_Production,752.1
+Himachal Pradesh,2012-13,60,Coarse_Cereals_Production,700.8
+Himachal Pradesh,2013-14,60,Coarse_Cereals_Production,685.9
+Himachal Pradesh,2014-15,60,Coarse_Cereals_Production,622.1
+Himachal Pradesh,2015-16,60,Coarse_Cereals_Production,777.0
+Himachal Pradesh,2016-17,60,Coarse_Cereals_Production,826.4
+Himachal Pradesh,2017-18,60,Coarse_Cereals_Production,750.3
+Himachal Pradesh,2018-19,60,Coarse_Cereals_Production,767.5
+Himachal Pradesh,2019-20,60,Coarse_Cereals_Production,767.7
+Himachal Pradesh,2020-21,60,Coarse_Cereals_Production,764.5
+Himachal Pradesh,2021-22,60,Coarse_Cereals_Production,815.0
+Himachal Pradesh,2022-23,60,Coarse_Cereals_Production,707.8
+Himachal Pradesh,2023-24,60,Coarse_Cereals_Production,639.9
+Himachal Pradesh,2024-25,60,Coarse_Cereals_Production,723.3
+Jammu & Kashmir,2004-05,60,Coarse_Cereals_Production,517.3
+Jammu & Kashmir,2005-06,60,Coarse_Cereals_Production,467.7
+Jammu & Kashmir,2006-07,60,Coarse_Cereals_Production,512.3
+Jammu & Kashmir,2007-08,60,Coarse_Cereals_Production,499.5
+Jammu & Kashmir,2008-09,60,Coarse_Cereals_Production,660.4
+Jammu & Kashmir,2009-10,60,Coarse_Cereals_Production,513.3
+Jammu & Kashmir,2010-11,60,Coarse_Cereals_Production,550.9
+Jammu & Kashmir,2011-12,60,Coarse_Cereals_Production,528.1
+Jammu & Kashmir,2012-13,60,Coarse_Cereals_Production,537.3
+Jammu & Kashmir,2013-14,60,Coarse_Cereals_Production,551.3
+Jammu & Kashmir,2014-15,60,Coarse_Cereals_Production,379.5
+Jammu & Kashmir,2015-16,60,Coarse_Cereals_Production,535.4
+Jammu & Kashmir,2016-17,60,Coarse_Cereals_Production,561.0
+Jammu & Kashmir,2017-18,60,Coarse_Cereals_Production,559.9
+Jammu & Kashmir,2018-19,60,Coarse_Cereals_Production,594.2
+Jammu & Kashmir,2019-20,60,Coarse_Cereals_Production,551.7
+Jammu & Kashmir,2020-21,60,Coarse_Cereals_Production,519.6
+Jammu & Kashmir,2021-22,60,Coarse_Cereals_Production,591.8
+Jammu & Kashmir,2022-23,60,Coarse_Cereals_Production,562.1
+Jammu & Kashmir,2023-24,60,Coarse_Cereals_Production,602.7
+Jammu & Kashmir,2024-25,60,Coarse_Cereals_Production,602.8
+Jharkhand,2004-05,60,Coarse_Cereals_Production,324.1
+Jharkhand,2005-06,60,Coarse_Cereals_Production,259.6
+Jharkhand,2006-07,60,Coarse_Cereals_Production,332.0
+Jharkhand,2007-08,60,Coarse_Cereals_Production,386.4
+Jharkhand,2008-09,60,Coarse_Cereals_Production,333.9
+Jharkhand,2009-10,60,Coarse_Cereals_Production,216.9
+Jharkhand,2010-11,60,Coarse_Cereals_Production,278.5
+Jharkhand,2011-12,60,Coarse_Cereals_Production,330.1
+Jharkhand,2012-13,60,Coarse_Cereals_Production,463.8
+Jharkhand,2013-14,60,Coarse_Cereals_Production,526.1
+Jharkhand,2014-15,60,Coarse_Cereals_Production,487.7
+Jharkhand,2015-16,60,Coarse_Cereals_Production,395.5
+Jharkhand,2016-17,60,Coarse_Cereals_Production,590.8
+Jharkhand,2017-18,60,Coarse_Cereals_Production,617.9
+Jharkhand,2018-19,60,Coarse_Cereals_Production,468.0
+Jharkhand,2019-20,60,Coarse_Cereals_Production,525.1
+Jharkhand,2020-21,60,Coarse_Cereals_Production,669.5
+Jharkhand,2021-22,60,Coarse_Cereals_Production,653.4
+Jharkhand,2022-23,60,Coarse_Cereals_Production,472.0
+Jharkhand,2023-24,60,Coarse_Cereals_Production,597.2
+Jharkhand,2024-25,60,Coarse_Cereals_Production,745.8
+Karnataka,2004-05,60,Coarse_Cereals_Production,5977.0
+Karnataka,2005-06,60,Coarse_Cereals_Production,6564.0
+Karnataka,2006-07,60,Coarse_Cereals_Production,5055.0
+Karnataka,2007-08,60,Coarse_Cereals_Production,6943.0
+Karnataka,2008-09,60,Coarse_Cereals_Production,6254.0
+Karnataka,2009-10,60,Coarse_Cereals_Production,5895.0
+Karnataka,2010-11,60,Coarse_Cereals_Production,7845.3
+Karnataka,2011-12,60,Coarse_Cereals_Production,6813.0
+Karnataka,2012-13,60,Coarse_Cereals_Production,6061.0
+Karnataka,2013-14,60,Coarse_Cereals_Production,6825.8
+Karnataka,2014-15,60,Coarse_Cereals_Production,6946.0
+Karnataka,2015-16,60,Coarse_Cereals_Production,5608.2
+Karnataka,2016-17,60,Coarse_Cereals_Production,5281.0
+Karnataka,2017-18,60,Coarse_Cereals_Production,6592.6
+Karnataka,2018-19,60,Coarse_Cereals_Production,5519.9
+Karnataka,2019-20,60,Coarse_Cereals_Production,6813.6
+Karnataka,2020-21,60,Coarse_Cereals_Production,7931.2
+Karnataka,2021-22,60,Coarse_Cereals_Production,7274.3
+Karnataka,2022-23,60,Coarse_Cereals_Production,7943.6
+Karnataka,2023-24,60,Coarse_Cereals_Production,7790.8
+Karnataka,2024-25,60,Coarse_Cereals_Production,8590.9
+Kerala,2004-05,60,Coarse_Cereals_Production,0.9
+Kerala,2005-06,60,Coarse_Cereals_Production,1.5
+Kerala,2006-07,60,Coarse_Cereals_Production,1.1
+Kerala,2007-08,60,Coarse_Cereals_Production,2.8
+Kerala,2008-09,60,Coarse_Cereals_Production,1.7
+Kerala,2009-10,60,Coarse_Cereals_Production,2.2
+Kerala,2010-11,60,Coarse_Cereals_Production,1.4
+Kerala,2011-12,60,Coarse_Cereals_Production,0.6
+Kerala,2012-13,60,Coarse_Cereals_Production,0.3
+Kerala,2013-14,60,Coarse_Cereals_Production,0.3
+Kerala,2014-15,60,Coarse_Cereals_Production,0.3
+Kerala,2015-16,60,Coarse_Cereals_Production,0.3
+Kerala,2016-17,60,Coarse_Cereals_Production,0.2
+Kerala,2017-18,60,Coarse_Cereals_Production,0.4
+Kerala,2018-19,60,Coarse_Cereals_Production,0.6
+Kerala,2019-20,60,Coarse_Cereals_Production,0.7
+Kerala,2020-21,60,Coarse_Cereals_Production,0.7
+Kerala,2021-22,60,Coarse_Cereals_Production,0.8
+Kerala,2022-23,60,Coarse_Cereals_Production,0.5
+Kerala,2023-24,60,Coarse_Cereals_Production,1.5
+Kerala,2024-25,60,Coarse_Cereals_Production,0.6
+Madhya Pradesh,2004-05,60,Coarse_Cereals_Production,2330.0
+Madhya Pradesh,2005-06,60,Coarse_Cereals_Production,2348.4
+Madhya Pradesh,2006-07,60,Coarse_Cereals_Production,1849.6
+Madhya Pradesh,2007-08,60,Coarse_Cereals_Production,2122.5
+Madhya Pradesh,2008-09,60,Coarse_Cereals_Production,2149.9
+Madhya Pradesh,2009-10,60,Coarse_Cereals_Production,2041.2
+Madhya Pradesh,2010-11,60,Coarse_Cereals_Production,2166.6
+Madhya Pradesh,2011-12,60,Coarse_Cereals_Production,2467.1
+Madhya Pradesh,2012-13,60,Coarse_Cereals_Production,2616.2
+Madhya Pradesh,2013-14,60,Coarse_Cereals_Production,2551.8
+Madhya Pradesh,2014-15,60,Coarse_Cereals_Production,3129.5
+Madhya Pradesh,2015-16,60,Coarse_Cereals_Production,3848.8
+Madhya Pradesh,2016-17,60,Coarse_Cereals_Production,4766.9
+Madhya Pradesh,2017-18,60,Coarse_Cereals_Production,5304.1
+Madhya Pradesh,2018-19,60,Coarse_Cereals_Production,5147.2
+Madhya Pradesh,2019-20,60,Coarse_Cereals_Production,5029.4
+Madhya Pradesh,2020-21,60,Coarse_Cereals_Production,4953.7
+Madhya Pradesh,2021-22,60,Coarse_Cereals_Production,5821.3
+Madhya Pradesh,2022-23,60,Coarse_Cereals_Production,5912.8
+Madhya Pradesh,2023-24,60,Coarse_Cereals_Production,5673.8
+Madhya Pradesh,2024-25,60,Coarse_Cereals_Production,7775.4
+Maharashtra,2004-05,60,Coarse_Cereals_Production,5696.7
+Maharashtra,2005-06,60,Coarse_Cereals_Production,6087.0
+Maharashtra,2006-07,60,Coarse_Cereals_Production,6141.0
+Maharashtra,2007-08,60,Coarse_Cereals_Production,7093.0
+Maharashtra,2008-09,60,Coarse_Cereals_Production,5971.6
+Maharashtra,2009-10,60,Coarse_Cereals_Production,6293.3
+Maharashtra,2010-11,60,Coarse_Cereals_Production,7323.6
+Maharashtra,2011-12,60,Coarse_Cereals_Production,6122.0
+Maharashtra,2012-13,60,Coarse_Cereals_Production,4429.3
+Maharashtra,2013-14,60,Coarse_Cereals_Production,5955.2
+Maharashtra,2014-15,60,Coarse_Cereals_Production,5004.9
+Maharashtra,2015-16,60,Coarse_Cereals_Production,3635.7
+Maharashtra,2016-17,60,Coarse_Cereals_Production,6579.0
+Maharashtra,2017-18,60,Coarse_Cereals_Production,5471.4
+Maharashtra,2018-19,60,Coarse_Cereals_Production,3096.7
+Maharashtra,2019-20,60,Coarse_Cereals_Production,4392.6
+Maharashtra,2020-21,60,Coarse_Cereals_Production,6082.1
+Maharashtra,2021-22,60,Coarse_Cereals_Production,5890.2
+Maharashtra,2022-23,60,Coarse_Cereals_Production,5817.4
+Maharashtra,2023-24,60,Coarse_Cereals_Production,4613.3
+Maharashtra,2024-25,60,Coarse_Cereals_Production,7281.1
+Manipur,2004-05,60,Coarse_Cereals_Production,8.9
+Manipur,2005-06,60,Coarse_Cereals_Production,7.9
+Manipur,2006-07,60,Coarse_Cereals_Production,7.9
+Manipur,2007-08,60,Coarse_Cereals_Production,8.4
+Manipur,2008-09,60,Coarse_Cereals_Production,11.5
+Manipur,2009-10,60,Coarse_Cereals_Production,11.7
+Manipur,2010-11,60,Coarse_Cereals_Production,41.5
+Manipur,2011-12,60,Coarse_Cereals_Production,45.9
+Manipur,2012-13,60,Coarse_Cereals_Production,44.7
+Manipur,2013-14,60,Coarse_Cereals_Production,58.6
+Manipur,2014-15,60,Coarse_Cereals_Production,58.8
+Manipur,2015-16,60,Coarse_Cereals_Production,61.6
+Manipur,2016-17,60,Coarse_Cereals_Production,58.8
+Manipur,2017-18,60,Coarse_Cereals_Production,63.1
+Manipur,2018-19,60,Coarse_Cereals_Production,58.2
+Manipur,2019-20,60,Coarse_Cereals_Production,4.9
+Manipur,2020-21,60,Coarse_Cereals_Production,59.7
+Manipur,2021-22,60,Coarse_Cereals_Production,50.9
+Manipur,2022-23,60,Coarse_Cereals_Production,56.6
+Manipur,2023-24,60,Coarse_Cereals_Production,53.9
+Manipur,2024-25,60,Coarse_Cereals_Production,54.4
+Meghalaya,2004-05,60,Coarse_Cereals_Production,26.3
+Meghalaya,2005-06,60,Coarse_Cereals_Production,26.4
+Meghalaya,2006-07,60,Coarse_Cereals_Production,27.2
+Meghalaya,2007-08,60,Coarse_Cereals_Production,27.4
+Meghalaya,2008-09,60,Coarse_Cereals_Production,27.8
+Meghalaya,2009-10,60,Coarse_Cereals_Production,28.2
+Meghalaya,2010-11,60,Coarse_Cereals_Production,27.6
+Meghalaya,2011-12,60,Coarse_Cereals_Production,28.3
+Meghalaya,2012-13,60,Coarse_Cereals_Production,28.7
+Meghalaya,2013-14,60,Coarse_Cereals_Production,42.1
+Meghalaya,2014-15,60,Coarse_Cereals_Production,43.4
+Meghalaya,2015-16,60,Coarse_Cereals_Production,44.0
+Meghalaya,2016-17,60,Coarse_Cereals_Production,44.4
+Meghalaya,2017-18,60,Coarse_Cereals_Production,44.4
+Meghalaya,2018-19,60,Coarse_Cereals_Production,44.4
+Meghalaya,2019-20,60,Coarse_Cereals_Production,44.5
+Meghalaya,2020-21,60,Coarse_Cereals_Production,44.6
+Meghalaya,2021-22,60,Coarse_Cereals_Production,44.7
+Meghalaya,2022-23,60,Coarse_Cereals_Production,47.0
+Meghalaya,2023-24,60,Coarse_Cereals_Production,47.0
+Meghalaya,2024-25,60,Coarse_Cereals_Production,47.0
+Mizoram,2004-05,60,Coarse_Cereals_Production,15.7
+Mizoram,2005-06,60,Coarse_Cereals_Production,22.7
+Mizoram,2006-07,60,Coarse_Cereals_Production,21.0
+Mizoram,2007-08,60,Coarse_Cereals_Production,0.7
+Mizoram,2008-09,60,Coarse_Cereals_Production,9.3
+Mizoram,2009-10,60,Coarse_Cereals_Production,11.5
+Mizoram,2010-11,60,Coarse_Cereals_Production,13.6
+Mizoram,2011-12,60,Coarse_Cereals_Production,8.4
+Mizoram,2012-13,60,Coarse_Cereals_Production,8.0
+Mizoram,2013-14,60,Coarse_Cereals_Production,8.2
+Mizoram,2014-15,60,Coarse_Cereals_Production,8.6
+Mizoram,2015-16,60,Coarse_Cereals_Production,10.3
+Mizoram,2016-17,60,Coarse_Cereals_Production,8.9
+Mizoram,2017-18,60,Coarse_Cereals_Production,9.5
+Mizoram,2018-19,60,Coarse_Cereals_Production,11.0
+Mizoram,2019-20,60,Coarse_Cereals_Production,11.0
+Mizoram,2020-21,60,Coarse_Cereals_Production,12.6
+Mizoram,2021-22,60,Coarse_Cereals_Production,11.3
+Mizoram,2022-23,60,Coarse_Cereals_Production,19.3
+Mizoram,2023-24,60,Coarse_Cereals_Production,10.7
+Mizoram,2024-25,60,Coarse_Cereals_Production,9.5
+Nagaland,2004-05,60,Coarse_Cereals_Production,105.5
+Nagaland,2005-06,60,Coarse_Cereals_Production,120.1
+Nagaland,2006-07,60,Coarse_Cereals_Production,126.4
+Nagaland,2007-08,60,Coarse_Cereals_Production,139.4
+Nagaland,2008-09,60,Coarse_Cereals_Production,127.3
+Nagaland,2009-10,60,Coarse_Cereals_Production,76.8
+Nagaland,2010-11,60,Coarse_Cereals_Production,145.2
+Nagaland,2011-12,60,Coarse_Cereals_Production,144.0
+Nagaland,2012-13,60,Coarse_Cereals_Production,145.9
+Nagaland,2013-14,60,Coarse_Cereals_Production,147.0
+Nagaland,2014-15,60,Coarse_Cereals_Production,147.5
+Nagaland,2015-16,60,Coarse_Cereals_Production,148.0
+Nagaland,2016-17,60,Coarse_Cereals_Production,149.5
+Nagaland,2017-18,60,Coarse_Cereals_Production,150.3
+Nagaland,2018-19,60,Coarse_Cereals_Production,148.8
+Nagaland,2019-20,60,Coarse_Cereals_Production,149.1
+Nagaland,2020-21,60,Coarse_Cereals_Production,149.4
+Nagaland,2021-22,60,Coarse_Cereals_Production,70.2
+Nagaland,2022-23,60,Coarse_Cereals_Production,103.0
+Nagaland,2023-24,60,Coarse_Cereals_Production,108.8
+Nagaland,2024-25,60,Coarse_Cereals_Production,108.0
+Odisha,2004-05,60,Coarse_Cereals_Production,169.1
+Odisha,2005-06,60,Coarse_Cereals_Production,159.9
+Odisha,2006-07,60,Coarse_Cereals_Production,162.4
+Odisha,2007-08,60,Coarse_Cereals_Production,210.4
+Odisha,2008-09,60,Coarse_Cereals_Production,191.7
+Odisha,2009-10,60,Coarse_Cereals_Production,230.3
+Odisha,2010-11,60,Coarse_Cereals_Production,360.5
+Odisha,2011-12,60,Coarse_Cereals_Production,259.4
+Odisha,2012-13,60,Coarse_Cereals_Production,287.0
+Odisha,2013-14,60,Coarse_Cereals_Production,325.7
+Odisha,2014-15,60,Coarse_Cereals_Production,242.3
+Odisha,2015-16,60,Coarse_Cereals_Production,157.2
+Odisha,2016-17,60,Coarse_Cereals_Production,256.2
+Odisha,2017-18,60,Coarse_Cereals_Production,170.2
+Odisha,2018-19,60,Coarse_Cereals_Production,169.1
+Odisha,2019-20,60,Coarse_Cereals_Production,237.1
+Odisha,2020-21,60,Coarse_Cereals_Production,281.8
+Odisha,2021-22,60,Coarse_Cereals_Production,352.9
+Odisha,2022-23,60,Coarse_Cereals_Production,327.6
+Odisha,2023-24,60,Coarse_Cereals_Production,410.9
+Odisha,2024-25,60,Coarse_Cereals_Production,353.0
+Puducherry,2004-05,60,Coarse_Cereals_Production,0.7
+Puducherry,2005-06,60,Coarse_Cereals_Production,0.8
+Puducherry,2006-07,60,Coarse_Cereals_Production,0.8
+Puducherry,2007-08,60,Coarse_Cereals_Production,0.3
+Puducherry,2008-09,60,Coarse_Cereals_Production,0.2
+Puducherry,2009-10,60,Coarse_Cereals_Production,0.2
+Puducherry,2010-11,60,Coarse_Cereals_Production,0.1
+Puducherry,2011-12,60,Coarse_Cereals_Production,0.1
+Puducherry,2012-13,60,Coarse_Cereals_Production,0.2
+Puducherry,2013-14,60,Coarse_Cereals_Production,0.1
+Puducherry,2014-15,60,Coarse_Cereals_Production,0.1
+Puducherry,2015-16,60,Coarse_Cereals_Production,0.0
+Puducherry,2016-17,60,Coarse_Cereals_Production,0.1
+Puducherry,2017-18,60,Coarse_Cereals_Production,0.4
+Puducherry,2018-19,60,Coarse_Cereals_Production,0.3
+Puducherry,2019-20,60,Coarse_Cereals_Production,0.4
+Puducherry,2020-21,60,Coarse_Cereals_Production,0.3
+Puducherry,2021-22,60,Coarse_Cereals_Production,0.2
+Puducherry,2022-23,60,Coarse_Cereals_Production,0.3
+Puducherry,2023-24,60,Coarse_Cereals_Production,0.4
+Puducherry,2024-25,60,Coarse_Cereals_Production,0.5
+Punjab,2004-05,60,Coarse_Cereals_Production,504.0
+Punjab,2005-06,60,Coarse_Cereals_Production,472.0
+Punjab,2006-07,60,Coarse_Cereals_Production,552.0
+Punjab,2007-08,60,Coarse_Cereals_Production,583.1
+Punjab,2008-09,60,Coarse_Cereals_Production,575.1
+Punjab,2009-10,60,Coarse_Cereals_Production,527.1
+Punjab,2010-11,60,Coarse_Cereals_Production,538.0
+Punjab,2011-12,60,Coarse_Cereals_Production,552.0
+Punjab,2012-13,60,Coarse_Cereals_Production,525.0
+Punjab,2013-14,60,Coarse_Cereals_Production,553.8
+Punjab,2014-15,60,Coarse_Cereals_Production,499.4
+Punjab,2015-16,60,Coarse_Cereals_Production,457.3
+Punjab,2016-17,60,Coarse_Cereals_Production,477.2
+Punjab,2017-18,60,Coarse_Cereals_Production,453.2
+Punjab,2018-19,60,Coarse_Cereals_Production,421.3
+Punjab,2019-20,60,Coarse_Cereals_Production,433.3
+Punjab,2020-21,60,Coarse_Cereals_Production,417.6
+Punjab,2021-22,60,Coarse_Cereals_Production,429.7
+Punjab,2022-23,60,Coarse_Cereals_Production,429.6
+Punjab,2023-24,60,Coarse_Cereals_Production,381.4
+Punjab,2024-25,60,Coarse_Cereals_Production,389.9
+Rajasthan,2004-05,60,Coarse_Cereals_Production,4956.4
+Rajasthan,2005-06,60,Coarse_Cereals_Production,4528.6
+Rajasthan,2006-07,60,Coarse_Cereals_Production,5501.9
+Rajasthan,2007-08,60,Coarse_Cereals_Production,7121.4
+Rajasthan,2008-09,60,Coarse_Cereals_Production,7325.7
+Rajasthan,2009-10,60,Coarse_Cereals_Production,3907.2
+Rajasthan,2010-11,60,Coarse_Cereals_Production,8092.5
+Rajasthan,2011-12,60,Coarse_Cereals_Production,7464.7
+Rajasthan,2012-13,60,Coarse_Cereals_Production,6912.9
+Rajasthan,2013-14,60,Coarse_Cereals_Production,6432.9
+Rajasthan,2014-15,60,Coarse_Cereals_Production,7479.5
+Rajasthan,2015-16,60,Coarse_Cereals_Production,5808.9
+Rajasthan,2016-17,60,Coarse_Cereals_Production,6734.5
+Rajasthan,2017-18,60,Coarse_Cereals_Production,6732.2
+Rajasthan,2018-19,60,Coarse_Cereals_Production,6993.3
+Rajasthan,2019-20,60,Coarse_Cereals_Production,7333.3
+Rajasthan,2020-21,60,Coarse_Cereals_Production,8360.9
+Rajasthan,2021-22,60,Coarse_Cereals_Production,7035.7
+Rajasthan,2022-23,60,Coarse_Cereals_Production,8978.3
+Rajasthan,2023-24,60,Coarse_Cereals_Production,8091.3
+Rajasthan,2024-25,60,Coarse_Cereals_Production,9451.5
+Sikkim,2004-05,60,Coarse_Cereals_Production,67.4
+Sikkim,2005-06,60,Coarse_Cereals_Production,63.7
+Sikkim,2006-07,60,Coarse_Cereals_Production,63.7
+Sikkim,2007-08,60,Coarse_Cereals_Production,72.6
+Sikkim,2008-09,60,Coarse_Cereals_Production,66.2
+Sikkim,2009-10,60,Coarse_Cereals_Production,74.2
+Sikkim,2010-11,60,Coarse_Cereals_Production,74.8
+Sikkim,2011-12,60,Coarse_Cereals_Production,73.8
+Sikkim,2012-13,60,Coarse_Cereals_Production,78.3
+Sikkim,2013-14,60,Coarse_Cereals_Production,75.9
+Sikkim,2014-15,60,Coarse_Cereals_Production,75.9
+Sikkim,2015-16,60,Coarse_Cereals_Production,75.3
+Sikkim,2016-17,60,Coarse_Cereals_Production,75.9
+Sikkim,2017-18,60,Coarse_Cereals_Production,71.0
+Sikkim,2018-19,60,Coarse_Cereals_Production,69.8
+Sikkim,2019-20,60,Coarse_Cereals_Production,70.7
+Sikkim,2020-21,60,Coarse_Cereals_Production,70.5
+Sikkim,2021-22,60,Coarse_Cereals_Production,70.0
+Sikkim,2022-23,60,Coarse_Cereals_Production,67.7
+Sikkim,2023-24,60,Coarse_Cereals_Production,55.3
+Sikkim,2024-25,60,Coarse_Cereals_Production,55.3
+Tamil Nadu,2004-05,60,Coarse_Cereals_Production,868.0
+Tamil Nadu,2005-06,60,Coarse_Cereals_Production,730.2
+Tamil Nadu,2006-07,60,Coarse_Cereals_Production,1361.9
+Tamil Nadu,2007-08,60,Coarse_Cereals_Production,1357.1
+Tamil Nadu,2008-09,60,Coarse_Cereals_Production,1755.1
+Tamil Nadu,2009-10,60,Coarse_Cereals_Production,1642.0
+Tamil Nadu,2010-11,60,Coarse_Cereals_Production,1556.5
+Tamil Nadu,2011-12,60,Coarse_Cereals_Production,2323.8
+Tamil Nadu,2012-13,60,Coarse_Cereals_Production,1333.0
+Tamil Nadu,2013-14,60,Coarse_Cereals_Production,2819.7
+Tamil Nadu,2014-15,60,Coarse_Cereals_Production,3142.6
+Tamil Nadu,2015-16,60,Coarse_Cereals_Production,3406.6
+Tamil Nadu,2016-17,60,Coarse_Cereals_Production,1345.2
+Tamil Nadu,2017-18,60,Coarse_Cereals_Production,3518.4
+Tamil Nadu,2018-19,60,Coarse_Cereals_Production,3708.0
+Tamil Nadu,2019-20,60,Coarse_Cereals_Production,3493.2
+Tamil Nadu,2020-21,60,Coarse_Cereals_Production,3470.0
+Tamil Nadu,2021-22,60,Coarse_Cereals_Production,3592.4
+Tamil Nadu,2022-23,60,Coarse_Cereals_Production,3620.2
+Tamil Nadu,2023-24,60,Coarse_Cereals_Production,3515.0
+Tamil Nadu,2024-25,60,Coarse_Cereals_Production,3469.4
+Telangana,2010-11,60,Coarse_Cereals_Production,2238.9
+Telangana,2011-12,60,Coarse_Cereals_Production,2038.8
+Telangana,2012-13,60,Coarse_Cereals_Production,3085.9
+Telangana,2013-14,60,Coarse_Cereals_Production,2898.7
+Telangana,2014-15,60,Coarse_Cereals_Production,2404.0
+Telangana,2015-16,60,Coarse_Cereals_Production,1834.0
+Telangana,2016-17,60,Coarse_Cereals_Production,2768.2
+Telangana,2017-18,60,Coarse_Cereals_Production,2639.3
+Telangana,2018-19,60,Coarse_Cereals_Production,2155.7
+Telangana,2019-20,60,Coarse_Cereals_Production,3138.9
+Telangana,2020-21,60,Coarse_Cereals_Production,1922.9
+Telangana,2021-22,60,Coarse_Cereals_Production,2349.2
+Telangana,2022-23,60,Coarse_Cereals_Production,2994.4
+Telangana,2023-24,60,Coarse_Cereals_Production,3034.3
+Telangana,2024-25,60,Coarse_Cereals_Production,3785.2
+Tripura,2004-05,60,Coarse_Cereals_Production,3.0
+Tripura,2005-06,60,Coarse_Cereals_Production,2.2
+Tripura,2006-07,60,Coarse_Cereals_Production,2.4
+Tripura,2007-08,60,Coarse_Cereals_Production,2.1
+Tripura,2008-09,60,Coarse_Cereals_Production,2.0
+Tripura,2009-10,60,Coarse_Cereals_Production,2.0
+Tripura,2010-11,60,Coarse_Cereals_Production,4.1
+Tripura,2011-12,60,Coarse_Cereals_Production,5.1
+Tripura,2012-13,60,Coarse_Cereals_Production,4.7
+Tripura,2013-14,60,Coarse_Cereals_Production,5.9
+Tripura,2014-15,60,Coarse_Cereals_Production,5.9
+Tripura,2015-16,60,Coarse_Cereals_Production,12.2
+Tripura,2016-17,60,Coarse_Cereals_Production,21.3
+Tripura,2017-18,60,Coarse_Cereals_Production,23.6
+Tripura,2018-19,60,Coarse_Cereals_Production,23.9
+Tripura,2019-20,60,Coarse_Cereals_Production,24.1
+Tripura,2020-21,60,Coarse_Cereals_Production,44.2
+Tripura,2021-22,60,Coarse_Cereals_Production,41.6
+Tripura,2022-23,60,Coarse_Cereals_Production,35.4
+Tripura,2023-24,60,Coarse_Cereals_Production,35.4
+Tripura,2024-25,60,Coarse_Cereals_Production,31.0
+Uttar Pradesh,2004-05,60,Coarse_Cereals_Production,3391.8
+Uttar Pradesh,2005-06,60,Coarse_Cereals_Production,2971.2
+Uttar Pradesh,2006-07,60,Coarse_Cereals_Production,3084.4
+Uttar Pradesh,2007-08,60,Coarse_Cereals_Production,3058.9
+Uttar Pradesh,2008-09,60,Coarse_Cereals_Production,3080.2
+Uttar Pradesh,2009-10,60,Coarse_Cereals_Production,2968.8
+Uttar Pradesh,2010-11,60,Coarse_Cereals_Production,3217.6
+Uttar Pradesh,2011-12,60,Coarse_Cereals_Production,3566.0
+Uttar Pradesh,2012-13,60,Coarse_Cereals_Production,3695.5
+Uttar Pradesh,2013-14,60,Coarse_Cereals_Production,3803.2
+Uttar Pradesh,2014-15,60,Coarse_Cereals_Production,3570.0
+Uttar Pradesh,2015-16,60,Coarse_Cereals_Production,3460.0
+Uttar Pradesh,2016-17,60,Coarse_Cereals_Production,3909.0
+Uttar Pradesh,2017-18,60,Coarse_Cereals_Production,4016.8
+Uttar Pradesh,2018-19,60,Coarse_Cereals_Production,3948.9
+Uttar Pradesh,2019-20,60,Coarse_Cereals_Production,4388.5
+Uttar Pradesh,2020-21,60,Coarse_Cereals_Production,4604.4
+Uttar Pradesh,2021-22,60,Coarse_Cereals_Production,4347.3
+Uttar Pradesh,2022-23,60,Coarse_Cereals_Production,4912.9
+Uttar Pradesh,2023-24,60,Coarse_Cereals_Production,5840.3
+Uttar Pradesh,2024-25,60,Coarse_Cereals_Production,4805.6
+Uttarakhand,2004-05,60,Coarse_Cereals_Production,358.0
+Uttarakhand,2005-06,60,Coarse_Cereals_Production,323.0
+Uttarakhand,2006-07,60,Coarse_Cereals_Production,344.0
+Uttarakhand,2007-08,60,Coarse_Cereals_Production,339.0
+Uttarakhand,2008-09,60,Coarse_Cereals_Production,347.0
+Uttarakhand,2009-10,60,Coarse_Cereals_Production,297.0
+Uttarakhand,2010-11,60,Coarse_Cereals_Production,335.0
+Uttarakhand,2011-12,60,Coarse_Cereals_Production,331.0
+Uttarakhand,2012-13,60,Coarse_Cereals_Production,338.4
+Uttarakhand,2013-14,60,Coarse_Cereals_Production,298.9
+Uttarakhand,2014-15,60,Coarse_Cereals_Production,313.6
+Uttarakhand,2015-16,60,Coarse_Cereals_Production,282.8
+Uttarakhand,2016-17,60,Coarse_Cereals_Production,308.0
+Uttarakhand,2017-18,60,Coarse_Cereals_Production,286.9
+Uttarakhand,2018-19,60,Coarse_Cereals_Production,251.7
+Uttarakhand,2019-20,60,Coarse_Cereals_Production,265.8
+Uttarakhand,2020-21,60,Coarse_Cereals_Production,270.3
+Uttarakhand,2021-22,60,Coarse_Cereals_Production,281.9
+Uttarakhand,2022-23,60,Coarse_Cereals_Production,244.1
+Uttarakhand,2023-24,60,Coarse_Cereals_Production,234.5
+Uttarakhand,2024-25,60,Coarse_Cereals_Production,228.1
+West Bengal,2004-05,60,Coarse_Cereals_Production,162.0
+West Bengal,2005-06,60,Coarse_Cereals_Production,150.3
+West Bengal,2006-07,60,Coarse_Cereals_Production,274.7
+West Bengal,2007-08,60,Coarse_Cereals_Production,265.8
+West Bengal,2008-09,60,Coarse_Cereals_Production,365.4
+West Bengal,2009-10,60,Coarse_Cereals_Production,404.0
+West Bengal,2010-11,60,Coarse_Cereals_Production,370.4
+West Bengal,2011-12,60,Coarse_Cereals_Production,376.4
+West Bengal,2012-13,60,Coarse_Cereals_Production,434.6
+West Bengal,2013-14,60,Coarse_Cereals_Production,538.6
+West Bengal,2014-15,60,Coarse_Cereals_Production,678.9
+West Bengal,2015-16,60,Coarse_Cereals_Production,732.7
+West Bengal,2016-17,60,Coarse_Cereals_Production,721.6
+West Bengal,2017-18,60,Coarse_Cereals_Production,1154.7
+West Bengal,2018-19,60,Coarse_Cereals_Production,1741.5
+West Bengal,2019-20,60,Coarse_Cereals_Production,2018.1
+West Bengal,2020-21,60,Coarse_Cereals_Production,2443.6
+West Bengal,2021-22,60,Coarse_Cereals_Production,2533.5
+West Bengal,2022-23,60,Coarse_Cereals_Production,2282.3
+West Bengal,2023-24,60,Coarse_Cereals_Production,2611.3
+West Bengal,2024-25,60,Coarse_Cereals_Production,2841.7

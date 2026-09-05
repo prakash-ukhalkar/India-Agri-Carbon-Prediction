@@ -1,0 +1,644 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,85,Oilseeds_Yield,757.0
+Andhra Pradesh,2005-06,85,Oilseeds_Yield,698.0
+Andhra Pradesh,2006-07,85,Oilseeds_Yield,609.0
+Andhra Pradesh,2007-08,85,Oilseeds_Yield,1276.0
+Andhra Pradesh,2008-09,85,Oilseeds_Yield,842.0
+Andhra Pradesh,2009-10,85,Oilseeds_Yield,724.0
+Andhra Pradesh,2010-11,85,Oilseeds_Yield,861.0
+Andhra Pradesh,2011-12,85,Oilseeds_Yield,482.0
+Andhra Pradesh,2012-13,85,Oilseeds_Yield,645.0
+Andhra Pradesh,2013-14,85,Oilseeds_Yield,731.0
+Andhra Pradesh,2014-15,85,Oilseeds_Yield,557.0
+Andhra Pradesh,2015-16,85,Oilseeds_Yield,954.0
+Andhra Pradesh,2016-17,85,Oilseeds_Yield,581.0
+Andhra Pradesh,2017-18,85,Oilseeds_Yield,1328.0
+Andhra Pradesh,2018-19,85,Oilseeds_Yield,589.0
+Andhra Pradesh,2019-20,85,Oilseeds_Yield,1194.0
+Andhra Pradesh,2020-21,85,Oilseeds_Yield,854.0
+Andhra Pradesh,2021-22,85,Oilseeds_Yield,603.0
+Andhra Pradesh,2022-23,85,Oilseeds_Yield,937.0
+Andhra Pradesh,2023-24,85,Oilseeds_Yield,889.0
+Andhra Pradesh,2024-25,85,Oilseeds_Yield,1031.0
+Arunachal Pradesh,2004-05,85,Oilseeds_Yield,1042.0
+Arunachal Pradesh,2005-06,85,Oilseeds_Yield,838.0
+Arunachal Pradesh,2006-07,85,Oilseeds_Yield,838.0
+Arunachal Pradesh,2007-08,85,Oilseeds_Yield,962.0
+Arunachal Pradesh,2008-09,85,Oilseeds_Yield,963.0
+Arunachal Pradesh,2009-10,85,Oilseeds_Yield,927.0
+Arunachal Pradesh,2010-11,85,Oilseeds_Yield,920.0
+Arunachal Pradesh,2011-12,85,Oilseeds_Yield,1015.0
+Arunachal Pradesh,2012-13,85,Oilseeds_Yield,954.0
+Arunachal Pradesh,2013-14,85,Oilseeds_Yield,958.0
+Arunachal Pradesh,2014-15,85,Oilseeds_Yield,971.0
+Arunachal Pradesh,2015-16,85,Oilseeds_Yield,1040.0
+Arunachal Pradesh,2016-17,85,Oilseeds_Yield,1040.0
+Arunachal Pradesh,2017-18,85,Oilseeds_Yield,1040.0
+Arunachal Pradesh,2018-19,85,Oilseeds_Yield,1040.0
+Arunachal Pradesh,2019-20,85,Oilseeds_Yield,1040.0
+Arunachal Pradesh,2020-21,85,Oilseeds_Yield,1049.0
+Arunachal Pradesh,2021-22,85,Oilseeds_Yield,1058.0
+Arunachal Pradesh,2022-23,85,Oilseeds_Yield,1060.0
+Arunachal Pradesh,2023-24,85,Oilseeds_Yield,1065.0
+Arunachal Pradesh,2024-25,85,Oilseeds_Yield,1067.0
+Assam,2004-05,85,Oilseeds_Yield,529.0
+Assam,2005-06,85,Oilseeds_Yield,465.0
+Assam,2006-07,85,Oilseeds_Yield,495.0
+Assam,2007-08,85,Oilseeds_Yield,523.0
+Assam,2008-09,85,Oilseeds_Yield,542.0
+Assam,2009-10,85,Oilseeds_Yield,526.0
+Assam,2010-11,85,Oilseeds_Yield,576.0
+Assam,2011-12,85,Oilseeds_Yield,557.0
+Assam,2012-13,85,Oilseeds_Yield,610.0
+Assam,2013-14,85,Oilseeds_Yield,613.0
+Assam,2014-15,85,Oilseeds_Yield,670.0
+Assam,2015-16,85,Oilseeds_Yield,694.0
+Assam,2016-17,85,Oilseeds_Yield,643.0
+Assam,2017-18,85,Oilseeds_Yield,638.0
+Assam,2018-19,85,Oilseeds_Yield,642.0
+Assam,2019-20,85,Oilseeds_Yield,619.0
+Assam,2020-21,85,Oilseeds_Yield,646.0
+Assam,2021-22,85,Oilseeds_Yield,643.0
+Assam,2022-23,85,Oilseeds_Yield,778.0
+Assam,2023-24,85,Oilseeds_Yield,776.0
+Assam,2024-25,85,Oilseeds_Yield,777.0
+Bihar,2004-05,85,Oilseeds_Yield,887.0
+Bihar,2005-06,85,Oilseeds_Yield,982.0
+Bihar,2006-07,85,Oilseeds_Yield,1031.0
+Bihar,2007-08,85,Oilseeds_Yield,979.0
+Bihar,2008-09,85,Oilseeds_Yield,999.0
+Bihar,2009-10,85,Oilseeds_Yield,1042.0
+Bihar,2010-11,85,Oilseeds_Yield,1048.0
+Bihar,2011-12,85,Oilseeds_Yield,1046.0
+Bihar,2012-13,85,Oilseeds_Yield,1120.0
+Bihar,2013-14,85,Oilseeds_Yield,1182.0
+Bihar,2014-15,85,Oilseeds_Yield,1093.0
+Bihar,2015-16,85,Oilseeds_Yield,1059.0
+Bihar,2016-17,85,Oilseeds_Yield,1155.0
+Bihar,2017-18,85,Oilseeds_Yield,1208.0
+Bihar,2018-19,85,Oilseeds_Yield,1248.0
+Bihar,2019-20,85,Oilseeds_Yield,1099.0
+Bihar,2020-21,85,Oilseeds_Yield,1077.0
+Bihar,2021-22,85,Oilseeds_Yield,1048.0
+Bihar,2022-23,85,Oilseeds_Yield,1134.0
+Bihar,2023-24,85,Oilseeds_Yield,1163.0
+Bihar,2024-25,85,Oilseeds_Yield,1162.0
+Chhattisgarh,2004-05,85,Oilseeds_Yield,426.0
+Chhattisgarh,2005-06,85,Oilseeds_Yield,419.0
+Chhattisgarh,2006-07,85,Oilseeds_Yield,503.0
+Chhattisgarh,2007-08,85,Oilseeds_Yield,532.0
+Chhattisgarh,2008-09,85,Oilseeds_Yield,507.0
+Chhattisgarh,2009-10,85,Oilseeds_Yield,607.0
+Chhattisgarh,2010-11,85,Oilseeds_Yield,686.0
+Chhattisgarh,2011-12,85,Oilseeds_Yield,550.0
+Chhattisgarh,2012-13,85,Oilseeds_Yield,723.0
+Chhattisgarh,2013-14,85,Oilseeds_Yield,640.0
+Chhattisgarh,2014-15,85,Oilseeds_Yield,599.0
+Chhattisgarh,2015-16,85,Oilseeds_Yield,501.0
+Chhattisgarh,2016-17,85,Oilseeds_Yield,572.0
+Chhattisgarh,2017-18,85,Oilseeds_Yield,461.0
+Chhattisgarh,2018-19,85,Oilseeds_Yield,561.0
+Chhattisgarh,2019-20,85,Oilseeds_Yield,720.0
+Chhattisgarh,2020-21,85,Oilseeds_Yield,613.0
+Chhattisgarh,2021-22,85,Oilseeds_Yield,666.0
+Chhattisgarh,2022-23,85,Oilseeds_Yield,713.0
+Chhattisgarh,2023-24,85,Oilseeds_Yield,703.0
+Chhattisgarh,2024-25,85,Oilseeds_Yield,601.0
+Delhi,2004-05,85,Oilseeds_Yield,1220.0
+Delhi,2005-06,85,Oilseeds_Yield,763.0
+Delhi,2006-07,85,Oilseeds_Yield,1500.0
+Delhi,2007-08,85,Oilseeds_Yield,871.0
+Delhi,2008-09,85,Oilseeds_Yield,154.0
+Delhi,2009-10,85,Oilseeds_Yield,1256.0
+Delhi,2010-11,85,Oilseeds_Yield,1300.0
+Delhi,2011-12,85,Oilseeds_Yield,1251.0
+Delhi,2012-13,85,Oilseeds_Yield,1265.0
+Delhi,2014-15,85,Oilseeds_Yield,0.0
+Delhi,2015-16,85,Oilseeds_Yield,1260.0
+Delhi,2016-17,85,Oilseeds_Yield,1248.0
+Delhi,2017-18,85,Oilseeds_Yield,1260.0
+Delhi,2018-19,85,Oilseeds_Yield,1262.0
+Delhi,2019-20,85,Oilseeds_Yield,1261.0
+Delhi,2020-21,85,Oilseeds_Yield,1261.0
+Delhi,2021-22,85,Oilseeds_Yield,1300.0
+Delhi,2022-23,85,Oilseeds_Yield,1375.0
+Delhi,2023-24,85,Oilseeds_Yield,1600.0
+Delhi,2024-25,85,Oilseeds_Yield,1600.0
+Goa,2004-05,85,Oilseeds_Yield,1588.0
+Goa,2005-06,85,Oilseeds_Yield,2394.0
+Goa,2006-07,85,Oilseeds_Yield,1769.0
+Goa,2007-08,85,Oilseeds_Yield,1892.0
+Goa,2008-09,85,Oilseeds_Yield,2158.0
+Goa,2009-10,85,Oilseeds_Yield,2807.0
+Goa,2010-11,85,Oilseeds_Yield,2862.0
+Goa,2011-12,85,Oilseeds_Yield,2500.0
+Goa,2012-13,85,Oilseeds_Yield,2409.0
+Goa,2013-14,85,Oilseeds_Yield,2544.0
+Goa,2014-15,85,Oilseeds_Yield,1899.0
+Goa,2015-16,85,Oilseeds_Yield,2126.0
+Goa,2016-17,85,Oilseeds_Yield,2352.0
+Goa,2017-18,85,Oilseeds_Yield,2258.0
+Goa,2018-19,85,Oilseeds_Yield,2345.0
+Goa,2019-20,85,Oilseeds_Yield,2503.0
+Goa,2020-21,85,Oilseeds_Yield,2230.0
+Goa,2021-22,85,Oilseeds_Yield,2025.0
+Goa,2022-23,85,Oilseeds_Yield,1582.0
+Goa,2023-24,85,Oilseeds_Yield,1584.0
+Goa,2024-25,85,Oilseeds_Yield,1820.0
+Gujarat,2004-05,85,Oilseeds_Yield,990.0
+Gujarat,2005-06,85,Oilseeds_Yield,1544.0
+Gujarat,2006-07,85,Oilseeds_Yield,908.0
+Gujarat,2007-08,85,Oilseeds_Yield,1618.0
+Gujarat,2008-09,85,Oilseeds_Yield,1345.0
+Gujarat,2009-10,85,Oilseeds_Yield,1109.0
+Gujarat,2010-11,85,Oilseeds_Yield,1692.0
+Gujarat,2011-12,85,Oilseeds_Yield,1608.0
+Gujarat,2012-13,85,Oilseeds_Yield,1103.0
+Gujarat,2013-14,85,Oilseeds_Yield,2231.0
+Gujarat,2014-15,85,Oilseeds_Yield,1920.0
+Gujarat,2015-16,85,Oilseeds_Yield,1627.0
+Gujarat,2016-17,85,Oilseeds_Yield,1725.0
+Gujarat,2017-18,85,Oilseeds_Yield,2125.0
+Gujarat,2018-19,85,Oilseeds_Yield,1458.0
+Gujarat,2019-20,85,Oilseeds_Yield,2320.0
+Gujarat,2020-21,85,Oilseeds_Yield,1844.0
+Gujarat,2021-22,85,Oilseeds_Yield,2073.0
+Gujarat,2022-23,85,Oilseeds_Yield,2263.0
+Gujarat,2023-24,85,Oilseeds_Yield,2319.0
+Gujarat,2024-25,85,Oilseeds_Yield,2293.0
+Haryana,2004-05,85,Oilseeds_Yield,1176.0
+Haryana,2005-06,85,Oilseeds_Yield,1124.0
+Haryana,2006-07,85,Oilseeds_Yield,1344.0
+Haryana,2007-08,85,Oilseeds_Yield,1214.0
+Haryana,2008-09,85,Oilseeds_Yield,1723.0
+Haryana,2009-10,85,Oilseeds_Yield,1645.0
+Haryana,2010-11,85,Oilseeds_Yield,1855.0
+Haryana,2011-12,85,Oilseeds_Yield,1394.0
+Haryana,2012-13,85,Oilseeds_Yield,1712.0
+Haryana,2013-14,85,Oilseeds_Yield,1637.0
+Haryana,2014-15,85,Oilseeds_Yield,1456.0
+Haryana,2015-16,85,Oilseeds_Yield,1589.0
+Haryana,2016-17,85,Oilseeds_Yield,1832.0
+Haryana,2017-18,85,Oilseeds_Yield,2008.0
+Haryana,2018-19,85,Oilseeds_Yield,2042.0
+Haryana,2019-20,85,Oilseeds_Yield,1783.0
+Haryana,2020-21,85,Oilseeds_Yield,2008.0
+Haryana,2021-22,85,Oilseeds_Yield,1881.0
+Haryana,2022-23,85,Oilseeds_Yield,1694.0
+Haryana,2023-24,85,Oilseeds_Yield,1811.0
+Haryana,2024-25,85,Oilseeds_Yield,2125.0
+Himachal Pradesh,2004-05,85,Oilseeds_Yield,632.0
+Himachal Pradesh,2005-06,85,Oilseeds_Yield,344.0
+Himachal Pradesh,2006-07,85,Oilseeds_Yield,477.0
+Himachal Pradesh,2007-08,85,Oilseeds_Yield,442.0
+Himachal Pradesh,2008-09,85,Oilseeds_Yield,365.0
+Himachal Pradesh,2009-10,85,Oilseeds_Yield,270.0
+Himachal Pradesh,2010-11,85,Oilseeds_Yield,514.0
+Himachal Pradesh,2011-12,85,Oilseeds_Yield,579.0
+Himachal Pradesh,2012-13,85,Oilseeds_Yield,514.0
+Himachal Pradesh,2013-14,85,Oilseeds_Yield,490.0
+Himachal Pradesh,2014-15,85,Oilseeds_Yield,542.0
+Himachal Pradesh,2015-16,85,Oilseeds_Yield,521.0
+Himachal Pradesh,2016-17,85,Oilseeds_Yield,487.0
+Himachal Pradesh,2017-18,85,Oilseeds_Yield,590.0
+Himachal Pradesh,2018-19,85,Oilseeds_Yield,590.0
+Himachal Pradesh,2019-20,85,Oilseeds_Yield,619.0
+Himachal Pradesh,2020-21,85,Oilseeds_Yield,719.0
+Himachal Pradesh,2021-22,85,Oilseeds_Yield,716.0
+Himachal Pradesh,2022-23,85,Oilseeds_Yield,728.0
+Himachal Pradesh,2023-24,85,Oilseeds_Yield,727.0
+Himachal Pradesh,2024-25,85,Oilseeds_Yield,725.0
+Jammu & Kashmir,2004-05,85,Oilseeds_Yield,1125.0
+Jammu & Kashmir,2005-06,85,Oilseeds_Yield,429.0
+Jammu & Kashmir,2006-07,85,Oilseeds_Yield,610.0
+Jammu & Kashmir,2007-08,85,Oilseeds_Yield,846.0
+Jammu & Kashmir,2008-09,85,Oilseeds_Yield,760.0
+Jammu & Kashmir,2009-10,85,Oilseeds_Yield,763.0
+Jammu & Kashmir,2010-11,85,Oilseeds_Yield,821.0
+Jammu & Kashmir,2011-12,85,Oilseeds_Yield,826.0
+Jammu & Kashmir,2012-13,85,Oilseeds_Yield,789.0
+Jammu & Kashmir,2013-14,85,Oilseeds_Yield,895.0
+Jammu & Kashmir,2014-15,85,Oilseeds_Yield,682.0
+Jammu & Kashmir,2015-16,85,Oilseeds_Yield,599.0
+Jammu & Kashmir,2016-17,85,Oilseeds_Yield,523.0
+Jammu & Kashmir,2017-18,85,Oilseeds_Yield,760.0
+Jammu & Kashmir,2018-19,85,Oilseeds_Yield,1086.0
+Jammu & Kashmir,2019-20,85,Oilseeds_Yield,859.0
+Jammu & Kashmir,2020-21,85,Oilseeds_Yield,643.0
+Jammu & Kashmir,2021-22,85,Oilseeds_Yield,765.0
+Jammu & Kashmir,2022-23,85,Oilseeds_Yield,832.0
+Jammu & Kashmir,2023-24,85,Oilseeds_Yield,838.0
+Jammu & Kashmir,2024-25,85,Oilseeds_Yield,838.0
+Jharkhand,2004-05,85,Oilseeds_Yield,241.0
+Jharkhand,2005-06,85,Oilseeds_Yield,311.0
+Jharkhand,2006-07,85,Oilseeds_Yield,422.0
+Jharkhand,2007-08,85,Oilseeds_Yield,553.0
+Jharkhand,2008-09,85,Oilseeds_Yield,560.0
+Jharkhand,2009-10,85,Oilseeds_Yield,562.0
+Jharkhand,2010-11,85,Oilseeds_Yield,625.0
+Jharkhand,2011-12,85,Oilseeds_Yield,680.0
+Jharkhand,2012-13,85,Oilseeds_Yield,787.0
+Jharkhand,2013-14,85,Oilseeds_Yield,663.0
+Jharkhand,2014-15,85,Oilseeds_Yield,664.0
+Jharkhand,2015-16,85,Oilseeds_Yield,681.0
+Jharkhand,2016-17,85,Oilseeds_Yield,732.0
+Jharkhand,2017-18,85,Oilseeds_Yield,713.0
+Jharkhand,2018-19,85,Oilseeds_Yield,684.0
+Jharkhand,2019-20,85,Oilseeds_Yield,784.0
+Jharkhand,2020-21,85,Oilseeds_Yield,788.0
+Jharkhand,2021-22,85,Oilseeds_Yield,805.0
+Jharkhand,2022-23,85,Oilseeds_Yield,820.0
+Jharkhand,2023-24,85,Oilseeds_Yield,807.0
+Jharkhand,2024-25,85,Oilseeds_Yield,872.0
+Karnataka,2004-05,85,Oilseeds_Yield,587.0
+Karnataka,2005-06,85,Oilseeds_Yield,600.0
+Karnataka,2006-07,85,Oilseeds_Yield,478.0
+Karnataka,2007-08,85,Oilseeds_Yield,681.0
+Karnataka,2008-09,85,Oilseeds_Yield,556.0
+Karnataka,2009-10,85,Oilseeds_Yield,502.0
+Karnataka,2010-11,85,Oilseeds_Yield,782.0
+Karnataka,2011-12,85,Oilseeds_Yield,665.0
+Karnataka,2012-13,85,Oilseeds_Yield,647.0
+Karnataka,2013-14,85,Oilseeds_Yield,824.0
+Karnataka,2014-15,85,Oilseeds_Yield,698.0
+Karnataka,2015-16,85,Oilseeds_Yield,583.0
+Karnataka,2016-17,85,Oilseeds_Yield,623.0
+Karnataka,2017-18,85,Oilseeds_Yield,883.0
+Karnataka,2018-19,85,Oilseeds_Yield,824.0
+Karnataka,2019-20,85,Oilseeds_Yield,1025.0
+Karnataka,2020-21,85,Oilseeds_Yield,1033.0
+Karnataka,2021-22,85,Oilseeds_Yield,937.0
+Karnataka,2022-23,85,Oilseeds_Yield,1138.0
+Karnataka,2023-24,85,Oilseeds_Yield,858.0
+Karnataka,2024-25,85,Oilseeds_Yield,1090.0
+Kerala,2004-05,85,Oilseeds_Yield,792.0
+Kerala,2005-06,85,Oilseeds_Yield,667.0
+Kerala,2006-07,85,Oilseeds_Yield,889.0
+Kerala,2007-08,85,Oilseeds_Yield,706.0
+Kerala,2008-09,85,Oilseeds_Yield,696.0
+Kerala,2009-10,85,Oilseeds_Yield,625.0
+Kerala,2010-11,85,Oilseeds_Yield,1032.0
+Kerala,2011-12,85,Oilseeds_Yield,1226.0
+Kerala,2012-13,85,Oilseeds_Yield,1045.0
+Kerala,2013-14,85,Oilseeds_Yield,980.0
+Kerala,2014-15,85,Oilseeds_Yield,1054.0
+Kerala,2015-16,85,Oilseeds_Yield,1049.0
+Kerala,2016-17,85,Oilseeds_Yield,125.0
+Kerala,2017-18,85,Oilseeds_Yield,900.0
+Kerala,2018-19,85,Oilseeds_Yield,697.0
+Kerala,2019-20,85,Oilseeds_Yield,734.0
+Kerala,2020-21,85,Oilseeds_Yield,409.0
+Kerala,2021-22,85,Oilseeds_Yield,448.0
+Kerala,2022-23,85,Oilseeds_Yield,795.0
+Kerala,2023-24,85,Oilseeds_Yield,1100.0
+Kerala,2024-25,85,Oilseeds_Yield,677.0
+Madhya Pradesh,2004-05,85,Oilseeds_Yield,833.0
+Madhya Pradesh,2005-06,85,Oilseeds_Yield,1009.0
+Madhya Pradesh,2006-07,85,Oilseeds_Yield,955.0
+Madhya Pradesh,2007-08,85,Oilseeds_Yield,1015.0
+Madhya Pradesh,2008-09,85,Oilseeds_Yield,1075.0
+Madhya Pradesh,2009-10,85,Oilseeds_Yield,1129.0
+Madhya Pradesh,2010-11,85,Oilseeds_Yield,1143.0
+Madhya Pradesh,2011-12,85,Oilseeds_Yield,1073.0
+Madhya Pradesh,2012-13,85,Oilseeds_Yield,1231.0
+Madhya Pradesh,2013-14,85,Oilseeds_Yield,858.0
+Madhya Pradesh,2014-15,85,Oilseeds_Yield,1093.0
+Madhya Pradesh,2015-16,85,Oilseeds_Yield,841.0
+Madhya Pradesh,2016-17,85,Oilseeds_Yield,1177.0
+Madhya Pradesh,2017-18,85,Oilseeds_Yield,1046.0
+Madhya Pradesh,2018-19,85,Oilseeds_Yield,1247.0
+Madhya Pradesh,2019-20,85,Oilseeds_Yield,864.0
+Madhya Pradesh,2020-21,85,Oilseeds_Yield,772.0
+Madhya Pradesh,2021-22,85,Oilseeds_Yield,1058.0
+Madhya Pradesh,2022-23,85,Oilseeds_Yield,1070.0
+Madhya Pradesh,2023-24,85,Oilseeds_Yield,1050.0
+Madhya Pradesh,2024-25,85,Oilseeds_Yield,1065.0
+Maharashtra,2004-05,85,Oilseeds_Yield,817.0
+Maharashtra,2005-06,85,Oilseeds_Yield,925.0
+Maharashtra,2006-07,85,Oilseeds_Yield,963.0
+Maharashtra,2007-08,85,Oilseeds_Yield,1274.0
+Maharashtra,2008-09,85,Oilseeds_Yield,857.0
+Maharashtra,2009-10,85,Oilseeds_Yield,725.0
+Maharashtra,2010-11,85,Oilseeds_Yield,1394.0
+Maharashtra,2011-12,85,Oilseeds_Yield,1223.0
+Maharashtra,2012-13,85,Oilseeds_Yield,1337.0
+Maharashtra,2013-14,85,Oilseeds_Yield,1276.0
+Maharashtra,2014-15,85,Oilseeds_Yield,672.0
+Maharashtra,2015-16,85,Oilseeds_Yield,579.0
+Maharashtra,2016-17,85,Oilseeds_Yield,1160.0
+Maharashtra,2017-18,85,Oilseeds_Yield,1017.0
+Maharashtra,2018-19,85,Oilseeds_Yield,1096.0
+Maharashtra,2019-20,85,Oilseeds_Yield,1144.0
+Maharashtra,2020-21,85,Oilseeds_Yield,1422.0
+Maharashtra,2021-22,85,Oilseeds_Yield,1182.0
+Maharashtra,2022-23,85,Oilseeds_Yield,1321.0
+Maharashtra,2023-24,85,Oilseeds_Yield,1027.0
+Maharashtra,2024-25,85,Oilseeds_Yield,1430.0
+Manipur,2004-05,85,Oilseeds_Yield,444.0
+Manipur,2005-06,85,Oilseeds_Yield,7000.0
+Manipur,2006-07,85,Oilseeds_Yield,7000.0
+Manipur,2007-08,85,Oilseeds_Yield,429.0
+Manipur,2008-09,85,Oilseeds_Yield,778.0
+Manipur,2009-10,85,Oilseeds_Yield,778.0
+Manipur,2010-11,85,Oilseeds_Yield,774.0
+Manipur,2011-12,85,Oilseeds_Yield,788.0
+Manipur,2012-13,85,Oilseeds_Yield,729.0
+Manipur,2013-14,85,Oilseeds_Yield,840.0
+Manipur,2014-15,85,Oilseeds_Yield,863.0
+Manipur,2015-16,85,Oilseeds_Yield,847.0
+Manipur,2016-17,85,Oilseeds_Yield,858.0
+Manipur,2017-18,85,Oilseeds_Yield,870.0
+Manipur,2018-19,85,Oilseeds_Yield,855.0
+Manipur,2019-20,85,Oilseeds_Yield,846.0
+Manipur,2020-21,85,Oilseeds_Yield,862.0
+Manipur,2021-22,85,Oilseeds_Yield,670.0
+Manipur,2022-23,85,Oilseeds_Yield,766.0
+Manipur,2023-24,85,Oilseeds_Yield,752.0
+Manipur,2024-25,85,Oilseeds_Yield,958.0
+Meghalaya,2004-05,85,Oilseeds_Yield,663.0
+Meghalaya,2005-06,85,Oilseeds_Yield,684.0
+Meghalaya,2006-07,85,Oilseeds_Yield,673.0
+Meghalaya,2007-08,85,Oilseeds_Yield,670.0
+Meghalaya,2008-09,85,Oilseeds_Yield,676.0
+Meghalaya,2009-10,85,Oilseeds_Yield,701.0
+Meghalaya,2010-11,85,Oilseeds_Yield,704.0
+Meghalaya,2011-12,85,Oilseeds_Yield,766.0
+Meghalaya,2012-13,85,Oilseeds_Yield,695.0
+Meghalaya,2013-14,85,Oilseeds_Yield,1030.0
+Meghalaya,2014-15,85,Oilseeds_Yield,1071.0
+Meghalaya,2015-16,85,Oilseeds_Yield,1091.0
+Meghalaya,2016-17,85,Oilseeds_Yield,1051.0
+Meghalaya,2017-18,85,Oilseeds_Yield,1057.0
+Meghalaya,2018-19,85,Oilseeds_Yield,1059.0
+Meghalaya,2019-20,85,Oilseeds_Yield,1060.0
+Meghalaya,2020-21,85,Oilseeds_Yield,1062.0
+Meghalaya,2021-22,85,Oilseeds_Yield,1067.0
+Meghalaya,2022-23,85,Oilseeds_Yield,1069.0
+Meghalaya,2023-24,85,Oilseeds_Yield,1069.0
+Meghalaya,2024-25,85,Oilseeds_Yield,1069.0
+Mizoram,2004-05,85,Oilseeds_Yield,767.0
+Mizoram,2005-06,85,Oilseeds_Yield,1125.0
+Mizoram,2006-07,85,Oilseeds_Yield,927.0
+Mizoram,2007-08,85,Oilseeds_Yield,229.0
+Mizoram,2008-09,85,Oilseeds_Yield,781.0
+Mizoram,2009-10,85,Oilseeds_Yield,1106.0
+Mizoram,2010-11,85,Oilseeds_Yield,1203.0
+Mizoram,2011-12,85,Oilseeds_Yield,967.0
+Mizoram,2012-13,85,Oilseeds_Yield,1078.0
+Mizoram,2013-14,85,Oilseeds_Yield,1146.0
+Mizoram,2014-15,85,Oilseeds_Yield,1117.0
+Mizoram,2015-16,85,Oilseeds_Yield,1112.0
+Mizoram,2016-17,85,Oilseeds_Yield,1140.0
+Mizoram,2017-18,85,Oilseeds_Yield,1113.0
+Mizoram,2018-19,85,Oilseeds_Yield,1193.0
+Mizoram,2019-20,85,Oilseeds_Yield,1123.0
+Mizoram,2020-21,85,Oilseeds_Yield,1170.0
+Mizoram,2021-22,85,Oilseeds_Yield,1044.0
+Mizoram,2022-23,85,Oilseeds_Yield,1048.0
+Mizoram,2023-24,85,Oilseeds_Yield,980.0
+Mizoram,2024-25,85,Oilseeds_Yield,815.0
+Nagaland,2004-05,85,Oilseeds_Yield,1165.0
+Nagaland,2005-06,85,Oilseeds_Yield,926.0
+Nagaland,2006-07,85,Oilseeds_Yield,901.0
+Nagaland,2007-08,85,Oilseeds_Yield,896.0
+Nagaland,2008-09,85,Oilseeds_Yield,1142.0
+Nagaland,2009-10,85,Oilseeds_Yield,835.0
+Nagaland,2010-11,85,Oilseeds_Yield,1040.0
+Nagaland,2011-12,85,Oilseeds_Yield,1043.0
+Nagaland,2012-13,85,Oilseeds_Yield,1047.0
+Nagaland,2013-14,85,Oilseeds_Yield,1048.0
+Nagaland,2014-15,85,Oilseeds_Yield,1048.0
+Nagaland,2015-16,85,Oilseeds_Yield,1047.0
+Nagaland,2016-17,85,Oilseeds_Yield,1050.0
+Nagaland,2017-18,85,Oilseeds_Yield,1050.0
+Nagaland,2018-19,85,Oilseeds_Yield,1050.0
+Nagaland,2019-20,85,Oilseeds_Yield,1050.0
+Nagaland,2020-21,85,Oilseeds_Yield,1056.0
+Nagaland,2021-22,85,Oilseeds_Yield,1025.0
+Nagaland,2022-23,85,Oilseeds_Yield,1079.0
+Nagaland,2023-24,85,Oilseeds_Yield,1100.0
+Nagaland,2024-25,85,Oilseeds_Yield,1111.0
+Odisha,2004-05,85,Oilseeds_Yield,568.0
+Odisha,2005-06,85,Oilseeds_Yield,565.0
+Odisha,2006-07,85,Oilseeds_Yield,550.0
+Odisha,2007-08,85,Oilseeds_Yield,608.0
+Odisha,2008-09,85,Oilseeds_Yield,604.0
+Odisha,2009-10,85,Oilseeds_Yield,589.0
+Odisha,2010-11,85,Oilseeds_Yield,619.0
+Odisha,2011-12,85,Oilseeds_Yield,661.0
+Odisha,2012-13,85,Oilseeds_Yield,700.0
+Odisha,2013-14,85,Oilseeds_Yield,755.0
+Odisha,2014-15,85,Oilseeds_Yield,667.0
+Odisha,2015-16,85,Oilseeds_Yield,632.0
+Odisha,2016-17,85,Oilseeds_Yield,681.0
+Odisha,2017-18,85,Oilseeds_Yield,625.0
+Odisha,2018-19,85,Oilseeds_Yield,662.0
+Odisha,2019-20,85,Oilseeds_Yield,725.0
+Odisha,2020-21,85,Oilseeds_Yield,927.0
+Odisha,2021-22,85,Oilseeds_Yield,869.0
+Odisha,2022-23,85,Oilseeds_Yield,936.0
+Odisha,2023-24,85,Oilseeds_Yield,927.0
+Odisha,2024-25,85,Oilseeds_Yield,976.0
+Puducherry,2004-05,85,Oilseeds_Yield,1941.0
+Puducherry,2005-06,85,Oilseeds_Yield,1778.0
+Puducherry,2006-07,85,Oilseeds_Yield,1778.0
+Puducherry,2007-08,85,Oilseeds_Yield,1778.0
+Puducherry,2008-09,85,Oilseeds_Yield,2000.0
+Puducherry,2009-10,85,Oilseeds_Yield,1636.0
+Puducherry,2010-11,85,Oilseeds_Yield,1684.0
+Puducherry,2011-12,85,Oilseeds_Yield,1214.0
+Puducherry,2012-13,85,Oilseeds_Yield,1890.0
+Puducherry,2013-14,85,Oilseeds_Yield,1907.0
+Puducherry,2014-15,85,Oilseeds_Yield,2280.0
+Puducherry,2015-16,85,Oilseeds_Yield,2345.0
+Puducherry,2016-17,85,Oilseeds_Yield,2511.0
+Puducherry,2017-18,85,Oilseeds_Yield,2504.0
+Puducherry,2018-19,85,Oilseeds_Yield,2481.0
+Puducherry,2019-20,85,Oilseeds_Yield,1972.0
+Puducherry,2020-21,85,Oilseeds_Yield,1952.0
+Puducherry,2021-22,85,Oilseeds_Yield,1705.0
+Puducherry,2022-23,85,Oilseeds_Yield,1569.0
+Puducherry,2023-24,85,Oilseeds_Yield,1708.0
+Puducherry,2024-25,85,Oilseeds_Yield,1491.0
+Punjab,2004-05,85,Oilseeds_Yield,1098.0
+Punjab,2005-06,85,Oilseeds_Yield,1097.0
+Punjab,2006-07,85,Oilseeds_Yield,1111.0
+Punjab,2007-08,85,Oilseeds_Yield,1288.0
+Punjab,2008-09,85,Oilseeds_Yield,1276.0
+Punjab,2009-10,85,Oilseeds_Yield,1354.0
+Punjab,2010-11,85,Oilseeds_Yield,1336.0
+Punjab,2011-12,85,Oilseeds_Yield,1360.0
+Punjab,2012-13,85,Oilseeds_Yield,1350.0
+Punjab,2013-14,85,Oilseeds_Yield,1335.0
+Punjab,2014-15,85,Oilseeds_Yield,1265.0
+Punjab,2015-16,85,Oilseeds_Yield,1318.0
+Punjab,2016-17,85,Oilseeds_Yield,1386.0
+Punjab,2017-18,85,Oilseeds_Yield,1482.0
+Punjab,2018-19,85,Oilseeds_Yield,1499.0
+Punjab,2019-20,85,Oilseeds_Yield,1472.0
+Punjab,2020-21,85,Oilseeds_Yield,1548.0
+Punjab,2021-22,85,Oilseeds_Yield,1522.0
+Punjab,2022-23,85,Oilseeds_Yield,1566.0
+Punjab,2023-24,85,Oilseeds_Yield,1574.0
+Punjab,2024-25,85,Oilseeds_Yield,1730.0
+Rajasthan,2004-05,85,Oilseeds_Yield,1079.0
+Rajasthan,2005-06,85,Oilseeds_Yield,1134.0
+Rajasthan,2006-07,85,Oilseeds_Yield,1146.0
+Rajasthan,2007-08,85,Oilseeds_Yield,1051.0
+Rajasthan,2008-09,85,Oilseeds_Yield,1114.0
+Rajasthan,2009-10,85,Oilseeds_Yield,1066.0
+Rajasthan,2010-11,85,Oilseeds_Yield,1203.0
+Rajasthan,2011-12,85,Oilseeds_Yield,1243.0
+Rajasthan,2012-13,85,Oilseeds_Yield,1296.0
+Rajasthan,2013-14,85,Oilseeds_Yield,1144.0
+Rajasthan,2014-15,85,Oilseeds_Yield,1192.0
+Rajasthan,2015-16,85,Oilseeds_Yield,1182.0
+Rajasthan,2016-17,85,Oilseeds_Yield,1351.0
+Rajasthan,2017-18,85,Oilseeds_Yield,1477.0
+Rajasthan,2018-19,85,Oilseeds_Yield,1581.0
+Rajasthan,2019-20,85,Oilseeds_Yield,1248.0
+Rajasthan,2020-21,85,Oilseeds_Yield,1538.0
+Rajasthan,2021-22,85,Oilseeds_Yield,1509.0
+Rajasthan,2022-23,85,Oilseeds_Yield,1466.0
+Rajasthan,2023-24,85,Oilseeds_Yield,1503.0
+Rajasthan,2024-25,85,Oilseeds_Yield,1515.0
+Sikkim,2004-05,85,Oilseeds_Yield,768.0
+Sikkim,2005-06,85,Oilseeds_Yield,727.0
+Sikkim,2006-07,85,Oilseeds_Yield,727.0
+Sikkim,2007-08,85,Oilseeds_Yield,872.0
+Sikkim,2008-09,85,Oilseeds_Yield,763.0
+Sikkim,2009-10,85,Oilseeds_Yield,959.0
+Sikkim,2010-11,85,Oilseeds_Yield,832.0
+Sikkim,2011-12,85,Oilseeds_Yield,841.0
+Sikkim,2012-13,85,Oilseeds_Yield,863.0
+Sikkim,2013-14,85,Oilseeds_Yield,887.0
+Sikkim,2014-15,85,Oilseeds_Yield,891.0
+Sikkim,2015-16,85,Oilseeds_Yield,909.0
+Sikkim,2016-17,85,Oilseeds_Yield,918.0
+Sikkim,2017-18,85,Oilseeds_Yield,924.0
+Sikkim,2018-19,85,Oilseeds_Yield,925.0
+Sikkim,2019-20,85,Oilseeds_Yield,925.0
+Sikkim,2020-21,85,Oilseeds_Yield,925.0
+Sikkim,2021-22,85,Oilseeds_Yield,926.0
+Sikkim,2022-23,85,Oilseeds_Yield,932.0
+Sikkim,2023-24,85,Oilseeds_Yield,870.0
+Sikkim,2024-25,85,Oilseeds_Yield,870.0
+Tamil Nadu,2004-05,85,Oilseeds_Yield,1483.0
+Tamil Nadu,2005-06,85,Oilseeds_Yield,1624.0
+Tamil Nadu,2006-07,85,Oilseeds_Yield,1829.0
+Tamil Nadu,2007-08,85,Oilseeds_Yield,1739.0
+Tamil Nadu,2008-09,85,Oilseeds_Yield,1782.0
+Tamil Nadu,2009-10,85,Oilseeds_Yield,1898.0
+Tamil Nadu,2010-11,85,Oilseeds_Yield,2076.0
+Tamil Nadu,2011-12,85,Oilseeds_Yield,2479.0
+Tamil Nadu,2012-13,85,Oilseeds_Yield,2103.0
+Tamil Nadu,2013-14,85,Oilseeds_Yield,2362.0
+Tamil Nadu,2014-15,85,Oilseeds_Yield,2374.0
+Tamil Nadu,2015-16,85,Oilseeds_Yield,2290.0
+Tamil Nadu,2016-17,85,Oilseeds_Yield,1870.0
+Tamil Nadu,2017-18,85,Oilseeds_Yield,2729.0
+Tamil Nadu,2018-19,85,Oilseeds_Yield,2411.0
+Tamil Nadu,2019-20,85,Oilseeds_Yield,2626.0
+Tamil Nadu,2020-21,85,Oilseeds_Yield,2244.0
+Tamil Nadu,2021-22,85,Oilseeds_Yield,2505.0
+Tamil Nadu,2022-23,85,Oilseeds_Yield,2288.0
+Tamil Nadu,2023-24,85,Oilseeds_Yield,2287.0
+Tamil Nadu,2024-25,85,Oilseeds_Yield,1998.0
+Telangana,2011-12,85,Oilseeds_Yield,1216.0
+Telangana,2012-13,85,Oilseeds_Yield,1430.0
+Telangana,2013-14,85,Oilseeds_Yield,1366.0
+Telangana,2014-15,85,Oilseeds_Yield,1270.0
+Telangana,2015-16,85,Oilseeds_Yield,1102.0
+Telangana,2016-17,85,Oilseeds_Yield,1385.0
+Telangana,2017-18,85,Oilseeds_Yield,1791.0
+Telangana,2018-19,85,Oilseeds_Yield,1835.0
+Telangana,2019-20,85,Oilseeds_Yield,1886.0
+Telangana,2020-21,85,Oilseeds_Yield,1713.0
+Telangana,2021-22,85,Oilseeds_Yield,1817.0
+Telangana,2022-23,85,Oilseeds_Yield,1806.0
+Telangana,2023-24,85,Oilseeds_Yield,1735.0
+Telangana,2024-25,85,Oilseeds_Yield,1889.0
+Tripura,2004-05,85,Oilseeds_Yield,722.0
+Tripura,2005-06,85,Oilseeds_Yield,709.0
+Tripura,2006-07,85,Oilseeds_Yield,705.0
+Tripura,2007-08,85,Oilseeds_Yield,675.0
+Tripura,2008-09,85,Oilseeds_Yield,714.0
+Tripura,2009-10,85,Oilseeds_Yield,717.0
+Tripura,2010-11,85,Oilseeds_Yield,732.0
+Tripura,2011-12,85,Oilseeds_Yield,751.0
+Tripura,2012-13,85,Oilseeds_Yield,506.0
+Tripura,2013-14,85,Oilseeds_Yield,759.0
+Tripura,2014-15,85,Oilseeds_Yield,793.0
+Tripura,2015-16,85,Oilseeds_Yield,771.0
+Tripura,2016-17,85,Oilseeds_Yield,814.0
+Tripura,2017-18,85,Oilseeds_Yield,780.0
+Tripura,2018-19,85,Oilseeds_Yield,817.0
+Tripura,2019-20,85,Oilseeds_Yield,838.0
+Tripura,2020-21,85,Oilseeds_Yield,864.0
+Tripura,2021-22,85,Oilseeds_Yield,833.0
+Tripura,2022-23,85,Oilseeds_Yield,848.0
+Tripura,2023-24,85,Oilseeds_Yield,848.0
+Tripura,2024-25,85,Oilseeds_Yield,892.0
+Uttar Pradesh,2004-05,85,Oilseeds_Yield,861.0
+Uttar Pradesh,2005-06,85,Oilseeds_Yield,993.0
+Uttar Pradesh,2006-07,85,Oilseeds_Yield,837.0
+Uttar Pradesh,2007-08,85,Oilseeds_Yield,856.0
+Uttar Pradesh,2008-09,85,Oilseeds_Yield,865.0
+Uttar Pradesh,2009-10,85,Oilseeds_Yield,753.0
+Uttar Pradesh,2010-11,85,Oilseeds_Yield,832.0
+Uttar Pradesh,2011-12,85,Oilseeds_Yield,828.0
+Uttar Pradesh,2012-13,85,Oilseeds_Yield,898.0
+Uttar Pradesh,2013-14,85,Oilseeds_Yield,810.0
+Uttar Pradesh,2014-15,85,Oilseeds_Yield,698.0
+Uttar Pradesh,2015-16,85,Oilseeds_Yield,670.0
+Uttar Pradesh,2016-17,85,Oilseeds_Yield,876.0
+Uttar Pradesh,2017-18,85,Oilseeds_Yield,1054.0
+Uttar Pradesh,2018-19,85,Oilseeds_Yield,1079.0
+Uttar Pradesh,2019-20,85,Oilseeds_Yield,908.0
+Uttar Pradesh,2020-21,85,Oilseeds_Yield,1066.0
+Uttar Pradesh,2021-22,85,Oilseeds_Yield,1025.0
+Uttar Pradesh,2022-23,85,Oilseeds_Yield,1158.0
+Uttar Pradesh,2023-24,85,Oilseeds_Yield,1164.0
+Uttar Pradesh,2024-25,85,Oilseeds_Yield,1196.0
+Uttarakhand,2004-05,85,Oilseeds_Yield,927.0
+Uttarakhand,2005-06,85,Oilseeds_Yield,857.0
+Uttarakhand,2006-07,85,Oilseeds_Yield,750.0
+Uttarakhand,2007-08,85,Oilseeds_Yield,967.0
+Uttarakhand,2008-09,85,Oilseeds_Yield,1000.0
+Uttarakhand,2009-10,85,Oilseeds_Yield,1138.0
+Uttarakhand,2010-11,85,Oilseeds_Yield,1012.0
+Uttarakhand,2011-12,85,Oilseeds_Yield,1082.0
+Uttarakhand,2012-13,85,Oilseeds_Yield,1235.0
+Uttarakhand,2013-14,85,Oilseeds_Yield,1070.0
+Uttarakhand,2014-15,85,Oilseeds_Yield,938.0
+Uttarakhand,2015-16,85,Oilseeds_Yield,1100.0
+Uttarakhand,2016-17,85,Oilseeds_Yield,929.0
+Uttarakhand,2017-18,85,Oilseeds_Yield,916.0
+Uttarakhand,2018-19,85,Oilseeds_Yield,938.0
+Uttarakhand,2019-20,85,Oilseeds_Yield,965.0
+Uttarakhand,2020-21,85,Oilseeds_Yield,970.0
+Uttarakhand,2021-22,85,Oilseeds_Yield,949.0
+Uttarakhand,2022-23,85,Oilseeds_Yield,994.0
+Uttarakhand,2023-24,85,Oilseeds_Yield,1002.0
+Uttarakhand,2024-25,85,Oilseeds_Yield,1105.0
+West Bengal,2004-05,85,Oilseeds_Yield,964.0
+West Bengal,2005-06,85,Oilseeds_Yield,952.0
+West Bengal,2006-07,85,Oilseeds_Yield,918.0
+West Bengal,2007-08,85,Oilseeds_Yield,997.0
+West Bengal,2008-09,85,Oilseeds_Yield,828.0
+West Bengal,2009-10,85,Oilseeds_Yield,1065.0
+West Bengal,2010-11,85,Oilseeds_Yield,1048.0
+West Bengal,2011-12,85,Oilseeds_Yield,994.0
+West Bengal,2012-13,85,Oilseeds_Yield,1162.0
+West Bengal,2013-14,85,Oilseeds_Yield,1181.0
+West Bengal,2014-15,85,Oilseeds_Yield,1161.0
+West Bengal,2015-16,85,Oilseeds_Yield,1168.0
+West Bengal,2016-17,85,Oilseeds_Yield,1147.0
+West Bengal,2017-18,85,Oilseeds_Yield,1198.0
+West Bengal,2018-19,85,Oilseeds_Yield,1255.0
+West Bengal,2019-20,85,Oilseeds_Yield,1060.0
+West Bengal,2020-21,85,Oilseeds_Yield,1189.0
+West Bengal,2021-22,85,Oilseeds_Yield,1252.0
+West Bengal,2022-23,85,Oilseeds_Yield,1272.0
+West Bengal,2023-24,85,Oilseeds_Yield,1330.0
+West Bengal,2024-25,85,Oilseeds_Yield,1338.0

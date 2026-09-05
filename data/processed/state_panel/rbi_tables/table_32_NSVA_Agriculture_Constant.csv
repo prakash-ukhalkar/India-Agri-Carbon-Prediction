@@ -1,0 +1,454 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andaman & Nicobar Islands,2011-12,32,NSVA_Agriculture_Constant,22673.0
+Andaman & Nicobar Islands,2012-13,32,NSVA_Agriculture_Constant,23144.0
+Andaman & Nicobar Islands,2013-14,32,NSVA_Agriculture_Constant,25657.0
+Andaman & Nicobar Islands,2014-15,32,NSVA_Agriculture_Constant,26841.0
+Andaman & Nicobar Islands,2015-16,32,NSVA_Agriculture_Constant,26766.0
+Andaman & Nicobar Islands,2016-17,32,NSVA_Agriculture_Constant,21714.0
+Andaman & Nicobar Islands,2017-18,32,NSVA_Agriculture_Constant,26480.0
+Andaman & Nicobar Islands,2018-19,32,NSVA_Agriculture_Constant,20455.0
+Andaman & Nicobar Islands,2019-20,32,NSVA_Agriculture_Constant,18622.0
+Andaman & Nicobar Islands,2020-21,32,NSVA_Agriculture_Constant,22307.0
+Andaman & Nicobar Islands,2021-22,32,NSVA_Agriculture_Constant,22631.0
+Andaman & Nicobar Islands,2022-23,32,NSVA_Agriculture_Constant,22850.0
+Andaman & Nicobar Islands,2023-24,32,NSVA_Agriculture_Constant,21459.0
+Andhra Pradesh,2011-12,32,NSVA_Agriculture_Constant,4769366.0
+Andhra Pradesh,2012-13,32,NSVA_Agriculture_Constant,4793197.0
+Andhra Pradesh,2013-14,32,NSVA_Agriculture_Constant,5560702.0
+Andhra Pradesh,2014-15,32,NSVA_Agriculture_Constant,5570842.0
+Andhra Pradesh,2015-16,32,NSVA_Agriculture_Constant,5297026.0
+Andhra Pradesh,2016-17,32,NSVA_Agriculture_Constant,5850875.0
+Andhra Pradesh,2017-18,32,NSVA_Agriculture_Constant,6810935.0
+Andhra Pradesh,2018-19,32,NSVA_Agriculture_Constant,6291727.0
+Andhra Pradesh,2019-20,32,NSVA_Agriculture_Constant,7146883.0
+Andhra Pradesh,2020-21,32,NSVA_Agriculture_Constant,6833828.0
+Andhra Pradesh,2021-22,32,NSVA_Agriculture_Constant,7289067.0
+Andhra Pradesh,2022-23,32,NSVA_Agriculture_Constant,7367146.0
+Andhra Pradesh,2023-24,32,NSVA_Agriculture_Constant,7000514.0
+Andhra Pradesh,2024-25,32,NSVA_Agriculture_Constant,7813202.0
+Arunachal Pradesh,2011-12,32,NSVA_Agriculture_Constant,248503.0
+Arunachal Pradesh,2012-13,32,NSVA_Agriculture_Constant,273221.0
+Arunachal Pradesh,2013-14,32,NSVA_Agriculture_Constant,287222.0
+Arunachal Pradesh,2014-15,32,NSVA_Agriculture_Constant,294674.0
+Arunachal Pradesh,2015-16,32,NSVA_Agriculture_Constant,258899.0
+Arunachal Pradesh,2016-17,32,NSVA_Agriculture_Constant,182046.0
+Arunachal Pradesh,2017-18,32,NSVA_Agriculture_Constant,185502.0
+Arunachal Pradesh,2018-19,32,NSVA_Agriculture_Constant,185995.0
+Arunachal Pradesh,2019-20,32,NSVA_Agriculture_Constant,184225.0
+Arunachal Pradesh,2020-21,32,NSVA_Agriculture_Constant,195685.0
+Arunachal Pradesh,2021-22,32,NSVA_Agriculture_Constant,206419.0
+Arunachal Pradesh,2022-23,32,NSVA_Agriculture_Constant,177904.0
+Arunachal Pradesh,2023-24,32,NSVA_Agriculture_Constant,169438.0
+Arunachal Pradesh,2024-25,32,NSVA_Agriculture_Constant,176254.0
+Assam,2011-12,32,NSVA_Agriculture_Constant,1888760.0
+Assam,2012-13,32,NSVA_Agriculture_Constant,2298656.0
+Assam,2013-14,32,NSVA_Agriculture_Constant,2171636.0
+Assam,2014-15,32,NSVA_Agriculture_Constant,2107447.0
+Assam,2015-16,32,NSVA_Agriculture_Constant,2275122.0
+Assam,2016-17,32,NSVA_Agriculture_Constant,2390436.0
+Assam,2017-18,32,NSVA_Agriculture_Constant,2416994.0
+Assam,2018-19,32,NSVA_Agriculture_Constant,2461170.0
+Assam,2019-20,32,NSVA_Agriculture_Constant,2319352.0
+Assam,2020-21,32,NSVA_Agriculture_Constant,2236038.0
+Assam,2021-22,32,NSVA_Agriculture_Constant,2311989.0
+Assam,2022-23,32,NSVA_Agriculture_Constant,3633071.0
+Assam,2023-24,32,NSVA_Agriculture_Constant,3825010.0
+Assam,2024-25,32,NSVA_Agriculture_Constant,4053200.0
+Bihar,2011-12,32,NSVA_Agriculture_Constant,3905314.0
+Bihar,2012-13,32,NSVA_Agriculture_Constant,4367513.0
+Bihar,2013-14,32,NSVA_Agriculture_Constant,3290765.0
+Bihar,2014-15,32,NSVA_Agriculture_Constant,3073814.0
+Bihar,2015-16,32,NSVA_Agriculture_Constant,3063960.0
+Bihar,2016-17,32,NSVA_Agriculture_Constant,3385781.0
+Bihar,2017-18,32,NSVA_Agriculture_Constant,3653969.0
+Bihar,2018-19,32,NSVA_Agriculture_Constant,3383437.0
+Bihar,2019-20,32,NSVA_Agriculture_Constant,3133173.0
+Bihar,2020-21,32,NSVA_Agriculture_Constant,3384429.0
+Bihar,2021-22,32,NSVA_Agriculture_Constant,3453481.0
+Bihar,2022-23,32,NSVA_Agriculture_Constant,3668513.0
+Bihar,2023-24,32,NSVA_Agriculture_Constant,3881655.0
+Bihar,2024-25,32,NSVA_Agriculture_Constant,3918975.0
+Chandigarh,2011-12,32,NSVA_Agriculture_Constant,749.0
+Chandigarh,2012-13,32,NSVA_Agriculture_Constant,698.0
+Chandigarh,2013-14,32,NSVA_Agriculture_Constant,594.0
+Chandigarh,2014-15,32,NSVA_Agriculture_Constant,499.0
+Chandigarh,2015-16,32,NSVA_Agriculture_Constant,469.0
+Chandigarh,2016-17,32,NSVA_Agriculture_Constant,427.0
+Chandigarh,2017-18,32,NSVA_Agriculture_Constant,397.0
+Chandigarh,2018-19,32,NSVA_Agriculture_Constant,351.0
+Chandigarh,2019-20,32,NSVA_Agriculture_Constant,332.0
+Chandigarh,2020-21,32,NSVA_Agriculture_Constant,261.0
+Chandigarh,2021-22,32,NSVA_Agriculture_Constant,202.0
+Chandigarh,2022-23,32,NSVA_Agriculture_Constant,124.0
+Chandigarh,2023-24,32,NSVA_Agriculture_Constant,42.0
+Chhattisgarh,2011-12,32,NSVA_Agriculture_Constant,1646143.0
+Chhattisgarh,2012-13,32,NSVA_Agriculture_Constant,1759339.0
+Chhattisgarh,2013-14,32,NSVA_Agriculture_Constant,1802700.0
+Chhattisgarh,2014-15,32,NSVA_Agriculture_Constant,1852931.0
+Chhattisgarh,2015-16,32,NSVA_Agriculture_Constant,1778748.0
+Chhattisgarh,2016-17,32,NSVA_Agriculture_Constant,2244327.0
+Chhattisgarh,2017-18,32,NSVA_Agriculture_Constant,1775259.0
+Chhattisgarh,2018-19,32,NSVA_Agriculture_Constant,2051322.0
+Chhattisgarh,2019-20,32,NSVA_Agriculture_Constant,2084876.0
+Chhattisgarh,2020-21,32,NSVA_Agriculture_Constant,2170728.0
+Chhattisgarh,2021-22,32,NSVA_Agriculture_Constant,2281085.0
+Chhattisgarh,2022-23,32,NSVA_Agriculture_Constant,2520712.0
+Chhattisgarh,2023-24,32,NSVA_Agriculture_Constant,2563840.0
+Chhattisgarh,2024-25,32,NSVA_Agriculture_Constant,2664377.0
+Delhi,2011-12,32,NSVA_Agriculture_Constant,62741.0
+Delhi,2012-13,32,NSVA_Agriculture_Constant,57427.0
+Delhi,2013-14,32,NSVA_Agriculture_Constant,51344.0
+Delhi,2014-15,32,NSVA_Agriculture_Constant,23598.0
+Delhi,2015-16,32,NSVA_Agriculture_Constant,17277.0
+Delhi,2016-17,32,NSVA_Agriculture_Constant,17229.0
+Delhi,2017-18,32,NSVA_Agriculture_Constant,15112.0
+Delhi,2018-19,32,NSVA_Agriculture_Constant,15313.0
+Delhi,2019-20,32,NSVA_Agriculture_Constant,16106.0
+Delhi,2020-21,32,NSVA_Agriculture_Constant,16944.0
+Delhi,2021-22,32,NSVA_Agriculture_Constant,15613.0
+Delhi,2022-23,32,NSVA_Agriculture_Constant,15205.0
+Delhi,2023-24,32,NSVA_Agriculture_Constant,15974.0
+Delhi,2024-25,32,NSVA_Agriculture_Constant,15559.0
+Goa,2011-12,32,NSVA_Agriculture_Constant,93081.0
+Goa,2012-13,32,NSVA_Agriculture_Constant,93645.0
+Goa,2013-14,32,NSVA_Agriculture_Constant,100326.0
+Goa,2014-15,32,NSVA_Agriculture_Constant,97303.0
+Goa,2015-16,32,NSVA_Agriculture_Constant,93569.0
+Goa,2016-17,32,NSVA_Agriculture_Constant,101136.0
+Goa,2017-18,32,NSVA_Agriculture_Constant,100138.0
+Goa,2018-19,32,NSVA_Agriculture_Constant,102020.0
+Goa,2019-20,32,NSVA_Agriculture_Constant,90284.0
+Goa,2020-21,32,NSVA_Agriculture_Constant,88936.0
+Goa,2021-22,32,NSVA_Agriculture_Constant,87577.0
+Goa,2022-23,32,NSVA_Agriculture_Constant,92022.0
+Goa,2023-24,32,NSVA_Agriculture_Constant,99338.0
+Gujarat,2011-12,32,NSVA_Agriculture_Constant,7559820.0
+Gujarat,2012-13,32,NSVA_Agriculture_Constant,5877481.0
+Gujarat,2013-14,32,NSVA_Agriculture_Constant,8187059.0
+Gujarat,2014-15,32,NSVA_Agriculture_Constant,7913255.0
+Gujarat,2015-16,32,NSVA_Agriculture_Constant,7263047.0
+Gujarat,2016-17,32,NSVA_Agriculture_Constant,7816676.0
+Gujarat,2017-18,32,NSVA_Agriculture_Constant,8783375.0
+Gujarat,2018-19,32,NSVA_Agriculture_Constant,7053050.0
+Gujarat,2019-20,32,NSVA_Agriculture_Constant,8430152.0
+Gujarat,2020-21,32,NSVA_Agriculture_Constant,8525088.0
+Gujarat,2021-22,32,NSVA_Agriculture_Constant,9015474.0
+Gujarat,2022-23,32,NSVA_Agriculture_Constant,9559055.0
+Haryana,2011-12,32,NSVA_Agriculture_Constant,3765609.0
+Haryana,2012-13,32,NSVA_Agriculture_Constant,3508882.0
+Haryana,2013-14,32,NSVA_Agriculture_Constant,3533449.0
+Haryana,2014-15,32,NSVA_Agriculture_Constant,3185780.0
+Haryana,2015-16,32,NSVA_Agriculture_Constant,3229284.0
+Haryana,2016-17,32,NSVA_Agriculture_Constant,3632329.0
+Haryana,2017-18,32,NSVA_Agriculture_Constant,3735274.0
+Haryana,2018-19,32,NSVA_Agriculture_Constant,3809836.0
+Haryana,2019-20,32,NSVA_Agriculture_Constant,3782328.0
+Haryana,2020-21,32,NSVA_Agriculture_Constant,3727907.0
+Haryana,2021-22,32,NSVA_Agriculture_Constant,3463709.0
+Haryana,2022-23,32,NSVA_Agriculture_Constant,3286144.0
+Haryana,2023-24,32,NSVA_Agriculture_Constant,3628845.0
+Haryana,2024-25,32,NSVA_Agriculture_Constant,3638616.0
+Himachal Pradesh,2011-12,32,NSVA_Agriculture_Constant,506994.0
+Himachal Pradesh,2012-13,32,NSVA_Agriculture_Constant,563076.0
+Himachal Pradesh,2013-14,32,NSVA_Agriculture_Constant,673414.0
+Himachal Pradesh,2014-15,32,NSVA_Agriculture_Constant,577750.0
+Himachal Pradesh,2015-16,32,NSVA_Agriculture_Constant,660768.0
+Himachal Pradesh,2016-17,32,NSVA_Agriculture_Constant,544259.0
+Himachal Pradesh,2017-18,32,NSVA_Agriculture_Constant,470964.0
+Himachal Pradesh,2018-19,32,NSVA_Agriculture_Constant,449253.0
+Himachal Pradesh,2019-20,32,NSVA_Agriculture_Constant,607604.0
+Himachal Pradesh,2020-21,32,NSVA_Agriculture_Constant,494207.0
+Himachal Pradesh,2021-22,32,NSVA_Agriculture_Constant,518766.0
+Himachal Pradesh,2022-23,32,NSVA_Agriculture_Constant,488919.0
+Himachal Pradesh,2023-24,32,NSVA_Agriculture_Constant,392657.0
+Himachal Pradesh,2024-25,32,NSVA_Agriculture_Constant,400960.0
+Jammu & Kashmir,2011-12,32,NSVA_Agriculture_Constant,623142.0
+Jammu & Kashmir,2012-13,32,NSVA_Agriculture_Constant,548997.0
+Jammu & Kashmir,2013-14,32,NSVA_Agriculture_Constant,585888.0
+Jammu & Kashmir,2014-15,32,NSVA_Agriculture_Constant,361664.0
+Jammu & Kashmir,2015-16,32,NSVA_Agriculture_Constant,579600.0
+Jammu & Kashmir,2016-17,32,NSVA_Agriculture_Constant,562081.0
+Jammu & Kashmir,2017-18,32,NSVA_Agriculture_Constant,542308.0
+Jammu & Kashmir,2018-19,32,NSVA_Agriculture_Constant,610597.0
+Jammu & Kashmir,2019-20,32,NSVA_Agriculture_Constant,542614.0
+Jammu & Kashmir,2020-21,32,NSVA_Agriculture_Constant,506204.0
+Jammu & Kashmir,2021-22,32,NSVA_Agriculture_Constant,488079.0
+Jammu & Kashmir,2022-23,32,NSVA_Agriculture_Constant,602982.0
+Jammu & Kashmir,2023-24,32,NSVA_Agriculture_Constant,668599.0
+Jammu & Kashmir,2024-25,32,NSVA_Agriculture_Constant,700746.0
+Jharkhand,2011-12,32,NSVA_Agriculture_Constant,1227605.0
+Jharkhand,2012-13,32,NSVA_Agriculture_Constant,1375517.0
+Jharkhand,2013-14,32,NSVA_Agriculture_Constant,1297247.0
+Jharkhand,2014-15,32,NSVA_Agriculture_Constant,1365336.0
+Jharkhand,2015-16,32,NSVA_Agriculture_Constant,987460.0
+Jharkhand,2016-17,32,NSVA_Agriculture_Constant,1304171.0
+Jharkhand,2017-18,32,NSVA_Agriculture_Constant,1399025.0
+Jharkhand,2018-19,32,NSVA_Agriculture_Constant,1084172.0
+Jharkhand,2019-20,32,NSVA_Agriculture_Constant,1198807.0
+Jharkhand,2020-21,32,NSVA_Agriculture_Constant,1279346.0
+Jharkhand,2021-22,32,NSVA_Agriculture_Constant,1350514.0
+Jharkhand,2022-23,32,NSVA_Agriculture_Constant,1068368.0
+Jharkhand,2023-24,32,NSVA_Agriculture_Constant,1133503.0
+Jharkhand,2024-25,32,NSVA_Agriculture_Constant,1450177.0
+Karnataka,2011-12,32,NSVA_Agriculture_Constant,4807446.0
+Karnataka,2012-13,32,NSVA_Agriculture_Constant,4358184.0
+Karnataka,2013-14,32,NSVA_Agriculture_Constant,4807504.0
+Karnataka,2014-15,32,NSVA_Agriculture_Constant,5069296.0
+Karnataka,2015-16,32,NSVA_Agriculture_Constant,4228126.0
+Karnataka,2016-17,32,NSVA_Agriculture_Constant,4303893.0
+Karnataka,2017-18,32,NSVA_Agriculture_Constant,5735861.0
+Karnataka,2018-19,32,NSVA_Agriculture_Constant,5061953.0
+Karnataka,2019-20,32,NSVA_Agriculture_Constant,6132925.0
+Karnataka,2020-21,32,NSVA_Agriculture_Constant,6722105.0
+Karnataka,2021-22,32,NSVA_Agriculture_Constant,6791452.0
+Karnataka,2022-23,32,NSVA_Agriculture_Constant,6352956.0
+Karnataka,2023-24,32,NSVA_Agriculture_Constant,5603451.0
+Karnataka,2024-25,32,NSVA_Agriculture_Constant,5740886.0
+Kerala,2011-12,32,NSVA_Agriculture_Constant,2156600.0
+Kerala,2012-13,32,NSVA_Agriculture_Constant,1927695.0
+Kerala,2013-14,32,NSVA_Agriculture_Constant,1810319.0
+Kerala,2014-15,32,NSVA_Agriculture_Constant,1710998.0
+Kerala,2015-16,32,NSVA_Agriculture_Constant,1444814.0
+Kerala,2016-17,32,NSVA_Agriculture_Constant,1513952.0
+Kerala,2017-18,32,NSVA_Agriculture_Constant,1545933.0
+Kerala,2018-19,32,NSVA_Agriculture_Constant,1390910.0
+Kerala,2019-20,32,NSVA_Agriculture_Constant,1355567.0
+Kerala,2020-21,32,NSVA_Agriculture_Constant,1400131.0
+Kerala,2021-22,32,NSVA_Agriculture_Constant,1278133.0
+Kerala,2022-23,32,NSVA_Agriculture_Constant,1271696.0
+Kerala,2023-24,32,NSVA_Agriculture_Constant,1197094.0
+Kerala,2024-25,32,NSVA_Agriculture_Constant,1136907.0
+Madhya Pradesh,2011-12,32,NSVA_Agriculture_Constant,6889445.0
+Madhya Pradesh,2012-13,32,NSVA_Agriculture_Constant,8916071.0
+Madhya Pradesh,2013-14,32,NSVA_Agriculture_Constant,8687182.0
+Madhya Pradesh,2014-15,32,NSVA_Agriculture_Constant,8768349.0
+Madhya Pradesh,2015-16,32,NSVA_Agriculture_Constant,8357378.0
+Madhya Pradesh,2016-17,32,NSVA_Agriculture_Constant,11145635.0
+Madhya Pradesh,2017-18,32,NSVA_Agriculture_Constant,10840589.0
+Madhya Pradesh,2018-19,32,NSVA_Agriculture_Constant,10532355.0
+Madhya Pradesh,2019-20,32,NSVA_Agriculture_Constant,12043288.0
+Madhya Pradesh,2020-21,32,NSVA_Agriculture_Constant,12556006.0
+Madhya Pradesh,2021-22,32,NSVA_Agriculture_Constant,13245614.0
+Madhya Pradesh,2022-23,32,NSVA_Agriculture_Constant,13899309.0
+Madhya Pradesh,2023-24,32,NSVA_Agriculture_Constant,14101526.0
+Madhya Pradesh,2024-25,32,NSVA_Agriculture_Constant,14274737.0
+Maharashtra,2011-12,32,NSVA_Agriculture_Constant,9615252.0
+Maharashtra,2012-13,32,NSVA_Agriculture_Constant,9395541.0
+Maharashtra,2013-14,32,NSVA_Agriculture_Constant,11205250.0
+Maharashtra,2014-15,32,NSVA_Agriculture_Constant,9189037.0
+Maharashtra,2015-16,32,NSVA_Agriculture_Constant,8426242.0
+Maharashtra,2016-17,32,NSVA_Agriculture_Constant,10684082.0
+Maharashtra,2017-18,32,NSVA_Agriculture_Constant,10069645.0
+Maharashtra,2018-19,32,NSVA_Agriculture_Constant,9208647.0
+Maharashtra,2019-20,32,NSVA_Agriculture_Constant,9931137.0
+Maharashtra,2020-21,32,NSVA_Agriculture_Constant,11521021.0
+Maharashtra,2021-22,32,NSVA_Agriculture_Constant,11894725.0
+Maharashtra,2022-23,32,NSVA_Agriculture_Constant,12071088.0
+Maharashtra,2023-24,32,NSVA_Agriculture_Constant,12108517.0
+Maharashtra,2024-25,32,NSVA_Agriculture_Constant,13408746.0
+Manipur,2011-12,32,NSVA_Agriculture_Constant,120337.0
+Manipur,2012-13,32,NSVA_Agriculture_Constant,140047.0
+Manipur,2013-14,32,NSVA_Agriculture_Constant,147174.0
+Manipur,2014-15,32,NSVA_Agriculture_Constant,155764.0
+Manipur,2015-16,32,NSVA_Agriculture_Constant,130841.0
+Manipur,2016-17,32,NSVA_Agriculture_Constant,119341.0
+Manipur,2017-18,32,NSVA_Agriculture_Constant,244531.0
+Manipur,2018-19,32,NSVA_Agriculture_Constant,243709.0
+Manipur,2019-20,32,NSVA_Agriculture_Constant,229677.0
+Manipur,2020-21,32,NSVA_Agriculture_Constant,233738.0
+Manipur,2021-22,32,NSVA_Agriculture_Constant,254792.0
+Manipur,2022-23,32,NSVA_Agriculture_Constant,204867.0
+Manipur,2023-24,32,NSVA_Agriculture_Constant,201133.0
+Meghalaya,2011-12,32,NSVA_Agriculture_Constant,145770.0
+Meghalaya,2012-13,32,NSVA_Agriculture_Constant,175360.0
+Meghalaya,2013-14,32,NSVA_Agriculture_Constant,177756.0
+Meghalaya,2014-15,32,NSVA_Agriculture_Constant,185992.0
+Meghalaya,2015-16,32,NSVA_Agriculture_Constant,189972.0
+Meghalaya,2016-17,32,NSVA_Agriculture_Constant,189646.0
+Meghalaya,2017-18,32,NSVA_Agriculture_Constant,191585.0
+Meghalaya,2018-19,32,NSVA_Agriculture_Constant,184203.0
+Meghalaya,2019-20,32,NSVA_Agriculture_Constant,176566.0
+Meghalaya,2020-21,32,NSVA_Agriculture_Constant,177377.0
+Meghalaya,2021-22,32,NSVA_Agriculture_Constant,189245.0
+Meghalaya,2022-23,32,NSVA_Agriculture_Constant,186853.0
+Meghalaya,2023-24,32,NSVA_Agriculture_Constant,190213.0
+Meghalaya,2024-25,32,NSVA_Agriculture_Constant,193786.0
+Mizoram,2011-12,32,NSVA_Agriculture_Constant,71321.0
+Mizoram,2012-13,32,NSVA_Agriculture_Constant,68250.0
+Mizoram,2013-14,32,NSVA_Agriculture_Constant,77727.0
+Mizoram,2014-15,32,NSVA_Agriculture_Constant,82384.0
+Mizoram,2015-16,32,NSVA_Agriculture_Constant,78197.0
+Mizoram,2016-17,32,NSVA_Agriculture_Constant,81225.0
+Mizoram,2017-18,32,NSVA_Agriculture_Constant,82746.0
+Mizoram,2018-19,32,NSVA_Agriculture_Constant,90048.0
+Mizoram,2019-20,32,NSVA_Agriculture_Constant,90554.0
+Mizoram,2020-21,32,NSVA_Agriculture_Constant,98010.0
+Mizoram,2021-22,32,NSVA_Agriculture_Constant,89606.0
+Mizoram,2022-23,32,NSVA_Agriculture_Constant,90309.0
+Mizoram,2023-24,32,NSVA_Agriculture_Constant,84186.0
+Nagaland,2011-12,32,NSVA_Agriculture_Constant,161408.0
+Nagaland,2012-13,32,NSVA_Agriculture_Constant,189204.0
+Nagaland,2013-14,32,NSVA_Agriculture_Constant,225448.0
+Nagaland,2014-15,32,NSVA_Agriculture_Constant,236193.0
+Nagaland,2015-16,32,NSVA_Agriculture_Constant,233195.0
+Nagaland,2016-17,32,NSVA_Agriculture_Constant,235054.0
+Nagaland,2017-18,32,NSVA_Agriculture_Constant,224332.0
+Nagaland,2018-19,32,NSVA_Agriculture_Constant,202099.0
+Nagaland,2019-20,32,NSVA_Agriculture_Constant,207913.0
+Nagaland,2020-21,32,NSVA_Agriculture_Constant,211872.0
+Nagaland,2021-22,32,NSVA_Agriculture_Constant,101711.0
+Nagaland,2022-23,32,NSVA_Agriculture_Constant,160472.0
+Nagaland,2023-24,32,NSVA_Agriculture_Constant,173747.0
+Odisha,2011-12,32,NSVA_Agriculture_Constant,2323278.0
+Odisha,2012-13,32,NSVA_Agriculture_Constant,2907474.0
+Odisha,2013-14,32,NSVA_Agriculture_Constant,2599028.0
+Odisha,2014-15,32,NSVA_Agriculture_Constant,2869312.0
+Odisha,2015-16,32,NSVA_Agriculture_Constant,2156170.0
+Odisha,2016-17,32,NSVA_Agriculture_Constant,2706396.0
+Odisha,2017-18,32,NSVA_Agriculture_Constant,2076909.0
+Odisha,2018-19,32,NSVA_Agriculture_Constant,2265336.0
+Odisha,2019-20,32,NSVA_Agriculture_Constant,2734612.0
+Odisha,2020-21,32,NSVA_Agriculture_Constant,3031038.0
+Odisha,2021-22,32,NSVA_Agriculture_Constant,2942270.0
+Odisha,2022-23,32,NSVA_Agriculture_Constant,3296840.0
+Odisha,2023-24,32,NSVA_Agriculture_Constant,3544992.0
+Odisha,2024-25,32,NSVA_Agriculture_Constant,3503598.0
+Puducherry,2011-12,32,NSVA_Agriculture_Constant,11067.0
+Puducherry,2012-13,32,NSVA_Agriculture_Constant,13206.0
+Puducherry,2013-14,32,NSVA_Agriculture_Constant,12562.0
+Puducherry,2014-15,32,NSVA_Agriculture_Constant,14972.0
+Puducherry,2015-16,32,NSVA_Agriculture_Constant,8918.0
+Puducherry,2016-17,32,NSVA_Agriculture_Constant,7800.0
+Puducherry,2017-18,32,NSVA_Agriculture_Constant,7845.0
+Puducherry,2018-19,32,NSVA_Agriculture_Constant,8923.0
+Puducherry,2019-20,32,NSVA_Agriculture_Constant,8294.0
+Puducherry,2020-21,32,NSVA_Agriculture_Constant,5474.0
+Puducherry,2021-22,32,NSVA_Agriculture_Constant,13631.0
+Puducherry,2022-23,32,NSVA_Agriculture_Constant,4369.0
+Puducherry,2023-24,32,NSVA_Agriculture_Constant,3138.0
+Puducherry,2024-25,32,NSVA_Agriculture_Constant,5023.0
+Punjab,2011-12,32,NSVA_Agriculture_Constant,4744202.0
+Punjab,2012-13,32,NSVA_Agriculture_Constant,4732731.0
+Punjab,2013-14,32,NSVA_Agriculture_Constant,4866514.0
+Punjab,2014-15,32,NSVA_Agriculture_Constant,4495122.0
+Punjab,2015-16,32,NSVA_Agriculture_Constant,4453609.0
+Punjab,2016-17,32,NSVA_Agriculture_Constant,4762161.0
+Punjab,2017-18,32,NSVA_Agriculture_Constant,4923199.0
+Punjab,2018-19,32,NSVA_Agriculture_Constant,4903357.0
+Punjab,2019-20,32,NSVA_Agriculture_Constant,4841581.0
+Punjab,2020-21,32,NSVA_Agriculture_Constant,4902734.0
+Punjab,2021-22,32,NSVA_Agriculture_Constant,4761076.0
+Punjab,2022-23,32,NSVA_Agriculture_Constant,4748396.0
+Punjab,2023-24,32,NSVA_Agriculture_Constant,4970071.0
+Punjab,2024-25,32,NSVA_Agriculture_Constant,5032124.0
+Rajasthan,2011-12,32,NSVA_Agriculture_Constant,6716402.0
+Rajasthan,2012-13,32,NSVA_Agriculture_Constant,6889645.0
+Rajasthan,2013-14,32,NSVA_Agriculture_Constant,7449123.0
+Rajasthan,2014-15,32,NSVA_Agriculture_Constant,7028062.0
+Rajasthan,2015-16,32,NSVA_Agriculture_Constant,6484582.0
+Rajasthan,2016-17,32,NSVA_Agriculture_Constant,6721387.0
+Rajasthan,2017-18,32,NSVA_Agriculture_Constant,6342695.0
+Rajasthan,2018-19,32,NSVA_Agriculture_Constant,6792777.0
+Rajasthan,2019-20,32,NSVA_Agriculture_Constant,7700088.0
+Rajasthan,2020-21,32,NSVA_Agriculture_Constant,7601859.0
+Rajasthan,2021-22,32,NSVA_Agriculture_Constant,7289499.0
+Rajasthan,2022-23,32,NSVA_Agriculture_Constant,8136905.0
+Rajasthan,2023-24,32,NSVA_Agriculture_Constant,8140160.0
+Rajasthan,2024-25,32,NSVA_Agriculture_Constant,8525215.0
+Sikkim,2011-12,32,NSVA_Agriculture_Constant,67799.0
+Sikkim,2012-13,32,NSVA_Agriculture_Constant,70346.0
+Sikkim,2013-14,32,NSVA_Agriculture_Constant,70980.0
+Sikkim,2014-15,32,NSVA_Agriculture_Constant,71308.0
+Sikkim,2015-16,32,NSVA_Agriculture_Constant,71548.0
+Sikkim,2016-17,32,NSVA_Agriculture_Constant,81071.0
+Sikkim,2017-18,32,NSVA_Agriculture_Constant,95637.0
+Sikkim,2018-19,32,NSVA_Agriculture_Constant,108145.0
+Sikkim,2019-20,32,NSVA_Agriculture_Constant,113933.0
+Sikkim,2020-21,32,NSVA_Agriculture_Constant,104661.0
+Sikkim,2021-22,32,NSVA_Agriculture_Constant,104440.0
+Sikkim,2022-23,32,NSVA_Agriculture_Constant,103348.0
+Sikkim,2023-24,32,NSVA_Agriculture_Constant,105216.0
+Tamil Nadu,2011-12,32,NSVA_Agriculture_Constant,5031026.0
+Tamil Nadu,2012-13,32,NSVA_Agriculture_Constant,3849207.0
+Tamil Nadu,2013-14,32,NSVA_Agriculture_Constant,4644185.0
+Tamil Nadu,2014-15,32,NSVA_Agriculture_Constant,4813262.0
+Tamil Nadu,2015-16,32,NSVA_Agriculture_Constant,4554362.0
+Tamil Nadu,2016-17,32,NSVA_Agriculture_Constant,3030753.0
+Tamil Nadu,2017-18,32,NSVA_Agriculture_Constant,3998578.0
+Tamil Nadu,2018-19,32,NSVA_Agriculture_Constant,4102914.0
+Tamil Nadu,2019-20,32,NSVA_Agriculture_Constant,4500866.0
+Tamil Nadu,2020-21,32,NSVA_Agriculture_Constant,4679987.0
+Tamil Nadu,2021-22,32,NSVA_Agriculture_Constant,5136564.0
+Tamil Nadu,2022-23,32,NSVA_Agriculture_Constant,5458837.0
+Tamil Nadu,2023-24,32,NSVA_Agriculture_Constant,5283120.0
+Tamil Nadu,2024-25,32,NSVA_Agriculture_Constant,5186276.0
+Telangana,2011-12,32,NSVA_Agriculture_Constant,2955435.0
+Telangana,2012-13,32,NSVA_Agriculture_Constant,3254793.0
+Telangana,2013-14,32,NSVA_Agriculture_Constant,3407312.0
+Telangana,2014-15,32,NSVA_Agriculture_Constant,2619091.0
+Telangana,2015-16,32,NSVA_Agriculture_Constant,2072273.0
+Telangana,2016-17,32,NSVA_Agriculture_Constant,2475874.0
+Telangana,2017-18,32,NSVA_Agriculture_Constant,2745368.0
+Telangana,2018-19,32,NSVA_Agriculture_Constant,2526884.0
+Telangana,2019-20,32,NSVA_Agriculture_Constant,4135367.0
+Telangana,2020-21,32,NSVA_Agriculture_Constant,4153107.0
+Telangana,2021-22,32,NSVA_Agriculture_Constant,3869969.0
+Telangana,2022-23,32,NSVA_Agriculture_Constant,4670296.0
+Telangana,2023-24,32,NSVA_Agriculture_Constant,4441194.0
+Telangana,2024-25,32,NSVA_Agriculture_Constant,4643452.0
+Tripura,2011-12,32,NSVA_Agriculture_Constant,307680.0
+Tripura,2012-13,32,NSVA_Agriculture_Constant,325726.0
+Tripura,2013-14,32,NSVA_Agriculture_Constant,355107.0
+Tripura,2014-15,32,NSVA_Agriculture_Constant,358415.0
+Tripura,2015-16,32,NSVA_Agriculture_Constant,354370.0
+Tripura,2016-17,32,NSVA_Agriculture_Constant,379442.0
+Tripura,2017-18,32,NSVA_Agriculture_Constant,409401.0
+Tripura,2018-19,32,NSVA_Agriculture_Constant,457178.0
+Tripura,2019-20,32,NSVA_Agriculture_Constant,458961.0
+Tripura,2020-21,32,NSVA_Agriculture_Constant,467297.0
+Tripura,2021-22,32,NSVA_Agriculture_Constant,539029.0
+Tripura,2022-23,32,NSVA_Agriculture_Constant,543575.0
+Tripura,2023-24,32,NSVA_Agriculture_Constant,535108.0
+Tripura,2024-25,32,NSVA_Agriculture_Constant,578023.0
+Uttar Pradesh,2011-12,32,NSVA_Agriculture_Constant,11143150.0
+Uttar Pradesh,2012-13,32,NSVA_Agriculture_Constant,11675934.0
+Uttar Pradesh,2013-14,32,NSVA_Agriculture_Constant,11244514.0
+Uttar Pradesh,2014-15,32,NSVA_Agriculture_Constant,10434577.0
+Uttar Pradesh,2015-16,32,NSVA_Agriculture_Constant,10955996.0
+Uttar Pradesh,2016-17,32,NSVA_Agriculture_Constant,11697921.0
+Uttar Pradesh,2017-18,32,NSVA_Agriculture_Constant,12092509.0
+Uttar Pradesh,2018-19,32,NSVA_Agriculture_Constant,12653584.0
+Uttar Pradesh,2019-20,32,NSVA_Agriculture_Constant,12318561.0
+Uttar Pradesh,2020-21,32,NSVA_Agriculture_Constant,12683665.0
+Uttar Pradesh,2021-22,32,NSVA_Agriculture_Constant,15763777.0
+Uttar Pradesh,2022-23,32,NSVA_Agriculture_Constant,15994112.0
+Uttar Pradesh,2023-24,32,NSVA_Agriculture_Constant,16749258.0
+Uttar Pradesh,2024-25,32,NSVA_Agriculture_Constant,18399308.0
+Uttarakhand,2011-12,32,NSVA_Agriculture_Constant,654767.0
+Uttarakhand,2012-13,32,NSVA_Agriculture_Constant,655489.0
+Uttarakhand,2013-14,32,NSVA_Agriculture_Constant,597741.0
+Uttarakhand,2014-15,32,NSVA_Agriculture_Constant,577197.0
+Uttarakhand,2015-16,32,NSVA_Agriculture_Constant,509725.0
+Uttarakhand,2016-17,32,NSVA_Agriculture_Constant,543819.0
+Uttarakhand,2017-18,32,NSVA_Agriculture_Constant,542775.0
+Uttarakhand,2018-19,32,NSVA_Agriculture_Constant,529012.0
+Uttarakhand,2019-20,32,NSVA_Agriculture_Constant,545956.0
+Uttarakhand,2020-21,32,NSVA_Agriculture_Constant,573273.0
+Uttarakhand,2021-22,32,NSVA_Agriculture_Constant,581246.0
+Uttarakhand,2022-23,32,NSVA_Agriculture_Constant,446001.0
+Uttarakhand,2023-24,32,NSVA_Agriculture_Constant,463309.0
+Uttarakhand,2024-25,32,NSVA_Agriculture_Constant,419792.0
+West Bengal,2011-12,32,NSVA_Agriculture_Constant,6939766.0
+West Bengal,2012-13,32,NSVA_Agriculture_Constant,7211011.0
+West Bengal,2013-14,32,NSVA_Agriculture_Constant,7039577.0
+West Bengal,2014-15,32,NSVA_Agriculture_Constant,7523872.0
+West Bengal,2015-16,32,NSVA_Agriculture_Constant,7450630.0
+West Bengal,2016-17,32,NSVA_Agriculture_Constant,7625248.0
+West Bengal,2017-18,32,NSVA_Agriculture_Constant,8017048.0
+West Bengal,2018-19,32,NSVA_Agriculture_Constant,7981556.0
+West Bengal,2019-20,32,NSVA_Agriculture_Constant,7926650.0
+West Bengal,2020-21,32,NSVA_Agriculture_Constant,7893893.0
+West Bengal,2021-22,32,NSVA_Agriculture_Constant,7968178.0
+West Bengal,2022-23,32,NSVA_Agriculture_Constant,8058337.0
+West Bengal,2023-24,32,NSVA_Agriculture_Constant,8033525.0
+West Bengal,2024-25,32,NSVA_Agriculture_Constant,8080809.0

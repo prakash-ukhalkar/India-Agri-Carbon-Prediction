@@ -1,0 +1,646 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,67,Rice_Area,3086.0
+Andhra Pradesh,2005-06,67,Rice_Area,3982.0
+Andhra Pradesh,2006-07,67,Rice_Area,3978.0
+Andhra Pradesh,2007-08,67,Rice_Area,3984.0
+Andhra Pradesh,2008-09,67,Rice_Area,4387.0
+Andhra Pradesh,2009-10,67,Rice_Area,3441.0
+Andhra Pradesh,2010-11,67,Rice_Area,2772.5
+Andhra Pradesh,2011-12,67,Rice_Area,2346.0
+Andhra Pradesh,2012-13,67,Rice_Area,2209.6
+Andhra Pradesh,2013-14,67,Rice_Area,2443.6
+Andhra Pradesh,2014-15,67,Rice_Area,2394.0
+Andhra Pradesh,2015-16,67,Rice_Area,2161.0
+Andhra Pradesh,2016-17,67,Rice_Area,2105.0
+Andhra Pradesh,2017-18,67,Rice_Area,2156.0
+Andhra Pradesh,2018-19,67,Rice_Area,2208.0
+Andhra Pradesh,2019-20,67,Rice_Area,2300.1
+Andhra Pradesh,2020-21,67,Rice_Area,2323.5
+Andhra Pradesh,2021-22,67,Rice_Area,2289.0
+Andhra Pradesh,2022-23,67,Rice_Area,2129.0
+Andhra Pradesh,2023-24,67,Rice_Area,1920.6
+Andhra Pradesh,2024-25,67,Rice_Area,2077.0
+Arunachal Pradesh,2004-05,67,Rice_Area,121.6
+Arunachal Pradesh,2005-06,67,Rice_Area,122.3
+Arunachal Pradesh,2006-07,67,Rice_Area,122.3
+Arunachal Pradesh,2007-08,67,Rice_Area,124.0
+Arunachal Pradesh,2008-09,67,Rice_Area,126.8
+Arunachal Pradesh,2009-10,67,Rice_Area,121.5
+Arunachal Pradesh,2010-11,67,Rice_Area,121.6
+Arunachal Pradesh,2011-12,67,Rice_Area,123.5
+Arunachal Pradesh,2012-13,67,Rice_Area,126.1
+Arunachal Pradesh,2013-14,67,Rice_Area,132.0
+Arunachal Pradesh,2014-15,67,Rice_Area,127.2
+Arunachal Pradesh,2015-16,67,Rice_Area,128.8
+Arunachal Pradesh,2016-17,67,Rice_Area,131.0
+Arunachal Pradesh,2017-18,67,Rice_Area,132.0
+Arunachal Pradesh,2018-19,67,Rice_Area,133.2
+Arunachal Pradesh,2019-20,67,Rice_Area,133.5
+Arunachal Pradesh,2020-21,67,Rice_Area,133.8
+Arunachal Pradesh,2021-22,67,Rice_Area,136.5
+Arunachal Pradesh,2022-23,67,Rice_Area,137.2
+Arunachal Pradesh,2023-24,67,Rice_Area,137.3
+Arunachal Pradesh,2024-25,67,Rice_Area,137.7
+Assam,2004-05,67,Rice_Area,2376.8
+Assam,2005-06,67,Rice_Area,2420.3
+Assam,2006-07,67,Rice_Area,2189.0
+Assam,2007-08,67,Rice_Area,2324.0
+Assam,2008-09,67,Rice_Area,2484.2
+Assam,2009-10,67,Rice_Area,2495.8
+Assam,2010-11,67,Rice_Area,2570.3
+Assam,2011-12,67,Rice_Area,2537.0
+Assam,2012-13,67,Rice_Area,2488.2
+Assam,2013-14,67,Rice_Area,2449.1
+Assam,2014-15,67,Rice_Area,2495.3
+Assam,2015-16,67,Rice_Area,2485.0
+Assam,2016-17,67,Rice_Area,2467.1
+Assam,2017-18,67,Rice_Area,2433.7
+Assam,2018-19,67,Rice_Area,2425.2
+Assam,2019-20,67,Rice_Area,2290.5
+Assam,2020-21,67,Rice_Area,2360.5
+Assam,2021-22,67,Rice_Area,2353.3
+Assam,2022-23,67,Rice_Area,2318.0
+Assam,2023-24,67,Rice_Area,2295.7
+Assam,2024-25,67,Rice_Area,2202.8
+Bihar,2004-05,67,Rice_Area,3122.6
+Bihar,2005-06,67,Rice_Area,3252.4
+Bihar,2006-07,67,Rice_Area,3357.1
+Bihar,2007-08,67,Rice_Area,3572.6
+Bihar,2008-09,67,Rice_Area,3496.0
+Bihar,2009-10,67,Rice_Area,3213.7
+Bihar,2010-11,67,Rice_Area,2832.5
+Bihar,2011-12,67,Rice_Area,3323.9
+Bihar,2012-13,67,Rice_Area,3298.9
+Bihar,2013-14,67,Rice_Area,3130.8
+Bihar,2014-15,67,Rice_Area,3263.4
+Bihar,2015-16,67,Rice_Area,3232.3
+Bihar,2016-17,67,Rice_Area,3339.8
+Bihar,2017-18,67,Rice_Area,3307.0
+Bihar,2018-19,67,Rice_Area,3159.7
+Bihar,2019-20,67,Rice_Area,2886.4
+Bihar,2020-21,67,Rice_Area,3020.9
+Bihar,2021-22,67,Rice_Area,3091.4
+Bihar,2022-23,67,Rice_Area,2862.9
+Bihar,2023-24,67,Rice_Area,3110.1
+Bihar,2024-25,67,Rice_Area,3242.2
+Chhattisgarh,2004-05,67,Rice_Area,3746.7
+Chhattisgarh,2005-06,67,Rice_Area,3747.2
+Chhattisgarh,2006-07,67,Rice_Area,3723.6
+Chhattisgarh,2007-08,67,Rice_Area,3752.4
+Chhattisgarh,2008-09,67,Rice_Area,3734.0
+Chhattisgarh,2009-10,67,Rice_Area,3670.7
+Chhattisgarh,2010-11,67,Rice_Area,3702.5
+Chhattisgarh,2011-12,67,Rice_Area,3773.8
+Chhattisgarh,2012-13,67,Rice_Area,3784.8
+Chhattisgarh,2013-14,67,Rice_Area,3802.1
+Chhattisgarh,2014-15,67,Rice_Area,3808.5
+Chhattisgarh,2015-16,67,Rice_Area,3816.0
+Chhattisgarh,2016-17,67,Rice_Area,3830.0
+Chhattisgarh,2017-18,67,Rice_Area,3761.1
+Chhattisgarh,2018-19,67,Rice_Area,3606.0
+Chhattisgarh,2019-20,67,Rice_Area,3666.0
+Chhattisgarh,2020-21,67,Rice_Area,3791.0
+Chhattisgarh,2021-22,67,Rice_Area,3759.0
+Chhattisgarh,2022-23,67,Rice_Area,3770.8
+Chhattisgarh,2023-24,67,Rice_Area,3821.6
+Chhattisgarh,2024-25,67,Rice_Area,3905.3
+Delhi,2004-05,67,Rice_Area,6.0
+Delhi,2005-06,67,Rice_Area,7.5
+Delhi,2006-07,67,Rice_Area,7.4
+Delhi,2007-08,67,Rice_Area,7.4
+Delhi,2008-09,67,Rice_Area,7.4
+Delhi,2009-10,67,Rice_Area,6.8
+Delhi,2010-11,67,Rice_Area,7.0
+Delhi,2011-12,67,Rice_Area,6.9
+Delhi,2012-13,67,Rice_Area,6.7
+Delhi,2013-14,67,Rice_Area,6.0
+Delhi,2014-15,67,Rice_Area,6.0
+Delhi,2015-16,67,Rice_Area,6.0
+Delhi,2016-17,67,Rice_Area,6.0
+Delhi,2017-18,67,Rice_Area,5.9
+Delhi,2018-19,67,Rice_Area,5.9
+Delhi,2019-20,67,Rice_Area,5.8
+Delhi,2020-21,67,Rice_Area,6.2
+Delhi,2021-22,67,Rice_Area,6.1
+Delhi,2022-23,67,Rice_Area,5.6
+Delhi,2023-24,67,Rice_Area,5.5
+Delhi,2024-25,67,Rice_Area,5.4
+Goa,2004-05,67,Rice_Area,52.4
+Goa,2005-06,67,Rice_Area,52.2
+Goa,2006-07,67,Rice_Area,53.0
+Goa,2007-08,67,Rice_Area,52.2
+Goa,2008-09,67,Rice_Area,50.0
+Goa,2009-10,67,Rice_Area,47.1
+Goa,2010-11,67,Rice_Area,46.6
+Goa,2011-12,67,Rice_Area,47.2
+Goa,2012-13,67,Rice_Area,45.8
+Goa,2013-14,67,Rice_Area,42.8
+Goa,2014-15,67,Rice_Area,42.0
+Goa,2015-16,67,Rice_Area,41.3
+Goa,2016-17,67,Rice_Area,40.8
+Goa,2017-18,67,Rice_Area,38.5
+Goa,2018-19,67,Rice_Area,36.4
+Goa,2019-20,67,Rice_Area,34.7
+Goa,2020-21,67,Rice_Area,32.7
+Goa,2021-22,67,Rice_Area,32.4
+Goa,2022-23,67,Rice_Area,31.5
+Goa,2023-24,67,Rice_Area,32.5
+Goa,2024-25,67,Rice_Area,32.6
+Gujarat,2004-05,67,Rice_Area,685.6
+Gujarat,2005-06,67,Rice_Area,666.0
+Gujarat,2006-07,67,Rice_Area,734.0
+Gujarat,2007-08,67,Rice_Area,759.0
+Gujarat,2008-09,67,Rice_Area,747.0
+Gujarat,2009-10,67,Rice_Area,679.0
+Gujarat,2010-11,67,Rice_Area,808.0
+Gujarat,2011-12,67,Rice_Area,836.0
+Gujarat,2012-13,67,Rice_Area,701.0
+Gujarat,2013-14,67,Rice_Area,788.0
+Gujarat,2014-15,67,Rice_Area,786.0
+Gujarat,2015-16,67,Rice_Area,772.0
+Gujarat,2016-17,67,Rice_Area,837.0
+Gujarat,2017-18,67,Rice_Area,856.0
+Gujarat,2018-19,67,Rice_Area,839.0
+Gujarat,2019-20,67,Rice_Area,904.4
+Gujarat,2020-21,67,Rice_Area,906.6
+Gujarat,2021-22,67,Rice_Area,892.0
+Gujarat,2022-23,67,Rice_Area,947.3
+Gujarat,2023-24,67,Rice_Area,968.6
+Gujarat,2024-25,67,Rice_Area,1014.5
+Haryana,2004-05,67,Rice_Area,1028.0
+Haryana,2005-06,67,Rice_Area,1052.0
+Haryana,2006-07,67,Rice_Area,1041.0
+Haryana,2007-08,67,Rice_Area,1075.0
+Haryana,2008-09,67,Rice_Area,1210.0
+Haryana,2009-10,67,Rice_Area,1205.0
+Haryana,2010-11,67,Rice_Area,1245.0
+Haryana,2011-12,67,Rice_Area,1235.0
+Haryana,2012-13,67,Rice_Area,1215.0
+Haryana,2013-14,67,Rice_Area,1228.0
+Haryana,2014-15,67,Rice_Area,1287.0
+Haryana,2015-16,67,Rice_Area,1354.0
+Haryana,2016-17,67,Rice_Area,1386.0
+Haryana,2017-18,67,Rice_Area,1422.0
+Haryana,2018-19,67,Rice_Area,1447.0
+Haryana,2019-20,67,Rice_Area,1447.0
+Haryana,2020-21,67,Rice_Area,1327.2
+Haryana,2021-22,67,Rice_Area,1281.0
+Haryana,2022-23,67,Rice_Area,1519.7
+Haryana,2023-24,67,Rice_Area,1563.5
+Haryana,2024-25,67,Rice_Area,1609.2
+Himachal Pradesh,2004-05,67,Rice_Area,81.0
+Himachal Pradesh,2005-06,67,Rice_Area,79.4
+Himachal Pradesh,2006-07,67,Rice_Area,79.2
+Himachal Pradesh,2007-08,67,Rice_Area,78.6
+Himachal Pradesh,2008-09,67,Rice_Area,77.7
+Himachal Pradesh,2009-10,67,Rice_Area,76.7
+Himachal Pradesh,2010-11,67,Rice_Area,77.1
+Himachal Pradesh,2011-12,67,Rice_Area,77.2
+Himachal Pradesh,2012-13,67,Rice_Area,76.9
+Himachal Pradesh,2013-14,67,Rice_Area,74.4
+Himachal Pradesh,2014-15,67,Rice_Area,72.5
+Himachal Pradesh,2015-16,67,Rice_Area,73.7
+Himachal Pradesh,2016-17,67,Rice_Area,74.5
+Himachal Pradesh,2017-18,67,Rice_Area,71.6
+Himachal Pradesh,2018-19,67,Rice_Area,71.8
+Himachal Pradesh,2019-20,67,Rice_Area,72.6
+Himachal Pradesh,2020-21,67,Rice_Area,68.5
+Himachal Pradesh,2021-22,67,Rice_Area,66.2
+Himachal Pradesh,2022-23,67,Rice_Area,67.3
+Himachal Pradesh,2023-24,67,Rice_Area,69.9
+Himachal Pradesh,2024-25,67,Rice_Area,68.3
+Jammu & Kashmir,2004-05,67,Rice_Area,250.0
+Jammu & Kashmir,2005-06,67,Rice_Area,259.0
+Jammu & Kashmir,2006-07,67,Rice_Area,252.5
+Jammu & Kashmir,2007-08,67,Rice_Area,263.2
+Jammu & Kashmir,2008-09,67,Rice_Area,257.6
+Jammu & Kashmir,2009-10,67,Rice_Area,259.9
+Jammu & Kashmir,2010-11,67,Rice_Area,261.3
+Jammu & Kashmir,2011-12,67,Rice_Area,262.2
+Jammu & Kashmir,2012-13,67,Rice_Area,261.7
+Jammu & Kashmir,2013-14,67,Rice_Area,271.5
+Jammu & Kashmir,2014-15,67,Rice_Area,276.4
+Jammu & Kashmir,2015-16,67,Rice_Area,304.5
+Jammu & Kashmir,2016-17,67,Rice_Area,283.4
+Jammu & Kashmir,2017-18,67,Rice_Area,273.6
+Jammu & Kashmir,2018-19,67,Rice_Area,262.0
+Jammu & Kashmir,2019-20,67,Rice_Area,280.5
+Jammu & Kashmir,2020-21,67,Rice_Area,267.6
+Jammu & Kashmir,2021-22,67,Rice_Area,268.8
+Jammu & Kashmir,2022-23,67,Rice_Area,274.5
+Jammu & Kashmir,2023-24,67,Rice_Area,258.2
+Jammu & Kashmir,2024-25,67,Rice_Area,258.2
+Jharkhand,2004-05,67,Rice_Area,1285.0
+Jharkhand,2005-06,67,Rice_Area,1354.7
+Jharkhand,2006-07,67,Rice_Area,1623.6
+Jharkhand,2007-08,67,Rice_Area,1653.7
+Jharkhand,2008-09,67,Rice_Area,1683.6
+Jharkhand,2009-10,67,Rice_Area,995.0
+Jharkhand,2010-11,67,Rice_Area,720.3
+Jharkhand,2011-12,67,Rice_Area,1469.0
+Jharkhand,2012-13,67,Rice_Area,1414.5
+Jharkhand,2013-14,67,Rice_Area,1255.9
+Jharkhand,2014-15,67,Rice_Area,1502.2
+Jharkhand,2015-16,67,Rice_Area,1589.0
+Jharkhand,2016-17,67,Rice_Area,1714.3
+Jharkhand,2017-18,67,Rice_Area,1735.4
+Jharkhand,2018-19,67,Rice_Area,1527.1
+Jharkhand,2019-20,67,Rice_Area,1357.7
+Jharkhand,2020-21,67,Rice_Area,1411.0
+Jharkhand,2021-22,67,Rice_Area,1445.0
+Jharkhand,2022-23,67,Rice_Area,855.1
+Jharkhand,2023-24,67,Rice_Area,1099.6
+Jharkhand,2024-25,67,Rice_Area,1469.2
+Karnataka,2004-05,67,Rice_Area,1308.0
+Karnataka,2005-06,67,Rice_Area,1485.0
+Karnataka,2006-07,67,Rice_Area,1395.0
+Karnataka,2007-08,67,Rice_Area,1416.0
+Karnataka,2008-09,67,Rice_Area,1514.0
+Karnataka,2009-10,67,Rice_Area,1487.0
+Karnataka,2010-11,67,Rice_Area,1540.0
+Karnataka,2011-12,67,Rice_Area,1416.0
+Karnataka,2012-13,67,Rice_Area,1278.0
+Karnataka,2013-14,67,Rice_Area,1340.0
+Karnataka,2014-15,67,Rice_Area,1326.0
+Karnataka,2015-16,67,Rice_Area,1110.0
+Karnataka,2016-17,67,Rice_Area,1034.0
+Karnataka,2017-18,67,Rice_Area,993.0
+Karnataka,2018-19,67,Rice_Area,1139.1
+Karnataka,2019-20,67,Rice_Area,1185.0
+Karnataka,2020-21,67,Rice_Area,1397.1
+Karnataka,2021-22,67,Rice_Area,1397.9
+Karnataka,2022-23,67,Rice_Area,1328.0
+Karnataka,2023-24,67,Rice_Area,953.0
+Karnataka,2024-25,67,Rice_Area,1181.0
+Kerala,2004-05,67,Rice_Area,289.9
+Kerala,2005-06,67,Rice_Area,275.8
+Kerala,2006-07,67,Rice_Area,264.0
+Kerala,2007-08,67,Rice_Area,228.8
+Kerala,2008-09,67,Rice_Area,234.3
+Kerala,2009-10,67,Rice_Area,234.0
+Kerala,2010-11,67,Rice_Area,213.2
+Kerala,2011-12,67,Rice_Area,208.2
+Kerala,2012-13,67,Rice_Area,197.3
+Kerala,2013-14,67,Rice_Area,199.6
+Kerala,2014-15,67,Rice_Area,198.2
+Kerala,2015-16,67,Rice_Area,196.9
+Kerala,2016-17,67,Rice_Area,171.4
+Kerala,2017-18,67,Rice_Area,189.1
+Kerala,2018-19,67,Rice_Area,198.0
+Kerala,2019-20,67,Rice_Area,198.2
+Kerala,2020-21,67,Rice_Area,205.0
+Kerala,2021-22,67,Rice_Area,195.7
+Kerala,2022-23,67,Rice_Area,191.7
+Kerala,2023-24,67,Rice_Area,180.3
+Kerala,2024-25,67,Rice_Area,176.5
+Madhya Pradesh,2004-05,67,Rice_Area,1622.5
+Madhya Pradesh,2005-06,67,Rice_Area,1657.7
+Madhya Pradesh,2006-07,67,Rice_Area,1661.3
+Madhya Pradesh,2007-08,67,Rice_Area,1558.9
+Madhya Pradesh,2008-09,67,Rice_Area,1682.3
+Madhya Pradesh,2009-10,67,Rice_Area,1445.7
+Madhya Pradesh,2010-11,67,Rice_Area,1602.9
+Madhya Pradesh,2011-12,67,Rice_Area,1662.0
+Madhya Pradesh,2012-13,67,Rice_Area,1882.6
+Madhya Pradesh,2013-14,67,Rice_Area,1930.0
+Madhya Pradesh,2014-15,67,Rice_Area,2153.0
+Madhya Pradesh,2015-16,67,Rice_Area,2024.0
+Madhya Pradesh,2016-17,67,Rice_Area,2289.0
+Madhya Pradesh,2017-18,67,Rice_Area,2035.0
+Madhya Pradesh,2018-19,67,Rice_Area,2391.0
+Madhya Pradesh,2019-20,67,Rice_Area,2016.0
+Madhya Pradesh,2020-21,67,Rice_Area,2117.0
+Madhya Pradesh,2021-22,67,Rice_Area,2109.0
+Madhya Pradesh,2022-23,67,Rice_Area,3413.8
+Madhya Pradesh,2023-24,67,Rice_Area,3480.2
+Madhya Pradesh,2024-25,67,Rice_Area,3885.0
+Maharashtra,2004-05,67,Rice_Area,1519.0
+Maharashtra,2005-06,67,Rice_Area,1515.0
+Maharashtra,2006-07,67,Rice_Area,1529.0
+Maharashtra,2007-08,67,Rice_Area,1574.0
+Maharashtra,2008-09,67,Rice_Area,1522.0
+Maharashtra,2009-10,67,Rice_Area,1470.0
+Maharashtra,2010-11,67,Rice_Area,1518.0
+Maharashtra,2011-12,67,Rice_Area,1543.0
+Maharashtra,2012-13,67,Rice_Area,1557.0
+Maharashtra,2013-14,67,Rice_Area,1613.0
+Maharashtra,2014-15,67,Rice_Area,1551.0
+Maharashtra,2015-16,67,Rice_Area,1503.0
+Maharashtra,2016-17,67,Rice_Area,1535.3
+Maharashtra,2017-18,67,Rice_Area,1451.0
+Maharashtra,2018-19,67,Rice_Area,1464.9
+Maharashtra,2019-20,67,Rice_Area,1553.0
+Maharashtra,2020-21,67,Rice_Area,1560.6
+Maharashtra,2021-22,67,Rice_Area,1651.8
+Maharashtra,2022-23,67,Rice_Area,1718.1
+Maharashtra,2023-24,67,Rice_Area,1692.9
+Maharashtra,2024-25,67,Rice_Area,1682.2
+Manipur,2004-05,67,Rice_Area,176.3
+Manipur,2005-06,67,Rice_Area,166.3
+Manipur,2006-07,67,Rice_Area,166.3
+Manipur,2007-08,67,Rice_Area,166.1
+Manipur,2008-09,67,Rice_Area,168.4
+Manipur,2009-10,67,Rice_Area,169.4
+Manipur,2010-11,67,Rice_Area,212.7
+Manipur,2011-12,67,Rice_Area,223.7
+Manipur,2012-13,67,Rice_Area,122.7
+Manipur,2013-14,67,Rice_Area,222.8
+Manipur,2014-15,67,Rice_Area,224.5
+Manipur,2015-16,67,Rice_Area,237.0
+Manipur,2016-17,67,Rice_Area,244.0
+Manipur,2017-18,67,Rice_Area,236.7
+Manipur,2018-19,67,Rice_Area,233.5
+Manipur,2019-20,67,Rice_Area,175.6
+Manipur,2020-21,67,Rice_Area,225.8
+Manipur,2021-22,67,Rice_Area,200.0
+Manipur,2022-23,67,Rice_Area,186.4
+Manipur,2023-24,67,Rice_Area,170.3
+Manipur,2024-25,67,Rice_Area,169.3
+Meghalaya,2004-05,67,Rice_Area,111.5
+Meghalaya,2005-06,67,Rice_Area,100.7
+Meghalaya,2006-07,67,Rice_Area,104.5
+Meghalaya,2007-08,67,Rice_Area,106.4
+Meghalaya,2008-09,67,Rice_Area,108.1
+Meghalaya,2009-10,67,Rice_Area,108.2
+Meghalaya,2010-11,67,Rice_Area,108.3
+Meghalaya,2011-12,67,Rice_Area,108.9
+Meghalaya,2012-13,67,Rice_Area,109.2
+Meghalaya,2013-14,67,Rice_Area,109.9
+Meghalaya,2014-15,67,Rice_Area,110.3
+Meghalaya,2015-16,67,Rice_Area,110.5
+Meghalaya,2016-17,67,Rice_Area,111.2
+Meghalaya,2017-18,67,Rice_Area,111.1
+Meghalaya,2018-19,67,Rice_Area,110.9
+Meghalaya,2019-20,67,Rice_Area,111.0
+Meghalaya,2020-21,67,Rice_Area,107.6
+Meghalaya,2021-22,67,Rice_Area,108.5
+Meghalaya,2022-23,67,Rice_Area,107.8
+Meghalaya,2023-24,67,Rice_Area,107.8
+Meghalaya,2024-25,67,Rice_Area,107.8
+Mizoram,2004-05,67,Rice_Area,54.8
+Mizoram,2005-06,67,Rice_Area,55.8
+Mizoram,2006-07,67,Rice_Area,52.8
+Mizoram,2007-08,67,Rice_Area,54.6
+Mizoram,2008-09,67,Rice_Area,52.0
+Mizoram,2009-10,67,Rice_Area,47.2
+Mizoram,2010-11,67,Rice_Area,40.7
+Mizoram,2011-12,67,Rice_Area,38.5
+Mizoram,2012-13,67,Rice_Area,14.6
+Mizoram,2013-14,67,Rice_Area,38.8
+Mizoram,2014-15,67,Rice_Area,36.9
+Mizoram,2015-16,67,Rice_Area,37.2
+Mizoram,2016-17,67,Rice_Area,36.9
+Mizoram,2017-18,67,Rice_Area,36.1
+Mizoram,2018-19,67,Rice_Area,35.6
+Mizoram,2019-20,67,Rice_Area,35.2
+Mizoram,2020-21,67,Rice_Area,35.3
+Mizoram,2021-22,67,Rice_Area,34.9
+Mizoram,2022-23,67,Rice_Area,34.1
+Mizoram,2023-24,67,Rice_Area,24.8
+Mizoram,2024-25,67,Rice_Area,20.7
+Nagaland,2004-05,67,Rice_Area,153.0
+Nagaland,2005-06,67,Rice_Area,156.4
+Nagaland,2006-07,67,Rice_Area,164.7
+Nagaland,2007-08,67,Rice_Area,172.5
+Nagaland,2008-09,67,Rice_Area,173.1
+Nagaland,2009-10,67,Rice_Area,168.6
+Nagaland,2010-11,67,Rice_Area,181.4
+Nagaland,2011-12,67,Rice_Area,181.6
+Nagaland,2012-13,67,Rice_Area,183.3
+Nagaland,2013-14,67,Rice_Area,189.5
+Nagaland,2014-15,67,Rice_Area,195.2
+Nagaland,2015-16,67,Rice_Area,201.0
+Nagaland,2016-17,67,Rice_Area,206.7
+Nagaland,2017-18,67,Rice_Area,212.0
+Nagaland,2018-19,67,Rice_Area,214.5
+Nagaland,2019-20,67,Rice_Area,217.0
+Nagaland,2020-21,67,Rice_Area,218.8
+Nagaland,2021-22,67,Rice_Area,122.1
+Nagaland,2022-23,67,Rice_Area,211.1
+Nagaland,2023-24,67,Rice_Area,210.4
+Nagaland,2024-25,67,Rice_Area,197.3
+Odisha,2004-05,67,Rice_Area,4472.0
+Odisha,2005-06,67,Rice_Area,4479.0
+Odisha,2006-07,67,Rice_Area,4450.3
+Odisha,2007-08,67,Rice_Area,4451.8
+Odisha,2008-09,67,Rice_Area,4454.7
+Odisha,2009-10,67,Rice_Area,4365.1
+Odisha,2010-11,67,Rice_Area,4225.7
+Odisha,2011-12,67,Rice_Area,4004.5
+Odisha,2012-13,67,Rice_Area,4022.8
+Odisha,2013-14,67,Rice_Area,4180.2
+Odisha,2014-15,67,Rice_Area,4166.3
+Odisha,2015-16,67,Rice_Area,3941.5
+Odisha,2016-17,67,Rice_Area,3854.8
+Odisha,2017-18,67,Rice_Area,3766.4
+Odisha,2018-19,67,Rice_Area,3859.4
+Odisha,2019-20,67,Rice_Area,3940.7
+Odisha,2020-21,67,Rice_Area,4038.2
+Odisha,2021-22,67,Rice_Area,3947.8
+Odisha,2022-23,67,Rice_Area,4064.2
+Odisha,2023-24,67,Rice_Area,4071.9
+Odisha,2024-25,67,Rice_Area,3833.9
+Puducherry,2004-05,67,Rice_Area,24.8
+Puducherry,2005-06,67,Rice_Area,24.3
+Puducherry,2006-07,67,Rice_Area,24.3
+Puducherry,2007-08,67,Rice_Area,20.4
+Puducherry,2008-09,67,Rice_Area,20.8
+Puducherry,2009-10,67,Rice_Area,20.9
+Puducherry,2010-11,67,Rice_Area,20.0
+Puducherry,2011-12,67,Rice_Area,16.6
+Puducherry,2012-13,67,Rice_Area,16.3
+Puducherry,2013-14,67,Rice_Area,15.8
+Puducherry,2014-15,67,Rice_Area,16.7
+Puducherry,2015-16,67,Rice_Area,16.3
+Puducherry,2016-17,67,Rice_Area,16.2
+Puducherry,2017-18,67,Rice_Area,17.4
+Puducherry,2018-19,67,Rice_Area,17.9
+Puducherry,2019-20,67,Rice_Area,18.2
+Puducherry,2020-21,67,Rice_Area,18.2
+Puducherry,2021-22,67,Rice_Area,19.1
+Puducherry,2022-23,67,Rice_Area,19.8
+Puducherry,2023-24,67,Rice_Area,19.6
+Puducherry,2024-25,67,Rice_Area,17.0
+Punjab,2004-05,67,Rice_Area,2647.0
+Punjab,2005-06,67,Rice_Area,2642.0
+Punjab,2006-07,67,Rice_Area,2621.0
+Punjab,2007-08,67,Rice_Area,2610.0
+Punjab,2008-09,67,Rice_Area,2735.0
+Punjab,2009-10,67,Rice_Area,2802.0
+Punjab,2010-11,67,Rice_Area,2831.0
+Punjab,2011-12,67,Rice_Area,2818.0
+Punjab,2012-13,67,Rice_Area,2845.0
+Punjab,2013-14,67,Rice_Area,2851.0
+Punjab,2014-15,67,Rice_Area,2894.0
+Punjab,2015-16,67,Rice_Area,2975.0
+Punjab,2016-17,67,Rice_Area,2898.0
+Punjab,2017-18,67,Rice_Area,3065.0
+Punjab,2018-19,67,Rice_Area,3103.0
+Punjab,2019-20,67,Rice_Area,2920.0
+Punjab,2020-21,67,Rice_Area,2928.0
+Punjab,2021-22,67,Rice_Area,2969.0
+Punjab,2022-23,67,Rice_Area,3098.2
+Punjab,2023-24,67,Rice_Area,3179.0
+Punjab,2024-25,67,Rice_Area,3243.3
+Rajasthan,2004-05,67,Rice_Area,101.3
+Rajasthan,2005-06,67,Rice_Area,107.4
+Rajasthan,2006-07,67,Rice_Area,107.7
+Rajasthan,2007-08,67,Rice_Area,127.8
+Rajasthan,2008-09,67,Rice_Area,133.4
+Rajasthan,2009-10,67,Rice_Area,150.7
+Rajasthan,2010-11,67,Rice_Area,131.1
+Rajasthan,2011-12,67,Rice_Area,134.3
+Rajasthan,2012-13,67,Rice_Area,125.6
+Rajasthan,2013-14,67,Rice_Area,145.6
+Rajasthan,2014-15,67,Rice_Area,167.8
+Rajasthan,2015-16,67,Rice_Area,182.9
+Rajasthan,2016-17,67,Rice_Area,197.8
+Rajasthan,2017-18,67,Rice_Area,190.6
+Rajasthan,2018-19,67,Rice_Area,197.8
+Rajasthan,2019-20,67,Rice_Area,219.5
+Rajasthan,2020-21,67,Rice_Area,231.5
+Rajasthan,2021-22,67,Rice_Area,196.5
+Rajasthan,2022-23,67,Rice_Area,234.3
+Rajasthan,2023-24,67,Rice_Area,267.8
+Rajasthan,2024-25,67,Rice_Area,353.9
+Sikkim,2004-05,67,Rice_Area,14.7
+Sikkim,2005-06,67,Rice_Area,15.0
+Sikkim,2006-07,67,Rice_Area,15.0
+Sikkim,2007-08,67,Rice_Area,14.0
+Sikkim,2008-09,67,Rice_Area,14.7
+Sikkim,2009-10,67,Rice_Area,13.0
+Sikkim,2010-11,67,Rice_Area,12.1
+Sikkim,2011-12,67,Rice_Area,12.1
+Sikkim,2012-13,67,Rice_Area,11.9
+Sikkim,2013-14,67,Rice_Area,11.2
+Sikkim,2014-15,67,Rice_Area,11.0
+Sikkim,2015-16,67,Rice_Area,10.7
+Sikkim,2016-17,67,Rice_Area,10.7
+Sikkim,2017-18,67,Rice_Area,9.5
+Sikkim,2018-19,67,Rice_Area,9.3
+Sikkim,2019-20,67,Rice_Area,8.7
+Sikkim,2020-21,67,Rice_Area,8.7
+Sikkim,2021-22,67,Rice_Area,8.6
+Sikkim,2022-23,67,Rice_Area,8.2
+Sikkim,2023-24,67,Rice_Area,6.4
+Sikkim,2024-25,67,Rice_Area,6.4
+Tamil Nadu,2004-05,67,Rice_Area,1872.8
+Tamil Nadu,2005-06,67,Rice_Area,2050.5
+Tamil Nadu,2006-07,67,Rice_Area,1931.4
+Tamil Nadu,2007-08,67,Rice_Area,1789.2
+Tamil Nadu,2008-09,67,Rice_Area,1931.8
+Tamil Nadu,2009-10,67,Rice_Area,1845.5
+Tamil Nadu,2010-11,67,Rice_Area,1905.7
+Tamil Nadu,2011-12,67,Rice_Area,1903.8
+Tamil Nadu,2012-13,67,Rice_Area,1493.1
+Tamil Nadu,2013-14,67,Rice_Area,1725.7
+Tamil Nadu,2014-15,67,Rice_Area,1795.0
+Tamil Nadu,2015-16,67,Rice_Area,2000.2
+Tamil Nadu,2016-17,67,Rice_Area,1442.8
+Tamil Nadu,2017-18,67,Rice_Area,1828.9
+Tamil Nadu,2018-19,67,Rice_Area,1721.3
+Tamil Nadu,2019-20,67,Rice_Area,1907.4
+Tamil Nadu,2020-21,67,Rice_Area,2036.2
+Tamil Nadu,2021-22,67,Rice_Area,2217.3
+Tamil Nadu,2022-23,67,Rice_Area,2158.9
+Tamil Nadu,2023-24,67,Rice_Area,2101.6
+Tamil Nadu,2024-25,67,Rice_Area,2157.8
+Telangana,2010-11,67,Rice_Area,1978.5
+Telangana,2011-12,67,Rice_Area,1750.0
+Telangana,2012-13,67,Rice_Area,1418.4
+Telangana,2013-14,67,Rice_Area,1912.4
+Telangana,2014-15,67,Rice_Area,1415.0
+Telangana,2015-16,67,Rice_Area,1046.0
+Telangana,2016-17,67,Rice_Area,1682.2
+Telangana,2017-18,67,Rice_Area,1962.0
+Telangana,2018-19,67,Rice_Area,1932.0
+Telangana,2019-20,67,Rice_Area,2011.0
+Telangana,2020-21,67,Rice_Area,3186.4
+Telangana,2021-22,67,Rice_Area,3654.9
+Telangana,2022-23,67,Rice_Area,4662.1
+Telangana,2023-24,67,Rice_Area,4685.2
+Telangana,2024-25,67,Rice_Area,4809.5
+Tripura,2004-05,67,Rice_Area,242.6
+Tripura,2005-06,67,Rice_Area,244.7
+Tripura,2006-07,67,Rice_Area,251.0
+Tripura,2007-08,67,Rice_Area,237.2
+Tripura,2008-09,67,Rice_Area,242.5
+Tripura,2009-10,67,Rice_Area,245.6
+Tripura,2010-11,67,Rice_Area,264.6
+Tripura,2011-12,67,Rice_Area,266.0
+Tripura,2012-13,67,Rice_Area,254.7
+Tripura,2013-14,67,Rice_Area,254.3
+Tripura,2014-15,67,Rice_Area,257.3
+Tripura,2015-16,67,Rice_Area,269.8
+Tripura,2016-17,67,Rice_Area,277.1
+Tripura,2017-18,67,Rice_Area,274.1
+Tripura,2018-19,67,Rice_Area,269.4
+Tripura,2019-20,67,Rice_Area,267.3
+Tripura,2020-21,67,Rice_Area,263.8
+Tripura,2021-22,67,Rice_Area,255.7
+Tripura,2022-23,67,Rice_Area,241.8
+Tripura,2023-24,67,Rice_Area,241.8
+Tripura,2024-25,67,Rice_Area,224.6
+Uttar Pradesh,2004-05,67,Rice_Area,5339.3
+Uttar Pradesh,2005-06,67,Rice_Area,5578.2
+Uttar Pradesh,2006-07,67,Rice_Area,5920.6
+Uttar Pradesh,2007-08,67,Rice_Area,5709.0
+Uttar Pradesh,2008-09,67,Rice_Area,6034.0
+Uttar Pradesh,2009-10,67,Rice_Area,5186.7
+Uttar Pradesh,2010-11,67,Rice_Area,5657.0
+Uttar Pradesh,2011-12,67,Rice_Area,5947.0
+Uttar Pradesh,2012-13,67,Rice_Area,5861.0
+Uttar Pradesh,2013-14,67,Rice_Area,5982.0
+Uttar Pradesh,2014-15,67,Rice_Area,5872.0
+Uttar Pradesh,2015-16,67,Rice_Area,5862.0
+Uttar Pradesh,2016-17,67,Rice_Area,5992.0
+Uttar Pradesh,2017-18,67,Rice_Area,5814.0
+Uttar Pradesh,2018-19,67,Rice_Area,5748.0
+Uttar Pradesh,2019-20,67,Rice_Area,5737.0
+Uttar Pradesh,2020-21,67,Rice_Area,5678.0
+Uttar Pradesh,2021-22,67,Rice_Area,5703.0
+Uttar Pradesh,2022-23,67,Rice_Area,5898.5
+Uttar Pradesh,2023-24,67,Rice_Area,5767.7
+Uttar Pradesh,2024-25,67,Rice_Area,7350.0
+Uttarakhand,2004-05,67,Rice_Area,306.0
+Uttarakhand,2005-06,67,Rice_Area,302.0
+Uttarakhand,2006-07,67,Rice_Area,281.0
+Uttarakhand,2007-08,67,Rice_Area,289.0
+Uttarakhand,2008-09,67,Rice_Area,296.0
+Uttarakhand,2009-10,67,Rice_Area,294.0
+Uttarakhand,2010-11,67,Rice_Area,289.5
+Uttarakhand,2011-12,67,Rice_Area,280.0
+Uttarakhand,2012-13,67,Rice_Area,262.8
+Uttarakhand,2013-14,67,Rice_Area,252.8
+Uttarakhand,2014-15,67,Rice_Area,261.7
+Uttarakhand,2015-16,67,Rice_Area,264.1
+Uttarakhand,2016-17,67,Rice_Area,261.0
+Uttarakhand,2017-18,67,Rice_Area,252.0
+Uttarakhand,2018-19,67,Rice_Area,256.0
+Uttarakhand,2019-20,67,Rice_Area,247.0
+Uttarakhand,2020-21,67,Rice_Area,254.0
+Uttarakhand,2021-22,67,Rice_Area,257.0
+Uttarakhand,2022-23,67,Rice_Area,249.0
+Uttarakhand,2023-24,67,Rice_Area,243.4
+Uttarakhand,2024-25,67,Rice_Area,216.1
+West Bengal,2004-05,67,Rice_Area,5783.6
+West Bengal,2005-06,67,Rice_Area,5783.0
+West Bengal,2006-07,67,Rice_Area,5687.0
+West Bengal,2007-08,67,Rice_Area,5719.7
+West Bengal,2008-09,67,Rice_Area,5935.7
+West Bengal,2009-10,67,Rice_Area,5630.1
+West Bengal,2010-11,67,Rice_Area,4944.1
+West Bengal,2011-12,67,Rice_Area,5433.7
+West Bengal,2012-13,67,Rice_Area,5444.3
+West Bengal,2013-14,67,Rice_Area,5513.7
+West Bengal,2014-15,67,Rice_Area,5376.0
+West Bengal,2015-16,67,Rice_Area,5524.0
+West Bengal,2016-17,67,Rice_Area,5496.5
+West Bengal,2017-18,67,Rice_Area,5115.8
+West Bengal,2018-19,67,Rice_Area,5512.6
+West Bengal,2019-20,67,Rice_Area,5491.0
+West Bengal,2020-21,67,Rice_Area,5585.6
+West Bengal,2021-22,67,Rice_Area,5585.8
+West Bengal,2022-23,67,Rice_Area,5065.1
+West Bengal,2023-24,67,Rice_Area,5119.4
+West Bengal,2024-25,67,Rice_Area,5592.0

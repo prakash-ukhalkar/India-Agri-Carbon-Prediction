@@ -1,0 +1,645 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,80,Rice_Yield,3111.0
+Andhra Pradesh,2005-06,80,Rice_Yield,2939.0
+Andhra Pradesh,2006-07,80,Rice_Yield,2984.0
+Andhra Pradesh,2007-08,80,Rice_Yield,3344.0
+Andhra Pradesh,2008-09,80,Rice_Yield,3246.0
+Andhra Pradesh,2009-10,80,Rice_Yield,3062.0
+Andhra Pradesh,2010-11,80,Rice_Yield,3035.0
+Andhra Pradesh,2011-12,80,Rice_Yield,3302.0
+Andhra Pradesh,2012-13,80,Rice_Yield,3106.0
+Andhra Pradesh,2013-14,80,Rice_Yield,2852.0
+Andhra Pradesh,2014-15,80,Rice_Yield,3022.0
+Andhra Pradesh,2015-16,80,Rice_Yield,3465.0
+Andhra Pradesh,2016-17,80,Rice_Yield,3540.0
+Andhra Pradesh,2017-18,80,Rice_Yield,3788.0
+Andhra Pradesh,2018-19,80,Rice_Yield,3729.0
+Andhra Pradesh,2019-20,80,Rice_Yield,3765.0
+Andhra Pradesh,2020-21,80,Rice_Yield,3393.0
+Andhra Pradesh,2021-22,80,Rice_Yield,3392.0
+Andhra Pradesh,2022-23,80,Rice_Yield,3730.0
+Andhra Pradesh,2023-24,80,Rice_Yield,3822.0
+Andhra Pradesh,2024-25,80,Rice_Yield,3928.0
+Arunachal Pradesh,2004-05,80,Rice_Yield,1110.0
+Arunachal Pradesh,2005-06,80,Rice_Yield,1195.0
+Arunachal Pradesh,2006-07,80,Rice_Yield,1195.0
+Arunachal Pradesh,2007-08,80,Rice_Yield,1275.0
+Arunachal Pradesh,2008-09,80,Rice_Yield,1293.0
+Arunachal Pradesh,2009-10,80,Rice_Yield,1777.0
+Arunachal Pradesh,2010-11,80,Rice_Yield,1925.0
+Arunachal Pradesh,2011-12,80,Rice_Yield,2065.0
+Arunachal Pradesh,2012-13,80,Rice_Yield,2086.0
+Arunachal Pradesh,2013-14,80,Rice_Yield,2092.0
+Arunachal Pradesh,2014-15,80,Rice_Yield,2241.0
+Arunachal Pradesh,2015-16,80,Rice_Yield,1584.0
+Arunachal Pradesh,2016-17,80,Rice_Yield,1679.0
+Arunachal Pradesh,2017-18,80,Rice_Yield,1768.0
+Arunachal Pradesh,2018-19,80,Rice_Yield,1802.0
+Arunachal Pradesh,2019-20,80,Rice_Yield,1833.0
+Arunachal Pradesh,2020-21,80,Rice_Yield,1847.0
+Arunachal Pradesh,2021-22,80,Rice_Yield,1849.0
+Arunachal Pradesh,2022-23,80,Rice_Yield,1854.0
+Arunachal Pradesh,2023-24,80,Rice_Yield,1856.0
+Arunachal Pradesh,2024-25,80,Rice_Yield,1856.0
+Assam,2004-05,80,Rice_Yield,1460.0
+Assam,2005-06,80,Rice_Yield,1468.0
+Assam,2006-07,80,Rice_Yield,1332.0
+Assam,2007-08,80,Rice_Yield,1428.0
+Assam,2008-09,80,Rice_Yield,1614.0
+Assam,2009-10,80,Rice_Yield,1737.0
+Assam,2010-11,80,Rice_Yield,1843.0
+Assam,2011-12,80,Rice_Yield,1780.0
+Assam,2012-13,80,Rice_Yield,2061.0
+Assam,2013-14,80,Rice_Yield,2012.0
+Assam,2014-15,80,Rice_Yield,2093.0
+Assam,2015-16,80,Rice_Yield,2062.0
+Assam,2016-17,80,Rice_Yield,1916.0
+Assam,2017-18,80,Rice_Yield,2171.0
+Assam,2018-19,80,Rice_Yield,2153.0
+Assam,2019-20,80,Rice_Yield,2176.0
+Assam,2020-21,80,Rice_Yield,2209.0
+Assam,2021-22,80,Rice_Yield,1862.0
+Assam,2022-23,80,Rice_Yield,2426.0
+Assam,2023-24,80,Rice_Yield,2413.0
+Assam,2024-25,80,Rice_Yield,2225.0
+Bihar,2004-05,80,Rice_Yield,792.0
+Bihar,2005-06,80,Rice_Yield,1075.0
+Bihar,2006-07,80,Rice_Yield,1486.0
+Bihar,2007-08,80,Rice_Yield,1237.0
+Bihar,2008-09,80,Rice_Yield,1599.0
+Bihar,2009-10,80,Rice_Yield,1120.0
+Bihar,2010-11,80,Rice_Yield,1095.0
+Bihar,2011-12,80,Rice_Yield,2155.0
+Bihar,2012-13,80,Rice_Yield,2282.0
+Bihar,2013-14,80,Rice_Yield,1759.0
+Bihar,2014-15,80,Rice_Yield,1948.0
+Bihar,2015-16,80,Rice_Yield,2104.0
+Bihar,2016-17,80,Rice_Yield,2467.0
+Bihar,2017-18,80,Rice_Yield,2447.0
+Bihar,2018-19,80,Rice_Yield,1948.0
+Bihar,2019-20,80,Rice_Yield,2182.0
+Bihar,2020-21,80,Rice_Yield,2233.0
+Bihar,2021-22,80,Rice_Yield,2496.0
+Bihar,2022-23,80,Rice_Yield,2453.0
+Bihar,2023-24,80,Rice_Yield,2541.0
+Bihar,2024-25,80,Rice_Yield,2561.0
+Chhattisgarh,2004-05,80,Rice_Yield,1170.0
+Chhattisgarh,2005-06,80,Rice_Yield,1337.0
+Chhattisgarh,2006-07,80,Rice_Yield,1354.0
+Chhattisgarh,2007-08,80,Rice_Yield,1446.0
+Chhattisgarh,2008-09,80,Rice_Yield,1176.0
+Chhattisgarh,2009-10,80,Rice_Yield,1120.0
+Chhattisgarh,2010-11,80,Rice_Yield,1663.0
+Chhattisgarh,2011-12,80,Rice_Yield,1597.0
+Chhattisgarh,2012-13,80,Rice_Yield,1746.0
+Chhattisgarh,2013-14,80,Rice_Yield,1766.0
+Chhattisgarh,2014-15,80,Rice_Yield,1660.0
+Chhattisgarh,2015-16,80,Rice_Yield,1517.0
+Chhattisgarh,2016-17,80,Rice_Yield,2101.0
+Chhattisgarh,2017-18,80,Rice_Yield,1311.0
+Chhattisgarh,2018-19,80,Rice_Yield,1810.0
+Chhattisgarh,2019-20,80,Rice_Yield,1848.0
+Chhattisgarh,2020-21,80,Rice_Yield,1889.0
+Chhattisgarh,2021-22,80,Rice_Yield,2134.0
+Chhattisgarh,2022-23,80,Rice_Yield,2602.0
+Chhattisgarh,2023-24,80,Rice_Yield,2539.0
+Chhattisgarh,2024-25,80,Rice_Yield,2655.0
+Delhi,2004-05,80,Rice_Yield,2383.0
+Delhi,2005-06,80,Rice_Yield,3200.0
+Delhi,2006-07,80,Rice_Yield,4203.0
+Delhi,2007-08,80,Rice_Yield,4243.0
+Delhi,2008-09,80,Rice_Yield,4243.0
+Delhi,2009-10,80,Rice_Yield,4252.0
+Delhi,2010-11,80,Rice_Yield,2787.0
+Delhi,2011-12,80,Rice_Yield,2885.0
+Delhi,2012-13,80,Rice_Yield,4403.0
+Delhi,2013-14,80,Rice_Yield,4906.0
+Delhi,2014-15,80,Rice_Yield,4288.0
+Delhi,2015-16,80,Rice_Yield,2862.0
+Delhi,2016-17,80,Rice_Yield,2890.0
+Delhi,2017-18,80,Rice_Yield,2876.0
+Delhi,2018-19,80,Rice_Yield,2877.0
+Delhi,2019-20,80,Rice_Yield,2877.0
+Delhi,2020-21,80,Rice_Yield,3200.0
+Delhi,2021-22,80,Rice_Yield,3106.0
+Delhi,2022-23,80,Rice_Yield,3067.0
+Delhi,2023-24,80,Rice_Yield,3067.0
+Delhi,2024-25,80,Rice_Yield,2800.0
+Goa,2004-05,80,Rice_Yield,2771.0
+Goa,2005-06,80,Rice_Yield,2822.0
+Goa,2006-07,80,Rice_Yield,2458.0
+Goa,2007-08,80,Rice_Yield,2330.0
+Goa,2008-09,80,Rice_Yield,2466.0
+Goa,2009-10,80,Rice_Yield,2138.0
+Goa,2010-11,80,Rice_Yield,2467.0
+Goa,2011-12,80,Rice_Yield,2577.0
+Goa,2012-13,80,Rice_Yield,2679.0
+Goa,2013-14,80,Rice_Yield,2954.0
+Goa,2014-15,80,Rice_Yield,2871.0
+Goa,2015-16,80,Rice_Yield,2783.0
+Goa,2016-17,80,Rice_Yield,2774.0
+Goa,2017-18,80,Rice_Yield,2674.0
+Goa,2018-19,80,Rice_Yield,2717.0
+Goa,2019-20,80,Rice_Yield,2605.0
+Goa,2020-21,80,Rice_Yield,2673.0
+Goa,2021-22,80,Rice_Yield,2795.0
+Goa,2022-23,80,Rice_Yield,2804.0
+Goa,2023-24,80,Rice_Yield,2916.0
+Goa,2024-25,80,Rice_Yield,2348.0
+Gujarat,2004-05,80,Rice_Yield,1806.0
+Gujarat,2005-06,80,Rice_Yield,1949.0
+Gujarat,2006-07,80,Rice_Yield,1894.0
+Gujarat,2007-08,80,Rice_Yield,1942.0
+Gujarat,2008-09,80,Rice_Yield,1744.0
+Gujarat,2009-10,80,Rice_Yield,1903.0
+Gujarat,2010-11,80,Rice_Yield,1852.0
+Gujarat,2011-12,80,Rice_Yield,2141.0
+Gujarat,2012-13,80,Rice_Yield,2198.0
+Gujarat,2013-14,80,Rice_Yield,2076.0
+Gujarat,2014-15,80,Rice_Yield,2329.0
+Gujarat,2015-16,80,Rice_Yield,2205.0
+Gujarat,2016-17,80,Rice_Yield,2306.0
+Gujarat,2017-18,80,Rice_Yield,2209.0
+Gujarat,2018-19,80,Rice_Yield,2279.0
+Gujarat,2019-20,80,Rice_Yield,2193.0
+Gujarat,2020-21,80,Rice_Yield,2367.0
+Gujarat,2021-22,80,Rice_Yield,2355.0
+Gujarat,2022-23,80,Rice_Yield,2530.0
+Gujarat,2023-24,80,Rice_Yield,2485.0
+Gujarat,2024-25,80,Rice_Yield,2410.0
+Haryana,2004-05,80,Rice_Yield,2941.0
+Haryana,2005-06,80,Rice_Yield,3051.0
+Haryana,2006-07,80,Rice_Yield,3238.0
+Haryana,2007-08,80,Rice_Yield,3361.0
+Haryana,2008-09,80,Rice_Yield,2726.0
+Haryana,2009-10,80,Rice_Yield,3008.0
+Haryana,2010-11,80,Rice_Yield,2789.0
+Haryana,2011-12,80,Rice_Yield,3044.0
+Haryana,2012-13,80,Rice_Yield,3272.0
+Haryana,2013-14,80,Rice_Yield,3256.0
+Haryana,2014-15,80,Rice_Yield,3113.0
+Haryana,2015-16,80,Rice_Yield,3061.0
+Haryana,2016-17,80,Rice_Yield,3213.0
+Haryana,2017-18,80,Rice_Yield,3181.0
+Haryana,2018-19,80,Rice_Yield,3121.0
+Haryana,2019-20,80,Rice_Yield,3334.0
+Haryana,2020-21,80,Rice_Yield,3334.0
+Haryana,2021-22,80,Rice_Yield,3605.0
+Haryana,2022-23,80,Rice_Yield,3362.0
+Haryana,2023-24,80,Rice_Yield,3822.0
+Haryana,2024-25,80,Rice_Yield,3766.0
+Himachal Pradesh,2004-05,80,Rice_Yield,1506.0
+Himachal Pradesh,2005-06,80,Rice_Yield,1412.0
+Himachal Pradesh,2006-07,80,Rice_Yield,1559.0
+Himachal Pradesh,2007-08,80,Rice_Yield,1546.0
+Himachal Pradesh,2008-09,80,Rice_Yield,1523.0
+Himachal Pradesh,2009-10,80,Rice_Yield,1381.0
+Himachal Pradesh,2010-11,80,Rice_Yield,1673.0
+Himachal Pradesh,2011-12,80,Rice_Yield,1705.0
+Himachal Pradesh,2012-13,80,Rice_Yield,1629.0
+Himachal Pradesh,2013-14,80,Rice_Yield,1625.0
+Himachal Pradesh,2014-15,80,Rice_Yield,1728.0
+Himachal Pradesh,2015-16,80,Rice_Yield,1763.0
+Himachal Pradesh,2016-17,80,Rice_Yield,1968.0
+Himachal Pradesh,2017-18,80,Rice_Yield,1603.0
+Himachal Pradesh,2018-19,80,Rice_Yield,1600.0
+Himachal Pradesh,2019-20,80,Rice_Yield,1980.0
+Himachal Pradesh,2020-21,80,Rice_Yield,2052.0
+Himachal Pradesh,2021-22,80,Rice_Yield,2532.0
+Himachal Pradesh,2022-23,80,Rice_Yield,1942.0
+Himachal Pradesh,2023-24,80,Rice_Yield,2474.0
+Himachal Pradesh,2024-25,80,Rice_Yield,2080.0
+Jammu & Kashmir,2004-05,80,Rice_Yield,1969.0
+Jammu & Kashmir,2005-06,80,Rice_Yield,2150.0
+Jammu & Kashmir,2006-07,80,Rice_Yield,2194.0
+Jammu & Kashmir,2007-08,80,Rice_Yield,2133.0
+Jammu & Kashmir,2008-09,80,Rice_Yield,2186.0
+Jammu & Kashmir,2009-10,80,Rice_Yield,1914.0
+Jammu & Kashmir,2010-11,80,Rice_Yield,1942.0
+Jammu & Kashmir,2011-12,80,Rice_Yield,2078.0
+Jammu & Kashmir,2012-13,80,Rice_Yield,3126.0
+Jammu & Kashmir,2013-14,80,Rice_Yield,2250.0
+Jammu & Kashmir,2014-15,80,Rice_Yield,1871.0
+Jammu & Kashmir,2015-16,80,Rice_Yield,2123.0
+Jammu & Kashmir,2016-17,80,Rice_Yield,2019.0
+Jammu & Kashmir,2017-18,80,Rice_Yield,1876.0
+Jammu & Kashmir,2018-19,80,Rice_Yield,2350.0
+Jammu & Kashmir,2019-20,80,Rice_Yield,2093.0
+Jammu & Kashmir,2020-21,80,Rice_Yield,2173.0
+Jammu & Kashmir,2021-22,80,Rice_Yield,1834.0
+Jammu & Kashmir,2022-23,80,Rice_Yield,2202.0
+Jammu & Kashmir,2023-24,80,Rice_Yield,2482.0
+Jammu & Kashmir,2024-25,80,Rice_Yield,2482.0
+Jharkhand,2004-05,80,Rice_Yield,1305.0
+Jharkhand,2005-06,80,Rice_Yield,1150.0
+Jharkhand,2006-07,80,Rice_Yield,1828.0
+Jharkhand,2007-08,80,Rice_Yield,2018.0
+Jharkhand,2008-09,80,Rice_Yield,2031.0
+Jharkhand,2009-10,80,Rice_Yield,1546.0
+Jharkhand,2010-11,80,Rice_Yield,1541.0
+Jharkhand,2011-12,80,Rice_Yield,2131.0
+Jharkhand,2012-13,80,Rice_Yield,2238.0
+Jharkhand,2013-14,80,Rice_Yield,2238.0
+Jharkhand,2014-15,80,Rice_Yield,2238.0
+Jharkhand,2015-16,80,Rice_Yield,1814.0
+Jharkhand,2016-17,80,Rice_Yield,2241.0
+Jharkhand,2017-18,80,Rice_Yield,2350.0
+Jharkhand,2018-19,80,Rice_Yield,1895.0
+Jharkhand,2019-20,80,Rice_Yield,2219.0
+Jharkhand,2020-21,80,Rice_Yield,1951.0
+Jharkhand,2021-22,80,Rice_Yield,2028.0
+Jharkhand,2022-23,80,Rice_Yield,1747.0
+Jharkhand,2023-24,80,Rice_Yield,1378.0
+Jharkhand,2024-25,80,Rice_Yield,1894.0
+Karnataka,2004-05,80,Rice_Yield,2712.0
+Karnataka,2005-06,80,Rice_Yield,3868.0
+Karnataka,2006-07,80,Rice_Yield,2470.0
+Karnataka,2007-08,80,Rice_Yield,2625.0
+Karnataka,2008-09,80,Rice_Yield,2511.0
+Karnataka,2009-10,80,Rice_Yield,2482.0
+Karnataka,2010-11,80,Rice_Yield,2719.0
+Karnataka,2011-12,80,Rice_Yield,5795.0
+Karnataka,2012-13,80,Rice_Yield,2632.0
+Karnataka,2013-14,80,Rice_Yield,2666.0
+Karnataka,2014-15,80,Rice_Yield,2670.0
+Karnataka,2015-16,80,Rice_Yield,2722.0
+Karnataka,2016-17,80,Rice_Yield,2519.0
+Karnataka,2017-18,80,Rice_Yield,3038.0
+Karnataka,2018-19,80,Rice_Yield,3012.0
+Karnataka,2019-20,80,Rice_Yield,3067.0
+Karnataka,2020-21,80,Rice_Yield,3072.0
+Karnataka,2021-22,80,Rice_Yield,3089.0
+Karnataka,2022-23,80,Rice_Yield,3223.0
+Karnataka,2023-24,80,Rice_Yield,3282.0
+Karnataka,2024-25,80,Rice_Yield,3344.0
+Kerala,2004-05,80,Rice_Yield,4787.0
+Kerala,2005-06,80,Rice_Yield,4972.0
+Kerala,2006-07,80,Rice_Yield,4974.0
+Kerala,2007-08,80,Rice_Yield,2310.0
+Kerala,2008-09,80,Rice_Yield,2519.0
+Kerala,2009-10,80,Rice_Yield,2557.0
+Kerala,2010-11,80,Rice_Yield,2452.0
+Kerala,2011-12,80,Rice_Yield,2733.0
+Kerala,2012-13,80,Rice_Yield,2577.0
+Kerala,2013-14,80,Rice_Yield,2551.0
+Kerala,2014-15,80,Rice_Yield,2836.0
+Kerala,2015-16,80,Rice_Yield,2790.0
+Kerala,2016-17,80,Rice_Yield,2550.0
+Kerala,2017-18,80,Rice_Yield,2757.0
+Kerala,2018-19,80,Rice_Yield,2920.0
+Kerala,2019-20,80,Rice_Yield,3056.0
+Kerala,2020-21,80,Rice_Yield,3091.0
+Kerala,2021-22,80,Rice_Yield,2488.0
+Kerala,2022-23,80,Rice_Yield,3108.0
+Kerala,2023-24,80,Rice_Yield,2762.0
+Kerala,2024-25,80,Rice_Yield,2923.0
+Madhya Pradesh,2004-05,80,Rice_Yield,720.0
+Madhya Pradesh,2005-06,80,Rice_Yield,999.0
+Madhya Pradesh,2006-07,80,Rice_Yield,824.0
+Madhya Pradesh,2007-08,80,Rice_Yield,938.0
+Madhya Pradesh,2008-09,80,Rice_Yield,927.0
+Madhya Pradesh,2009-10,80,Rice_Yield,872.0
+Madhya Pradesh,2010-11,80,Rice_Yield,1106.0
+Madhya Pradesh,2011-12,80,Rice_Yield,1340.0
+Madhya Pradesh,2012-13,80,Rice_Yield,1474.0
+Madhya Pradesh,2013-14,80,Rice_Yield,1474.0
+Madhya Pradesh,2014-15,80,Rice_Yield,1684.0
+Madhya Pradesh,2015-16,80,Rice_Yield,1752.0
+Madhya Pradesh,2016-17,80,Rice_Yield,1847.0
+Madhya Pradesh,2017-18,80,Rice_Yield,2026.0
+Madhya Pradesh,2018-19,80,Rice_Yield,1880.0
+Madhya Pradesh,2019-20,80,Rice_Yield,2370.0
+Madhya Pradesh,2020-21,80,Rice_Yield,2085.0
+Madhya Pradesh,2021-22,80,Rice_Yield,2283.0
+Madhya Pradesh,2022-23,80,Rice_Yield,2057.0
+Madhya Pradesh,2023-24,80,Rice_Yield,2080.0
+Madhya Pradesh,2024-25,80,Rice_Yield,2345.0
+Maharashtra,2004-05,80,Rice_Yield,1425.0
+Maharashtra,2005-06,80,Rice_Yield,1779.0
+Maharashtra,2006-07,80,Rice_Yield,1680.0
+Maharashtra,2007-08,80,Rice_Yield,1903.0
+Maharashtra,2008-09,80,Rice_Yield,1501.0
+Maharashtra,2009-10,80,Rice_Yield,1485.0
+Maharashtra,2010-11,80,Rice_Yield,1776.0
+Maharashtra,2011-12,80,Rice_Yield,1841.0
+Maharashtra,2012-13,80,Rice_Yield,1963.0
+Maharashtra,2013-14,80,Rice_Yield,1934.0
+Maharashtra,2014-15,80,Rice_Yield,1899.0
+Maharashtra,2015-16,80,Rice_Yield,1725.0
+Maharashtra,2016-17,80,Rice_Yield,2025.0
+Maharashtra,2017-18,80,Rice_Yield,1882.0
+Maharashtra,2018-19,80,Rice_Yield,2236.0
+Maharashtra,2019-20,80,Rice_Yield,1866.0
+Maharashtra,2020-21,80,Rice_Yield,2109.0
+Maharashtra,2021-22,80,Rice_Yield,2178.0
+Maharashtra,2022-23,80,Rice_Yield,2269.0
+Maharashtra,2023-24,80,Rice_Yield,2304.0
+Maharashtra,2024-25,80,Rice_Yield,2299.0
+Manipur,2004-05,80,Rice_Yield,2472.0
+Manipur,2005-06,80,Rice_Yield,2322.0
+Manipur,2006-07,80,Rice_Yield,2322.0
+Manipur,2007-08,80,Rice_Yield,2446.0
+Manipur,2008-09,80,Rice_Yield,2357.0
+Manipur,2009-10,80,Rice_Yield,1889.0
+Manipur,2010-11,80,Rice_Yield,2453.0
+Manipur,2011-12,80,Rice_Yield,2642.0
+Manipur,2012-13,80,Rice_Yield,2099.0
+Manipur,2013-14,80,Rice_Yield,1788.0
+Manipur,2014-15,80,Rice_Yield,1488.0
+Manipur,2015-16,80,Rice_Yield,1429.0
+Manipur,2016-17,80,Rice_Yield,1764.0
+Manipur,2017-18,80,Rice_Yield,2568.0
+Manipur,2018-19,80,Rice_Yield,1720.0
+Manipur,2019-20,80,Rice_Yield,2195.0
+Manipur,2020-21,80,Rice_Yield,2667.0
+Manipur,2021-22,80,Rice_Yield,2836.0
+Manipur,2022-23,80,Rice_Yield,1874.0
+Manipur,2023-24,80,Rice_Yield,2042.0
+Manipur,2024-25,80,Rice_Yield,2465.0
+Meghalaya,2004-05,80,Rice_Yield,1737.0
+Meghalaya,2005-06,80,Rice_Yield,1508.0
+Meghalaya,2006-07,80,Rice_Yield,1916.0
+Meghalaya,2007-08,80,Rice_Yield,1880.0
+Meghalaya,2008-09,80,Rice_Yield,1886.0
+Meghalaya,2009-10,80,Rice_Yield,1910.0
+Meghalaya,2010-11,80,Rice_Yield,1912.0
+Meghalaya,2011-12,80,Rice_Yield,1988.0
+Meghalaya,2012-13,80,Rice_Yield,2125.0
+Meghalaya,2013-14,80,Rice_Yield,2493.0
+Meghalaya,2014-15,80,Rice_Yield,2703.0
+Meghalaya,2015-16,80,Rice_Yield,2726.0
+Meghalaya,2016-17,80,Rice_Yield,1826.0
+Meghalaya,2017-18,80,Rice_Yield,2740.0
+Meghalaya,2018-19,80,Rice_Yield,1821.0
+Meghalaya,2019-20,80,Rice_Yield,2734.0
+Meghalaya,2020-21,80,Rice_Yield,2750.0
+Meghalaya,2021-22,80,Rice_Yield,2741.0
+Meghalaya,2022-23,80,Rice_Yield,2591.0
+Meghalaya,2023-24,80,Rice_Yield,2456.0
+Meghalaya,2024-25,80,Rice_Yield,2592.0
+Mizoram,2004-05,80,Rice_Yield,1900.0
+Mizoram,2005-06,80,Rice_Yield,1778.0
+Mizoram,2006-07,80,Rice_Yield,559.0
+Mizoram,2007-08,80,Rice_Yield,288.0
+Mizoram,2008-09,80,Rice_Yield,885.0
+Mizoram,2009-10,80,Rice_Yield,939.0
+Mizoram,2010-11,80,Rice_Yield,1160.0
+Mizoram,2011-12,80,Rice_Yield,1411.0
+Mizoram,2012-13,80,Rice_Yield,2088.0
+Mizoram,2013-14,80,Rice_Yield,1522.0
+Mizoram,2014-15,80,Rice_Yield,1643.0
+Mizoram,2015-16,80,Rice_Yield,1671.0
+Mizoram,2016-17,80,Rice_Yield,1669.0
+Mizoram,2017-18,80,Rice_Yield,1650.0
+Mizoram,2018-19,80,Rice_Yield,1688.0
+Mizoram,2019-20,80,Rice_Yield,1704.0
+Mizoram,2020-21,80,Rice_Yield,1764.0
+Mizoram,2021-22,80,Rice_Yield,1744.0
+Mizoram,2022-23,80,Rice_Yield,1151.0
+Mizoram,2023-24,80,Rice_Yield,1610.0
+Mizoram,2024-25,80,Rice_Yield,1709.0
+Nagaland,2004-05,80,Rice_Yield,1698.0
+Nagaland,2005-06,80,Rice_Yield,1682.0
+Nagaland,2006-07,80,Rice_Yield,1600.0
+Nagaland,2007-08,80,Rice_Yield,1685.0
+Nagaland,2008-09,80,Rice_Yield,1994.0
+Nagaland,2009-10,80,Rice_Yield,1426.0
+Nagaland,2010-11,80,Rice_Yield,2102.0
+Nagaland,2011-12,80,Rice_Yield,2106.0
+Nagaland,2012-13,80,Rice_Yield,2210.0
+Nagaland,2013-14,80,Rice_Yield,2267.0
+Nagaland,2014-15,80,Rice_Yield,2326.0
+Nagaland,2015-16,80,Rice_Yield,1586.0
+Nagaland,2016-17,80,Rice_Yield,1629.0
+Nagaland,2017-18,80,Rice_Yield,1649.0
+Nagaland,2018-19,80,Rice_Yield,1663.0
+Nagaland,2019-20,80,Rice_Yield,1675.0
+Nagaland,2020-21,80,Rice_Yield,1679.0
+Nagaland,2021-22,80,Rice_Yield,1234.0
+Nagaland,2022-23,80,Rice_Yield,1751.0
+Nagaland,2023-24,80,Rice_Yield,1753.0
+Nagaland,2024-25,80,Rice_Yield,1736.0
+Odisha,2004-05,80,Rice_Yield,1446.0
+Odisha,2005-06,80,Rice_Yield,1531.0
+Odisha,2006-07,80,Rice_Yield,1534.0
+Odisha,2007-08,80,Rice_Yield,1694.0
+Odisha,2008-09,80,Rice_Yield,1529.0
+Odisha,2009-10,80,Rice_Yield,1585.0
+Odisha,2010-11,80,Rice_Yield,1616.0
+Odisha,2011-12,80,Rice_Yield,1450.0
+Odisha,2012-13,80,Rice_Yield,1814.0
+Odisha,2013-14,80,Rice_Yield,1821.0
+Odisha,2014-15,80,Rice_Yield,1992.0
+Odisha,2015-16,80,Rice_Yield,1491.0
+Odisha,2016-17,80,Rice_Yield,2160.0
+Odisha,2017-18,80,Rice_Yield,1739.0
+Odisha,2018-19,80,Rice_Yield,2004.0
+Odisha,2019-20,80,Rice_Yield,2122.0
+Odisha,2020-21,80,Rice_Yield,2182.0
+Odisha,2021-22,80,Rice_Yield,2353.0
+Odisha,2022-23,80,Rice_Yield,2030.0
+Odisha,2023-24,80,Rice_Yield,2081.0
+Odisha,2024-25,80,Rice_Yield,2485.0
+Puducherry,2004-05,80,Rice_Yield,2649.0
+Puducherry,2005-06,80,Rice_Yield,2465.0
+Puducherry,2006-07,80,Rice_Yield,2465.0
+Puducherry,2007-08,80,Rice_Yield,2618.0
+Puducherry,2008-09,80,Rice_Yield,2442.0
+Puducherry,2009-10,80,Rice_Yield,2504.0
+Puducherry,2010-11,80,Rice_Yield,2596.0
+Puducherry,2011-12,80,Rice_Yield,2538.0
+Puducherry,2012-13,80,Rice_Yield,2857.0
+Puducherry,2013-14,80,Rice_Yield,3147.0
+Puducherry,2014-15,80,Rice_Yield,3164.0
+Puducherry,2015-16,80,Rice_Yield,2698.0
+Puducherry,2016-17,80,Rice_Yield,3219.0
+Puducherry,2017-18,80,Rice_Yield,2446.0
+Puducherry,2018-19,80,Rice_Yield,3546.0
+Puducherry,2019-20,80,Rice_Yield,3254.0
+Puducherry,2020-21,80,Rice_Yield,2756.0
+Puducherry,2021-22,80,Rice_Yield,2984.0
+Puducherry,2022-23,80,Rice_Yield,3304.0
+Puducherry,2023-24,80,Rice_Yield,3133.0
+Puducherry,2024-25,80,Rice_Yield,2761.0
+Punjab,2004-05,80,Rice_Yield,3943.0
+Punjab,2005-06,80,Rice_Yield,3858.0
+Punjab,2006-07,80,Rice_Yield,3868.0
+Punjab,2007-08,80,Rice_Yield,4019.0
+Punjab,2008-09,80,Rice_Yield,4022.0
+Punjab,2009-10,80,Rice_Yield,4010.0
+Punjab,2010-11,80,Rice_Yield,3828.0
+Punjab,2011-12,80,Rice_Yield,3741.0
+Punjab,2012-13,80,Rice_Yield,3998.0
+Punjab,2013-14,80,Rice_Yield,3952.0
+Punjab,2014-15,80,Rice_Yield,3838.0
+Punjab,2015-16,80,Rice_Yield,3974.0
+Punjab,2016-17,80,Rice_Yield,3998.0
+Punjab,2017-18,80,Rice_Yield,4366.0
+Punjab,2018-19,80,Rice_Yield,4132.0
+Punjab,2019-20,80,Rice_Yield,4034.0
+Punjab,2020-21,80,Rice_Yield,4366.0
+Punjab,2021-22,80,Rice_Yield,4340.0
+Punjab,2022-23,80,Rice_Yield,4193.0
+Punjab,2023-24,80,Rice_Yield,4516.0
+Punjab,2024-25,80,Rice_Yield,4428.0
+Rajasthan,2004-05,80,Rice_Yield,1485.0
+Rajasthan,2005-06,80,Rice_Yield,1425.0
+Rajasthan,2006-07,80,Rice_Yield,1577.0
+Rajasthan,2007-08,80,Rice_Yield,2031.0
+Rajasthan,2008-09,80,Rice_Yield,1807.0
+Rajasthan,2009-10,80,Rice_Yield,1515.0
+Rajasthan,2010-11,80,Rice_Yield,2025.0
+Rajasthan,2011-12,80,Rice_Yield,1886.0
+Rajasthan,2012-13,80,Rice_Yield,1771.0
+Rajasthan,2013-14,80,Rice_Yield,2147.0
+Rajasthan,2014-15,80,Rice_Yield,2186.0
+Rajasthan,2015-16,80,Rice_Yield,2022.0
+Rajasthan,2016-17,80,Rice_Yield,2289.0
+Rajasthan,2017-18,80,Rice_Yield,2365.0
+Rajasthan,2018-19,80,Rice_Yield,2291.0
+Rajasthan,2019-20,80,Rice_Yield,2189.0
+Rajasthan,2020-21,80,Rice_Yield,2739.0
+Rajasthan,2021-22,80,Rice_Yield,2436.0
+Rajasthan,2022-23,80,Rice_Yield,2464.0
+Rajasthan,2023-24,80,Rice_Yield,2786.0
+Rajasthan,2024-25,80,Rice_Yield,2593.0
+Sikkim,2004-05,80,Rice_Yield,1469.0
+Sikkim,2005-06,80,Rice_Yield,1433.0
+Sikkim,2006-07,80,Rice_Yield,1433.0
+Sikkim,2007-08,80,Rice_Yield,1636.0
+Sikkim,2008-09,80,Rice_Yield,1476.0
+Sikkim,2009-10,80,Rice_Yield,1869.0
+Sikkim,2010-11,80,Rice_Yield,1727.0
+Sikkim,2011-12,80,Rice_Yield,1730.0
+Sikkim,2012-13,80,Rice_Yield,1790.0
+Sikkim,2013-14,80,Rice_Yield,1815.0
+Sikkim,2014-15,80,Rice_Yield,1818.0
+Sikkim,2015-16,80,Rice_Yield,1230.0
+Sikkim,2016-17,80,Rice_Yield,1847.0
+Sikkim,2017-18,80,Rice_Yield,1856.0
+Sikkim,2018-19,80,Rice_Yield,1856.0
+Sikkim,2019-20,80,Rice_Yield,1858.0
+Sikkim,2020-21,80,Rice_Yield,1861.0
+Sikkim,2021-22,80,Rice_Yield,1861.0
+Sikkim,2022-23,80,Rice_Yield,1241.0
+Sikkim,2023-24,80,Rice_Yield,1242.0
+Sikkim,2024-25,80,Rice_Yield,1242.0
+Tamil Nadu,2004-05,80,Rice_Yield,2703.0
+Tamil Nadu,2005-06,80,Rice_Yield,2546.0
+Tamil Nadu,2006-07,80,Rice_Yield,3423.0
+Tamil Nadu,2007-08,80,Rice_Yield,2817.0
+Tamil Nadu,2008-09,80,Rice_Yield,2683.0
+Tamil Nadu,2009-10,80,Rice_Yield,3070.0
+Tamil Nadu,2010-11,80,Rice_Yield,3040.0
+Tamil Nadu,2011-12,80,Rice_Yield,3918.0
+Tamil Nadu,2012-13,80,Rice_Yield,2712.0
+Tamil Nadu,2013-14,80,Rice_Yield,3100.0
+Tamil Nadu,2014-15,80,Rice_Yield,3191.0
+Tamil Nadu,2015-16,80,Rice_Yield,3758.0
+Tamil Nadu,2016-17,80,Rice_Yield,1642.0
+Tamil Nadu,2017-18,80,Rice_Yield,3630.0
+Tamil Nadu,2018-19,80,Rice_Yield,3562.0
+Tamil Nadu,2019-20,80,Rice_Yield,3760.0
+Tamil Nadu,2020-21,80,Rice_Yield,3379.0
+Tamil Nadu,2021-22,80,Rice_Yield,3566.0
+Tamil Nadu,2022-23,80,Rice_Yield,3500.0
+Tamil Nadu,2023-24,80,Rice_Yield,3235.0
+Tamil Nadu,2024-25,80,Rice_Yield,3288.0
+Telangana,2011-12,80,Rice_Yield,2942.0
+Telangana,2012-13,80,Rice_Yield,3277.0
+Telangana,2013-14,80,Rice_Yield,3009.0
+Telangana,2014-15,80,Rice_Yield,3138.0
+Telangana,2015-16,80,Rice_Yield,2913.0
+Telangana,2016-17,80,Rice_Yield,3075.0
+Telangana,2017-18,80,Rice_Yield,3192.0
+Telangana,2018-19,80,Rice_Yield,3452.0
+Telangana,2019-20,80,Rice_Yield,3694.0
+Telangana,2020-21,80,Rice_Yield,3206.0
+Telangana,2021-22,80,Rice_Yield,3395.0
+Telangana,2022-23,80,Rice_Yield,3406.0
+Telangana,2023-24,80,Rice_Yield,3602.0
+Telangana,2024-25,80,Rice_Yield,3627.0
+Tripura,2004-05,80,Rice_Yield,2247.0
+Tripura,2005-06,80,Rice_Yield,2260.0
+Tripura,2006-07,80,Rice_Yield,2472.0
+Tripura,2007-08,80,Rice_Yield,2633.0
+Tripura,2008-09,80,Rice_Yield,2586.0
+Tripura,2009-10,80,Rice_Yield,2606.0
+Tripura,2010-11,80,Rice_Yield,2655.0
+Tripura,2011-12,80,Rice_Yield,2700.0
+Tripura,2012-13,80,Rice_Yield,2800.0
+Tripura,2013-14,80,Rice_Yield,2800.0
+Tripura,2014-15,80,Rice_Yield,2903.0
+Tripura,2015-16,80,Rice_Yield,2946.0
+Tripura,2016-17,80,Rice_Yield,2940.0
+Tripura,2017-18,80,Rice_Yield,2963.0
+Tripura,2018-19,80,Rice_Yield,2944.0
+Tripura,2019-20,80,Rice_Yield,3031.0
+Tripura,2020-21,80,Rice_Yield,3045.0
+Tripura,2021-22,80,Rice_Yield,3171.0
+Tripura,2022-23,80,Rice_Yield,3263.0
+Tripura,2023-24,80,Rice_Yield,3263.0
+Tripura,2024-25,80,Rice_Yield,3185.0
+Uttar Pradesh,2004-05,80,Rice_Yield,1790.0
+Uttar Pradesh,2005-06,80,Rice_Yield,1996.0
+Uttar Pradesh,2006-07,80,Rice_Yield,1879.0
+Uttar Pradesh,2007-08,80,Rice_Yield,2063.0
+Uttar Pradesh,2008-09,80,Rice_Yield,2171.0
+Uttar Pradesh,2009-10,80,Rice_Yield,2084.0
+Uttar Pradesh,2010-11,80,Rice_Yield,2120.0
+Uttar Pradesh,2011-12,80,Rice_Yield,2358.0
+Uttar Pradesh,2012-13,80,Rice_Yield,2460.0
+Uttar Pradesh,2013-14,80,Rice_Yield,2447.0
+Uttar Pradesh,2014-15,80,Rice_Yield,2072.0
+Uttar Pradesh,2015-16,80,Rice_Yield,2133.0
+Uttar Pradesh,2016-17,80,Rice_Yield,2295.0
+Uttar Pradesh,2017-18,80,Rice_Yield,2283.0
+Uttar Pradesh,2018-19,80,Rice_Yield,2704.0
+Uttar Pradesh,2019-20,80,Rice_Yield,2705.0
+Uttar Pradesh,2020-21,80,Rice_Yield,2733.0
+Uttar Pradesh,2021-22,80,Rice_Yield,2678.0
+Uttar Pradesh,2022-23,80,Rice_Yield,2737.0
+Uttar Pradesh,2023-24,80,Rice_Yield,2772.0
+Uttar Pradesh,2024-25,80,Rice_Yield,2824.0
+Uttarakhand,2004-05,80,Rice_Yield,1869.0
+Uttarakhand,2005-06,80,Rice_Yield,1954.0
+Uttarakhand,2006-07,80,Rice_Yield,1979.0
+Uttarakhand,2007-08,80,Rice_Yield,2052.0
+Uttarakhand,2008-09,80,Rice_Yield,1966.0
+Uttarakhand,2009-10,80,Rice_Yield,2068.0
+Uttarakhand,2010-11,80,Rice_Yield,1901.0
+Uttarakhand,2011-12,80,Rice_Yield,2121.0
+Uttarakhand,2012-13,80,Rice_Yield,2206.0
+Uttarakhand,2013-14,80,Rice_Yield,2289.0
+Uttarakhand,2014-15,80,Rice_Yield,2307.0
+Uttarakhand,2015-16,80,Rice_Yield,2420.0
+Uttarakhand,2016-17,80,Rice_Yield,2414.0
+Uttarakhand,2017-18,80,Rice_Yield,2566.0
+Uttarakhand,2018-19,80,Rice_Yield,2412.0
+Uttarakhand,2019-20,80,Rice_Yield,2665.0
+Uttarakhand,2020-21,80,Rice_Yield,2814.0
+Uttarakhand,2021-22,80,Rice_Yield,2786.0
+Uttarakhand,2022-23,80,Rice_Yield,2548.0
+Uttarakhand,2023-24,80,Rice_Yield,2647.0
+Uttarakhand,2024-25,80,Rice_Yield,2710.0
+West Bengal,2004-05,80,Rice_Yield,2574.0
+West Bengal,2005-06,80,Rice_Yield,2509.0
+West Bengal,2006-07,80,Rice_Yield,2593.0
+West Bengal,2007-08,80,Rice_Yield,2573.0
+West Bengal,2008-09,80,Rice_Yield,2533.0
+West Bengal,2009-10,80,Rice_Yield,2547.0
+West Bengal,2010-11,80,Rice_Yield,2639.0
+West Bengal,2011-12,80,Rice_Yield,2688.0
+West Bengal,2012-13,80,Rice_Yield,2760.0
+West Bengal,2013-14,80,Rice_Yield,2788.0
+West Bengal,2014-15,80,Rice_Yield,2730.0
+West Bengal,2015-16,80,Rice_Yield,2888.0
+West Bengal,2016-17,80,Rice_Yield,2784.0
+West Bengal,2017-18,80,Rice_Yield,2926.0
+West Bengal,2018-19,80,Rice_Yield,2946.0
+West Bengal,2019-20,80,Rice_Yield,2892.0
+West Bengal,2020-21,80,Rice_Yield,2958.0
+West Bengal,2021-22,80,Rice_Yield,2995.0
+West Bengal,2022-23,80,Rice_Yield,3057.0
+West Bengal,2023-24,80,Rice_Yield,3064.0
+West Bengal,2024-25,80,Rice_Yield,2865.0

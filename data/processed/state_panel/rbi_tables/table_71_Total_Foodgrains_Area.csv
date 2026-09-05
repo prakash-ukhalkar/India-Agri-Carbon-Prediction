@@ -1,0 +1,645 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,71,Total_Foodgrains_Area,6266.8
+Andhra Pradesh,2005-06,71,Total_Foodgrains_Area,7167.7
+Andhra Pradesh,2006-07,71,Total_Foodgrains_Area,7274.0
+Andhra Pradesh,2007-08,71,Total_Foodgrains_Area,7387.0
+Andhra Pradesh,2008-09,71,Total_Foodgrains_Area,7442.0
+Andhra Pradesh,2009-10,71,Total_Foodgrains_Area,6666.0
+Andhra Pradesh,2010-11,71,Total_Foodgrains_Area,8029.8
+Andhra Pradesh,2011-12,71,Total_Foodgrains_Area,4180.7
+Andhra Pradesh,2012-13,71,Total_Foodgrains_Area,4162.3
+Andhra Pradesh,2013-14,71,Total_Foodgrains_Area,4122.8
+Andhra Pradesh,2014-15,71,Total_Foodgrains_Area,3963.1
+Andhra Pradesh,2015-16,71,Total_Foodgrains_Area,4136.0
+Andhra Pradesh,2016-17,71,Total_Foodgrains_Area,3970.0
+Andhra Pradesh,2017-18,71,Total_Foodgrains_Area,4144.0
+Andhra Pradesh,2018-19,71,Total_Foodgrains_Area,4023.0
+Andhra Pradesh,2019-20,71,Total_Foodgrains_Area,4089.1
+Andhra Pradesh,2020-21,71,Total_Foodgrains_Area,4074.5
+Andhra Pradesh,2021-22,71,Total_Foodgrains_Area,4010.0
+Andhra Pradesh,2022-23,71,Total_Foodgrains_Area,3680.0
+Andhra Pradesh,2023-24,71,Total_Foodgrains_Area,3322.6
+Andhra Pradesh,2024-25,71,Total_Foodgrains_Area,3713.0
+Arunachal Pradesh,2004-05,71,Total_Foodgrains_Area,192.6
+Arunachal Pradesh,2005-06,71,Total_Foodgrains_Area,198.7
+Arunachal Pradesh,2006-07,71,Total_Foodgrains_Area,202.0
+Arunachal Pradesh,2007-08,71,Total_Foodgrains_Area,200.3
+Arunachal Pradesh,2008-09,71,Total_Foodgrains_Area,203.8
+Arunachal Pradesh,2009-10,71,Total_Foodgrains_Area,198.6
+Arunachal Pradesh,2010-11,71,Total_Foodgrains_Area,200.6
+Arunachal Pradesh,2011-12,71,Total_Foodgrains_Area,205.2
+Arunachal Pradesh,2012-13,71,Total_Foodgrains_Area,208.6
+Arunachal Pradesh,2013-14,71,Total_Foodgrains_Area,214.3
+Arunachal Pradesh,2014-15,71,Total_Foodgrains_Area,216.5
+Arunachal Pradesh,2015-16,71,Total_Foodgrains_Area,221.8
+Arunachal Pradesh,2016-17,71,Total_Foodgrains_Area,203.5
+Arunachal Pradesh,2017-18,71,Total_Foodgrains_Area,226.7
+Arunachal Pradesh,2018-19,71,Total_Foodgrains_Area,228.2
+Arunachal Pradesh,2019-20,71,Total_Foodgrains_Area,228.8
+Arunachal Pradesh,2020-21,71,Total_Foodgrains_Area,229.0
+Arunachal Pradesh,2021-22,71,Total_Foodgrains_Area,235.4
+Arunachal Pradesh,2022-23,71,Total_Foodgrains_Area,237.1
+Arunachal Pradesh,2023-24,71,Total_Foodgrains_Area,237.4
+Arunachal Pradesh,2024-25,71,Total_Foodgrains_Area,237.8
+Assam,2004-05,71,Total_Foodgrains_Area,2575.5
+Assam,2005-06,71,Total_Foodgrains_Area,2597.5
+Assam,2006-07,71,Total_Foodgrains_Area,2380.0
+Assam,2007-08,71,Total_Foodgrains_Area,2518.0
+Assam,2008-09,71,Total_Foodgrains_Area,2670.8
+Assam,2009-10,71,Total_Foodgrains_Area,2695.6
+Assam,2010-11,71,Total_Foodgrains_Area,2766.5
+Assam,2011-12,71,Total_Foodgrains_Area,2736.2
+Assam,2012-13,71,Total_Foodgrains_Area,2691.5
+Assam,2013-14,71,Total_Foodgrains_Area,2659.9
+Assam,2014-15,71,Total_Foodgrains_Area,2700.5
+Assam,2015-16,71,Total_Foodgrains_Area,2683.1
+Assam,2016-17,71,Total_Foodgrains_Area,2667.0
+Assam,2017-18,71,Total_Foodgrains_Area,2643.0
+Assam,2018-19,71,Total_Foodgrains_Area,2629.8
+Assam,2019-20,71,Total_Foodgrains_Area,2487.7
+Assam,2020-21,71,Total_Foodgrains_Area,2558.2
+Assam,2021-22,71,Total_Foodgrains_Area,2554.5
+Assam,2022-23,71,Total_Foodgrains_Area,2529.0
+Assam,2023-24,71,Total_Foodgrains_Area,2637.2
+Assam,2024-25,71,Total_Foodgrains_Area,2491.8
+Bihar,2004-05,71,Total_Foodgrains_Area,6463.2
+Bihar,2005-06,71,Total_Foodgrains_Area,6548.4
+Bihar,2006-07,71,Total_Foodgrains_Area,6702.4
+Bihar,2007-08,71,Total_Foodgrains_Area,7028.6
+Bihar,2008-09,71,Total_Foodgrains_Area,6919.7
+Bihar,2009-10,71,Total_Foodgrains_Area,6634.1
+Bihar,2010-11,71,Total_Foodgrains_Area,6235.8
+Bihar,2011-12,71,Total_Foodgrains_Area,6695.9
+Bihar,2012-13,71,Total_Foodgrains_Area,6736.1
+Bihar,2013-14,71,Total_Foodgrains_Area,6396.0
+Bihar,2014-15,71,Total_Foodgrains_Area,6725.5
+Bihar,2015-16,71,Total_Foodgrains_Area,6571.0
+Bihar,2016-17,71,Total_Foodgrains_Area,6683.8
+Bihar,2017-18,71,Total_Foodgrains_Area,6586.5
+Bihar,2018-19,71,Total_Foodgrains_Area,6495.5
+Bihar,2019-20,71,Total_Foodgrains_Area,6183.1
+Bihar,2020-21,71,Total_Foodgrains_Area,6359.4
+Bihar,2021-22,71,Total_Foodgrains_Area,6443.8
+Bihar,2022-23,71,Total_Foodgrains_Area,6258.7
+Bihar,2023-24,71,Total_Foodgrains_Area,6825.8
+Bihar,2024-25,71,Total_Foodgrains_Area,6885.8
+Chhattisgarh,2004-05,71,Total_Foodgrains_Area,5129.4
+Chhattisgarh,2005-06,71,Total_Foodgrains_Area,5145.9
+Chhattisgarh,2006-07,71,Total_Foodgrains_Area,5056.0
+Chhattisgarh,2007-08,71,Total_Foodgrains_Area,5084.0
+Chhattisgarh,2008-09,71,Total_Foodgrains_Area,4963.3
+Chhattisgarh,2009-10,71,Total_Foodgrains_Area,4863.7
+Chhattisgarh,2010-11,71,Total_Foodgrains_Area,4955.4
+Chhattisgarh,2011-12,71,Total_Foodgrains_Area,4964.6
+Chhattisgarh,2012-13,71,Total_Foodgrains_Area,5076.2
+Chhattisgarh,2013-14,71,Total_Foodgrains_Area,4989.4
+Chhattisgarh,2014-15,71,Total_Foodgrains_Area,5064.3
+Chhattisgarh,2015-16,71,Total_Foodgrains_Area,4989.0
+Chhattisgarh,2016-17,71,Total_Foodgrains_Area,5051.0
+Chhattisgarh,2017-18,71,Total_Foodgrains_Area,4885.0
+Chhattisgarh,2018-19,71,Total_Foodgrains_Area,4674.7
+Chhattisgarh,2019-20,71,Total_Foodgrains_Area,4735.5
+Chhattisgarh,2020-21,71,Total_Foodgrains_Area,4804.5
+Chhattisgarh,2021-22,71,Total_Foodgrains_Area,4760.9
+Chhattisgarh,2022-23,71,Total_Foodgrains_Area,4698.1
+Chhattisgarh,2023-24,71,Total_Foodgrains_Area,4655.1
+Chhattisgarh,2024-25,71,Total_Foodgrains_Area,4725.3
+Delhi,2004-05,71,Total_Foodgrains_Area,35.3
+Delhi,2005-06,71,Total_Foodgrains_Area,37.1
+Delhi,2006-07,71,Total_Foodgrains_Area,36.3
+Delhi,2007-08,71,Total_Foodgrains_Area,35.9
+Delhi,2008-09,71,Total_Foodgrains_Area,35.3
+Delhi,2009-10,71,Total_Foodgrains_Area,31.8
+Delhi,2010-11,71,Total_Foodgrains_Area,39.3
+Delhi,2011-12,71,Total_Foodgrains_Area,31.4
+Delhi,2012-13,71,Total_Foodgrains_Area,25.6
+Delhi,2013-14,71,Total_Foodgrains_Area,30.1
+Delhi,2014-15,71,Total_Foodgrains_Area,30.2
+Delhi,2015-16,71,Total_Foodgrains_Area,30.6
+Delhi,2016-17,71,Total_Foodgrains_Area,30.4
+Delhi,2017-18,71,Total_Foodgrains_Area,29.9
+Delhi,2018-19,71,Total_Foodgrains_Area,29.8
+Delhi,2019-20,71,Total_Foodgrains_Area,29.5
+Delhi,2020-21,71,Total_Foodgrains_Area,29.7
+Delhi,2021-22,71,Total_Foodgrains_Area,28.5
+Delhi,2022-23,71,Total_Foodgrains_Area,27.5
+Delhi,2023-24,71,Total_Foodgrains_Area,27.2
+Delhi,2024-25,71,Total_Foodgrains_Area,27.7
+Goa,2004-05,71,Total_Foodgrains_Area,63.4
+Goa,2005-06,71,Total_Foodgrains_Area,63.7
+Goa,2006-07,71,Total_Foodgrains_Area,65.4
+Goa,2007-08,71,Total_Foodgrains_Area,63.9
+Goa,2008-09,71,Total_Foodgrains_Area,60.2
+Goa,2009-10,71,Total_Foodgrains_Area,55.2
+Goa,2010-11,71,Total_Foodgrains_Area,54.4
+Goa,2011-12,71,Total_Foodgrains_Area,57.3
+Goa,2012-13,71,Total_Foodgrains_Area,55.8
+Goa,2013-14,71,Total_Foodgrains_Area,50.9
+Goa,2014-15,71,Total_Foodgrains_Area,50.5
+Goa,2015-16,71,Total_Foodgrains_Area,41.7
+Goa,2016-17,71,Total_Foodgrains_Area,46.7
+Goa,2017-18,71,Total_Foodgrains_Area,44.1
+Goa,2018-19,71,Total_Foodgrains_Area,42.6
+Goa,2019-20,71,Total_Foodgrains_Area,39.1
+Goa,2020-21,71,Total_Foodgrains_Area,36.5
+Goa,2021-22,71,Total_Foodgrains_Area,36.2
+Goa,2022-23,71,Total_Foodgrains_Area,35.1
+Goa,2023-24,71,Total_Foodgrains_Area,36.4
+Goa,2024-25,71,Total_Foodgrains_Area,36.4
+Gujarat,2004-05,71,Total_Foodgrains_Area,3724.3
+Gujarat,2005-06,71,Total_Foodgrains_Area,3967.0
+Gujarat,2006-07,71,Total_Foodgrains_Area,4568.0
+Gujarat,2007-08,71,Total_Foodgrains_Area,4481.0
+Gujarat,2008-09,71,Total_Foodgrains_Area,4063.0
+Gujarat,2009-10,71,Total_Foodgrains_Area,3694.0
+Gujarat,2010-11,71,Total_Foodgrains_Area,4525.0
+Gujarat,2011-12,71,Total_Foodgrains_Area,4736.0
+Gujarat,2012-13,71,Total_Foodgrains_Area,3582.0
+Gujarat,2013-14,71,Total_Foodgrains_Area,4378.0
+Gujarat,2014-15,71,Total_Foodgrains_Area,3527.0
+Gujarat,2015-16,71,Total_Foodgrains_Area,3140.0
+Gujarat,2016-17,71,Total_Foodgrains_Area,3802.0
+Gujarat,2017-18,71,Total_Foodgrains_Area,3737.0
+Gujarat,2018-19,71,Total_Foodgrains_Area,3187.7
+Gujarat,2019-20,71,Total_Foodgrains_Area,3759.2
+Gujarat,2020-21,71,Total_Foodgrains_Area,4230.3
+Gujarat,2021-22,71,Total_Foodgrains_Area,4595.0
+Gujarat,2022-23,71,Total_Foodgrains_Area,4276.5
+Gujarat,2023-24,71,Total_Foodgrains_Area,4329.8
+Gujarat,2024-25,71,Total_Foodgrains_Area,4597.9
+Haryana,2004-05,71,Total_Foodgrains_Area,4240.2
+Haryana,2005-06,71,Total_Foodgrains_Area,4268.8
+Haryana,2006-07,71,Total_Foodgrains_Area,4351.0
+Haryana,2007-08,71,Total_Foodgrains_Area,4476.0
+Haryana,2008-09,71,Total_Foodgrains_Area,4610.2
+Haryana,2009-10,71,Total_Foodgrains_Area,4540.0
+Haryana,2010-11,71,Total_Foodgrains_Area,4716.4
+Haryana,2011-12,71,Total_Foodgrains_Area,4630.0
+Haryana,2012-13,71,Total_Foodgrains_Area,4398.9
+Haryana,2013-14,71,Total_Foodgrains_Area,4403.6
+Haryana,2014-15,71,Total_Foodgrains_Area,4445.2
+Haryana,2015-16,71,Total_Foodgrains_Area,4484.6
+Haryana,2016-17,71,Total_Foodgrains_Area,4593.6
+Haryana,2017-18,71,Total_Foodgrains_Area,4458.2
+Haryana,2018-19,71,Total_Foodgrains_Area,4557.9
+Haryana,2019-20,71,Total_Foodgrains_Area,4591.4
+Haryana,2020-21,71,Total_Foodgrains_Area,4595.1
+Haryana,2021-22,71,Total_Foodgrains_Area,4225.8
+Haryana,2022-23,71,Total_Foodgrains_Area,4522.3
+Haryana,2023-24,71,Total_Foodgrains_Area,4544.3
+Haryana,2024-25,71,Total_Foodgrains_Area,4683.5
+Himachal Pradesh,2004-05,71,Total_Foodgrains_Area,838.6
+Himachal Pradesh,2005-06,71,Total_Foodgrains_Area,798.1
+Himachal Pradesh,2006-07,71,Total_Foodgrains_Area,806.4
+Himachal Pradesh,2007-08,71,Total_Foodgrains_Area,812.4
+Himachal Pradesh,2008-09,71,Total_Foodgrains_Area,797.4
+Himachal Pradesh,2009-10,71,Total_Foodgrains_Area,784.1
+Himachal Pradesh,2010-11,71,Total_Foodgrains_Area,795.3
+Himachal Pradesh,2011-12,71,Total_Foodgrains_Area,790.5
+Himachal Pradesh,2012-13,71,Total_Foodgrains_Area,800.6
+Himachal Pradesh,2013-14,71,Total_Foodgrains_Area,778.9
+Himachal Pradesh,2014-15,71,Total_Foodgrains_Area,755.3
+Himachal Pradesh,2015-16,71,Total_Foodgrains_Area,761.2
+Himachal Pradesh,2016-17,71,Total_Foodgrains_Area,774.1
+Himachal Pradesh,2017-18,71,Total_Foodgrains_Area,724.9
+Himachal Pradesh,2018-19,71,Total_Foodgrains_Area,732.6
+Himachal Pradesh,2019-20,71,Total_Foodgrains_Area,701.9
+Himachal Pradesh,2020-21,71,Total_Foodgrains_Area,727.0
+Himachal Pradesh,2021-22,71,Total_Foodgrains_Area,710.9
+Himachal Pradesh,2022-23,71,Total_Foodgrains_Area,691.7
+Himachal Pradesh,2023-24,71,Total_Foodgrains_Area,688.7
+Himachal Pradesh,2024-25,71,Total_Foodgrains_Area,686.5
+Jammu & Kashmir,2004-05,71,Total_Foodgrains_Area,889.2
+Jammu & Kashmir,2005-06,71,Total_Foodgrains_Area,881.9
+Jammu & Kashmir,2006-07,71,Total_Foodgrains_Area,907.5
+Jammu & Kashmir,2007-08,71,Total_Foodgrains_Area,918.6
+Jammu & Kashmir,2008-09,71,Total_Foodgrains_Area,929.9
+Jammu & Kashmir,2009-10,71,Total_Foodgrains_Area,935.6
+Jammu & Kashmir,2010-11,71,Total_Foodgrains_Area,928.2
+Jammu & Kashmir,2011-12,71,Total_Foodgrains_Area,938.8
+Jammu & Kashmir,2012-13,71,Total_Foodgrains_Area,933.6
+Jammu & Kashmir,2013-14,71,Total_Foodgrains_Area,928.6
+Jammu & Kashmir,2014-15,71,Total_Foodgrains_Area,957.3
+Jammu & Kashmir,2015-16,71,Total_Foodgrains_Area,912.8
+Jammu & Kashmir,2016-17,71,Total_Foodgrains_Area,925.7
+Jammu & Kashmir,2017-18,71,Total_Foodgrains_Area,919.2
+Jammu & Kashmir,2018-19,71,Total_Foodgrains_Area,869.0
+Jammu & Kashmir,2019-20,71,Total_Foodgrains_Area,835.6
+Jammu & Kashmir,2020-21,71,Total_Foodgrains_Area,841.9
+Jammu & Kashmir,2021-22,71,Total_Foodgrains_Area,877.0
+Jammu & Kashmir,2022-23,71,Total_Foodgrains_Area,878.5
+Jammu & Kashmir,2023-24,71,Total_Foodgrains_Area,889.3
+Jammu & Kashmir,2024-25,71,Total_Foodgrains_Area,889.6
+Jharkhand,2004-05,71,Total_Foodgrains_Area,1872.1
+Jharkhand,2005-06,71,Total_Foodgrains_Area,1926.6
+Jharkhand,2006-07,71,Total_Foodgrains_Area,2379.1
+Jharkhand,2007-08,71,Total_Foodgrains_Area,2436.4
+Jharkhand,2008-09,71,Total_Foodgrains_Area,2434.8
+Jharkhand,2009-10,71,Total_Foodgrains_Area,1618.3
+Jharkhand,2010-11,71,Total_Foodgrains_Area,1492.7
+Jharkhand,2011-12,71,Total_Foodgrains_Area,2321.9
+Jharkhand,2012-13,71,Total_Foodgrains_Area,2430.0
+Jharkhand,2013-14,71,Total_Foodgrains_Area,2266.6
+Jharkhand,2014-15,71,Total_Foodgrains_Area,2552.6
+Jharkhand,2015-16,71,Total_Foodgrains_Area,2646.3
+Jharkhand,2016-17,71,Total_Foodgrains_Area,3052.7
+Jharkhand,2017-18,71,Total_Foodgrains_Area,3067.1
+Jharkhand,2018-19,71,Total_Foodgrains_Area,2711.0
+Jharkhand,2019-20,71,Total_Foodgrains_Area,2637.4
+Jharkhand,2020-21,71,Total_Foodgrains_Area,2811.0
+Jharkhand,2021-22,71,Total_Foodgrains_Area,2833.2
+Jharkhand,2022-23,71,Total_Foodgrains_Area,2044.8
+Jharkhand,2023-24,71,Total_Foodgrains_Area,2338.7
+Jharkhand,2024-25,71,Total_Foodgrains_Area,2949.1
+Karnataka,2004-05,71,Total_Foodgrains_Area,7563.0
+Karnataka,2005-06,71,Total_Foodgrains_Area,7596.0
+Karnataka,2006-07,71,Total_Foodgrains_Area,7446.0
+Karnataka,2007-08,71,Total_Foodgrains_Area,7871.0
+Karnataka,2008-09,71,Total_Foodgrains_Area,7461.0
+Karnataka,2009-10,71,Total_Foodgrains_Area,7955.0
+Karnataka,2010-11,71,Total_Foodgrains_Area,8239.1
+Karnataka,2011-12,71,Total_Foodgrains_Area,8543.0
+Karnataka,2012-13,71,Total_Foodgrains_Area,7299.0
+Karnataka,2013-14,71,Total_Foodgrains_Area,7538.0
+Karnataka,2014-15,71,Total_Foodgrains_Area,7186.0
+Karnataka,2015-16,71,Total_Foodgrains_Area,7330.0
+Karnataka,2016-17,71,Total_Foodgrains_Area,7346.7
+Karnataka,2017-18,71,Total_Foodgrains_Area,7647.7
+Karnataka,2018-19,71,Total_Foodgrains_Area,7659.0
+Karnataka,2019-20,71,Total_Foodgrains_Area,7709.1
+Karnataka,2020-21,71,Total_Foodgrains_Area,8235.1
+Karnataka,2021-22,71,Total_Foodgrains_Area,7980.3
+Karnataka,2022-23,71,Total_Foodgrains_Area,7739.0
+Karnataka,2023-24,71,Total_Foodgrains_Area,7471.0
+Karnataka,2024-25,71,Total_Foodgrains_Area,8363.0
+Kerala,2004-05,71,Total_Foodgrains_Area,294.5
+Kerala,2005-06,71,Total_Foodgrains_Area,287.6
+Kerala,2006-07,71,Total_Foodgrains_Area,274.8
+Kerala,2007-08,71,Total_Foodgrains_Area,243.0
+Kerala,2008-09,71,Total_Foodgrains_Area,245.2
+Kerala,2009-10,71,Total_Foodgrains_Area,247.3
+Kerala,2010-11,71,Total_Foodgrains_Area,219.6
+Kerala,2011-12,71,Total_Foodgrains_Area,212.3
+Kerala,2012-13,71,Total_Foodgrains_Area,201.0
+Kerala,2013-14,71,Total_Foodgrains_Area,202.5
+Kerala,2014-15,71,Total_Foodgrains_Area,199.7
+Kerala,2015-16,71,Total_Foodgrains_Area,200.9
+Kerala,2016-17,71,Total_Foodgrains_Area,173.4
+Kerala,2017-18,71,Total_Foodgrains_Area,191.4
+Kerala,2018-19,71,Total_Foodgrains_Area,201.1
+Kerala,2019-20,71,Total_Foodgrains_Area,201.1
+Kerala,2020-21,71,Total_Foodgrains_Area,207.7
+Kerala,2021-22,71,Total_Foodgrains_Area,197.7
+Kerala,2022-23,71,Total_Foodgrains_Area,193.5
+Kerala,2023-24,71,Total_Foodgrains_Area,183.8
+Kerala,2024-25,71,Total_Foodgrains_Area,178.1
+Madhya Pradesh,2004-05,71,Total_Foodgrains_Area,12473.0
+Madhya Pradesh,2005-06,71,Total_Foodgrains_Area,11678.1
+Madhya Pradesh,2006-07,71,Total_Foodgrains_Area,11777.2
+Madhya Pradesh,2007-08,71,Total_Foodgrains_Area,11288.9
+Madhya Pradesh,2008-09,71,Total_Foodgrains_Area,11913.3
+Madhya Pradesh,2009-10,71,Total_Foodgrains_Area,12459.4
+Madhya Pradesh,2010-11,71,Total_Foodgrains_Area,12862.8
+Madhya Pradesh,2011-12,71,Total_Foodgrains_Area,13503.5
+Madhya Pradesh,2012-13,71,Total_Foodgrains_Area,14136.5
+Madhya Pradesh,2013-14,71,Total_Foodgrains_Area,14331.2
+Madhya Pradesh,2014-15,71,Total_Foodgrains_Area,15460.2
+Madhya Pradesh,2015-16,71,Total_Foodgrains_Area,15658.0
+Madhya Pradesh,2016-17,71,Total_Foodgrains_Area,17067.8
+Madhya Pradesh,2017-18,71,Total_Foodgrains_Area,17042.0
+Madhya Pradesh,2018-19,71,Total_Foodgrains_Area,16352.0
+Madhya Pradesh,2019-20,71,Total_Foodgrains_Area,15246.1
+Madhya Pradesh,2020-21,71,Total_Foodgrains_Area,15014.0
+Madhya Pradesh,2021-22,71,Total_Foodgrains_Area,15925.1
+Madhya Pradesh,2022-23,71,Total_Foodgrains_Area,18262.8
+Madhya Pradesh,2023-24,71,Total_Foodgrains_Area,18283.3
+Madhya Pradesh,2024-25,71,Total_Foodgrains_Area,18882.7
+Maharashtra,2004-05,71,Total_Foodgrains_Area,12605.3
+Maharashtra,2005-06,71,Total_Foodgrains_Area,12746.0
+Maharashtra,2006-07,71,Total_Foodgrains_Area,13452.0
+Maharashtra,2007-08,71,Total_Foodgrains_Area,13207.0
+Maharashtra,2008-09,71,Total_Foodgrains_Area,11417.0
+Maharashtra,2009-10,71,Total_Foodgrains_Area,12112.7
+Maharashtra,2010-11,71,Total_Foodgrains_Area,13029.0
+Maharashtra,2011-12,71,Total_Foodgrains_Area,10857.0
+Maharashtra,2012-13,71,Total_Foodgrains_Area,10575.0
+Maharashtra,2013-14,71,Total_Foodgrains_Area,11471.0
+Maharashtra,2014-15,71,Total_Foodgrains_Area,11450.0
+Maharashtra,2015-16,71,Total_Foodgrains_Area,11212.0
+Maharashtra,2016-17,71,Total_Foodgrains_Area,12377.4
+Maharashtra,2017-18,71,Total_Foodgrains_Area,10926.3
+Maharashtra,2018-19,71,Total_Foodgrains_Area,9621.6
+Maharashtra,2019-20,71,Total_Foodgrains_Area,11026.2
+Maharashtra,2020-21,71,Total_Foodgrains_Area,11345.9
+Maharashtra,2021-22,71,Total_Foodgrains_Area,11584.6
+Maharashtra,2022-23,71,Total_Foodgrains_Area,11310.7
+Maharashtra,2023-24,71,Total_Foodgrains_Area,10769.5
+Maharashtra,2024-25,71,Total_Foodgrains_Area,11735.3
+Manipur,2004-05,71,Total_Foodgrains_Area,185.3
+Manipur,2005-06,71,Total_Foodgrains_Area,177.8
+Manipur,2006-07,71,Total_Foodgrains_Area,177.8
+Manipur,2007-08,71,Total_Foodgrains_Area,183.6
+Manipur,2008-09,71,Total_Foodgrains_Area,185.6
+Manipur,2009-10,71,Total_Foodgrains_Area,188.7
+Manipur,2010-11,71,Total_Foodgrains_Area,264.1
+Manipur,2011-12,71,Total_Foodgrains_Area,279.2
+Manipur,2012-13,71,Total_Foodgrains_Area,174.8
+Manipur,2013-14,71,Total_Foodgrains_Area,283.1
+Manipur,2014-15,71,Total_Foodgrains_Area,285.0
+Manipur,2015-16,71,Total_Foodgrains_Area,296.9
+Manipur,2016-17,71,Total_Foodgrains_Area,304.2
+Manipur,2017-18,71,Total_Foodgrains_Area,297.0
+Manipur,2018-19,71,Total_Foodgrains_Area,293.2
+Manipur,2019-20,71,Total_Foodgrains_Area,207.6
+Manipur,2020-21,71,Total_Foodgrains_Area,284.7
+Manipur,2021-22,71,Total_Foodgrains_Area,258.1
+Manipur,2022-23,71,Total_Foodgrains_Area,246.4
+Manipur,2023-24,71,Total_Foodgrains_Area,227.6
+Manipur,2024-25,71,Total_Foodgrains_Area,216.8
+Meghalaya,2004-05,71,Total_Foodgrains_Area,136.6
+Meghalaya,2005-06,71,Total_Foodgrains_Area,125.8
+Meghalaya,2006-07,71,Total_Foodgrains_Area,128.6
+Meghalaya,2007-08,71,Total_Foodgrains_Area,130.7
+Meghalaya,2008-09,71,Total_Foodgrains_Area,132.5
+Meghalaya,2009-10,71,Total_Foodgrains_Area,132.2
+Meghalaya,2010-11,71,Total_Foodgrains_Area,132.6
+Meghalaya,2011-12,71,Total_Foodgrains_Area,133.0
+Meghalaya,2012-13,71,Total_Foodgrains_Area,132.7
+Meghalaya,2013-14,71,Total_Foodgrains_Area,134.0
+Meghalaya,2014-15,71,Total_Foodgrains_Area,139.7
+Meghalaya,2015-16,71,Total_Foodgrains_Area,140.0
+Meghalaya,2016-17,71,Total_Foodgrains_Area,140.9
+Meghalaya,2017-18,71,Total_Foodgrains_Area,141.0
+Meghalaya,2018-19,71,Total_Foodgrains_Area,142.0
+Meghalaya,2019-20,71,Total_Foodgrains_Area,140.8
+Meghalaya,2020-21,71,Total_Foodgrains_Area,137.5
+Meghalaya,2021-22,71,Total_Foodgrains_Area,138.5
+Meghalaya,2022-23,71,Total_Foodgrains_Area,139.1
+Meghalaya,2023-24,71,Total_Foodgrains_Area,139.1
+Meghalaya,2024-25,71,Total_Foodgrains_Area,139.1
+Mizoram,2004-05,71,Total_Foodgrains_Area,66.0
+Mizoram,2005-06,71,Total_Foodgrains_Area,74.0
+Mizoram,2006-07,71,Total_Foodgrains_Area,68.5
+Mizoram,2007-08,71,Total_Foodgrains_Area,67.1
+Mizoram,2008-09,71,Total_Foodgrains_Area,65.6
+Mizoram,2009-10,71,Total_Foodgrains_Area,59.6
+Mizoram,2010-11,71,Total_Foodgrains_Area,53.7
+Mizoram,2011-12,71,Total_Foodgrains_Area,49.2
+Mizoram,2012-13,71,Total_Foodgrains_Area,23.8
+Mizoram,2013-14,71,Total_Foodgrains_Area,48.4
+Mizoram,2014-15,71,Total_Foodgrains_Area,46.8
+Mizoram,2015-16,71,Total_Foodgrains_Area,48.5
+Mizoram,2016-17,71,Total_Foodgrains_Area,46.2
+Mizoram,2017-18,71,Total_Foodgrains_Area,45.4
+Mizoram,2018-19,71,Total_Foodgrains_Area,45.5
+Mizoram,2019-20,71,Total_Foodgrains_Area,45.6
+Mizoram,2020-21,71,Total_Foodgrains_Area,46.5
+Mizoram,2021-22,71,Total_Foodgrains_Area,45.6
+Mizoram,2022-23,71,Total_Foodgrains_Area,49.3
+Mizoram,2023-24,71,Total_Foodgrains_Area,33.9
+Mizoram,2024-25,71,Total_Foodgrains_Area,27.9
+Nagaland,2004-05,71,Total_Foodgrains_Area,255.8
+Nagaland,2005-06,71,Total_Foodgrains_Area,263.1
+Nagaland,2006-07,71,Total_Foodgrains_Area,294.4
+Nagaland,2007-08,71,Total_Foodgrains_Area,302.0
+Nagaland,2008-09,71,Total_Foodgrains_Area,283.9
+Nagaland,2009-10,71,Total_Foodgrains_Area,282.1
+Nagaland,2010-11,71,Total_Foodgrains_Area,298.8
+Nagaland,2011-12,71,Total_Foodgrains_Area,295.1
+Nagaland,2012-13,71,Total_Foodgrains_Area,305.3
+Nagaland,2013-14,71,Total_Foodgrains_Area,309.5
+Nagaland,2014-15,71,Total_Foodgrains_Area,314.6
+Nagaland,2015-16,71,Total_Foodgrains_Area,321.2
+Nagaland,2016-17,71,Total_Foodgrains_Area,329.5
+Nagaland,2017-18,71,Total_Foodgrains_Area,336.5
+Nagaland,2018-19,71,Total_Foodgrains_Area,335.4
+Nagaland,2019-20,71,Total_Foodgrains_Area,340.6
+Nagaland,2020-21,71,Total_Foodgrains_Area,342.6
+Nagaland,2021-22,71,Total_Foodgrains_Area,197.8
+Nagaland,2022-23,71,Total_Foodgrains_Area,302.3
+Nagaland,2023-24,71,Total_Foodgrains_Area,306.8
+Nagaland,2024-25,71,Total_Foodgrains_Area,295.0
+Odisha,2004-05,71,Total_Foodgrains_Area,5299.7
+Odisha,2005-06,71,Total_Foodgrains_Area,5456.7
+Odisha,2006-07,71,Total_Foodgrains_Area,5403.7
+Odisha,2007-08,71,Total_Foodgrains_Area,5489.0
+Odisha,2008-09,71,Total_Foodgrains_Area,5427.4
+Odisha,2009-10,71,Total_Foodgrains_Area,5406.1
+Odisha,2010-11,71,Total_Foodgrains_Area,5318.9
+Odisha,2011-12,71,Total_Foodgrains_Area,4922.1
+Odisha,2012-13,71,Total_Foodgrains_Area,5030.8
+Odisha,2013-14,71,Total_Foodgrains_Area,5143.3
+Odisha,2014-15,71,Total_Foodgrains_Area,5166.0
+Odisha,2015-16,71,Total_Foodgrains_Area,4818.9
+Odisha,2016-17,71,Total_Foodgrains_Area,4883.6
+Odisha,2017-18,71,Total_Foodgrains_Area,4665.4
+Odisha,2018-19,71,Total_Foodgrains_Area,4708.6
+Odisha,2019-20,71,Total_Foodgrains_Area,4829.1
+Odisha,2020-21,71,Total_Foodgrains_Area,4978.5
+Odisha,2021-22,71,Total_Foodgrains_Area,5022.2
+Odisha,2022-23,71,Total_Foodgrains_Area,5106.3
+Odisha,2023-24,71,Total_Foodgrains_Area,5244.8
+Odisha,2024-25,71,Total_Foodgrains_Area,4813.4
+Puducherry,2004-05,71,Total_Foodgrains_Area,29.0
+Puducherry,2005-06,71,Total_Foodgrains_Area,28.4
+Puducherry,2006-07,71,Total_Foodgrains_Area,28.4
+Puducherry,2007-08,71,Total_Foodgrains_Area,25.4
+Puducherry,2008-09,71,Total_Foodgrains_Area,23.4
+Puducherry,2009-10,71,Total_Foodgrains_Area,23.0
+Puducherry,2010-11,71,Total_Foodgrains_Area,22.7
+Puducherry,2011-12,71,Total_Foodgrains_Area,19.1
+Puducherry,2012-13,71,Total_Foodgrains_Area,17.9
+Puducherry,2013-14,71,Total_Foodgrains_Area,17.1
+Puducherry,2014-15,71,Total_Foodgrains_Area,18.6
+Puducherry,2015-16,71,Total_Foodgrains_Area,19.6
+Puducherry,2016-17,71,Total_Foodgrains_Area,17.8
+Puducherry,2017-18,71,Total_Foodgrains_Area,18.8
+Puducherry,2018-19,71,Total_Foodgrains_Area,19.2
+Puducherry,2019-20,71,Total_Foodgrains_Area,19.6
+Puducherry,2020-21,71,Total_Foodgrains_Area,19.3
+Puducherry,2021-22,71,Total_Foodgrains_Area,20.3
+Puducherry,2022-23,71,Total_Foodgrains_Area,21.3
+Puducherry,2023-24,71,Total_Foodgrains_Area,20.8
+Puducherry,2024-25,71,Total_Foodgrains_Area,18.3
+Punjab,2004-05,71,Total_Foodgrains_Area,6354.3
+Punjab,2005-06,71,Total_Foodgrains_Area,6317.6
+Punjab,2006-07,71,Total_Foodgrains_Area,6301.9
+Punjab,2007-08,71,Total_Foodgrains_Area,6302.7
+Punjab,2008-09,71,Total_Foodgrains_Area,6460.0
+Punjab,2009-10,71,Total_Foodgrains_Area,6503.3
+Punjab,2010-11,71,Total_Foodgrains_Area,6510.2
+Punjab,2011-12,71,Total_Foodgrains_Area,6506.0
+Punjab,2012-13,71,Total_Foodgrains_Area,6566.4
+Punjab,2013-14,71,Total_Foodgrains_Area,6551.2
+Punjab,2014-15,71,Total_Foodgrains_Area,6585.2
+Punjab,2015-16,71,Total_Foodgrains_Area,6652.1
+Punjab,2016-17,71,Total_Foodgrains_Area,6555.7
+Punjab,2017-18,71,Total_Foodgrains_Area,6729.9
+Punjab,2018-19,71,Total_Foodgrains_Area,6769.4
+Punjab,2019-20,71,Total_Foodgrains_Area,6595.8
+Punjab,2020-21,71,Total_Foodgrains_Area,6604.5
+Punjab,2021-22,71,Total_Foodgrains_Area,6668.0
+Punjab,2022-23,71,Total_Foodgrains_Area,6764.1
+Punjab,2023-24,71,Total_Foodgrains_Area,6870.4
+Punjab,2024-25,71,Total_Foodgrains_Area,6884.7
+Rajasthan,2004-05,71,Total_Foodgrains_Area,12054.9
+Rajasthan,2005-06,71,Total_Foodgrains_Area,12448.6
+Rajasthan,2006-07,71,Total_Foodgrains_Area,12698.0
+Rajasthan,2007-08,71,Total_Foodgrains_Area,13607.4
+Rajasthan,2008-09,71,Total_Foodgrains_Area,13205.5
+Rajasthan,2009-10,71,Total_Foodgrains_Area,13271.8
+Rajasthan,2010-11,71,Total_Foodgrains_Area,15069.2
+Rajasthan,2011-12,71,Total_Foodgrains_Area,14440.8
+Rajasthan,2012-13,71,Total_Foodgrains_Area,12411.2
+Rajasthan,2013-14,71,Total_Foodgrains_Area,13417.1
+Rajasthan,2014-15,71,Total_Foodgrains_Area,12834.8
+Rajasthan,2015-16,71,Total_Foodgrains_Area,12976.9
+Rajasthan,2016-17,71,Total_Foodgrains_Area,14237.8
+Rajasthan,2017-18,71,Total_Foodgrains_Area,14237.0
+Rajasthan,2018-19,71,Total_Foodgrains_Area,14811.2
+Rajasthan,2019-20,71,Total_Foodgrains_Area,15809.6
+Rajasthan,2020-21,71,Total_Foodgrains_Area,15556.4
+Rajasthan,2021-22,71,Total_Foodgrains_Area,14748.1
+Rajasthan,2022-23,71,Total_Foodgrains_Area,15026.3
+Rajasthan,2023-24,71,Total_Foodgrains_Area,14438.9
+Rajasthan,2024-25,71,Total_Foodgrains_Area,15292.4
+Sikkim,2004-05,71,Total_Foodgrains_Area,73.9
+Sikkim,2005-06,71,Total_Foodgrains_Area,74.1
+Sikkim,2006-07,71,Total_Foodgrains_Area,74.1
+Sikkim,2007-08,71,Total_Foodgrains_Area,81.0
+Sikkim,2008-09,71,Total_Foodgrains_Area,79.6
+Sikkim,2009-10,71,Total_Foodgrains_Area,78.4
+Sikkim,2010-11,71,Total_Foodgrains_Area,76.2
+Sikkim,2011-12,71,Total_Foodgrains_Area,69.0
+Sikkim,2012-13,71,Total_Foodgrains_Area,68.9
+Sikkim,2013-14,71,Total_Foodgrains_Area,64.9
+Sikkim,2014-15,71,Total_Foodgrains_Area,64.7
+Sikkim,2015-16,71,Total_Foodgrains_Area,62.5
+Sikkim,2016-17,71,Total_Foodgrains_Area,62.7
+Sikkim,2017-18,71,Total_Foodgrains_Area,56.4
+Sikkim,2018-19,71,Total_Foodgrains_Area,55.1
+Sikkim,2019-20,71,Total_Foodgrains_Area,55.2
+Sikkim,2020-21,71,Total_Foodgrains_Area,54.7
+Sikkim,2021-22,71,Total_Foodgrains_Area,54.3
+Sikkim,2022-23,71,Total_Foodgrains_Area,51.6
+Sikkim,2023-24,71,Total_Foodgrains_Area,43.5
+Sikkim,2024-25,71,Total_Foodgrains_Area,43.5
+Tamil Nadu,2004-05,71,Total_Foodgrains_Area,3295.9
+Tamil Nadu,2005-06,71,Total_Foodgrains_Area,3316.9
+Tamil Nadu,2006-07,71,Total_Foodgrains_Area,3166.1
+Tamil Nadu,2007-08,71,Total_Foodgrains_Area,3097.5
+Tamil Nadu,2008-09,71,Total_Foodgrains_Area,3191.9
+Tamil Nadu,2009-10,71,Total_Foodgrains_Area,3032.9
+Tamil Nadu,2010-11,71,Total_Foodgrains_Area,3173.9
+Tamil Nadu,2011-12,71,Total_Foodgrains_Area,3210.4
+Tamil Nadu,2012-13,71,Total_Foodgrains_Area,2625.1
+Tamil Nadu,2013-14,71,Total_Foodgrains_Area,3439.5
+Tamil Nadu,2014-15,71,Total_Foodgrains_Area,3538.1
+Tamil Nadu,2015-16,71,Total_Foodgrains_Area,3747.0
+Tamil Nadu,2016-17,71,Total_Foodgrains_Area,2945.9
+Tamil Nadu,2017-18,71,Total_Foodgrains_Area,3538.6
+Tamil Nadu,2018-19,71,Total_Foodgrains_Area,3495.9
+Tamil Nadu,2019-20,71,Total_Foodgrains_Area,3692.4
+Tamil Nadu,2020-21,71,Total_Foodgrains_Area,3819.6
+Tamil Nadu,2021-22,71,Total_Foodgrains_Area,3974.1
+Tamil Nadu,2022-23,71,Total_Foodgrains_Area,3866.5
+Tamil Nadu,2023-24,71,Total_Foodgrains_Area,3769.4
+Tamil Nadu,2024-25,71,Total_Foodgrains_Area,3853.5
+Telangana,2011-12,71,Total_Foodgrains_Area,3108.3
+Telangana,2012-13,71,Total_Foodgrains_Area,2827.7
+Telangana,2013-14,71,Total_Foodgrains_Area,3267.2
+Telangana,2014-15,71,Total_Foodgrains_Area,2613.1
+Telangana,2015-16,71,Total_Foodgrains_Area,2180.0
+Telangana,2016-17,71,Total_Foodgrains_Area,3293.2
+Telangana,2017-18,71,Total_Foodgrains_Area,3245.0
+Telangana,2018-19,71,Total_Foodgrains_Area,3056.0
+Telangana,2019-20,71,Total_Foodgrains_Area,3194.0
+Telangana,2020-21,71,Total_Foodgrains_Area,4145.1
+Telangana,2021-22,71,Total_Foodgrains_Area,4742.0
+Telangana,2022-23,71,Total_Foodgrains_Area,5696.1
+Telangana,2023-24,71,Total_Foodgrains_Area,5623.2
+Telangana,2024-25,71,Total_Foodgrains_Area,5919.3
+Tripura,2004-05,71,Total_Foodgrains_Area,255.4
+Tripura,2005-06,71,Total_Foodgrains_Area,256.9
+Tripura,2006-07,71,Total_Foodgrains_Area,262.6
+Tripura,2007-08,71,Total_Foodgrains_Area,247.1
+Tripura,2008-09,71,Total_Foodgrains_Area,251.3
+Tripura,2009-10,71,Total_Foodgrains_Area,254.6
+Tripura,2010-11,71,Total_Foodgrains_Area,275.3
+Tripura,2011-12,71,Total_Foodgrains_Area,278.6
+Tripura,2012-13,71,Total_Foodgrains_Area,267.5
+Tripura,2013-14,71,Total_Foodgrains_Area,271.1
+Tripura,2014-15,71,Total_Foodgrains_Area,273.7
+Tripura,2015-16,71,Total_Foodgrains_Area,294.9
+Tripura,2016-17,71,Total_Foodgrains_Area,317.4
+Tripura,2017-18,71,Total_Foodgrains_Area,318.6
+Tripura,2018-19,71,Total_Foodgrains_Area,312.9
+Tripura,2019-20,71,Total_Foodgrains_Area,308.0
+Tripura,2020-21,71,Total_Foodgrains_Area,313.6
+Tripura,2021-22,71,Total_Foodgrains_Area,300.8
+Tripura,2022-23,71,Total_Foodgrains_Area,278.4
+Tripura,2023-24,71,Total_Foodgrains_Area,278.4
+Tripura,2024-25,71,Total_Foodgrains_Area,261.3
+Uttar Pradesh,2004-05,71,Total_Foodgrains_Area,19293.8
+Uttar Pradesh,2005-06,71,Total_Foodgrains_Area,19640.9
+Uttar Pradesh,2006-07,71,Total_Foodgrains_Area,20039.6
+Uttar Pradesh,2007-08,71,Total_Foodgrains_Area,19084.0
+Uttar Pradesh,2008-09,71,Total_Foodgrains_Area,19757.5
+Uttar Pradesh,2009-10,71,Total_Foodgrains_Area,19322.0
+Uttar Pradesh,2010-11,71,Total_Foodgrains_Area,19804.0
+Uttar Pradesh,2011-12,71,Total_Foodgrains_Area,20133.0
+Uttar Pradesh,2012-13,71,Total_Foodgrains_Area,19960.0
+Uttar Pradesh,2013-14,71,Total_Foodgrains_Area,20142.0
+Uttar Pradesh,2014-15,71,Total_Foodgrains_Area,20078.0
+Uttar Pradesh,2015-16,71,Total_Foodgrains_Area,19355.0
+Uttar Pradesh,2016-17,71,Total_Foodgrains_Area,20164.0
+Uttar Pradesh,2017-18,71,Total_Foodgrains_Area,19800.0
+Uttar Pradesh,2018-19,71,Total_Foodgrains_Area,19493.0
+Uttar Pradesh,2019-20,71,Total_Foodgrains_Area,19949.0
+Uttar Pradesh,2020-21,71,Total_Foodgrains_Area,19933.0
+Uttar Pradesh,2021-22,71,Total_Foodgrains_Area,19547.0
+Uttar Pradesh,2022-23,71,Total_Foodgrains_Area,20412.1
+Uttar Pradesh,2023-24,71,Total_Foodgrains_Area,20964.7
+Uttar Pradesh,2024-25,71,Total_Foodgrains_Area,21379.4
+Uttarakhand,2004-05,71,Total_Foodgrains_Area,1038.0
+Uttarakhand,2005-06,71,Total_Foodgrains_Area,1030.0
+Uttarakhand,2006-07,71,Total_Foodgrains_Area,986.0
+Uttarakhand,2007-08,71,Total_Foodgrains_Area,1006.0
+Uttarakhand,2008-09,71,Total_Foodgrains_Area,1029.0
+Uttarakhand,2009-10,71,Total_Foodgrains_Area,1009.0
+Uttarakhand,2010-11,71,Total_Foodgrains_Area,986.4
+Uttarakhand,2011-12,71,Total_Foodgrains_Area,952.0
+Uttarakhand,2012-13,71,Total_Foodgrains_Area,931.6
+Uttarakhand,2013-14,71,Total_Foodgrains_Area,890.6
+Uttarakhand,2014-15,71,Total_Foodgrains_Area,897.6
+Uttarakhand,2015-16,71,Total_Foodgrains_Area,877.7
+Uttarakhand,2016-17,71,Total_Foodgrains_Area,877.0
+Uttarakhand,2017-18,71,Total_Foodgrains_Area,851.0
+Uttarakhand,2018-19,71,Total_Foodgrains_Area,835.0
+Uttarakhand,2019-20,71,Total_Foodgrains_Area,805.0
+Uttarakhand,2020-21,71,Total_Foodgrains_Area,809.0
+Uttarakhand,2021-22,71,Total_Foodgrains_Area,788.0
+Uttarakhand,2022-23,71,Total_Foodgrains_Area,748.3
+Uttarakhand,2023-24,71,Total_Foodgrains_Area,710.9
+Uttarakhand,2024-25,71,Total_Foodgrains_Area,661.6
+West Bengal,2004-05,71,Total_Foodgrains_Area,6475.7
+West Bengal,2005-06,71,Total_Foodgrains_Area,6442.2
+West Bengal,2006-07,71,Total_Foodgrains_Area,6362.8
+West Bengal,2007-08,71,Total_Foodgrains_Area,6355.8
+West Bengal,2008-09,71,Total_Foodgrains_Area,6535.4
+West Bengal,2009-10,71,Total_Foodgrains_Area,6242.3
+West Bengal,2010-11,71,Total_Foodgrains_Area,5561.1
+West Bengal,2011-12,71,Total_Foodgrains_Area,6044.0
+West Bengal,2012-13,71,Total_Foodgrains_Area,6089.0
+West Bengal,2013-14,71,Total_Foodgrains_Area,6275.8
+West Bengal,2014-15,71,Total_Foodgrains_Area,6128.2
+West Bengal,2015-16,71,Total_Foodgrains_Area,6378.8
+West Bengal,2016-17,71,Total_Foodgrains_Area,6262.6
+West Bengal,2017-18,71,Total_Foodgrains_Area,5944.7
+West Bengal,2018-19,71,Total_Foodgrains_Area,6361.3
+West Bengal,2019-20,71,Total_Foodgrains_Area,6471.6
+West Bengal,2020-21,71,Total_Foodgrains_Area,6612.3
+West Bengal,2021-22,71,Total_Foodgrains_Area,6623.4
+West Bengal,2022-23,71,Total_Foodgrains_Area,6070.4
+West Bengal,2023-24,71,Total_Foodgrains_Area,6151.4
+West Bengal,2024-25,71,Total_Foodgrains_Area,6618.0

@@ -1,0 +1,523 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,59,Wheat_Production,5.0
+Andhra Pradesh,2005-06,59,Wheat_Production,9.0
+Andhra Pradesh,2006-07,59,Wheat_Production,9.0
+Andhra Pradesh,2007-08,59,Wheat_Production,8.0
+Andhra Pradesh,2008-09,59,Wheat_Production,16.0
+Andhra Pradesh,2009-10,59,Wheat_Production,10.0
+Andhra Pradesh,2010-11,59,Wheat_Production,1.0
+Andhra Pradesh,2012-13,59,Wheat_Production,1.0
+Andhra Pradesh,2013-14,59,Wheat_Production,4.0
+Arunachal Pradesh,2004-05,59,Wheat_Production,8.7
+Arunachal Pradesh,2005-06,59,Wheat_Production,6.1
+Arunachal Pradesh,2006-07,59,Wheat_Production,6.3
+Arunachal Pradesh,2007-08,59,Wheat_Production,5.3
+Arunachal Pradesh,2008-09,59,Wheat_Production,5.2
+Arunachal Pradesh,2009-10,59,Wheat_Production,4.8
+Arunachal Pradesh,2010-11,59,Wheat_Production,5.9
+Arunachal Pradesh,2011-12,59,Wheat_Production,6.5
+Arunachal Pradesh,2012-13,59,Wheat_Production,4.4
+Arunachal Pradesh,2013-14,59,Wheat_Production,4.5
+Arunachal Pradesh,2014-15,59,Wheat_Production,7.5
+Arunachal Pradesh,2015-16,59,Wheat_Production,7.7
+Arunachal Pradesh,2016-17,59,Wheat_Production,7.7
+Arunachal Pradesh,2017-18,59,Wheat_Production,7.7
+Arunachal Pradesh,2018-19,59,Wheat_Production,7.7
+Arunachal Pradesh,2019-20,59,Wheat_Production,6.7
+Arunachal Pradesh,2020-21,59,Wheat_Production,7.7
+Arunachal Pradesh,2021-22,59,Wheat_Production,7.9
+Arunachal Pradesh,2022-23,59,Wheat_Production,7.9
+Arunachal Pradesh,2023-24,59,Wheat_Production,7.0
+Arunachal Pradesh,2024-25,59,Wheat_Production,6.0
+Assam,2004-05,59,Wheat_Production,68.1
+Assam,2005-06,59,Wheat_Production,53.7
+Assam,2006-07,59,Wheat_Production,67.0
+Assam,2007-08,59,Wheat_Production,71.0
+Assam,2008-09,59,Wheat_Production,54.6
+Assam,2009-10,59,Wheat_Production,63.5
+Assam,2010-11,59,Wheat_Production,52.8
+Assam,2011-12,59,Wheat_Production,60.3
+Assam,2012-13,59,Wheat_Production,44.2
+Assam,2013-14,59,Wheat_Production,40.4
+Assam,2014-15,59,Wheat_Production,28.8
+Assam,2015-16,59,Wheat_Production,34.3
+Assam,2016-17,59,Wheat_Production,23.5
+Assam,2017-18,59,Wheat_Production,24.7
+Assam,2018-19,59,Wheat_Production,23.7
+Assam,2019-20,59,Wheat_Production,14.4
+Assam,2020-21,59,Wheat_Production,12.9
+Assam,2021-22,59,Wheat_Production,11.4
+Assam,2022-23,59,Wheat_Production,11.9
+Assam,2023-24,59,Wheat_Production,13.4
+Assam,2024-25,59,Wheat_Production,12.1
+Bihar,2004-05,59,Wheat_Production,3263.4
+Bihar,2005-06,59,Wheat_Production,3239.0
+Bihar,2006-07,59,Wheat_Production,3911.4
+Bihar,2007-08,59,Wheat_Production,4450.4
+Bihar,2008-09,59,Wheat_Production,4410.0
+Bihar,2009-10,59,Wheat_Production,4570.8
+Bihar,2010-11,59,Wheat_Production,4097.6
+Bihar,2011-12,59,Wheat_Production,4725.0
+Bihar,2012-13,59,Wheat_Production,5357.2
+Bihar,2013-14,59,Wheat_Production,4738.0
+Bihar,2014-15,59,Wheat_Production,3987.0
+Bihar,2015-16,59,Wheat_Production,4736.5
+Bihar,2016-17,59,Wheat_Production,5110.8
+Bihar,2017-18,59,Wheat_Production,6104.3
+Bihar,2018-19,59,Wheat_Production,6465.6
+Bihar,2019-20,59,Wheat_Production,5579.7
+Bihar,2020-21,59,Wheat_Production,6149.7
+Bihar,2021-22,59,Wheat_Production,6223.8
+Bihar,2022-23,59,Wheat_Production,6506.1
+Bihar,2023-24,59,Wheat_Production,7168.1
+Bihar,2024-25,59,Wheat_Production,7189.1
+Chhattisgarh,2004-05,59,Wheat_Production,82.4
+Chhattisgarh,2005-06,59,Wheat_Production,90.7
+Chhattisgarh,2006-07,59,Wheat_Production,91.7
+Chhattisgarh,2007-08,59,Wheat_Production,98.8
+Chhattisgarh,2008-09,59,Wheat_Production,92.5
+Chhattisgarh,2009-10,59,Wheat_Production,121.9
+Chhattisgarh,2010-11,59,Wheat_Production,126.8
+Chhattisgarh,2011-12,59,Wheat_Production,133.1
+Chhattisgarh,2012-13,59,Wheat_Production,141.3
+Chhattisgarh,2013-14,59,Wheat_Production,134.0
+Chhattisgarh,2014-15,59,Wheat_Production,135.3
+Chhattisgarh,2015-16,59,Wheat_Production,137.4
+Chhattisgarh,2016-17,59,Wheat_Production,159.5
+Chhattisgarh,2017-18,59,Wheat_Production,130.7
+Chhattisgarh,2018-19,59,Wheat_Production,162.7
+Chhattisgarh,2019-20,59,Wheat_Production,115.3
+Chhattisgarh,2020-21,59,Wheat_Production,248.4
+Chhattisgarh,2021-22,59,Wheat_Production,191.9
+Chhattisgarh,2022-23,59,Wheat_Production,189.6
+Chhattisgarh,2023-24,59,Wheat_Production,181.2
+Chhattisgarh,2024-25,59,Wheat_Production,234.9
+Delhi,2004-05,59,Wheat_Production,71.0
+Delhi,2005-06,59,Wheat_Production,79.4
+Delhi,2006-07,59,Wheat_Production,77.7
+Delhi,2007-08,59,Wheat_Production,76.2
+Delhi,2008-09,59,Wheat_Production,74.4
+Delhi,2009-10,59,Wheat_Production,92.7
+Delhi,2010-11,59,Wheat_Production,111.0
+Delhi,2011-12,59,Wheat_Production,84.8
+Delhi,2012-13,59,Wheat_Production,65.3
+Delhi,2013-14,59,Wheat_Production,84.7
+Delhi,2014-15,59,Wheat_Production,85.6
+Delhi,2015-16,59,Wheat_Production,85.6
+Delhi,2016-17,59,Wheat_Production,87.2
+Delhi,2017-18,59,Wheat_Production,83.4
+Delhi,2018-19,59,Wheat_Production,82.9
+Delhi,2019-20,59,Wheat_Production,82.9
+Delhi,2020-21,59,Wheat_Production,83.6
+Delhi,2021-22,59,Wheat_Production,81.4
+Delhi,2022-23,59,Wheat_Production,80.7
+Delhi,2023-24,59,Wheat_Production,80.2
+Delhi,2024-25,59,Wheat_Production,79.9
+Gujarat,2004-05,59,Wheat_Production,1805.5
+Gujarat,2005-06,59,Wheat_Production,2473.0
+Gujarat,2006-07,59,Wheat_Production,3000.0
+Gujarat,2007-08,59,Wheat_Production,3838.0
+Gujarat,2008-09,59,Wheat_Production,2593.0
+Gujarat,2009-10,59,Wheat_Production,2352.0
+Gujarat,2010-11,59,Wheat_Production,4019.5
+Gujarat,2011-12,59,Wheat_Production,4072.0
+Gujarat,2012-13,59,Wheat_Production,2944.0
+Gujarat,2013-14,59,Wheat_Production,4694.0
+Gujarat,2014-15,59,Wheat_Production,3059.0
+Gujarat,2015-16,59,Wheat_Production,2484.0
+Gujarat,2016-17,59,Wheat_Production,2737.0
+Gujarat,2017-18,59,Wheat_Production,3069.0
+Gujarat,2018-19,59,Wheat_Production,2407.4
+Gujarat,2019-20,59,Wheat_Production,3326.8
+Gujarat,2020-21,59,Wheat_Production,3259.5
+Gujarat,2021-22,59,Wheat_Production,3333.2
+Gujarat,2022-23,59,Wheat_Production,3464.2
+Gujarat,2023-24,59,Wheat_Production,3773.2
+Gujarat,2024-25,59,Wheat_Production,3867.2
+Haryana,2004-05,59,Wheat_Production,9058.0
+Haryana,2005-06,59,Wheat_Production,8857.0
+Haryana,2006-07,59,Wheat_Production,10055.0
+Haryana,2007-08,59,Wheat_Production,10236.0
+Haryana,2008-09,59,Wheat_Production,10808.2
+Haryana,2009-10,59,Wheat_Production,10500.0
+Haryana,2010-11,59,Wheat_Production,11630.0
+Haryana,2011-12,59,Wheat_Production,12685.7
+Haryana,2012-13,59,Wheat_Production,11117.0
+Haryana,2013-14,59,Wheat_Production,11800.0
+Haryana,2014-15,59,Wheat_Production,10354.0
+Haryana,2015-16,59,Wheat_Production,11352.0
+Haryana,2016-17,59,Wheat_Production,11546.8
+Haryana,2017-18,59,Wheat_Production,10765.3
+Haryana,2018-19,59,Wheat_Production,12574.0
+Haryana,2019-20,59,Wheat_Production,11876.4
+Haryana,2020-21,59,Wheat_Production,12394.4
+Haryana,2021-22,59,Wheat_Production,10447.2
+Haryana,2022-23,59,Wheat_Production,10928.9
+Haryana,2023-24,59,Wheat_Production,11191.3
+Haryana,2024-25,59,Wheat_Production,11399.9
+Himachal Pradesh,2004-05,59,Wheat_Production,684.0
+Himachal Pradesh,2005-06,59,Wheat_Production,679.0
+Himachal Pradesh,2006-07,59,Wheat_Production,501.6
+Himachal Pradesh,2007-08,59,Wheat_Production,504.4
+Himachal Pradesh,2008-09,59,Wheat_Production,547.3
+Himachal Pradesh,2009-10,59,Wheat_Production,327.1
+Himachal Pradesh,2010-11,59,Wheat_Production,546.5
+Himachal Pradesh,2011-12,59,Wheat_Production,595.8
+Himachal Pradesh,2012-13,59,Wheat_Production,608.6
+Himachal Pradesh,2013-14,59,Wheat_Production,670.7
+Himachal Pradesh,2014-15,59,Wheat_Production,646.5
+Himachal Pradesh,2015-16,59,Wheat_Production,667.6
+Himachal Pradesh,2016-17,59,Wheat_Production,704.2
+Himachal Pradesh,2017-18,59,Wheat_Production,565.7
+Himachal Pradesh,2018-19,59,Wheat_Production,564.6
+Himachal Pradesh,2019-20,59,Wheat_Production,563.4
+Himachal Pradesh,2020-21,59,Wheat_Production,570.4
+Himachal Pradesh,2021-22,59,Wheat_Production,548.9
+Himachal Pradesh,2022-23,59,Wheat_Production,592.0
+Himachal Pradesh,2023-24,59,Wheat_Production,785.8
+Himachal Pradesh,2024-25,59,Wheat_Production,651.2
+Jammu & Kashmir,2004-05,59,Wheat_Production,474.4
+Jammu & Kashmir,2005-06,59,Wheat_Production,444.0
+Jammu & Kashmir,2006-07,59,Wheat_Production,492.2
+Jammu & Kashmir,2007-08,59,Wheat_Production,495.9
+Jammu & Kashmir,2008-09,59,Wheat_Production,483.6
+Jammu & Kashmir,2009-10,59,Wheat_Production,289.9
+Jammu & Kashmir,2010-11,59,Wheat_Production,446.3
+Jammu & Kashmir,2011-12,59,Wheat_Production,500.3
+Jammu & Kashmir,2012-13,59,Wheat_Production,462.4
+Jammu & Kashmir,2013-14,59,Wheat_Production,601.9
+Jammu & Kashmir,2014-15,59,Wheat_Production,314.3
+Jammu & Kashmir,2015-16,59,Wheat_Production,541.5
+Jammu & Kashmir,2016-17,59,Wheat_Production,475.5
+Jammu & Kashmir,2017-18,59,Wheat_Production,487.4
+Jammu & Kashmir,2018-19,59,Wheat_Production,671.9
+Jammu & Kashmir,2019-20,59,Wheat_Production,488.4
+Jammu & Kashmir,2020-21,59,Wheat_Production,483.9
+Jammu & Kashmir,2021-22,59,Wheat_Production,584.2
+Jammu & Kashmir,2022-23,59,Wheat_Production,586.6
+Jammu & Kashmir,2023-24,59,Wheat_Production,586.6
+Jammu & Kashmir,2024-25,59,Wheat_Production,586.6
+Jharkhand,2004-05,59,Wheat_Production,150.0
+Jharkhand,2005-06,59,Wheat_Production,77.7
+Jharkhand,2006-07,59,Wheat_Production,128.9
+Jharkhand,2007-08,59,Wheat_Production,139.9
+Jharkhand,2008-09,59,Wheat_Production,153.9
+Jharkhand,2009-10,59,Wheat_Production,173.2
+Jharkhand,2010-11,59,Wheat_Production,158.4
+Jharkhand,2011-12,59,Wheat_Production,302.6
+Jharkhand,2012-13,59,Wheat_Production,319.5
+Jharkhand,2013-14,59,Wheat_Production,370.4
+Jharkhand,2014-15,59,Wheat_Production,330.4
+Jharkhand,2015-16,59,Wheat_Production,287.3
+Jharkhand,2016-17,59,Wheat_Production,425.2
+Jharkhand,2017-18,59,Wheat_Production,468.7
+Jharkhand,2018-19,59,Wheat_Production,302.6
+Jharkhand,2019-20,59,Wheat_Production,439.4
+Jharkhand,2020-21,59,Wheat_Production,544.0
+Jharkhand,2021-22,59,Wheat_Production,519.3
+Jharkhand,2022-23,59,Wheat_Production,438.6
+Jharkhand,2023-24,59,Wheat_Production,481.1
+Jharkhand,2024-25,59,Wheat_Production,549.7
+Karnataka,2004-05,59,Wheat_Production,179.0
+Karnataka,2005-06,59,Wheat_Production,217.0
+Karnataka,2006-07,59,Wheat_Production,205.0
+Karnataka,2007-08,59,Wheat_Production,261.0
+Karnataka,2008-09,59,Wheat_Production,247.0
+Karnataka,2009-10,59,Wheat_Production,251.0
+Karnataka,2010-11,59,Wheat_Production,279.0
+Karnataka,2011-12,59,Wheat_Production,193.0
+Karnataka,2012-13,59,Wheat_Production,179.0
+Karnataka,2013-14,59,Wheat_Production,210.0
+Karnataka,2014-15,59,Wheat_Production,261.0
+Karnataka,2015-16,59,Wheat_Production,156.0
+Karnataka,2016-17,59,Wheat_Production,171.0
+Karnataka,2017-18,59,Wheat_Production,230.3
+Karnataka,2018-19,59,Wheat_Production,163.6
+Karnataka,2019-20,59,Wheat_Production,179.7
+Karnataka,2020-21,59,Wheat_Production,262.1
+Karnataka,2021-22,59,Wheat_Production,212.4
+Karnataka,2022-23,59,Wheat_Production,200.5
+Karnataka,2023-24,59,Wheat_Production,189.8
+Karnataka,2024-25,59,Wheat_Production,204.6
+Madhya Pradesh,2004-05,59,Wheat_Production,7176.6
+Madhya Pradesh,2005-06,59,Wheat_Production,5957.7
+Madhya Pradesh,2006-07,59,Wheat_Production,7325.9
+Madhya Pradesh,2007-08,59,Wheat_Production,6032.5
+Madhya Pradesh,2008-09,59,Wheat_Production,6521.9
+Madhya Pradesh,2009-10,59,Wheat_Production,8410.0
+Madhya Pradesh,2010-11,59,Wheat_Production,7627.1
+Madhya Pradesh,2011-12,59,Wheat_Production,11538.5
+Madhya Pradesh,2012-13,59,Wheat_Production,13133.4
+Madhya Pradesh,2013-14,59,Wheat_Production,12937.0
+Madhya Pradesh,2014-15,59,Wheat_Production,17103.9
+Madhya Pradesh,2015-16,59,Wheat_Production,17688.7
+Madhya Pradesh,2016-17,59,Wheat_Production,17939.3
+Madhya Pradesh,2017-18,59,Wheat_Production,15910.8
+Madhya Pradesh,2018-19,59,Wheat_Production,16521.4
+Madhya Pradesh,2019-20,59,Wheat_Production,19607.1
+Madhya Pradesh,2020-21,59,Wheat_Production,18182.1
+Madhya Pradesh,2021-22,59,Wheat_Production,22977.5
+Madhya Pradesh,2022-23,59,Wheat_Production,22729.9
+Madhya Pradesh,2023-24,59,Wheat_Production,22581.0
+Madhya Pradesh,2024-25,59,Wheat_Production,24509.1
+Maharashtra,2004-05,59,Wheat_Production,1016.0
+Maharashtra,2005-06,59,Wheat_Production,1300.0
+Maharashtra,2006-07,59,Wheat_Production,1631.1
+Maharashtra,2007-08,59,Wheat_Production,2078.7
+Maharashtra,2008-09,59,Wheat_Production,1516.0
+Maharashtra,2009-10,59,Wheat_Production,1740.0
+Maharashtra,2010-11,59,Wheat_Production,2301.0
+Maharashtra,2011-12,59,Wheat_Production,1313.0
+Maharashtra,2012-13,59,Wheat_Production,1181.0
+Maharashtra,2013-14,59,Wheat_Production,1602.0
+Maharashtra,2014-15,59,Wheat_Production,1308.0
+Maharashtra,2015-16,59,Wheat_Production,981.0
+Maharashtra,2016-17,59,Wheat_Production,1875.1
+Maharashtra,2017-18,59,Wheat_Production,1696.8
+Maharashtra,2018-19,59,Wheat_Production,1249.2
+Maharashtra,2019-20,59,Wheat_Production,1793.7
+Maharashtra,2020-21,59,Wheat_Production,2071.1
+Maharashtra,2021-22,59,Wheat_Production,2144.5
+Maharashtra,2022-23,59,Wheat_Production,2374.2
+Maharashtra,2023-24,59,Wheat_Production,1988.0
+Maharashtra,2024-25,59,Wheat_Production,2285.6
+Manipur,2010-11,59,Wheat_Production,5.3
+Manipur,2011-12,59,Wheat_Production,5.4
+Manipur,2012-13,59,Wheat_Production,6.0
+Manipur,2013-14,59,Wheat_Production,5.6
+Manipur,2014-15,59,Wheat_Production,5.6
+Manipur,2015-16,59,Wheat_Production,5.6
+Manipur,2016-17,59,Wheat_Production,5.6
+Manipur,2017-18,59,Wheat_Production,5.6
+Manipur,2018-19,59,Wheat_Production,5.7
+Manipur,2019-20,59,Wheat_Production,5.8
+Manipur,2020-21,59,Wheat_Production,5.8
+Manipur,2021-22,59,Wheat_Production,5.7
+Manipur,2022-23,59,Wheat_Production,5.9
+Manipur,2023-24,59,Wheat_Production,5.9
+Manipur,2024-25,59,Wheat_Production,4.8
+Meghalaya,2004-05,59,Wheat_Production,1.6
+Meghalaya,2005-06,59,Wheat_Production,1.2
+Meghalaya,2006-07,59,Wheat_Production,1.2
+Meghalaya,2007-08,59,Wheat_Production,1.1
+Meghalaya,2008-09,59,Wheat_Production,0.7
+Meghalaya,2009-10,59,Wheat_Production,0.7
+Meghalaya,2010-11,59,Wheat_Production,0.7
+Meghalaya,2011-12,59,Wheat_Production,0.6
+Meghalaya,2012-13,59,Wheat_Production,0.7
+Meghalaya,2013-14,59,Wheat_Production,0.8
+Meghalaya,2014-15,59,Wheat_Production,0.8
+Meghalaya,2015-16,59,Wheat_Production,0.9
+Meghalaya,2016-17,59,Wheat_Production,0.9
+Meghalaya,2017-18,59,Wheat_Production,0.9
+Meghalaya,2018-19,59,Wheat_Production,0.9
+Meghalaya,2019-20,59,Wheat_Production,0.9
+Meghalaya,2020-21,59,Wheat_Production,0.9
+Meghalaya,2021-22,59,Wheat_Production,0.9
+Meghalaya,2022-23,59,Wheat_Production,0.5
+Meghalaya,2023-24,59,Wheat_Production,0.5
+Meghalaya,2024-25,59,Wheat_Production,0.5
+Nagaland,2004-05,59,Wheat_Production,13.0
+Nagaland,2005-06,59,Wheat_Production,1.9
+Nagaland,2006-07,59,Wheat_Production,1.3
+Nagaland,2007-08,59,Wheat_Production,1.6
+Nagaland,2008-09,59,Wheat_Production,2.1
+Nagaland,2009-10,59,Wheat_Production,2.4
+Nagaland,2010-11,59,Wheat_Production,5.3
+Nagaland,2011-12,59,Wheat_Production,5.4
+Nagaland,2012-13,59,Wheat_Production,5.9
+Nagaland,2013-14,59,Wheat_Production,5.5
+Nagaland,2014-15,59,Wheat_Production,5.6
+Nagaland,2015-16,59,Wheat_Production,6.0
+Nagaland,2016-17,59,Wheat_Production,6.2
+Nagaland,2017-18,59,Wheat_Production,6.3
+Nagaland,2018-19,59,Wheat_Production,6.3
+Nagaland,2019-20,59,Wheat_Production,6.3
+Nagaland,2020-21,59,Wheat_Production,6.3
+Nagaland,2021-22,59,Wheat_Production,2.4
+Nagaland,2022-23,59,Wheat_Production,2.6
+Nagaland,2023-24,59,Wheat_Production,2.6
+Nagaland,2024-25,59,Wheat_Production,2.0
+Odisha,2004-05,59,Wheat_Production,5.0
+Odisha,2005-06,59,Wheat_Production,4.5
+Odisha,2006-07,59,Wheat_Production,5.8
+Odisha,2007-08,59,Wheat_Production,8.7
+Odisha,2008-09,59,Wheat_Production,7.4
+Odisha,2009-10,59,Wheat_Production,5.8
+Odisha,2010-11,59,Wheat_Production,4.2
+Odisha,2011-12,59,Wheat_Production,2.4
+Odisha,2012-13,59,Wheat_Production,2.0
+Odisha,2013-14,59,Wheat_Production,1.1
+Odisha,2014-15,59,Wheat_Production,0.7
+Odisha,2015-16,59,Wheat_Production,0.5
+Odisha,2016-17,59,Wheat_Production,0.1
+Odisha,2017-18,59,Wheat_Production,0.2
+Odisha,2018-19,59,Wheat_Production,0.3
+Odisha,2019-20,59,Wheat_Production,0.2
+Odisha,2020-21,59,Wheat_Production,0.3
+Odisha,2021-22,59,Wheat_Production,0.3
+Odisha,2022-23,59,Wheat_Production,0.3
+Odisha,2023-24,59,Wheat_Production,0.5
+Odisha,2024-25,59,Wheat_Production,0.5
+Punjab,2004-05,59,Wheat_Production,14698.0
+Punjab,2005-06,59,Wheat_Production,14493.0
+Punjab,2006-07,59,Wheat_Production,14596.0
+Punjab,2007-08,59,Wheat_Production,15720.0
+Punjab,2008-09,59,Wheat_Production,15733.0
+Punjab,2009-10,59,Wheat_Production,15169.0
+Punjab,2010-11,59,Wheat_Production,16472.0
+Punjab,2011-12,59,Wheat_Production,17280.1
+Punjab,2012-13,59,Wheat_Production,16591.0
+Punjab,2013-14,59,Wheat_Production,17620.0
+Punjab,2014-15,59,Wheat_Production,15050.0
+Punjab,2015-16,59,Wheat_Production,16077.0
+Punjab,2016-17,59,Wheat_Production,16440.5
+Punjab,2017-18,59,Wheat_Production,17830.4
+Punjab,2018-19,59,Wheat_Production,18261.8
+Punjab,2019-20,59,Wheat_Production,17615.6
+Punjab,2020-21,59,Wheat_Production,17186.0
+Punjab,2021-22,59,Wheat_Production,14861.4
+Punjab,2022-23,59,Wheat_Production,16783.0
+Punjab,2023-24,59,Wheat_Production,17737.2
+Punjab,2024-25,59,Wheat_Production,17993.2
+Rajasthan,2004-05,59,Wheat_Production,5706.6
+Rajasthan,2005-06,59,Wheat_Production,5865.3
+Rajasthan,2006-07,59,Wheat_Production,7055.8
+Rajasthan,2007-08,59,Wheat_Production,7124.9
+Rajasthan,2008-09,59,Wheat_Production,7287.0
+Rajasthan,2009-10,59,Wheat_Production,7500.9
+Rajasthan,2010-11,59,Wheat_Production,7214.5
+Rajasthan,2011-12,59,Wheat_Production,9319.6
+Rajasthan,2012-13,59,Wheat_Production,9275.5
+Rajasthan,2013-14,59,Wheat_Production,8663.2
+Rajasthan,2014-15,59,Wheat_Production,9823.9
+Rajasthan,2015-16,59,Wheat_Production,9871.0
+Rajasthan,2016-17,59,Wheat_Production,8985.3
+Rajasthan,2017-18,59,Wheat_Production,9368.5
+Rajasthan,2018-19,59,Wheat_Production,10082.9
+Rajasthan,2019-20,59,Wheat_Production,10916.1
+Rajasthan,2020-21,59,Wheat_Production,11035.4
+Rajasthan,2021-22,59,Wheat_Production,10095.5
+Rajasthan,2022-23,59,Wheat_Production,10636.3
+Rajasthan,2023-24,59,Wheat_Production,9699.6
+Rajasthan,2024-25,59,Wheat_Production,11274.7
+Sikkim,2004-05,59,Wheat_Production,8.3
+Sikkim,2005-06,59,Wheat_Production,9.0
+Sikkim,2006-07,59,Wheat_Production,9.0
+Sikkim,2007-08,59,Wheat_Production,4.5
+Sikkim,2008-09,59,Wheat_Production,7.8
+Sikkim,2009-10,59,Wheat_Production,5.9
+Sikkim,2010-11,59,Wheat_Production,2.7
+Sikkim,2011-12,59,Wheat_Production,2.7
+Sikkim,2012-13,59,Wheat_Production,0.6
+Sikkim,2013-14,59,Wheat_Production,0.4
+Sikkim,2014-15,59,Wheat_Production,0.4
+Sikkim,2015-16,59,Wheat_Production,0.4
+Sikkim,2016-17,59,Wheat_Production,0.3
+Sikkim,2017-18,59,Wheat_Production,0.2
+Sikkim,2018-19,59,Wheat_Production,0.2
+Sikkim,2019-20,59,Wheat_Production,0.2
+Sikkim,2020-21,59,Wheat_Production,0.1
+Sikkim,2021-22,59,Wheat_Production,0.1
+Sikkim,2022-23,59,Wheat_Production,0.1
+Sikkim,2023-24,59,Wheat_Production,0.1
+Sikkim,2024-25,59,Wheat_Production,0.1
+Telangana,2010-11,59,Wheat_Production,12.0
+Telangana,2011-12,59,Wheat_Production,11.0
+Telangana,2012-13,59,Wheat_Production,9.0
+Telangana,2013-14,59,Wheat_Production,0.0
+Telangana,2014-15,59,Wheat_Production,7.0
+Telangana,2015-16,59,Wheat_Production,8.5
+Telangana,2016-17,59,Wheat_Production,7.0
+Telangana,2017-18,59,Wheat_Production,5.6
+Telangana,2018-19,59,Wheat_Production,9.4
+Telangana,2019-20,59,Wheat_Production,9.2
+Telangana,2020-21,59,Wheat_Production,15.8
+Telangana,2021-22,59,Wheat_Production,14.1
+Telangana,2022-23,59,Wheat_Production,6.2
+Telangana,2023-24,59,Wheat_Production,6.9
+Telangana,2024-25,59,Wheat_Production,4.9
+Tripura,2004-05,59,Wheat_Production,2.8
+Tripura,2005-06,59,Wheat_Production,2.9
+Tripura,2006-07,59,Wheat_Production,1.8
+Tripura,2007-08,59,Wheat_Production,1.9
+Tripura,2008-09,59,Wheat_Production,1.2
+Tripura,2009-10,59,Wheat_Production,1.3
+Tripura,2010-11,59,Wheat_Production,0.6
+Tripura,2011-12,59,Wheat_Production,0.5
+Tripura,2012-13,59,Wheat_Production,1.3
+Tripura,2013-14,59,Wheat_Production,0.3
+Tripura,2014-15,59,Wheat_Production,0.3
+Tripura,2015-16,59,Wheat_Production,0.4
+Tripura,2016-17,59,Wheat_Production,0.5
+Tripura,2017-18,59,Wheat_Production,0.4
+Tripura,2018-19,59,Wheat_Production,0.3
+Tripura,2019-20,59,Wheat_Production,0.3
+Tripura,2020-21,59,Wheat_Production,0.1
+Tripura,2021-22,59,Wheat_Production,0.1
+Tripura,2022-23,59,Wheat_Production,0.0
+Tripura,2023-24,59,Wheat_Production,0.0
+Tripura,2024-25,59,Wheat_Production,0.5
+Uttar Pradesh,2004-05,59,Wheat_Production,22513.9
+Uttar Pradesh,2005-06,59,Wheat_Production,24073.8
+Uttar Pradesh,2006-07,59,Wheat_Production,25031.0
+Uttar Pradesh,2007-08,59,Wheat_Production,25679.0
+Uttar Pradesh,2008-09,59,Wheat_Production,28554.0
+Uttar Pradesh,2009-10,59,Wheat_Production,27518.0
+Uttar Pradesh,2010-11,59,Wheat_Production,30001.0
+Uttar Pradesh,2011-12,59,Wheat_Production,30292.6
+Uttar Pradesh,2012-13,59,Wheat_Production,30301.9
+Uttar Pradesh,2013-14,59,Wheat_Production,29890.9
+Uttar Pradesh,2014-15,59,Wheat_Production,22417.4
+Uttar Pradesh,2015-16,59,Wheat_Production,25425.2
+Uttar Pradesh,2016-17,59,Wheat_Production,30056.0
+Uttar Pradesh,2017-18,59,Wheat_Production,31879.1
+Uttar Pradesh,2018-19,59,Wheat_Production,32741.3
+Uttar Pradesh,2019-20,59,Wheat_Production,33815.5
+Uttar Pradesh,2020-21,59,Wheat_Production,35506.6
+Uttar Pradesh,2021-22,59,Wheat_Production,33949.7
+Uttar Pradesh,2022-23,59,Wheat_Production,33610.2
+Uttar Pradesh,2023-24,59,Wheat_Production,35340.4
+Uttar Pradesh,2024-25,59,Wheat_Production,35652.9
+Uttarakhand,2004-05,59,Wheat_Production,803.0
+Uttarakhand,2005-06,59,Wheat_Production,645.0
+Uttarakhand,2006-07,59,Wheat_Production,801.0
+Uttarakhand,2007-08,59,Wheat_Production,814.0
+Uttarakhand,2008-09,59,Wheat_Production,797.0
+Uttarakhand,2009-10,59,Wheat_Production,845.0
+Uttarakhand,2010-11,59,Wheat_Production,878.0
+Uttarakhand,2011-12,59,Wheat_Production,878.0
+Uttarakhand,2012-13,59,Wheat_Production,858.2
+Uttarakhand,2013-14,59,Wheat_Production,842.4
+Uttarakhand,2014-15,59,Wheat_Production,654.2
+Uttarakhand,2015-16,59,Wheat_Production,772.4
+Uttarakhand,2016-17,59,Wheat_Production,882.0
+Uttarakhand,2017-18,59,Wheat_Production,915.4
+Uttarakhand,2018-19,59,Wheat_Production,951.6
+Uttarakhand,2019-20,59,Wheat_Production,904.1
+Uttarakhand,2020-21,59,Wheat_Production,955.3
+Uttarakhand,2021-22,59,Wheat_Production,863.0
+Uttarakhand,2022-23,59,Wheat_Production,831.1
+Uttarakhand,2023-24,59,Wheat_Production,869.2
+Uttarakhand,2024-25,59,Wheat_Production,855.6
+West Bengal,2004-05,59,Wheat_Production,841.5
+West Bengal,2005-06,59,Wheat_Production,773.5
+West Bengal,2006-07,59,Wheat_Production,799.9
+West Bengal,2007-08,59,Wheat_Production,917.3
+West Bengal,2008-09,59,Wheat_Production,764.5
+West Bengal,2009-10,59,Wheat_Production,846.7
+West Bengal,2010-11,59,Wheat_Production,874.4
+West Bengal,2011-12,59,Wheat_Production,872.9
+West Bengal,2012-13,59,Wheat_Production,895.9
+West Bengal,2013-14,59,Wheat_Production,927.8
+West Bengal,2014-15,59,Wheat_Production,939.3
+West Bengal,2015-16,59,Wheat_Production,960.0
+West Bengal,2016-17,59,Wheat_Production,862.7
+West Bengal,2017-18,59,Wheat_Production,312.0
+West Bengal,2018-19,59,Wheat_Production,337.8
+West Bengal,2019-20,59,Wheat_Production,509.9
+West Bengal,2020-21,59,Wheat_Production,594.7
+West Bengal,2021-22,59,Wheat_Production,655.8
+West Bengal,2022-23,59,Wheat_Production,556.9
+West Bengal,2023-24,59,Wheat_Production,593.5
+West Bengal,2024-25,59,Wheat_Production,567.7

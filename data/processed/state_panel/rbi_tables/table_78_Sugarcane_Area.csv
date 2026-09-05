@@ -1,0 +1,593 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,78,Sugarcane_Area,210.0
+Andhra Pradesh,2005-06,78,Sugarcane_Area,230.0
+Andhra Pradesh,2006-07,78,Sugarcane_Area,264.0
+Andhra Pradesh,2007-08,78,Sugarcane_Area,247.0
+Andhra Pradesh,2008-09,78,Sugarcane_Area,196.0
+Andhra Pradesh,2009-10,78,Sugarcane_Area,158.0
+Andhra Pradesh,2010-11,78,Sugarcane_Area,192.0
+Andhra Pradesh,2011-12,78,Sugarcane_Area,159.0
+Andhra Pradesh,2012-13,78,Sugarcane_Area,155.0
+Andhra Pradesh,2013-14,78,Sugarcane_Area,153.0
+Andhra Pradesh,2014-15,78,Sugarcane_Area,139.0
+Andhra Pradesh,2015-16,78,Sugarcane_Area,122.0
+Andhra Pradesh,2016-17,78,Sugarcane_Area,103.0
+Andhra Pradesh,2017-18,78,Sugarcane_Area,99.0
+Andhra Pradesh,2018-19,78,Sugarcane_Area,102.0
+Andhra Pradesh,2019-20,78,Sugarcane_Area,86.0
+Andhra Pradesh,2020-21,78,Sugarcane_Area,55.0
+Andhra Pradesh,2021-22,78,Sugarcane_Area,47.0
+Andhra Pradesh,2022-23,78,Sugarcane_Area,40.0
+Andhra Pradesh,2023-24,78,Sugarcane_Area,27.5
+Andhra Pradesh,2024-25,78,Sugarcane_Area,22.0
+Arunachal Pradesh,2004-05,78,Sugarcane_Area,0.7
+Arunachal Pradesh,2005-06,78,Sugarcane_Area,0.9
+Arunachal Pradesh,2006-07,78,Sugarcane_Area,1.0
+Arunachal Pradesh,2007-08,78,Sugarcane_Area,1.2
+Arunachal Pradesh,2008-09,78,Sugarcane_Area,1.4
+Arunachal Pradesh,2009-10,78,Sugarcane_Area,1.5
+Arunachal Pradesh,2010-11,78,Sugarcane_Area,1.5
+Arunachal Pradesh,2011-12,78,Sugarcane_Area,1.6
+Arunachal Pradesh,2012-13,78,Sugarcane_Area,1.5
+Arunachal Pradesh,2013-14,78,Sugarcane_Area,1.6
+Arunachal Pradesh,2014-15,78,Sugarcane_Area,1.5
+Arunachal Pradesh,2015-16,78,Sugarcane_Area,2.0
+Arunachal Pradesh,2016-17,78,Sugarcane_Area,1.8
+Arunachal Pradesh,2017-18,78,Sugarcane_Area,1.8
+Arunachal Pradesh,2018-19,78,Sugarcane_Area,2.1
+Arunachal Pradesh,2019-20,78,Sugarcane_Area,1.8
+Arunachal Pradesh,2020-21,78,Sugarcane_Area,2.2
+Arunachal Pradesh,2021-22,78,Sugarcane_Area,2.2
+Arunachal Pradesh,2022-23,78,Sugarcane_Area,2.2
+Arunachal Pradesh,2023-24,78,Sugarcane_Area,2.2
+Arunachal Pradesh,2024-25,78,Sugarcane_Area,2.2
+Assam,2004-05,78,Sugarcane_Area,23.9
+Assam,2005-06,78,Sugarcane_Area,23.4
+Assam,2006-07,78,Sugarcane_Area,27.0
+Assam,2007-08,78,Sugarcane_Area,26.0
+Assam,2008-09,78,Sugarcane_Area,28.6
+Assam,2009-10,78,Sugarcane_Area,27.1
+Assam,2010-11,78,Sugarcane_Area,29.7
+Assam,2011-12,78,Sugarcane_Area,25.7
+Assam,2012-13,78,Sugarcane_Area,28.9
+Assam,2013-14,78,Sugarcane_Area,29.1
+Assam,2014-15,78,Sugarcane_Area,29.9
+Assam,2015-16,78,Sugarcane_Area,29.5
+Assam,2016-17,78,Sugarcane_Area,31.4
+Assam,2017-18,78,Sugarcane_Area,30.6
+Assam,2018-19,78,Sugarcane_Area,31.2
+Assam,2019-20,78,Sugarcane_Area,29.7
+Assam,2020-21,78,Sugarcane_Area,30.5
+Assam,2021-22,78,Sugarcane_Area,29.8
+Assam,2022-23,78,Sugarcane_Area,29.0
+Assam,2023-24,78,Sugarcane_Area,29.2
+Assam,2024-25,78,Sugarcane_Area,29.2
+Bihar,2004-05,78,Sugarcane_Area,104.2
+Bihar,2005-06,78,Sugarcane_Area,101.3
+Bihar,2006-07,78,Sugarcane_Area,129.6
+Bihar,2007-08,78,Sugarcane_Area,108.6
+Bihar,2008-09,78,Sugarcane_Area,111.9
+Bihar,2009-10,78,Sugarcane_Area,115.9
+Bihar,2010-11,78,Sugarcane_Area,248.0
+Bihar,2011-12,78,Sugarcane_Area,218.3
+Bihar,2012-13,78,Sugarcane_Area,250.3
+Bihar,2013-14,78,Sugarcane_Area,258.1
+Bihar,2014-15,78,Sugarcane_Area,254.3
+Bihar,2015-16,78,Sugarcane_Area,244.0
+Bihar,2016-17,78,Sugarcane_Area,239.6
+Bihar,2017-18,78,Sugarcane_Area,233.8
+Bihar,2018-19,78,Sugarcane_Area,225.6
+Bihar,2019-20,78,Sugarcane_Area,223.9
+Bihar,2020-21,78,Sugarcane_Area,221.1
+Bihar,2021-22,78,Sugarcane_Area,211.2
+Bihar,2022-23,78,Sugarcane_Area,210.2
+Bihar,2023-24,78,Sugarcane_Area,202.2
+Bihar,2024-25,78,Sugarcane_Area,192.6
+Chhattisgarh,2004-05,78,Sugarcane_Area,6.3
+Chhattisgarh,2005-06,78,Sugarcane_Area,6.4
+Chhattisgarh,2006-07,78,Sugarcane_Area,7.2
+Chhattisgarh,2007-08,78,Sugarcane_Area,11.1
+Chhattisgarh,2008-09,78,Sugarcane_Area,10.6
+Chhattisgarh,2009-10,78,Sugarcane_Area,12.4
+Chhattisgarh,2010-11,78,Sugarcane_Area,8.3
+Chhattisgarh,2011-12,78,Sugarcane_Area,9.1
+Chhattisgarh,2012-13,78,Sugarcane_Area,13.5
+Chhattisgarh,2013-14,78,Sugarcane_Area,8.5
+Chhattisgarh,2014-15,78,Sugarcane_Area,18.5
+Chhattisgarh,2015-16,78,Sugarcane_Area,35.5
+Chhattisgarh,2016-17,78,Sugarcane_Area,20.8
+Chhattisgarh,2017-18,78,Sugarcane_Area,24.1
+Chhattisgarh,2018-19,78,Sugarcane_Area,32.8
+Chhattisgarh,2019-20,78,Sugarcane_Area,35.2
+Chhattisgarh,2020-21,78,Sugarcane_Area,31.6
+Chhattisgarh,2021-22,78,Sugarcane_Area,34.9
+Chhattisgarh,2022-23,78,Sugarcane_Area,42.0
+Chhattisgarh,2023-24,78,Sugarcane_Area,35.7
+Chhattisgarh,2024-25,78,Sugarcane_Area,33.4
+Goa,2004-05,78,Sugarcane_Area,1.2
+Goa,2005-06,78,Sugarcane_Area,1.1
+Goa,2006-07,78,Sugarcane_Area,1.1
+Goa,2007-08,78,Sugarcane_Area,1.0
+Goa,2008-09,78,Sugarcane_Area,1.0
+Goa,2009-10,78,Sugarcane_Area,0.9
+Goa,2010-11,78,Sugarcane_Area,0.9
+Goa,2011-12,78,Sugarcane_Area,0.9
+Goa,2012-13,78,Sugarcane_Area,0.9
+Goa,2013-14,78,Sugarcane_Area,0.9
+Goa,2014-15,78,Sugarcane_Area,0.8
+Goa,2016-17,78,Sugarcane_Area,0.9
+Goa,2017-18,78,Sugarcane_Area,0.0
+Goa,2018-19,78,Sugarcane_Area,0.9
+Goa,2019-20,78,Sugarcane_Area,0.8
+Goa,2020-21,78,Sugarcane_Area,0.6
+Goa,2021-22,78,Sugarcane_Area,0.5
+Goa,2022-23,78,Sugarcane_Area,0.5
+Goa,2023-24,78,Sugarcane_Area,0.5
+Goa,2024-25,78,Sugarcane_Area,0.4
+Gujarat,2004-05,78,Sugarcane_Area,196.7
+Gujarat,2005-06,78,Sugarcane_Area,197.0
+Gujarat,2006-07,78,Sugarcane_Area,214.0
+Gujarat,2007-08,78,Sugarcane_Area,211.0
+Gujarat,2008-09,78,Sugarcane_Area,221.0
+Gujarat,2009-10,78,Sugarcane_Area,154.0
+Gujarat,2010-11,78,Sugarcane_Area,190.0
+Gujarat,2011-12,78,Sugarcane_Area,202.0
+Gujarat,2012-13,78,Sugarcane_Area,176.0
+Gujarat,2013-14,78,Sugarcane_Area,174.0
+Gujarat,2014-15,78,Sugarcane_Area,208.0
+Gujarat,2015-16,78,Sugarcane_Area,157.0
+Gujarat,2016-17,78,Sugarcane_Area,169.0
+Gujarat,2017-18,78,Sugarcane_Area,182.0
+Gujarat,2018-19,78,Sugarcane_Area,154.8
+Gujarat,2019-20,78,Sugarcane_Area,160.9
+Gujarat,2020-21,78,Sugarcane_Area,219.3
+Gujarat,2021-22,78,Sugarcane_Area,223.0
+Gujarat,2022-23,78,Sugarcane_Area,181.1
+Gujarat,2023-24,78,Sugarcane_Area,202.2
+Gujarat,2024-25,78,Sugarcane_Area,188.8
+Haryana,2004-05,78,Sugarcane_Area,130.0
+Haryana,2005-06,78,Sugarcane_Area,127.0
+Haryana,2006-07,78,Sugarcane_Area,140.0
+Haryana,2007-08,78,Sugarcane_Area,140.0
+Haryana,2008-09,78,Sugarcane_Area,90.0
+Haryana,2009-10,78,Sugarcane_Area,74.0
+Haryana,2010-11,78,Sugarcane_Area,85.0
+Haryana,2011-12,78,Sugarcane_Area,95.0
+Haryana,2012-13,78,Sugarcane_Area,101.0
+Haryana,2013-14,78,Sugarcane_Area,102.0
+Haryana,2014-15,78,Sugarcane_Area,97.0
+Haryana,2015-16,78,Sugarcane_Area,93.0
+Haryana,2016-17,78,Sugarcane_Area,102.0
+Haryana,2017-18,78,Sugarcane_Area,114.0
+Haryana,2018-19,78,Sugarcane_Area,108.7
+Haryana,2019-20,78,Sugarcane_Area,96.3
+Haryana,2020-21,78,Sugarcane_Area,99.0
+Haryana,2021-22,78,Sugarcane_Area,107.7
+Haryana,2022-23,78,Sugarcane_Area,107.8
+Haryana,2023-24,78,Sugarcane_Area,88.2
+Haryana,2024-25,78,Sugarcane_Area,71.6
+Himachal Pradesh,2004-05,78,Sugarcane_Area,2.9
+Himachal Pradesh,2005-06,78,Sugarcane_Area,2.6
+Himachal Pradesh,2006-07,78,Sugarcane_Area,3.0
+Himachal Pradesh,2007-08,78,Sugarcane_Area,2.7
+Himachal Pradesh,2008-09,78,Sugarcane_Area,2.3
+Himachal Pradesh,2009-10,78,Sugarcane_Area,2.2
+Himachal Pradesh,2010-11,78,Sugarcane_Area,1.7
+Himachal Pradesh,2011-12,78,Sugarcane_Area,2.1
+Himachal Pradesh,2012-13,78,Sugarcane_Area,1.9
+Himachal Pradesh,2013-14,78,Sugarcane_Area,1.5
+Himachal Pradesh,2014-15,78,Sugarcane_Area,1.6
+Himachal Pradesh,2015-16,78,Sugarcane_Area,1.9
+Himachal Pradesh,2016-17,78,Sugarcane_Area,1.7
+Himachal Pradesh,2017-18,78,Sugarcane_Area,1.9
+Himachal Pradesh,2018-19,78,Sugarcane_Area,1.7
+Himachal Pradesh,2019-20,78,Sugarcane_Area,1.6
+Himachal Pradesh,2020-21,78,Sugarcane_Area,1.5
+Himachal Pradesh,2021-22,78,Sugarcane_Area,1.5
+Himachal Pradesh,2022-23,78,Sugarcane_Area,1.4
+Himachal Pradesh,2023-24,78,Sugarcane_Area,1.4
+Himachal Pradesh,2024-25,78,Sugarcane_Area,1.3
+Jammu & Kashmir,2004-05,78,Sugarcane_Area,0.1
+Jammu & Kashmir,2005-06,78,Sugarcane_Area,0.2
+Jammu & Kashmir,2006-07,78,Sugarcane_Area,0.2
+Jammu & Kashmir,2007-08,78,Sugarcane_Area,0.1
+Jammu & Kashmir,2014-15,78,Sugarcane_Area,1.3
+Jammu & Kashmir,2015-16,78,Sugarcane_Area,0.2
+Jammu & Kashmir,2016-17,78,Sugarcane_Area,0.0
+Jammu & Kashmir,2017-18,78,Sugarcane_Area,0.0
+Jammu & Kashmir,2018-19,78,Sugarcane_Area,0.0
+Jammu & Kashmir,2019-20,78,Sugarcane_Area,0.0
+Jammu & Kashmir,2020-21,78,Sugarcane_Area,0.0
+Jammu & Kashmir,2021-22,78,Sugarcane_Area,0.0
+Jammu & Kashmir,2022-23,78,Sugarcane_Area,0.2
+Jammu & Kashmir,2023-24,78,Sugarcane_Area,0.2
+Jammu & Kashmir,2024-25,78,Sugarcane_Area,0.2
+Jharkhand,2004-05,78,Sugarcane_Area,3.9
+Jharkhand,2005-06,78,Sugarcane_Area,4.0
+Jharkhand,2006-07,78,Sugarcane_Area,4.0
+Jharkhand,2007-08,78,Sugarcane_Area,6.0
+Jharkhand,2008-09,78,Sugarcane_Area,5.7
+Jharkhand,2009-10,78,Sugarcane_Area,6.5
+Jharkhand,2010-11,78,Sugarcane_Area,6.6
+Jharkhand,2011-12,78,Sugarcane_Area,6.6
+Jharkhand,2012-13,78,Sugarcane_Area,6.7
+Jharkhand,2013-14,78,Sugarcane_Area,6.7
+Jharkhand,2014-15,78,Sugarcane_Area,6.8
+Jharkhand,2015-16,78,Sugarcane_Area,10.2
+Jharkhand,2016-17,78,Sugarcane_Area,7.4
+Jharkhand,2017-18,78,Sugarcane_Area,8.2
+Jharkhand,2018-19,78,Sugarcane_Area,0.0
+Jharkhand,2019-20,78,Sugarcane_Area,0.0
+Jharkhand,2020-21,78,Sugarcane_Area,0.0
+Jharkhand,2024-25,78,Sugarcane_Area,0.5
+Karnataka,2004-05,78,Sugarcane_Area,178.0
+Karnataka,2005-06,78,Sugarcane_Area,219.0
+Karnataka,2006-07,78,Sugarcane_Area,326.0
+Karnataka,2007-08,78,Sugarcane_Area,306.0
+Karnataka,2008-09,78,Sugarcane_Area,281.0
+Karnataka,2009-10,78,Sugarcane_Area,337.0
+Karnataka,2010-11,78,Sugarcane_Area,423.0
+Karnataka,2011-12,78,Sugarcane_Area,430.0
+Karnataka,2012-13,78,Sugarcane_Area,425.0
+Karnataka,2013-14,78,Sugarcane_Area,420.0
+Karnataka,2014-15,78,Sugarcane_Area,480.0
+Karnataka,2015-16,78,Sugarcane_Area,450.0
+Karnataka,2016-17,78,Sugarcane_Area,397.0
+Karnataka,2017-18,78,Sugarcane_Area,370.3
+Karnataka,2018-19,78,Sugarcane_Area,471.2
+Karnataka,2019-20,78,Sugarcane_Area,429.0
+Karnataka,2020-21,78,Sugarcane_Area,443.0
+Karnataka,2021-22,78,Sugarcane_Area,637.0
+Karnataka,2022-23,78,Sugarcane_Area,659.4
+Karnataka,2023-24,78,Sugarcane_Area,543.0
+Karnataka,2024-25,78,Sugarcane_Area,540.0
+Kerala,2004-05,78,Sugarcane_Area,3.0
+Kerala,2005-06,78,Sugarcane_Area,6.8
+Kerala,2006-07,78,Sugarcane_Area,5.0
+Kerala,2007-08,78,Sugarcane_Area,2.0
+Kerala,2008-09,78,Sugarcane_Area,2.2
+Kerala,2009-10,78,Sugarcane_Area,3.0
+Kerala,2010-11,78,Sugarcane_Area,2.8
+Kerala,2011-12,78,Sugarcane_Area,2.6
+Kerala,2012-13,78,Sugarcane_Area,1.7
+Kerala,2013-14,78,Sugarcane_Area,2.2
+Kerala,2014-15,78,Sugarcane_Area,1.5
+Kerala,2015-16,78,Sugarcane_Area,1.4
+Kerala,2016-17,78,Sugarcane_Area,1.1
+Kerala,2017-18,78,Sugarcane_Area,1.1
+Kerala,2018-19,78,Sugarcane_Area,1.0
+Kerala,2019-20,78,Sugarcane_Area,1.0
+Kerala,2020-21,78,Sugarcane_Area,0.9
+Kerala,2021-22,78,Sugarcane_Area,0.9
+Kerala,2022-23,78,Sugarcane_Area,0.9
+Kerala,2023-24,78,Sugarcane_Area,0.7
+Kerala,2024-25,78,Sugarcane_Area,0.3
+Madhya Pradesh,2004-05,78,Sugarcane_Area,52.5
+Madhya Pradesh,2005-06,78,Sugarcane_Area,55.5
+Madhya Pradesh,2006-07,78,Sugarcane_Area,64.3
+Madhya Pradesh,2007-08,78,Sugarcane_Area,75.2
+Madhya Pradesh,2008-09,78,Sugarcane_Area,70.5
+Madhya Pradesh,2009-10,78,Sugarcane_Area,62.1
+Madhya Pradesh,2010-11,78,Sugarcane_Area,65.1
+Madhya Pradesh,2011-12,78,Sugarcane_Area,69.2
+Madhya Pradesh,2012-13,78,Sugarcane_Area,59.5
+Madhya Pradesh,2013-14,78,Sugarcane_Area,73.1
+Madhya Pradesh,2014-15,78,Sugarcane_Area,111.0
+Madhya Pradesh,2015-16,78,Sugarcane_Area,103.0
+Madhya Pradesh,2016-17,78,Sugarcane_Area,92.0
+Madhya Pradesh,2017-18,78,Sugarcane_Area,98.0
+Madhya Pradesh,2018-19,78,Sugarcane_Area,108.0
+Madhya Pradesh,2019-20,78,Sugarcane_Area,125.0
+Madhya Pradesh,2020-21,78,Sugarcane_Area,95.0
+Madhya Pradesh,2021-22,78,Sugarcane_Area,93.0
+Madhya Pradesh,2022-23,78,Sugarcane_Area,92.0
+Madhya Pradesh,2023-24,78,Sugarcane_Area,115.0
+Madhya Pradesh,2024-25,78,Sugarcane_Area,107.0
+Maharashtra,2004-05,78,Sugarcane_Area,324.0
+Maharashtra,2005-06,78,Sugarcane_Area,501.0
+Maharashtra,2006-07,78,Sugarcane_Area,1049.0
+Maharashtra,2007-08,78,Sugarcane_Area,1093.0
+Maharashtra,2008-09,78,Sugarcane_Area,768.0
+Maharashtra,2009-10,78,Sugarcane_Area,756.0
+Maharashtra,2010-11,78,Sugarcane_Area,965.0
+Maharashtra,2011-12,78,Sugarcane_Area,1022.0
+Maharashtra,2012-13,78,Sugarcane_Area,933.0
+Maharashtra,2013-14,78,Sugarcane_Area,937.0
+Maharashtra,2014-15,78,Sugarcane_Area,1030.0
+Maharashtra,2015-16,78,Sugarcane_Area,987.0
+Maharashtra,2016-17,78,Sugarcane_Area,633.3
+Maharashtra,2017-18,78,Sugarcane_Area,902.0
+Maharashtra,2018-19,78,Sugarcane_Area,1162.8
+Maharashtra,2019-20,78,Sugarcane_Area,822.4
+Maharashtra,2020-21,78,Sugarcane_Area,1142.8
+Maharashtra,2021-22,78,Sugarcane_Area,1261.7
+Maharashtra,2022-23,78,Sugarcane_Area,1359.3
+Maharashtra,2023-24,78,Sugarcane_Area,1437.0
+Maharashtra,2024-25,78,Sugarcane_Area,1167.0
+Manipur,2004-05,78,Sugarcane_Area,0.6
+Manipur,2005-06,78,Sugarcane_Area,0.7
+Manipur,2006-07,78,Sugarcane_Area,0.7
+Manipur,2007-08,78,Sugarcane_Area,0.5
+Manipur,2008-09,78,Sugarcane_Area,0.6
+Manipur,2009-10,78,Sugarcane_Area,0.6
+Manipur,2010-11,78,Sugarcane_Area,5.2
+Manipur,2011-12,78,Sugarcane_Area,5.8
+Manipur,2012-13,78,Sugarcane_Area,5.5
+Manipur,2013-14,78,Sugarcane_Area,5.9
+Manipur,2014-15,78,Sugarcane_Area,5.9
+Manipur,2015-16,78,Sugarcane_Area,6.0
+Manipur,2016-17,78,Sugarcane_Area,6.0
+Manipur,2017-18,78,Sugarcane_Area,6.0
+Manipur,2018-19,78,Sugarcane_Area,5.5
+Manipur,2019-20,78,Sugarcane_Area,0.0
+Manipur,2020-21,78,Sugarcane_Area,4.9
+Manipur,2021-22,78,Sugarcane_Area,4.9
+Manipur,2022-23,78,Sugarcane_Area,5.0
+Manipur,2023-24,78,Sugarcane_Area,5.0
+Manipur,2024-25,78,Sugarcane_Area,6.0
+Meghalaya,2004-05,78,Sugarcane_Area,0.1
+Meghalaya,2005-06,78,Sugarcane_Area,0.1
+Meghalaya,2006-07,78,Sugarcane_Area,0.1
+Meghalaya,2007-08,78,Sugarcane_Area,0.1
+Meghalaya,2008-09,78,Sugarcane_Area,0.1
+Meghalaya,2009-10,78,Sugarcane_Area,0.1
+Meghalaya,2010-11,78,Sugarcane_Area,0.1
+Meghalaya,2011-12,78,Sugarcane_Area,0.1
+Meghalaya,2012-13,78,Sugarcane_Area,0.1
+Meghalaya,2013-14,78,Sugarcane_Area,0.1
+Meghalaya,2014-15,78,Sugarcane_Area,0.1
+Meghalaya,2015-16,78,Sugarcane_Area,0.1
+Meghalaya,2016-17,78,Sugarcane_Area,0.1
+Meghalaya,2017-18,78,Sugarcane_Area,0.1
+Meghalaya,2018-19,78,Sugarcane_Area,0.1
+Meghalaya,2019-20,78,Sugarcane_Area,0.1
+Meghalaya,2020-21,78,Sugarcane_Area,0.1
+Meghalaya,2021-22,78,Sugarcane_Area,0.1
+Meghalaya,2022-23,78,Sugarcane_Area,0.1
+Meghalaya,2023-24,78,Sugarcane_Area,0.1
+Meghalaya,2024-25,78,Sugarcane_Area,0.1
+Mizoram,2004-05,78,Sugarcane_Area,1.2
+Mizoram,2005-06,78,Sugarcane_Area,1.4
+Mizoram,2006-07,78,Sugarcane_Area,1.4
+Mizoram,2007-08,78,Sugarcane_Area,0.9
+Mizoram,2008-09,78,Sugarcane_Area,1.3
+Mizoram,2009-10,78,Sugarcane_Area,1.4
+Mizoram,2010-11,78,Sugarcane_Area,1.4
+Mizoram,2011-12,78,Sugarcane_Area,1.4
+Mizoram,2012-13,78,Sugarcane_Area,1.3
+Mizoram,2013-14,78,Sugarcane_Area,1.4
+Mizoram,2014-15,78,Sugarcane_Area,1.5
+Mizoram,2015-16,78,Sugarcane_Area,1.5
+Mizoram,2016-17,78,Sugarcane_Area,1.6
+Mizoram,2017-18,78,Sugarcane_Area,1.6
+Mizoram,2018-19,78,Sugarcane_Area,1.5
+Mizoram,2019-20,78,Sugarcane_Area,1.5
+Mizoram,2020-21,78,Sugarcane_Area,1.4
+Mizoram,2021-22,78,Sugarcane_Area,1.3
+Mizoram,2022-23,78,Sugarcane_Area,1.5
+Mizoram,2023-24,78,Sugarcane_Area,1.0
+Mizoram,2024-25,78,Sugarcane_Area,0.8
+Nagaland,2004-05,78,Sugarcane_Area,3.0
+Nagaland,2005-06,78,Sugarcane_Area,4.4
+Nagaland,2006-07,78,Sugarcane_Area,4.8
+Nagaland,2007-08,78,Sugarcane_Area,5.0
+Nagaland,2008-09,78,Sugarcane_Area,4.3
+Nagaland,2009-10,78,Sugarcane_Area,5.1
+Nagaland,2010-11,78,Sugarcane_Area,4.3
+Nagaland,2011-12,78,Sugarcane_Area,4.3
+Nagaland,2012-13,78,Sugarcane_Area,4.3
+Nagaland,2013-14,78,Sugarcane_Area,4.3
+Nagaland,2014-15,78,Sugarcane_Area,4.4
+Nagaland,2015-16,78,Sugarcane_Area,4.4
+Nagaland,2016-17,78,Sugarcane_Area,4.4
+Nagaland,2017-18,78,Sugarcane_Area,4.4
+Nagaland,2018-19,78,Sugarcane_Area,4.4
+Nagaland,2019-20,78,Sugarcane_Area,4.5
+Nagaland,2020-21,78,Sugarcane_Area,4.5
+Nagaland,2021-22,78,Sugarcane_Area,3.7
+Nagaland,2022-23,78,Sugarcane_Area,2.5
+Nagaland,2023-24,78,Sugarcane_Area,2.6
+Nagaland,2024-25,78,Sugarcane_Area,2.0
+Odisha,2004-05,78,Sugarcane_Area,15.4
+Odisha,2005-06,78,Sugarcane_Area,16.3
+Odisha,2006-07,78,Sugarcane_Area,20.1
+Odisha,2007-08,78,Sugarcane_Area,19.8
+Odisha,2008-09,78,Sugarcane_Area,10.8
+Odisha,2009-10,78,Sugarcane_Area,8.0
+Odisha,2010-11,78,Sugarcane_Area,13.1
+Odisha,2011-12,78,Sugarcane_Area,14.5
+Odisha,2012-13,78,Sugarcane_Area,14.5
+Odisha,2013-14,78,Sugarcane_Area,14.2
+Odisha,2014-15,78,Sugarcane_Area,10.1
+Odisha,2015-16,78,Sugarcane_Area,9.0
+Odisha,2016-17,78,Sugarcane_Area,5.5
+Odisha,2017-18,78,Sugarcane_Area,3.7
+Odisha,2018-19,78,Sugarcane_Area,6.8
+Odisha,2019-20,78,Sugarcane_Area,9.0
+Odisha,2020-21,78,Sugarcane_Area,7.0
+Odisha,2021-22,78,Sugarcane_Area,7.1
+Odisha,2022-23,78,Sugarcane_Area,7.3
+Odisha,2023-24,78,Sugarcane_Area,7.2
+Odisha,2024-25,78,Sugarcane_Area,13.3
+Puducherry,2004-05,78,Sugarcane_Area,1.5
+Puducherry,2005-06,78,Sugarcane_Area,2.1
+Puducherry,2006-07,78,Sugarcane_Area,2.1
+Puducherry,2007-08,78,Sugarcane_Area,2.3
+Puducherry,2008-09,78,Sugarcane_Area,1.9
+Puducherry,2009-10,78,Sugarcane_Area,1.8
+Puducherry,2010-11,78,Sugarcane_Area,1.8
+Puducherry,2011-12,78,Sugarcane_Area,1.9
+Puducherry,2012-13,78,Sugarcane_Area,2.0
+Puducherry,2013-14,78,Sugarcane_Area,2.0
+Puducherry,2014-15,78,Sugarcane_Area,1.9
+Puducherry,2015-16,78,Sugarcane_Area,1.8
+Puducherry,2016-17,78,Sugarcane_Area,0.0
+Puducherry,2017-18,78,Sugarcane_Area,1.5
+Puducherry,2018-19,78,Sugarcane_Area,1.4
+Puducherry,2019-20,78,Sugarcane_Area,1.3
+Puducherry,2020-21,78,Sugarcane_Area,1.3
+Puducherry,2021-22,78,Sugarcane_Area,0.0
+Puducherry,2022-23,78,Sugarcane_Area,1.3
+Puducherry,2023-24,78,Sugarcane_Area,1.2
+Puducherry,2024-25,78,Sugarcane_Area,0.8
+Punjab,2004-05,78,Sugarcane_Area,86.0
+Punjab,2005-06,78,Sugarcane_Area,84.0
+Punjab,2006-07,78,Sugarcane_Area,99.0
+Punjab,2007-08,78,Sugarcane_Area,110.0
+Punjab,2008-09,78,Sugarcane_Area,81.0
+Punjab,2009-10,78,Sugarcane_Area,60.0
+Punjab,2010-11,78,Sugarcane_Area,70.0
+Punjab,2011-12,78,Sugarcane_Area,80.0
+Punjab,2012-13,78,Sugarcane_Area,83.0
+Punjab,2013-14,78,Sugarcane_Area,89.0
+Punjab,2014-15,78,Sugarcane_Area,94.0
+Punjab,2015-16,78,Sugarcane_Area,90.0
+Punjab,2016-17,78,Sugarcane_Area,88.0
+Punjab,2017-18,78,Sugarcane_Area,96.0
+Punjab,2018-19,78,Sugarcane_Area,95.0
+Punjab,2019-20,78,Sugarcane_Area,91.0
+Punjab,2020-21,78,Sugarcane_Area,89.3
+Punjab,2021-22,78,Sugarcane_Area,86.8
+Punjab,2022-23,78,Sugarcane_Area,90.3
+Punjab,2023-24,78,Sugarcane_Area,90.2
+Punjab,2024-25,78,Sugarcane_Area,88.7
+Rajasthan,2004-05,78,Sugarcane_Area,5.7
+Rajasthan,2005-06,78,Sugarcane_Area,7.9
+Rajasthan,2006-07,78,Sugarcane_Area,10.9
+Rajasthan,2007-08,78,Sugarcane_Area,10.4
+Rajasthan,2008-09,78,Sugarcane_Area,6.5
+Rajasthan,2009-10,78,Sugarcane_Area,6.0
+Rajasthan,2010-11,78,Sugarcane_Area,5.5
+Rajasthan,2011-12,78,Sugarcane_Area,6.4
+Rajasthan,2012-13,78,Sugarcane_Area,5.5
+Rajasthan,2013-14,78,Sugarcane_Area,5.3
+Rajasthan,2014-15,78,Sugarcane_Area,5.6
+Rajasthan,2015-16,78,Sugarcane_Area,6.1
+Rajasthan,2016-17,78,Sugarcane_Area,6.9
+Rajasthan,2017-18,78,Sugarcane_Area,5.4
+Rajasthan,2018-19,78,Sugarcane_Area,5.4
+Rajasthan,2019-20,78,Sugarcane_Area,4.5
+Rajasthan,2020-21,78,Sugarcane_Area,5.0
+Rajasthan,2021-22,78,Sugarcane_Area,4.2
+Rajasthan,2022-23,78,Sugarcane_Area,3.5
+Rajasthan,2023-24,78,Sugarcane_Area,4.2
+Rajasthan,2024-25,78,Sugarcane_Area,5.8
+Tamil Nadu,2004-05,78,Sugarcane_Area,232.0
+Tamil Nadu,2005-06,78,Sugarcane_Area,335.4
+Tamil Nadu,2006-07,78,Sugarcane_Area,391.2
+Tamil Nadu,2007-08,78,Sugarcane_Area,354.2
+Tamil Nadu,2008-09,78,Sugarcane_Area,308.9
+Tamil Nadu,2009-10,78,Sugarcane_Area,293.2
+Tamil Nadu,2010-11,78,Sugarcane_Area,316.0
+Tamil Nadu,2011-12,78,Sugarcane_Area,346.4
+Tamil Nadu,2012-13,78,Sugarcane_Area,347.2
+Tamil Nadu,2013-14,78,Sugarcane_Area,313.3
+Tamil Nadu,2014-15,78,Sugarcane_Area,263.1
+Tamil Nadu,2015-16,78,Sugarcane_Area,252.3
+Tamil Nadu,2016-17,78,Sugarcane_Area,218.3
+Tamil Nadu,2017-18,78,Sugarcane_Area,171.9
+Tamil Nadu,2018-19,78,Sugarcane_Area,166.4
+Tamil Nadu,2019-20,78,Sugarcane_Area,131.2
+Tamil Nadu,2020-21,78,Sugarcane_Area,127.7
+Tamil Nadu,2021-22,78,Sugarcane_Area,148.0
+Tamil Nadu,2022-23,78,Sugarcane_Area,159.0
+Tamil Nadu,2023-24,78,Sugarcane_Area,151.7
+Tamil Nadu,2024-25,78,Sugarcane_Area,130.9
+Telangana,2011-12,78,Sugarcane_Area,45.0
+Telangana,2012-13,78,Sugarcane_Area,41.0
+Telangana,2013-14,78,Sugarcane_Area,39.0
+Telangana,2014-15,78,Sugarcane_Area,38.0
+Telangana,2015-16,78,Sugarcane_Area,35.0
+Telangana,2016-17,78,Sugarcane_Area,29.0
+Telangana,2017-18,78,Sugarcane_Area,35.0
+Telangana,2018-19,78,Sugarcane_Area,40.0
+Telangana,2019-20,78,Sugarcane_Area,26.0
+Telangana,2020-21,78,Sugarcane_Area,22.0
+Telangana,2021-22,78,Sugarcane_Area,28.0
+Telangana,2022-23,78,Sugarcane_Area,28.0
+Telangana,2023-24,78,Sugarcane_Area,27.0
+Telangana,2024-25,78,Sugarcane_Area,20.6
+Tripura,2004-05,78,Sugarcane_Area,1.1
+Tripura,2005-06,78,Sugarcane_Area,1.1
+Tripura,2006-07,78,Sugarcane_Area,0.9
+Tripura,2007-08,78,Sugarcane_Area,1.0
+Tripura,2008-09,78,Sugarcane_Area,1.0
+Tripura,2009-10,78,Sugarcane_Area,0.9
+Tripura,2010-11,78,Sugarcane_Area,0.9
+Tripura,2011-12,78,Sugarcane_Area,0.9
+Tripura,2012-13,78,Sugarcane_Area,0.9
+Tripura,2013-14,78,Sugarcane_Area,1.0
+Tripura,2014-15,78,Sugarcane_Area,0.0
+Tripura,2015-16,78,Sugarcane_Area,0.8
+Tripura,2016-17,78,Sugarcane_Area,0.8
+Tripura,2017-18,78,Sugarcane_Area,0.8
+Tripura,2018-19,78,Sugarcane_Area,0.7
+Tripura,2019-20,78,Sugarcane_Area,0.7
+Tripura,2020-21,78,Sugarcane_Area,0.9
+Tripura,2021-22,78,Sugarcane_Area,0.9
+Tripura,2022-23,78,Sugarcane_Area,0.7
+Tripura,2023-24,78,Sugarcane_Area,0.7
+Tripura,2024-25,78,Sugarcane_Area,0.5
+Uttar Pradesh,2004-05,78,Sugarcane_Area,1954.7
+Uttar Pradesh,2005-06,78,Sugarcane_Area,2155.8
+Uttar Pradesh,2006-07,78,Sugarcane_Area,2246.5
+Uttar Pradesh,2007-08,78,Sugarcane_Area,2179.0
+Uttar Pradesh,2008-09,78,Sugarcane_Area,2084.0
+Uttar Pradesh,2009-10,78,Sugarcane_Area,1977.0
+Uttar Pradesh,2010-11,78,Sugarcane_Area,2125.0
+Uttar Pradesh,2011-12,78,Sugarcane_Area,2162.0
+Uttar Pradesh,2012-13,78,Sugarcane_Area,2212.0
+Uttar Pradesh,2013-14,78,Sugarcane_Area,2228.0
+Uttar Pradesh,2014-15,78,Sugarcane_Area,2140.8
+Uttar Pradesh,2015-16,78,Sugarcane_Area,2169.0
+Uttar Pradesh,2016-17,78,Sugarcane_Area,2160.0
+Uttar Pradesh,2017-18,78,Sugarcane_Area,2234.0
+Uttar Pradesh,2018-19,78,Sugarcane_Area,2224.0
+Uttar Pradesh,2019-20,78,Sugarcane_Area,2208.0
+Uttar Pradesh,2020-21,78,Sugarcane_Area,2180.0
+Uttar Pradesh,2021-22,78,Sugarcane_Area,2177.0
+Uttar Pradesh,2022-23,78,Sugarcane_Area,2794.6
+Uttar Pradesh,2023-24,78,Sugarcane_Area,2653.0
+Uttar Pradesh,2024-25,78,Sugarcane_Area,2720.4
+Uttarakhand,2004-05,78,Sugarcane_Area,107.0
+Uttarakhand,2005-06,78,Sugarcane_Area,101.0
+Uttarakhand,2006-07,78,Sugarcane_Area,121.0
+Uttarakhand,2007-08,78,Sugarcane_Area,124.0
+Uttarakhand,2008-09,78,Sugarcane_Area,107.0
+Uttarakhand,2009-10,78,Sugarcane_Area,96.0
+Uttarakhand,2010-11,78,Sugarcane_Area,106.7
+Uttarakhand,2011-12,78,Sugarcane_Area,108.0
+Uttarakhand,2012-13,78,Sugarcane_Area,109.9
+Uttarakhand,2013-14,78,Sugarcane_Area,104.3
+Uttarakhand,2014-15,78,Sugarcane_Area,101.7
+Uttarakhand,2015-16,78,Sugarcane_Area,96.9
+Uttarakhand,2016-17,78,Sugarcane_Area,93.0
+Uttarakhand,2017-18,78,Sugarcane_Area,90.0
+Uttarakhand,2018-19,78,Sugarcane_Area,91.0
+Uttarakhand,2019-20,78,Sugarcane_Area,92.0
+Uttarakhand,2020-21,78,Sugarcane_Area,46.0
+Uttarakhand,2021-22,78,Sugarcane_Area,44.0
+Uttarakhand,2022-23,78,Sugarcane_Area,47.0
+Uttarakhand,2023-24,78,Sugarcane_Area,94.1
+Uttarakhand,2024-25,78,Sugarcane_Area,90.4
+West Bengal,2004-05,78,Sugarcane_Area,15.6
+West Bengal,2005-06,78,Sugarcane_Area,15.0
+West Bengal,2006-07,78,Sugarcane_Area,16.6
+West Bengal,2007-08,78,Sugarcane_Area,16.9
+West Bengal,2008-09,78,Sugarcane_Area,17.6
+West Bengal,2009-10,78,Sugarcane_Area,13.8
+West Bengal,2010-11,78,Sugarcane_Area,15.0
+West Bengal,2011-12,78,Sugarcane_Area,16.1
+West Bengal,2012-13,78,Sugarcane_Area,16.1
+West Bengal,2013-14,78,Sugarcane_Area,17.0
+West Bengal,2014-15,78,Sugarcane_Area,17.7
+West Bengal,2015-16,78,Sugarcane_Area,17.4
+West Bengal,2016-17,78,Sugarcane_Area,21.0
+West Bengal,2017-18,78,Sugarcane_Area,19.2
+West Bengal,2018-19,78,Sugarcane_Area,15.8
+West Bengal,2019-20,78,Sugarcane_Area,19.2
+West Bengal,2020-21,78,Sugarcane_Area,18.8
+West Bengal,2021-22,78,Sugarcane_Area,19.0
+West Bengal,2022-23,78,Sugarcane_Area,18.5
+West Bengal,2023-24,78,Sugarcane_Area,16.6
+West Bengal,2024-25,78,Sugarcane_Area,13.2

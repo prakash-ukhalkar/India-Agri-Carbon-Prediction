@@ -1,0 +1,595 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,54,Net_Sown_Area,10327.0
+Andhra Pradesh,2005-06,54,Net_Sown_Area,10745.0
+Andhra Pradesh,2006-07,54,Net_Sown_Area,10147.0
+Andhra Pradesh,2007-08,54,Net_Sown_Area,10756.0
+Andhra Pradesh,2008-09,54,Net_Sown_Area,10868.0
+Andhra Pradesh,2009-10,54,Net_Sown_Area,9991.0
+Andhra Pradesh,2010-11,54,Net_Sown_Area,11186.0
+Andhra Pradesh,2011-12,54,Net_Sown_Area,11161.0
+Andhra Pradesh,2012-13,54,Net_Sown_Area,11117.0
+Andhra Pradesh,2013-14,54,Net_Sown_Area,6448.0
+Andhra Pradesh,2014-15,54,Net_Sown_Area,6236.0
+Andhra Pradesh,2015-16,54,Net_Sown_Area,6209.0
+Andhra Pradesh,2016-17,54,Net_Sown_Area,6077.0
+Andhra Pradesh,2017-18,54,Net_Sown_Area,6048.0
+Andhra Pradesh,2018-19,54,Net_Sown_Area,6049.0
+Andhra Pradesh,2019-20,54,Net_Sown_Area,5884.0
+Andhra Pradesh,2020-21,54,Net_Sown_Area,5915.0
+Andhra Pradesh,2021-22,54,Net_Sown_Area,6038.0
+Andhra Pradesh,2022-23,54,Net_Sown_Area,5725.0
+Andhra Pradesh,2023-24,54,Net_Sown_Area,4955.0
+Arunachal Pradesh,2004-05,54,Net_Sown_Area,202.0
+Arunachal Pradesh,2005-06,54,Net_Sown_Area,206.0
+Arunachal Pradesh,2006-07,54,Net_Sown_Area,209.0
+Arunachal Pradesh,2007-08,54,Net_Sown_Area,210.0
+Arunachal Pradesh,2008-09,54,Net_Sown_Area,211.0
+Arunachal Pradesh,2009-10,54,Net_Sown_Area,212.0
+Arunachal Pradesh,2010-11,54,Net_Sown_Area,213.0
+Arunachal Pradesh,2011-12,54,Net_Sown_Area,215.0
+Arunachal Pradesh,2012-13,54,Net_Sown_Area,216.0
+Arunachal Pradesh,2013-14,54,Net_Sown_Area,225.0
+Arunachal Pradesh,2014-15,54,Net_Sown_Area,225.0
+Arunachal Pradesh,2015-16,54,Net_Sown_Area,227.0
+Arunachal Pradesh,2016-17,54,Net_Sown_Area,232.0
+Arunachal Pradesh,2017-18,54,Net_Sown_Area,233.0
+Arunachal Pradesh,2018-19,54,Net_Sown_Area,234.0
+Arunachal Pradesh,2019-20,54,Net_Sown_Area,235.0
+Arunachal Pradesh,2020-21,54,Net_Sown_Area,242.0
+Arunachal Pradesh,2021-22,54,Net_Sown_Area,243.0
+Arunachal Pradesh,2022-23,54,Net_Sown_Area,253.0
+Arunachal Pradesh,2023-24,54,Net_Sown_Area,258.0
+Assam,2004-05,54,Net_Sown_Area,2753.0
+Assam,2005-06,54,Net_Sown_Area,2753.0
+Assam,2006-07,54,Net_Sown_Area,2753.0
+Assam,2007-08,54,Net_Sown_Area,2753.0
+Assam,2008-09,54,Net_Sown_Area,2810.0
+Assam,2009-10,54,Net_Sown_Area,2811.0
+Assam,2010-11,54,Net_Sown_Area,2811.0
+Assam,2011-12,54,Net_Sown_Area,2811.0
+Assam,2012-13,54,Net_Sown_Area,2809.0
+Assam,2013-14,54,Net_Sown_Area,2820.0
+Assam,2014-15,54,Net_Sown_Area,2827.0
+Assam,2015-16,54,Net_Sown_Area,2801.0
+Assam,2016-17,54,Net_Sown_Area,2774.0
+Assam,2017-18,54,Net_Sown_Area,2723.0
+Assam,2018-19,54,Net_Sown_Area,2723.0
+Assam,2019-20,54,Net_Sown_Area,2699.0
+Assam,2020-21,54,Net_Sown_Area,2724.0
+Assam,2021-22,54,Net_Sown_Area,2749.0
+Assam,2022-23,54,Net_Sown_Area,2744.0
+Assam,2023-24,54,Net_Sown_Area,2756.0
+Bihar,2004-05,54,Net_Sown_Area,5572.0
+Bihar,2005-06,54,Net_Sown_Area,5556.0
+Bihar,2006-07,54,Net_Sown_Area,5665.0
+Bihar,2007-08,54,Net_Sown_Area,5662.0
+Bihar,2008-09,54,Net_Sown_Area,5554.0
+Bihar,2009-10,54,Net_Sown_Area,5332.0
+Bihar,2010-11,54,Net_Sown_Area,5259.0
+Bihar,2011-12,54,Net_Sown_Area,5396.0
+Bihar,2012-13,54,Net_Sown_Area,5402.0
+Bihar,2013-14,54,Net_Sown_Area,5252.0
+Bihar,2014-15,54,Net_Sown_Area,5278.0
+Bihar,2015-16,54,Net_Sown_Area,5205.0
+Bihar,2016-17,54,Net_Sown_Area,5293.0
+Bihar,2017-18,54,Net_Sown_Area,5242.0
+Bihar,2018-19,54,Net_Sown_Area,5167.0
+Bihar,2019-20,54,Net_Sown_Area,5077.0
+Bihar,2020-21,54,Net_Sown_Area,5045.0
+Bihar,2021-22,54,Net_Sown_Area,5070.0
+Bihar,2022-23,54,Net_Sown_Area,5113.0
+Bihar,2023-24,54,Net_Sown_Area,5314.0
+Chhattisgarh,2004-05,54,Net_Sown_Area,4770.0
+Chhattisgarh,2005-06,54,Net_Sown_Area,4764.0
+Chhattisgarh,2006-07,54,Net_Sown_Area,4722.0
+Chhattisgarh,2007-08,54,Net_Sown_Area,4727.0
+Chhattisgarh,2008-09,54,Net_Sown_Area,4710.0
+Chhattisgarh,2009-10,54,Net_Sown_Area,4683.0
+Chhattisgarh,2010-11,54,Net_Sown_Area,4697.0
+Chhattisgarh,2011-12,54,Net_Sown_Area,4677.0
+Chhattisgarh,2012-13,54,Net_Sown_Area,4671.0
+Chhattisgarh,2013-14,54,Net_Sown_Area,4686.0
+Chhattisgarh,2014-15,54,Net_Sown_Area,4681.0
+Chhattisgarh,2015-16,54,Net_Sown_Area,4651.0
+Chhattisgarh,2016-17,54,Net_Sown_Area,4664.0
+Chhattisgarh,2017-18,54,Net_Sown_Area,4653.0
+Chhattisgarh,2018-19,54,Net_Sown_Area,4679.0
+Chhattisgarh,2019-20,54,Net_Sown_Area,4635.0
+Chhattisgarh,2020-21,54,Net_Sown_Area,4623.0
+Chhattisgarh,2021-22,54,Net_Sown_Area,4631.0
+Chhattisgarh,2022-23,54,Net_Sown_Area,4592.0
+Chhattisgarh,2023-24,54,Net_Sown_Area,4616.0
+Delhi,2004-05,54,Net_Sown_Area,28.0
+Delhi,2005-06,54,Net_Sown_Area,28.0
+Delhi,2006-07,54,Net_Sown_Area,23.0
+Delhi,2007-08,54,Net_Sown_Area,23.0
+Delhi,2008-09,54,Net_Sown_Area,23.0
+Delhi,2009-10,54,Net_Sown_Area,22.0
+Delhi,2010-11,54,Net_Sown_Area,22.0
+Delhi,2011-12,54,Net_Sown_Area,22.0
+Delhi,2012-13,54,Net_Sown_Area,22.0
+Delhi,2013-14,54,Net_Sown_Area,22.0
+Delhi,2022-23,54,Net_Sown_Area,22.0
+Delhi,2023-24,54,Net_Sown_Area,28.0
+Goa,2004-05,54,Net_Sown_Area,134.0
+Goa,2005-06,54,Net_Sown_Area,137.0
+Goa,2006-07,54,Net_Sown_Area,137.0
+Goa,2007-08,54,Net_Sown_Area,134.0
+Goa,2008-09,54,Net_Sown_Area,135.0
+Goa,2009-10,54,Net_Sown_Area,132.0
+Goa,2010-11,54,Net_Sown_Area,131.0
+Goa,2011-12,54,Net_Sown_Area,132.0
+Goa,2012-13,54,Net_Sown_Area,132.0
+Goa,2013-14,54,Net_Sown_Area,129.0
+Goa,2014-15,54,Net_Sown_Area,129.0
+Goa,2015-16,54,Net_Sown_Area,130.0
+Goa,2016-17,54,Net_Sown_Area,130.0
+Goa,2017-18,54,Net_Sown_Area,129.0
+Goa,2018-19,54,Net_Sown_Area,128.0
+Goa,2019-20,54,Net_Sown_Area,127.0
+Goa,2020-21,54,Net_Sown_Area,126.0
+Goa,2021-22,54,Net_Sown_Area,127.0
+Goa,2022-23,54,Net_Sown_Area,126.0
+Goa,2023-24,54,Net_Sown_Area,127.0
+Gujarat,2004-05,54,Net_Sown_Area,9747.0
+Gujarat,2005-06,54,Net_Sown_Area,9722.0
+Gujarat,2006-07,54,Net_Sown_Area,9801.0
+Gujarat,2007-08,54,Net_Sown_Area,9966.0
+Gujarat,2008-09,54,Net_Sown_Area,9974.0
+Gujarat,2009-10,54,Net_Sown_Area,9902.0
+Gujarat,2010-11,54,Net_Sown_Area,10302.0
+Gujarat,2011-12,54,Net_Sown_Area,10114.0
+Gujarat,2014-15,54,Net_Sown_Area,9618.0
+Gujarat,2015-16,54,Net_Sown_Area,9770.0
+Gujarat,2016-17,54,Net_Sown_Area,9886.0
+Gujarat,2017-18,54,Net_Sown_Area,9891.0
+Gujarat,2018-19,54,Net_Sown_Area,9390.0
+Gujarat,2019-20,54,Net_Sown_Area,9787.0
+Gujarat,2020-21,54,Net_Sown_Area,9822.0
+Gujarat,2021-22,54,Net_Sown_Area,9720.0
+Gujarat,2022-23,54,Net_Sown_Area,9748.0
+Gujarat,2023-24,54,Net_Sown_Area,9824.0
+Haryana,2004-05,54,Net_Sown_Area,3527.0
+Haryana,2005-06,54,Net_Sown_Area,3566.0
+Haryana,2006-07,54,Net_Sown_Area,3556.0
+Haryana,2007-08,54,Net_Sown_Area,3594.0
+Haryana,2008-09,54,Net_Sown_Area,3576.0
+Haryana,2009-10,54,Net_Sown_Area,3550.0
+Haryana,2010-11,54,Net_Sown_Area,3518.0
+Haryana,2011-12,54,Net_Sown_Area,3513.0
+Haryana,2012-13,54,Net_Sown_Area,3513.0
+Haryana,2013-14,54,Net_Sown_Area,3497.0
+Haryana,2014-15,54,Net_Sown_Area,3522.0
+Haryana,2015-16,54,Net_Sown_Area,3522.0
+Haryana,2016-17,54,Net_Sown_Area,3499.0
+Haryana,2017-18,54,Net_Sown_Area,3517.0
+Haryana,2018-19,54,Net_Sown_Area,3601.0
+Haryana,2019-20,54,Net_Sown_Area,3552.0
+Haryana,2020-21,54,Net_Sown_Area,3611.0
+Haryana,2021-22,54,Net_Sown_Area,3611.0
+Haryana,2022-23,54,Net_Sown_Area,3584.0
+Haryana,2023-24,54,Net_Sown_Area,3515.0
+Himachal Pradesh,2004-05,54,Net_Sown_Area,543.0
+Himachal Pradesh,2005-06,54,Net_Sown_Area,539.0
+Himachal Pradesh,2006-07,54,Net_Sown_Area,541.0
+Himachal Pradesh,2007-08,54,Net_Sown_Area,542.0
+Himachal Pradesh,2008-09,54,Net_Sown_Area,539.0
+Himachal Pradesh,2009-10,54,Net_Sown_Area,538.0
+Himachal Pradesh,2010-11,54,Net_Sown_Area,543.0
+Himachal Pradesh,2011-12,54,Net_Sown_Area,550.0
+Himachal Pradesh,2012-13,54,Net_Sown_Area,548.0
+Himachal Pradesh,2013-14,54,Net_Sown_Area,549.0
+Himachal Pradesh,2014-15,54,Net_Sown_Area,548.0
+Himachal Pradesh,2015-16,54,Net_Sown_Area,551.0
+Himachal Pradesh,2016-17,54,Net_Sown_Area,548.0
+Himachal Pradesh,2017-18,54,Net_Sown_Area,543.0
+Himachal Pradesh,2018-19,54,Net_Sown_Area,542.0
+Himachal Pradesh,2019-20,54,Net_Sown_Area,530.0
+Himachal Pradesh,2020-21,54,Net_Sown_Area,526.0
+Himachal Pradesh,2021-22,54,Net_Sown_Area,528.0
+Himachal Pradesh,2022-23,54,Net_Sown_Area,532.0
+Himachal Pradesh,2023-24,54,Net_Sown_Area,516.0
+Jammu & Kashmir,2004-05,54,Net_Sown_Area,752.0
+Jammu & Kashmir,2005-06,54,Net_Sown_Area,734.0
+Jammu & Kashmir,2006-07,54,Net_Sown_Area,742.0
+Jammu & Kashmir,2007-08,54,Net_Sown_Area,734.0
+Jammu & Kashmir,2008-09,54,Net_Sown_Area,739.0
+Jammu & Kashmir,2009-10,54,Net_Sown_Area,735.0
+Jammu & Kashmir,2010-11,54,Net_Sown_Area,732.0
+Jammu & Kashmir,2011-12,54,Net_Sown_Area,746.0
+Jammu & Kashmir,2012-13,54,Net_Sown_Area,745.0
+Jammu & Kashmir,2013-14,54,Net_Sown_Area,741.0
+Jammu & Kashmir,2014-15,54,Net_Sown_Area,758.0
+Jammu & Kashmir,2015-16,54,Net_Sown_Area,754.0
+Jammu & Kashmir,2016-17,54,Net_Sown_Area,757.0
+Jammu & Kashmir,2017-18,54,Net_Sown_Area,752.0
+Jammu & Kashmir,2018-19,54,Net_Sown_Area,713.0
+Jammu & Kashmir,2019-20,54,Net_Sown_Area,720.0
+Jammu & Kashmir,2020-21,54,Net_Sown_Area,736.0
+Jammu & Kashmir,2021-22,54,Net_Sown_Area,733.0
+Jammu & Kashmir,2022-23,54,Net_Sown_Area,733.0
+Jammu & Kashmir,2023-24,54,Net_Sown_Area,738.0
+Jharkhand,2004-05,54,Net_Sown_Area,1476.0
+Jharkhand,2005-06,54,Net_Sown_Area,1406.0
+Jharkhand,2006-07,54,Net_Sown_Area,1504.0
+Jharkhand,2007-08,54,Net_Sown_Area,1536.0
+Jharkhand,2008-09,54,Net_Sown_Area,1504.0
+Jharkhand,2009-10,54,Net_Sown_Area,1250.0
+Jharkhand,2010-11,54,Net_Sown_Area,1085.0
+Jharkhand,2011-12,54,Net_Sown_Area,1250.0
+Jharkhand,2012-13,54,Net_Sown_Area,1406.0
+Jharkhand,2013-14,54,Net_Sown_Area,1384.0
+Jharkhand,2014-15,54,Net_Sown_Area,1385.0
+Jharkhand,2015-16,54,Net_Sown_Area,1386.0
+Jharkhand,2016-17,54,Net_Sown_Area,1451.0
+Jharkhand,2017-18,54,Net_Sown_Area,1444.0
+Jharkhand,2018-19,54,Net_Sown_Area,1281.0
+Jharkhand,2019-20,54,Net_Sown_Area,1291.0
+Jharkhand,2020-21,54,Net_Sown_Area,1328.0
+Jharkhand,2021-22,54,Net_Sown_Area,1379.0
+Jharkhand,2022-23,54,Net_Sown_Area,1025.0
+Jharkhand,2023-24,54,Net_Sown_Area,902.0
+Karnataka,2004-05,54,Net_Sown_Area,10499.0
+Karnataka,2005-06,54,Net_Sown_Area,10509.0
+Karnataka,2006-07,54,Net_Sown_Area,10105.0
+Karnataka,2007-08,54,Net_Sown_Area,10419.0
+Karnataka,2008-09,54,Net_Sown_Area,10174.0
+Karnataka,2009-10,54,Net_Sown_Area,10404.0
+Karnataka,2010-11,54,Net_Sown_Area,10523.0
+Karnataka,2011-12,54,Net_Sown_Area,9941.0
+Karnataka,2012-13,54,Net_Sown_Area,9793.0
+Karnataka,2013-14,54,Net_Sown_Area,9923.0
+Karnataka,2014-15,54,Net_Sown_Area,10044.0
+Karnataka,2015-16,54,Net_Sown_Area,10006.0
+Karnataka,2016-17,54,Net_Sown_Area,9855.0
+Karnataka,2017-18,54,Net_Sown_Area,9895.0
+Karnataka,2018-19,54,Net_Sown_Area,10664.0
+Karnataka,2019-20,54,Net_Sown_Area,10804.0
+Karnataka,2020-21,54,Net_Sown_Area,11453.0
+Karnataka,2021-22,54,Net_Sown_Area,11166.0
+Karnataka,2022-23,54,Net_Sown_Area,11161.0
+Karnataka,2023-24,54,Net_Sown_Area,10701.0
+Kerala,2004-05,54,Net_Sown_Area,2155.0
+Kerala,2005-06,54,Net_Sown_Area,2132.0
+Kerala,2006-07,54,Net_Sown_Area,2101.0
+Kerala,2007-08,54,Net_Sown_Area,2089.0
+Kerala,2008-09,54,Net_Sown_Area,2089.0
+Kerala,2009-10,54,Net_Sown_Area,2079.0
+Kerala,2010-11,54,Net_Sown_Area,2072.0
+Kerala,2011-12,54,Net_Sown_Area,2040.0
+Kerala,2012-13,54,Net_Sown_Area,2048.0
+Kerala,2013-14,54,Net_Sown_Area,2051.0
+Kerala,2014-15,54,Net_Sown_Area,2043.0
+Kerala,2015-16,54,Net_Sown_Area,2023.0
+Kerala,2016-17,54,Net_Sown_Area,2015.0
+Kerala,2017-18,54,Net_Sown_Area,2040.0
+Kerala,2018-19,54,Net_Sown_Area,2034.0
+Kerala,2019-20,54,Net_Sown_Area,2026.0
+Kerala,2020-21,54,Net_Sown_Area,2035.0
+Kerala,2021-22,54,Net_Sown_Area,2029.0
+Kerala,2022-23,54,Net_Sown_Area,1990.0
+Kerala,2023-24,54,Net_Sown_Area,1973.0
+Madhya Pradesh,2004-05,54,Net_Sown_Area,14975.0
+Madhya Pradesh,2005-06,54,Net_Sown_Area,14971.0
+Madhya Pradesh,2006-07,54,Net_Sown_Area,14735.0
+Madhya Pradesh,2007-08,54,Net_Sown_Area,14687.0
+Madhya Pradesh,2008-09,54,Net_Sown_Area,14941.0
+Madhya Pradesh,2009-10,54,Net_Sown_Area,14972.0
+Madhya Pradesh,2010-11,54,Net_Sown_Area,15119.0
+Madhya Pradesh,2011-12,54,Net_Sown_Area,15237.0
+Madhya Pradesh,2012-13,54,Net_Sown_Area,15352.0
+Madhya Pradesh,2013-14,54,Net_Sown_Area,15422.0
+Madhya Pradesh,2014-15,54,Net_Sown_Area,15351.0
+Madhya Pradesh,2015-16,54,Net_Sown_Area,15149.0
+Madhya Pradesh,2016-17,54,Net_Sown_Area,15228.0
+Madhya Pradesh,2017-18,54,Net_Sown_Area,15191.0
+Madhya Pradesh,2018-19,54,Net_Sown_Area,15205.0
+Madhya Pradesh,2019-20,54,Net_Sown_Area,15512.0
+Madhya Pradesh,2020-21,54,Net_Sown_Area,15800.0
+Madhya Pradesh,2021-22,54,Net_Sown_Area,15823.0
+Madhya Pradesh,2022-23,54,Net_Sown_Area,15848.0
+Madhya Pradesh,2023-24,54,Net_Sown_Area,15640.0
+Maharashtra,2004-05,54,Net_Sown_Area,17490.0
+Maharashtra,2005-06,54,Net_Sown_Area,17473.0
+Maharashtra,2006-07,54,Net_Sown_Area,17475.0
+Maharashtra,2007-08,54,Net_Sown_Area,17473.0
+Maharashtra,2008-09,54,Net_Sown_Area,17422.0
+Maharashtra,2009-10,54,Net_Sown_Area,17401.0
+Maharashtra,2010-11,54,Net_Sown_Area,17406.0
+Maharashtra,2011-12,54,Net_Sown_Area,17386.0
+Maharashtra,2012-13,54,Net_Sown_Area,17344.0
+Maharashtra,2013-14,54,Net_Sown_Area,17368.0
+Maharashtra,2014-15,54,Net_Sown_Area,17345.0
+Maharashtra,2015-16,54,Net_Sown_Area,17192.0
+Maharashtra,2016-17,54,Net_Sown_Area,16910.0
+Maharashtra,2017-18,54,Net_Sown_Area,16943.0
+Maharashtra,2018-19,54,Net_Sown_Area,16815.0
+Maharashtra,2019-20,54,Net_Sown_Area,16722.0
+Maharashtra,2020-21,54,Net_Sown_Area,16650.0
+Maharashtra,2021-22,54,Net_Sown_Area,16590.0
+Maharashtra,2022-23,54,Net_Sown_Area,16491.0
+Maharashtra,2023-24,54,Net_Sown_Area,16571.0
+Manipur,2004-05,54,Net_Sown_Area,238.0
+Manipur,2005-06,54,Net_Sown_Area,225.0
+Manipur,2006-07,54,Net_Sown_Area,225.0
+Manipur,2007-08,54,Net_Sown_Area,235.0
+Manipur,2008-09,54,Net_Sown_Area,236.0
+Manipur,2009-10,54,Net_Sown_Area,234.0
+Manipur,2010-11,54,Net_Sown_Area,348.0
+Manipur,2011-12,54,Net_Sown_Area,365.0
+Manipur,2012-13,54,Net_Sown_Area,309.0
+Manipur,2013-14,54,Net_Sown_Area,377.0
+Manipur,2014-15,54,Net_Sown_Area,383.0
+Manipur,2015-16,54,Net_Sown_Area,437.0
+Manipur,2016-17,54,Net_Sown_Area,469.0
+Manipur,2017-18,54,Net_Sown_Area,446.0
+Manipur,2018-19,54,Net_Sown_Area,441.0
+Manipur,2019-20,54,Net_Sown_Area,331.0
+Manipur,2020-21,54,Net_Sown_Area,410.0
+Manipur,2021-22,54,Net_Sown_Area,393.0
+Manipur,2022-23,54,Net_Sown_Area,382.0
+Manipur,2023-24,54,Net_Sown_Area,215.0
+Meghalaya,2004-05,54,Net_Sown_Area,219.0
+Meghalaya,2005-06,54,Net_Sown_Area,212.0
+Meghalaya,2006-07,54,Net_Sown_Area,213.0
+Meghalaya,2007-08,54,Net_Sown_Area,235.0
+Meghalaya,2008-09,54,Net_Sown_Area,284.0
+Meghalaya,2009-10,54,Net_Sown_Area,283.0
+Meghalaya,2010-11,54,Net_Sown_Area,284.0
+Meghalaya,2011-12,54,Net_Sown_Area,285.0
+Meghalaya,2012-13,54,Net_Sown_Area,285.0
+Meghalaya,2013-14,54,Net_Sown_Area,286.0
+Meghalaya,2014-15,54,Net_Sown_Area,286.0
+Meghalaya,2015-16,54,Net_Sown_Area,245.0
+Meghalaya,2016-17,54,Net_Sown_Area,252.0
+Meghalaya,2017-18,54,Net_Sown_Area,253.0
+Meghalaya,2018-19,54,Net_Sown_Area,255.0
+Meghalaya,2019-20,54,Net_Sown_Area,255.0
+Meghalaya,2020-21,54,Net_Sown_Area,253.0
+Meghalaya,2021-22,54,Net_Sown_Area,269.0
+Meghalaya,2022-23,54,Net_Sown_Area,274.0
+Meghalaya,2023-24,54,Net_Sown_Area,274.0
+Mizoram,2004-05,54,Net_Sown_Area,97.0
+Mizoram,2005-06,54,Net_Sown_Area,98.0
+Mizoram,2006-07,54,Net_Sown_Area,91.0
+Mizoram,2007-08,54,Net_Sown_Area,96.0
+Mizoram,2008-09,54,Net_Sown_Area,95.0
+Mizoram,2009-10,54,Net_Sown_Area,123.0
+Mizoram,2010-11,54,Net_Sown_Area,121.0
+Mizoram,2011-12,54,Net_Sown_Area,97.0
+Mizoram,2012-13,54,Net_Sown_Area,116.0
+Mizoram,2013-14,54,Net_Sown_Area,114.0
+Mizoram,2014-15,54,Net_Sown_Area,145.0
+Mizoram,2022-23,54,Net_Sown_Area,145.0
+Mizoram,2023-24,54,Net_Sown_Area,198.0
+Nagaland,2004-05,54,Net_Sown_Area,309.0
+Nagaland,2005-06,54,Net_Sown_Area,309.0
+Nagaland,2006-07,54,Net_Sown_Area,322.0
+Nagaland,2007-08,54,Net_Sown_Area,316.0
+Nagaland,2008-09,54,Net_Sown_Area,316.0
+Nagaland,2009-10,54,Net_Sown_Area,361.0
+Nagaland,2010-11,54,Net_Sown_Area,362.0
+Nagaland,2011-12,54,Net_Sown_Area,379.0
+Nagaland,2012-13,54,Net_Sown_Area,380.0
+Nagaland,2013-14,54,Net_Sown_Area,380.0
+Nagaland,2014-15,54,Net_Sown_Area,384.0
+Nagaland,2015-16,54,Net_Sown_Area,384.0
+Nagaland,2016-17,54,Net_Sown_Area,385.0
+Nagaland,2017-18,54,Net_Sown_Area,385.0
+Nagaland,2018-19,54,Net_Sown_Area,384.0
+Nagaland,2019-20,54,Net_Sown_Area,384.0
+Nagaland,2020-21,54,Net_Sown_Area,386.0
+Nagaland,2021-22,54,Net_Sown_Area,265.0
+Nagaland,2022-23,54,Net_Sown_Area,361.0
+Nagaland,2023-24,54,Net_Sown_Area,366.0
+Odisha,2004-05,54,Net_Sown_Area,5739.0
+Odisha,2005-06,54,Net_Sown_Area,5691.0
+Odisha,2006-07,54,Net_Sown_Area,5654.0
+Odisha,2007-08,54,Net_Sown_Area,5624.0
+Odisha,2008-09,54,Net_Sown_Area,5604.0
+Odisha,2009-10,54,Net_Sown_Area,4761.0
+Odisha,2010-11,54,Net_Sown_Area,4682.0
+Odisha,2011-12,54,Net_Sown_Area,4394.0
+Odisha,2012-13,54,Net_Sown_Area,4386.0
+Odisha,2013-14,54,Net_Sown_Area,4495.0
+Odisha,2014-15,54,Net_Sown_Area,4474.0
+Odisha,2015-16,54,Net_Sown_Area,4198.0
+Odisha,2016-17,54,Net_Sown_Area,4099.0
+Odisha,2017-18,54,Net_Sown_Area,3863.0
+Odisha,2018-19,54,Net_Sown_Area,4006.0
+Odisha,2019-20,54,Net_Sown_Area,4102.0
+Odisha,2020-21,54,Net_Sown_Area,4179.0
+Odisha,2021-22,54,Net_Sown_Area,4322.0
+Odisha,2022-23,54,Net_Sown_Area,4269.0
+Odisha,2023-24,54,Net_Sown_Area,4307.0
+Puducherry,2004-05,54,Net_Sown_Area,21.0
+Puducherry,2005-06,54,Net_Sown_Area,21.0
+Puducherry,2006-07,54,Net_Sown_Area,20.0
+Puducherry,2007-08,54,Net_Sown_Area,20.0
+Puducherry,2008-09,54,Net_Sown_Area,19.0
+Puducherry,2009-10,54,Net_Sown_Area,19.0
+Puducherry,2010-11,54,Net_Sown_Area,19.0
+Puducherry,2011-12,54,Net_Sown_Area,18.0
+Puducherry,2012-13,54,Net_Sown_Area,16.0
+Puducherry,2013-14,54,Net_Sown_Area,15.0
+Puducherry,2014-15,54,Net_Sown_Area,16.0
+Puducherry,2015-16,54,Net_Sown_Area,15.0
+Puducherry,2016-17,54,Net_Sown_Area,15.0
+Puducherry,2017-18,54,Net_Sown_Area,15.0
+Puducherry,2018-19,54,Net_Sown_Area,15.0
+Puducherry,2019-20,54,Net_Sown_Area,15.0
+Puducherry,2020-21,54,Net_Sown_Area,15.0
+Puducherry,2021-22,54,Net_Sown_Area,16.0
+Puducherry,2022-23,54,Net_Sown_Area,16.0
+Puducherry,2023-24,54,Net_Sown_Area,16.0
+Punjab,2004-05,54,Net_Sown_Area,4200.0
+Punjab,2005-06,54,Net_Sown_Area,4192.0
+Punjab,2006-07,54,Net_Sown_Area,4184.0
+Punjab,2007-08,54,Net_Sown_Area,4187.0
+Punjab,2008-09,54,Net_Sown_Area,4169.0
+Punjab,2009-10,54,Net_Sown_Area,4158.0
+Punjab,2010-11,54,Net_Sown_Area,4158.0
+Punjab,2011-12,54,Net_Sown_Area,4134.0
+Punjab,2012-13,54,Net_Sown_Area,4150.0
+Punjab,2013-14,54,Net_Sown_Area,4145.0
+Punjab,2014-15,54,Net_Sown_Area,4119.0
+Punjab,2015-16,54,Net_Sown_Area,4137.0
+Punjab,2016-17,54,Net_Sown_Area,4130.0
+Punjab,2017-18,54,Net_Sown_Area,4124.0
+Punjab,2018-19,54,Net_Sown_Area,4119.0
+Punjab,2019-20,54,Net_Sown_Area,4127.0
+Punjab,2020-21,54,Net_Sown_Area,4126.0
+Punjab,2021-22,54,Net_Sown_Area,4113.0
+Punjab,2022-23,54,Net_Sown_Area,4110.0
+Punjab,2023-24,54,Net_Sown_Area,4109.0
+Rajasthan,2004-05,54,Net_Sown_Area,16549.0
+Rajasthan,2005-06,54,Net_Sown_Area,16836.0
+Rajasthan,2006-07,54,Net_Sown_Area,16764.0
+Rajasthan,2007-08,54,Net_Sown_Area,17096.0
+Rajasthan,2008-09,54,Net_Sown_Area,17551.0
+Rajasthan,2009-10,54,Net_Sown_Area,16974.0
+Rajasthan,2010-11,54,Net_Sown_Area,18349.0
+Rajasthan,2011-12,54,Net_Sown_Area,18034.0
+Rajasthan,2012-13,54,Net_Sown_Area,17479.0
+Rajasthan,2013-14,54,Net_Sown_Area,18268.0
+Rajasthan,2014-15,54,Net_Sown_Area,17521.0
+Rajasthan,2015-16,54,Net_Sown_Area,18024.0
+Rajasthan,2016-17,54,Net_Sown_Area,18169.0
+Rajasthan,2017-18,54,Net_Sown_Area,17903.0
+Rajasthan,2018-19,54,Net_Sown_Area,17778.0
+Rajasthan,2019-20,54,Net_Sown_Area,18032.0
+Rajasthan,2020-21,54,Net_Sown_Area,17948.0
+Rajasthan,2021-22,54,Net_Sown_Area,18130.0
+Rajasthan,2022-23,54,Net_Sown_Area,18423.0
+Rajasthan,2023-24,54,Net_Sown_Area,18198.0
+Sikkim,2004-05,54,Net_Sown_Area,78.0
+Sikkim,2005-06,54,Net_Sown_Area,78.0
+Sikkim,2006-07,54,Net_Sown_Area,77.0
+Sikkim,2007-08,54,Net_Sown_Area,77.0
+Sikkim,2008-09,54,Net_Sown_Area,77.0
+Sikkim,2009-10,54,Net_Sown_Area,77.0
+Sikkim,2010-11,54,Net_Sown_Area,77.0
+Sikkim,2011-12,54,Net_Sown_Area,77.0
+Sikkim,2012-13,54,Net_Sown_Area,77.0
+Sikkim,2013-14,54,Net_Sown_Area,77.0
+Sikkim,2014-15,54,Net_Sown_Area,77.0
+Sikkim,2015-16,54,Net_Sown_Area,77.0
+Sikkim,2016-17,54,Net_Sown_Area,77.0
+Sikkim,2017-18,54,Net_Sown_Area,77.0
+Sikkim,2018-19,54,Net_Sown_Area,77.0
+Sikkim,2019-20,54,Net_Sown_Area,77.0
+Sikkim,2020-21,54,Net_Sown_Area,77.0
+Sikkim,2021-22,54,Net_Sown_Area,77.0
+Sikkim,2022-23,54,Net_Sown_Area,83.0
+Sikkim,2023-24,54,Net_Sown_Area,83.0
+Tamil Nadu,2004-05,54,Net_Sown_Area,5097.0
+Tamil Nadu,2005-06,54,Net_Sown_Area,5244.0
+Tamil Nadu,2006-07,54,Net_Sown_Area,5126.0
+Tamil Nadu,2007-08,54,Net_Sown_Area,5062.0
+Tamil Nadu,2008-09,54,Net_Sown_Area,5043.0
+Tamil Nadu,2009-10,54,Net_Sown_Area,4892.0
+Tamil Nadu,2010-11,54,Net_Sown_Area,4954.0
+Tamil Nadu,2011-12,54,Net_Sown_Area,4986.0
+Tamil Nadu,2012-13,54,Net_Sown_Area,4544.0
+Tamil Nadu,2013-14,54,Net_Sown_Area,4714.0
+Tamil Nadu,2014-15,54,Net_Sown_Area,4819.0
+Tamil Nadu,2015-16,54,Net_Sown_Area,4833.0
+Tamil Nadu,2016-17,54,Net_Sown_Area,4347.0
+Tamil Nadu,2017-18,54,Net_Sown_Area,4639.0
+Tamil Nadu,2018-19,54,Net_Sown_Area,4582.0
+Tamil Nadu,2019-20,54,Net_Sown_Area,4738.0
+Tamil Nadu,2020-21,54,Net_Sown_Area,4833.0
+Tamil Nadu,2021-22,54,Net_Sown_Area,4909.0
+Tamil Nadu,2022-23,54,Net_Sown_Area,4838.0
+Tamil Nadu,2023-24,54,Net_Sown_Area,4756.0
+Tripura,2004-05,54,Net_Sown_Area,280.0
+Tripura,2005-06,54,Net_Sown_Area,280.0
+Tripura,2006-07,54,Net_Sown_Area,255.0
+Tripura,2007-08,54,Net_Sown_Area,255.0
+Tripura,2008-09,54,Net_Sown_Area,256.0
+Tripura,2009-10,54,Net_Sown_Area,256.0
+Tripura,2010-11,54,Net_Sown_Area,255.0
+Tripura,2011-12,54,Net_Sown_Area,255.0
+Tripura,2012-13,54,Net_Sown_Area,255.0
+Tripura,2013-14,54,Net_Sown_Area,255.0
+Tripura,2014-15,54,Net_Sown_Area,255.0
+Tripura,2015-16,54,Net_Sown_Area,255.0
+Tripura,2016-17,54,Net_Sown_Area,255.0
+Tripura,2017-18,54,Net_Sown_Area,255.0
+Tripura,2018-19,54,Net_Sown_Area,256.0
+Tripura,2019-20,54,Net_Sown_Area,255.0
+Tripura,2020-21,54,Net_Sown_Area,255.0
+Tripura,2021-22,54,Net_Sown_Area,255.0
+Tripura,2022-23,54,Net_Sown_Area,255.0
+Tripura,2023-24,54,Net_Sown_Area,255.0
+Uttar Pradesh,2004-05,54,Net_Sown_Area,16683.0
+Uttar Pradesh,2005-06,54,Net_Sown_Area,16633.0
+Uttar Pradesh,2006-07,54,Net_Sown_Area,16573.0
+Uttar Pradesh,2007-08,54,Net_Sown_Area,16417.0
+Uttar Pradesh,2008-09,54,Net_Sown_Area,16562.0
+Uttar Pradesh,2009-10,54,Net_Sown_Area,16589.0
+Uttar Pradesh,2010-11,54,Net_Sown_Area,16593.0
+Uttar Pradesh,2011-12,54,Net_Sown_Area,16623.0
+Uttar Pradesh,2012-13,54,Net_Sown_Area,16564.0
+Uttar Pradesh,2013-14,54,Net_Sown_Area,16546.0
+Uttar Pradesh,2014-15,54,Net_Sown_Area,16598.0
+Uttar Pradesh,2015-16,54,Net_Sown_Area,16469.0
+Uttar Pradesh,2016-17,54,Net_Sown_Area,16564.0
+Uttar Pradesh,2017-18,54,Net_Sown_Area,16542.0
+Uttar Pradesh,2018-19,54,Net_Sown_Area,16538.0
+Uttar Pradesh,2019-20,54,Net_Sown_Area,16368.0
+Uttar Pradesh,2020-21,54,Net_Sown_Area,16368.0
+Uttar Pradesh,2021-22,54,Net_Sown_Area,16096.0
+Uttar Pradesh,2022-23,54,Net_Sown_Area,16121.0
+Uttar Pradesh,2023-24,54,Net_Sown_Area,16365.0
+Uttarakhand,2004-05,54,Net_Sown_Area,767.0
+Uttarakhand,2005-06,54,Net_Sown_Area,768.0
+Uttarakhand,2006-07,54,Net_Sown_Area,765.0
+Uttarakhand,2007-08,54,Net_Sown_Area,755.0
+Uttarakhand,2008-09,54,Net_Sown_Area,754.0
+Uttarakhand,2009-10,54,Net_Sown_Area,737.0
+Uttarakhand,2010-11,54,Net_Sown_Area,723.0
+Uttarakhand,2011-12,54,Net_Sown_Area,714.0
+Uttarakhand,2012-13,54,Net_Sown_Area,706.0
+Uttarakhand,2013-14,54,Net_Sown_Area,701.0
+Uttarakhand,2014-15,54,Net_Sown_Area,700.0
+Uttarakhand,2015-16,54,Net_Sown_Area,698.0
+Uttarakhand,2016-17,54,Net_Sown_Area,691.0
+Uttarakhand,2017-18,54,Net_Sown_Area,673.0
+Uttarakhand,2018-19,54,Net_Sown_Area,648.0
+Uttarakhand,2019-20,54,Net_Sown_Area,638.0
+Uttarakhand,2020-21,54,Net_Sown_Area,621.0
+Uttarakhand,2021-22,54,Net_Sown_Area,594.0
+Uttarakhand,2022-23,54,Net_Sown_Area,568.0
+Uttarakhand,2023-24,54,Net_Sown_Area,551.0
+West Bengal,2004-05,54,Net_Sown_Area,5374.0
+West Bengal,2005-06,54,Net_Sown_Area,5295.0
+West Bengal,2006-07,54,Net_Sown_Area,5296.0
+West Bengal,2007-08,54,Net_Sown_Area,5296.0
+West Bengal,2008-09,54,Net_Sown_Area,5294.0
+West Bengal,2009-10,54,Net_Sown_Area,5256.0
+West Bengal,2010-11,54,Net_Sown_Area,4981.0
+West Bengal,2011-12,54,Net_Sown_Area,5198.0
+West Bengal,2012-13,54,Net_Sown_Area,5205.0
+West Bengal,2013-14,54,Net_Sown_Area,5234.0
+West Bengal,2014-15,54,Net_Sown_Area,5238.0
+West Bengal,2015-16,54,Net_Sown_Area,5243.0
+West Bengal,2016-17,54,Net_Sown_Area,5246.0
+West Bengal,2017-18,54,Net_Sown_Area,5247.0
+West Bengal,2018-19,54,Net_Sown_Area,5248.0
+West Bengal,2019-20,54,Net_Sown_Area,5250.0
+West Bengal,2020-21,54,Net_Sown_Area,5282.0
+West Bengal,2021-22,54,Net_Sown_Area,5281.0
+West Bengal,2022-23,54,Net_Sown_Area,5216.0
+West Bengal,2023-24,54,Net_Sown_Area,5245.0
+Telangana,2013-14,54,Net_Sown_Area,4961.0
+Telangana,2014-15,54,Net_Sown_Area,4377.0
+Telangana,2015-16,54,Net_Sown_Area,4175.0
+Telangana,2016-17,54,Net_Sown_Area,4774.0
+Telangana,2017-18,54,Net_Sown_Area,4898.0
+Telangana,2018-19,54,Net_Sown_Area,4660.0
+Telangana,2019-20,54,Net_Sown_Area,5500.0
+Telangana,2020-21,54,Net_Sown_Area,5927.0
+Telangana,2021-22,54,Net_Sown_Area,5625.0
+Telangana,2022-23,54,Net_Sown_Area,5897.0
+Telangana,2023-24,54,Net_Sown_Area,5564.0

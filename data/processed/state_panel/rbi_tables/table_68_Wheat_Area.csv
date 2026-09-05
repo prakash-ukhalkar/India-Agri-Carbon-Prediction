@@ -1,0 +1,533 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,68,Wheat_Area,9.0
+Andhra Pradesh,2005-06,68,Wheat_Area,11.0
+Andhra Pradesh,2006-07,68,Wheat_Area,10.0
+Andhra Pradesh,2007-08,68,Wheat_Area,9.0
+Andhra Pradesh,2008-09,68,Wheat_Area,14.0
+Andhra Pradesh,2009-10,68,Wheat_Area,10.0
+Andhra Pradesh,2010-11,68,Wheat_Area,1.0
+Andhra Pradesh,2012-13,68,Wheat_Area,8.0
+Andhra Pradesh,2013-14,68,Wheat_Area,8.0
+Andhra Pradesh,2016-17,68,Wheat_Area,0.0
+Andhra Pradesh,2017-18,68,Wheat_Area,0.0
+Andhra Pradesh,2018-19,68,Wheat_Area,0.0
+Andhra Pradesh,2019-20,68,Wheat_Area,0.0
+Andhra Pradesh,2020-21,68,Wheat_Area,0.0
+Andhra Pradesh,2021-22,68,Wheat_Area,0.0
+Arunachal Pradesh,2004-05,68,Wheat_Area,4.3
+Arunachal Pradesh,2005-06,68,Wheat_Area,4.0
+Arunachal Pradesh,2006-07,68,Wheat_Area,4.0
+Arunachal Pradesh,2007-08,68,Wheat_Area,3.6
+Arunachal Pradesh,2008-09,68,Wheat_Area,3.3
+Arunachal Pradesh,2009-10,68,Wheat_Area,3.2
+Arunachal Pradesh,2010-11,68,Wheat_Area,3.7
+Arunachal Pradesh,2011-12,68,Wheat_Area,3.7
+Arunachal Pradesh,2012-13,68,Wheat_Area,2.9
+Arunachal Pradesh,2013-14,68,Wheat_Area,3.0
+Arunachal Pradesh,2014-15,68,Wheat_Area,3.8
+Arunachal Pradesh,2015-16,68,Wheat_Area,3.9
+Arunachal Pradesh,2016-17,68,Wheat_Area,3.9
+Arunachal Pradesh,2017-18,68,Wheat_Area,3.9
+Arunachal Pradesh,2018-19,68,Wheat_Area,3.9
+Arunachal Pradesh,2019-20,68,Wheat_Area,3.4
+Arunachal Pradesh,2020-21,68,Wheat_Area,3.9
+Arunachal Pradesh,2021-22,68,Wheat_Area,4.0
+Arunachal Pradesh,2022-23,68,Wheat_Area,4.0
+Arunachal Pradesh,2023-24,68,Wheat_Area,3.5
+Arunachal Pradesh,2024-25,68,Wheat_Area,3.0
+Assam,2004-05,68,Wheat_Area,63.9
+Assam,2005-06,68,Wheat_Area,50.0
+Assam,2006-07,68,Wheat_Area,60.0
+Assam,2007-08,68,Wheat_Area,56.0
+Assam,2008-09,68,Wheat_Area,50.1
+Assam,2009-10,68,Wheat_Area,58.4
+Assam,2010-11,68,Wheat_Area,44.8
+Assam,2011-12,68,Wheat_Area,52.6
+Assam,2012-13,68,Wheat_Area,33.9
+Assam,2013-14,68,Wheat_Area,31.3
+Assam,2014-15,68,Wheat_Area,23.7
+Assam,2015-16,68,Wheat_Area,21.0
+Assam,2016-17,68,Wheat_Area,17.5
+Assam,2017-18,68,Wheat_Area,17.8
+Assam,2018-19,68,Wheat_Area,17.0
+Assam,2019-20,68,Wheat_Area,11.3
+Assam,2020-21,68,Wheat_Area,9.3
+Assam,2021-22,68,Wheat_Area,9.1
+Assam,2022-23,68,Wheat_Area,9.0
+Assam,2023-24,68,Wheat_Area,9.4
+Assam,2024-25,68,Wheat_Area,8.9
+Bihar,2004-05,68,Wheat_Area,2027.6
+Bihar,2005-06,68,Wheat_Area,2003.7
+Bihar,2006-07,68,Wheat_Area,2049.7
+Bihar,2007-08,68,Wheat_Area,2162.5
+Bihar,2008-09,68,Wheat_Area,2158.3
+Bihar,2009-10,68,Wheat_Area,2193.3
+Bihar,2010-11,68,Wheat_Area,2103.5
+Bihar,2011-12,68,Wheat_Area,2141.9
+Bihar,2012-13,68,Wheat_Area,2207.7
+Bihar,2013-14,68,Wheat_Area,2009.0
+Bihar,2014-15,68,Wheat_Area,2154.4
+Bihar,2015-16,68,Wheat_Area,2110.8
+Bihar,2016-17,68,Wheat_Area,2105.8
+Bihar,2017-18,68,Wheat_Area,2101.3
+Bihar,2018-19,68,Wheat_Area,2156.7
+Bihar,2019-20,68,Wheat_Area,2150.2
+Bihar,2020-21,68,Wheat_Area,2222.5
+Bihar,2021-22,68,Wheat_Area,2238.8
+Bihar,2022-23,68,Wheat_Area,2199.5
+Bihar,2023-24,68,Wheat_Area,2275.6
+Bihar,2024-25,68,Wheat_Area,2286.2
+Chhattisgarh,2004-05,68,Wheat_Area,96.6
+Chhattisgarh,2005-06,68,Wheat_Area,102.4
+Chhattisgarh,2006-07,68,Wheat_Area,91.5
+Chhattisgarh,2007-08,68,Wheat_Area,93.3
+Chhattisgarh,2008-09,68,Wheat_Area,88.9
+Chhattisgarh,2009-10,68,Wheat_Area,112.2
+Chhattisgarh,2010-11,68,Wheat_Area,110.8
+Chhattisgarh,2011-12,68,Wheat_Area,108.5
+Chhattisgarh,2012-13,68,Wheat_Area,101.2
+Chhattisgarh,2013-14,68,Wheat_Area,102.8
+Chhattisgarh,2014-15,68,Wheat_Area,97.5
+Chhattisgarh,2015-16,68,Wheat_Area,108.2
+Chhattisgarh,2016-17,68,Wheat_Area,114.7
+Chhattisgarh,2017-18,68,Wheat_Area,101.4
+Chhattisgarh,2018-19,68,Wheat_Area,105.1
+Chhattisgarh,2019-20,68,Wheat_Area,109.8
+Chhattisgarh,2020-21,68,Wheat_Area,160.1
+Chhattisgarh,2021-22,68,Wheat_Area,156.1
+Chhattisgarh,2022-23,68,Wheat_Area,132.9
+Chhattisgarh,2023-24,68,Wheat_Area,134.2
+Chhattisgarh,2024-25,68,Wheat_Area,146.9
+Delhi,2004-05,68,Wheat_Area,18.0
+Delhi,2005-06,68,Wheat_Area,18.3
+Delhi,2006-07,68,Wheat_Area,17.9
+Delhi,2007-08,68,Wheat_Area,17.5
+Delhi,2008-09,68,Wheat_Area,17.1
+Delhi,2009-10,68,Wheat_Area,21.3
+Delhi,2010-11,68,Wheat_Area,25.6
+Delhi,2011-12,68,Wheat_Area,19.5
+Delhi,2012-13,68,Wheat_Area,14.8
+Delhi,2013-14,68,Wheat_Area,19.2
+Delhi,2014-15,68,Wheat_Area,19.4
+Delhi,2015-16,68,Wheat_Area,19.4
+Delhi,2016-17,68,Wheat_Area,19.7
+Delhi,2017-18,68,Wheat_Area,19.4
+Delhi,2018-19,68,Wheat_Area,19.2
+Delhi,2019-20,68,Wheat_Area,19.2
+Delhi,2020-21,68,Wheat_Area,19.2
+Delhi,2021-22,68,Wheat_Area,18.1
+Delhi,2022-23,68,Wheat_Area,17.4
+Delhi,2023-24,68,Wheat_Area,17.3
+Delhi,2024-25,68,Wheat_Area,17.2
+Gujarat,2004-05,68,Wheat_Area,727.4
+Gujarat,2005-06,68,Wheat_Area,916.0
+Gujarat,2006-07,68,Wheat_Area,1201.0
+Gujarat,2007-08,68,Wheat_Area,1274.0
+Gujarat,2008-09,68,Wheat_Area,1091.0
+Gujarat,2009-10,68,Wheat_Area,878.0
+Gujarat,2010-11,68,Wheat_Area,1274.0
+Gujarat,2011-12,68,Wheat_Area,1351.0
+Gujarat,2012-13,68,Wheat_Area,1024.0
+Gujarat,2013-14,68,Wheat_Area,1442.0
+Gujarat,2014-15,68,Wheat_Area,1112.0
+Gujarat,2015-16,68,Wheat_Area,851.0
+Gujarat,2016-17,68,Wheat_Area,995.0
+Gujarat,2017-18,68,Wheat_Area,1059.0
+Gujarat,2018-19,68,Wheat_Area,797.2
+Gujarat,2019-20,68,Wheat_Area,1018.0
+Gujarat,2020-21,68,Wheat_Area,1017.0
+Gujarat,2021-22,68,Wheat_Area,1040.0
+Gujarat,2022-23,68,Wheat_Area,1066.6
+Gujarat,2023-24,68,Wheat_Area,1246.4
+Gujarat,2024-25,68,Wheat_Area,1281.6
+Haryana,2004-05,68,Wheat_Area,2322.0
+Haryana,2005-06,68,Wheat_Area,2304.0
+Haryana,2006-07,68,Wheat_Area,2376.0
+Haryana,2007-08,68,Wheat_Area,2462.0
+Haryana,2008-09,68,Wheat_Area,2462.0
+Haryana,2009-10,68,Wheat_Area,2492.0
+Haryana,2010-11,68,Wheat_Area,2515.0
+Haryana,2011-12,68,Wheat_Area,2522.0
+Haryana,2012-13,68,Wheat_Area,2497.0
+Haryana,2013-14,68,Wheat_Area,2499.0
+Haryana,2014-15,68,Wheat_Area,2601.0
+Haryana,2015-16,68,Wheat_Area,2576.0
+Haryana,2016-17,68,Wheat_Area,2558.0
+Haryana,2017-18,68,Wheat_Area,2440.0
+Haryana,2018-19,68,Wheat_Area,2553.1
+Haryana,2019-20,68,Wheat_Area,2533.9
+Haryana,2020-21,68,Wheat_Area,2564.0
+Haryana,2021-22,68,Wheat_Area,2304.7
+Haryana,2022-23,68,Wheat_Area,2323.3
+Haryana,2023-24,68,Wheat_Area,2369.5
+Haryana,2024-25,68,Wheat_Area,2388.1
+Himachal Pradesh,2004-05,68,Wheat_Area,362.0
+Himachal Pradesh,2005-06,68,Wheat_Area,358.5
+Himachal Pradesh,2006-07,68,Wheat_Area,362.2
+Himachal Pradesh,2007-08,68,Wheat_Area,366.6
+Himachal Pradesh,2008-09,68,Wheat_Area,360.0
+Himachal Pradesh,2009-10,68,Wheat_Area,352.5
+Himachal Pradesh,2010-11,68,Wheat_Area,357.2
+Himachal Pradesh,2011-12,68,Wheat_Area,356.6
+Himachal Pradesh,2012-13,68,Wheat_Area,364.2
+Himachal Pradesh,2013-14,68,Wheat_Area,358.1
+Himachal Pradesh,2014-15,68,Wheat_Area,330.4
+Himachal Pradesh,2015-16,68,Wheat_Area,341.0
+Himachal Pradesh,2016-17,68,Wheat_Area,346.4
+Himachal Pradesh,2017-18,68,Wheat_Area,318.9
+Himachal Pradesh,2018-19,68,Wheat_Area,319.0
+Himachal Pradesh,2019-20,68,Wheat_Area,286.0
+Himachal Pradesh,2020-21,68,Wheat_Area,333.2
+Himachal Pradesh,2021-22,68,Wheat_Area,320.2
+Himachal Pradesh,2022-23,68,Wheat_Area,319.5
+Himachal Pradesh,2023-24,68,Wheat_Area,316.8
+Himachal Pradesh,2024-25,68,Wheat_Area,307.2
+Jammu & Kashmir,2004-05,68,Wheat_Area,248.4
+Jammu & Kashmir,2005-06,68,Wheat_Area,248.0
+Jammu & Kashmir,2006-07,68,Wheat_Area,260.0
+Jammu & Kashmir,2007-08,68,Wheat_Area,278.3
+Jammu & Kashmir,2008-09,68,Wheat_Area,278.7
+Jammu & Kashmir,2009-10,68,Wheat_Area,288.9
+Jammu & Kashmir,2010-11,68,Wheat_Area,290.7
+Jammu & Kashmir,2011-12,68,Wheat_Area,296.2
+Jammu & Kashmir,2012-13,68,Wheat_Area,290.0
+Jammu & Kashmir,2013-14,68,Wheat_Area,292.1
+Jammu & Kashmir,2014-15,68,Wheat_Area,321.0
+Jammu & Kashmir,2015-16,68,Wheat_Area,278.1
+Jammu & Kashmir,2016-17,68,Wheat_Area,290.3
+Jammu & Kashmir,2017-18,68,Wheat_Area,299.4
+Jammu & Kashmir,2018-19,68,Wheat_Area,288.4
+Jammu & Kashmir,2019-20,68,Wheat_Area,243.9
+Jammu & Kashmir,2020-21,68,Wheat_Area,243.8
+Jammu & Kashmir,2021-22,68,Wheat_Area,282.8
+Jammu & Kashmir,2022-23,68,Wheat_Area,284.5
+Jammu & Kashmir,2023-24,68,Wheat_Area,284.5
+Jammu & Kashmir,2024-25,68,Wheat_Area,284.5
+Jharkhand,2004-05,68,Wheat_Area,63.0
+Jharkhand,2005-06,68,Wheat_Area,58.0
+Jharkhand,2006-07,68,Wheat_Area,84.3
+Jharkhand,2007-08,68,Wheat_Area,86.3
+Jharkhand,2008-09,68,Wheat_Area,99.9
+Jharkhand,2009-10,68,Wheat_Area,99.7
+Jharkhand,2010-11,68,Wheat_Area,96.4
+Jharkhand,2011-12,68,Wheat_Area,158.6
+Jharkhand,2012-13,68,Wheat_Area,164.3
+Jharkhand,2013-14,68,Wheat_Area,174.5
+Jharkhand,2014-15,68,Wheat_Area,171.1
+Jharkhand,2015-16,68,Wheat_Area,156.6
+Jharkhand,2016-17,68,Wheat_Area,211.5
+Jharkhand,2017-18,68,Wheat_Area,221.0
+Jharkhand,2018-19,68,Wheat_Area,163.9
+Jharkhand,2019-20,68,Wheat_Area,214.8
+Jharkhand,2020-21,68,Wheat_Area,232.8
+Jharkhand,2021-22,68,Wheat_Area,227.6
+Jharkhand,2022-23,68,Wheat_Area,204.4
+Jharkhand,2023-24,68,Wheat_Area,228.0
+Jharkhand,2024-25,68,Wheat_Area,249.8
+Karnataka,2004-05,68,Wheat_Area,242.0
+Karnataka,2005-06,68,Wheat_Area,253.0
+Karnataka,2006-07,68,Wheat_Area,269.0
+Karnataka,2007-08,68,Wheat_Area,276.0
+Karnataka,2008-09,68,Wheat_Area,269.0
+Karnataka,2009-10,68,Wheat_Area,283.0
+Karnataka,2010-11,68,Wheat_Area,255.0
+Karnataka,2011-12,68,Wheat_Area,225.0
+Karnataka,2012-13,68,Wheat_Area,225.0
+Karnataka,2013-14,68,Wheat_Area,209.0
+Karnataka,2014-15,68,Wheat_Area,198.0
+Karnataka,2015-16,68,Wheat_Area,174.0
+Karnataka,2016-17,68,Wheat_Area,168.0
+Karnataka,2017-18,68,Wheat_Area,193.0
+Karnataka,2018-19,68,Wheat_Area,150.1
+Karnataka,2019-20,68,Wheat_Area,150.0
+Karnataka,2020-21,68,Wheat_Area,203.0
+Karnataka,2021-22,68,Wheat_Area,165.0
+Karnataka,2022-23,68,Wheat_Area,146.0
+Karnataka,2023-24,68,Wheat_Area,145.0
+Karnataka,2024-25,68,Wheat_Area,163.0
+Madhya Pradesh,2004-05,68,Wheat_Area,4136.2
+Madhya Pradesh,2005-06,68,Wheat_Area,3692.8
+Madhya Pradesh,2006-07,68,Wheat_Area,3992.8
+Madhya Pradesh,2007-08,68,Wheat_Area,3742.3
+Madhya Pradesh,2008-09,68,Wheat_Area,3785.2
+Madhya Pradesh,2009-10,68,Wheat_Area,4275.9
+Madhya Pradesh,2010-11,68,Wheat_Area,4341.0
+Madhya Pradesh,2011-12,68,Wheat_Area,4889.2
+Madhya Pradesh,2012-13,68,Wheat_Area,5300.0
+Madhya Pradesh,2013-14,68,Wheat_Area,5380.0
+Madhya Pradesh,2014-15,68,Wheat_Area,6002.0
+Madhya Pradesh,2015-16,68,Wheat_Area,5911.0
+Madhya Pradesh,2016-17,68,Wheat_Area,6028.0
+Madhya Pradesh,2017-18,68,Wheat_Area,5316.0
+Madhya Pradesh,2018-19,68,Wheat_Area,5520.0
+Madhya Pradesh,2019-20,68,Wheat_Area,6551.0
+Madhya Pradesh,2020-21,68,Wheat_Area,6083.0
+Madhya Pradesh,2021-22,68,Wheat_Area,6500.0
+Madhya Pradesh,2022-23,68,Wheat_Area,7150.0
+Madhya Pradesh,2023-24,68,Wheat_Area,7497.0
+Madhya Pradesh,2024-25,68,Wheat_Area,7748.7
+Maharashtra,2004-05,68,Wheat_Area,756.0
+Maharashtra,2005-06,68,Wheat_Area,933.0
+Maharashtra,2006-07,68,Wheat_Area,1231.0
+Maharashtra,2007-08,68,Wheat_Area,1253.0
+Maharashtra,2008-09,68,Wheat_Area,1022.0
+Maharashtra,2009-10,68,Wheat_Area,1081.0
+Maharashtra,2010-11,68,Wheat_Area,1307.0
+Maharashtra,2011-12,68,Wheat_Area,843.0
+Maharashtra,2012-13,68,Wheat_Area,773.0
+Maharashtra,2013-14,68,Wheat_Area,1097.0
+Maharashtra,2014-15,68,Wheat_Area,1067.0
+Maharashtra,2015-16,68,Wheat_Area,911.0
+Maharashtra,2016-17,68,Wheat_Area,1272.1
+Maharashtra,2017-18,68,Wheat_Area,1024.0
+Maharashtra,2018-19,68,Wheat_Area,834.4
+Maharashtra,2019-20,68,Wheat_Area,1057.0
+Maharashtra,2020-21,68,Wheat_Area,1126.2
+Maharashtra,2021-22,68,Wheat_Area,1132.3
+Maharashtra,2022-23,68,Wheat_Area,1218.8
+Maharashtra,2023-24,68,Wheat_Area,1046.9
+Maharashtra,2024-25,68,Wheat_Area,1188.9
+Manipur,2011-12,68,Wheat_Area,2.2
+Manipur,2012-13,68,Wheat_Area,2.4
+Manipur,2013-14,68,Wheat_Area,2.3
+Manipur,2014-15,68,Wheat_Area,2.2
+Manipur,2015-16,68,Wheat_Area,2.3
+Manipur,2016-17,68,Wheat_Area,2.3
+Manipur,2017-18,68,Wheat_Area,2.3
+Manipur,2018-19,68,Wheat_Area,2.3
+Manipur,2019-20,68,Wheat_Area,2.3
+Manipur,2020-21,68,Wheat_Area,2.3
+Manipur,2021-22,68,Wheat_Area,2.3
+Manipur,2022-23,68,Wheat_Area,2.4
+Manipur,2023-24,68,Wheat_Area,2.3
+Manipur,2024-25,68,Wheat_Area,2.1
+Meghalaya,2004-05,68,Wheat_Area,0.9
+Meghalaya,2005-06,68,Wheat_Area,0.7
+Meghalaya,2006-07,68,Wheat_Area,0.6
+Meghalaya,2007-08,68,Wheat_Area,0.6
+Meghalaya,2008-09,68,Wheat_Area,0.4
+Meghalaya,2009-10,68,Wheat_Area,0.4
+Meghalaya,2010-11,68,Wheat_Area,0.4
+Meghalaya,2011-12,68,Wheat_Area,0.4
+Meghalaya,2012-13,68,Wheat_Area,0.4
+Meghalaya,2013-14,68,Wheat_Area,0.4
+Meghalaya,2014-15,68,Wheat_Area,0.4
+Meghalaya,2015-16,68,Wheat_Area,0.4
+Meghalaya,2016-17,68,Wheat_Area,0.5
+Meghalaya,2017-18,68,Wheat_Area,0.5
+Meghalaya,2018-19,68,Wheat_Area,0.5
+Meghalaya,2019-20,68,Wheat_Area,0.5
+Meghalaya,2020-21,68,Wheat_Area,0.5
+Meghalaya,2021-22,68,Wheat_Area,0.5
+Meghalaya,2022-23,68,Wheat_Area,0.3
+Meghalaya,2023-24,68,Wheat_Area,0.3
+Meghalaya,2024-25,68,Wheat_Area,0.3
+Nagaland,2004-05,68,Wheat_Area,8.2
+Nagaland,2005-06,68,Wheat_Area,1.2
+Nagaland,2006-07,68,Wheat_Area,1.5
+Nagaland,2007-08,68,Wheat_Area,1.5
+Nagaland,2008-09,68,Wheat_Area,1.4
+Nagaland,2009-10,68,Wheat_Area,2.0
+Nagaland,2010-11,68,Wheat_Area,3.1
+Nagaland,2011-12,68,Wheat_Area,3.2
+Nagaland,2012-13,68,Wheat_Area,3.3
+Nagaland,2013-14,68,Wheat_Area,3.0
+Nagaland,2014-15,68,Wheat_Area,3.1
+Nagaland,2015-16,68,Wheat_Area,3.3
+Nagaland,2016-17,68,Wheat_Area,3.4
+Nagaland,2017-18,68,Wheat_Area,3.4
+Nagaland,2018-19,68,Wheat_Area,3.4
+Nagaland,2019-20,68,Wheat_Area,3.4
+Nagaland,2020-21,68,Wheat_Area,3.4
+Nagaland,2021-22,68,Wheat_Area,1.4
+Nagaland,2022-23,68,Wheat_Area,1.4
+Nagaland,2023-24,68,Wheat_Area,1.4
+Nagaland,2024-25,68,Wheat_Area,1.1
+Odisha,2004-05,68,Wheat_Area,4.0
+Odisha,2005-06,68,Wheat_Area,3.3
+Odisha,2006-07,68,Wheat_Area,3.9
+Odisha,2007-08,68,Wheat_Area,5.6
+Odisha,2008-09,68,Wheat_Area,5.3
+Odisha,2009-10,68,Wheat_Area,4.0
+Odisha,2010-11,68,Wheat_Area,2.9
+Odisha,2011-12,68,Wheat_Area,1.5
+Odisha,2012-13,68,Wheat_Area,1.0
+Odisha,2013-14,68,Wheat_Area,0.7
+Odisha,2014-15,68,Wheat_Area,0.4
+Odisha,2015-16,68,Wheat_Area,0.4
+Odisha,2016-17,68,Wheat_Area,0.1
+Odisha,2017-18,68,Wheat_Area,0.1
+Odisha,2018-19,68,Wheat_Area,0.2
+Odisha,2019-20,68,Wheat_Area,0.1
+Odisha,2020-21,68,Wheat_Area,0.2
+Odisha,2021-22,68,Wheat_Area,0.2
+Odisha,2022-23,68,Wheat_Area,0.2
+Odisha,2023-24,68,Wheat_Area,0.3
+Odisha,2024-25,68,Wheat_Area,0.3
+Punjab,2004-05,68,Wheat_Area,3482.0
+Punjab,2005-06,68,Wheat_Area,3468.0
+Punjab,2006-07,68,Wheat_Area,3467.0
+Punjab,2007-08,68,Wheat_Area,3488.0
+Punjab,2008-09,68,Wheat_Area,3526.0
+Punjab,2009-10,68,Wheat_Area,3522.0
+Punjab,2010-11,68,Wheat_Area,3510.0
+Punjab,2011-12,68,Wheat_Area,3528.0
+Punjab,2012-13,68,Wheat_Area,3512.0
+Punjab,2013-14,68,Wheat_Area,3512.0
+Punjab,2014-15,68,Wheat_Area,3505.0
+Punjab,2015-16,68,Wheat_Area,3508.0
+Punjab,2016-17,68,Wheat_Area,3495.0
+Punjab,2017-18,68,Wheat_Area,3512.0
+Punjab,2018-19,68,Wheat_Area,3520.0
+Punjab,2019-20,68,Wheat_Area,3521.0
+Punjab,2020-21,68,Wheat_Area,3530.4
+Punjab,2021-22,68,Wheat_Area,3525.0
+Punjab,2022-23,68,Wheat_Area,3534.7
+Punjab,2023-24,68,Wheat_Area,3515.8
+Punjab,2024-25,68,Wheat_Area,3512.0
+Rajasthan,2004-05,68,Wheat_Area,2010.1
+Rajasthan,2005-06,68,Wheat_Area,2123.9
+Rajasthan,2006-07,68,Wheat_Area,2564.8
+Rajasthan,2007-08,68,Wheat_Area,2591.8
+Rajasthan,2008-09,68,Wheat_Area,2294.8
+Rajasthan,2009-10,68,Wheat_Area,2394.2
+Rajasthan,2010-11,68,Wheat_Area,2479.2
+Rajasthan,2011-12,68,Wheat_Area,2935.3
+Rajasthan,2012-13,68,Wheat_Area,3063.2
+Rajasthan,2013-14,68,Wheat_Area,2810.0
+Rajasthan,2014-15,68,Wheat_Area,3318.2
+Rajasthan,2015-16,68,Wheat_Area,3109.0
+Rajasthan,2016-17,68,Wheat_Area,2830.0
+Rajasthan,2017-18,68,Wheat_Area,2810.0
+Rajasthan,2018-19,68,Wheat_Area,2880.0
+Rajasthan,2019-20,68,Wheat_Area,3118.0
+Rajasthan,2020-21,68,Wheat_Area,3002.0
+Rajasthan,2021-22,68,Wheat_Area,2580.0
+Rajasthan,2022-23,68,Wheat_Area,2793.9
+Rajasthan,2023-24,68,Wheat_Area,2740.0
+Rajasthan,2024-25,68,Wheat_Area,3167.9
+Sikkim,2004-05,68,Wheat_Area,5.7
+Sikkim,2005-06,68,Wheat_Area,6.5
+Sikkim,2006-07,68,Wheat_Area,6.5
+Sikkim,2007-08,68,Wheat_Area,4.5
+Sikkim,2008-09,68,Wheat_Area,5.8
+Sikkim,2009-10,68,Wheat_Area,5.2
+Sikkim,2010-11,68,Wheat_Area,2.7
+Sikkim,2011-12,68,Wheat_Area,2.5
+Sikkim,2012-13,68,Wheat_Area,0.5
+Sikkim,2013-14,68,Wheat_Area,0.4
+Sikkim,2014-15,68,Wheat_Area,0.4
+Sikkim,2015-16,68,Wheat_Area,0.3
+Sikkim,2016-17,68,Wheat_Area,0.3
+Sikkim,2017-18,68,Wheat_Area,0.2
+Sikkim,2018-19,68,Wheat_Area,0.2
+Sikkim,2019-20,68,Wheat_Area,0.2
+Sikkim,2020-21,68,Wheat_Area,0.1
+Sikkim,2021-22,68,Wheat_Area,0.1
+Sikkim,2022-23,68,Wheat_Area,0.1
+Sikkim,2023-24,68,Wheat_Area,0.1
+Sikkim,2024-25,68,Wheat_Area,0.1
+Tamil Nadu,2010-11,68,Wheat_Area,0.1
+Telangana,2010-11,68,Wheat_Area,9.0
+Telangana,2011-12,68,Wheat_Area,8.0
+Telangana,2012-13,68,Wheat_Area,0.0
+Telangana,2013-14,68,Wheat_Area,0.0
+Telangana,2014-15,68,Wheat_Area,6.0
+Telangana,2015-16,68,Wheat_Area,5.0
+Telangana,2016-17,68,Wheat_Area,5.0
+Telangana,2017-18,68,Wheat_Area,4.0
+Telangana,2018-19,68,Wheat_Area,5.0
+Telangana,2019-20,68,Wheat_Area,5.0
+Telangana,2020-21,68,Wheat_Area,6.0
+Telangana,2021-22,68,Wheat_Area,7.0
+Telangana,2022-23,68,Wheat_Area,3.0
+Telangana,2023-24,68,Wheat_Area,4.0
+Telangana,2024-25,68,Wheat_Area,2.5
+Tripura,2004-05,68,Wheat_Area,1.1
+Tripura,2005-06,68,Wheat_Area,1.1
+Tripura,2006-07,68,Wheat_Area,1.0
+Tripura,2007-08,68,Wheat_Area,1.0
+Tripura,2008-09,68,Wheat_Area,0.6
+Tripura,2009-10,68,Wheat_Area,0.7
+Tripura,2010-11,68,Wheat_Area,0.3
+Tripura,2011-12,68,Wheat_Area,0.3
+Tripura,2012-13,68,Wheat_Area,0.7
+Tripura,2013-14,68,Wheat_Area,0.2
+Tripura,2014-15,68,Wheat_Area,0.1
+Tripura,2015-16,68,Wheat_Area,0.2
+Tripura,2016-17,68,Wheat_Area,0.2
+Tripura,2017-18,68,Wheat_Area,0.2
+Tripura,2018-19,68,Wheat_Area,0.2
+Tripura,2019-20,68,Wheat_Area,0.2
+Tripura,2020-21,68,Wheat_Area,0.0
+Tripura,2021-22,68,Wheat_Area,0.0
+Tripura,2022-23,68,Wheat_Area,0.0
+Tripura,2023-24,68,Wheat_Area,0.0
+Tripura,2024-25,68,Wheat_Area,0.2
+Uttar Pradesh,2004-05,68,Wheat_Area,8999.8
+Uttar Pradesh,2005-06,68,Wheat_Area,9163.9
+Uttar Pradesh,2006-07,68,Wheat_Area,9197.6
+Uttar Pradesh,2007-08,68,Wheat_Area,9115.0
+Uttar Pradesh,2008-09,68,Wheat_Area,9513.0
+Uttar Pradesh,2009-10,68,Wheat_Area,9668.0
+Uttar Pradesh,2010-11,68,Wheat_Area,9637.0
+Uttar Pradesh,2011-12,68,Wheat_Area,9731.0
+Uttar Pradesh,2012-13,68,Wheat_Area,9734.0
+Uttar Pradesh,2013-14,68,Wheat_Area,9839.0
+Uttar Pradesh,2014-15,68,Wheat_Area,9846.0
+Uttar Pradesh,2015-16,68,Wheat_Area,9645.0
+Uttar Pradesh,2016-17,68,Wheat_Area,9655.0
+Uttar Pradesh,2017-18,68,Wheat_Area,9753.0
+Uttar Pradesh,2018-19,68,Wheat_Area,9540.0
+Uttar Pradesh,2019-20,68,Wheat_Area,9853.0
+Uttar Pradesh,2020-21,68,Wheat_Area,9852.0
+Uttar Pradesh,2021-22,68,Wheat_Area,9420.0
+Uttar Pradesh,2022-23,68,Wheat_Area,9518.6
+Uttar Pradesh,2023-24,68,Wheat_Area,9532.0
+Uttar Pradesh,2024-25,68,Wheat_Area,9598.8
+Uttarakhand,2004-05,68,Wheat_Area,394.0
+Uttarakhand,2005-06,68,Wheat_Area,395.0
+Uttarakhand,2006-07,68,Wheat_Area,391.0
+Uttarakhand,2007-08,68,Wheat_Area,397.0
+Uttarakhand,2008-09,68,Wheat_Area,398.0
+Uttarakhand,2009-10,68,Wheat_Area,395.0
+Uttarakhand,2010-11,68,Wheat_Area,379.2
+Uttarakhand,2011-12,68,Wheat_Area,369.0
+Uttarakhand,2012-13,68,Wheat_Area,358.1
+Uttarakhand,2013-14,68,Wheat_Area,347.8
+Uttarakhand,2014-15,68,Wheat_Area,347.8
+Uttarakhand,2015-16,68,Wheat_Area,342.1
+Uttarakhand,2016-17,68,Wheat_Area,341.0
+Uttarakhand,2017-18,68,Wheat_Area,333.0
+Uttarakhand,2018-19,68,Wheat_Area,327.0
+Uttarakhand,2019-20,68,Wheat_Area,316.0
+Uttarakhand,2020-21,68,Wheat_Area,312.0
+Uttarakhand,2021-22,68,Wheat_Area,298.0
+Uttarakhand,2022-23,68,Wheat_Area,285.0
+Uttarakhand,2023-24,68,Wheat_Area,267.9
+Uttarakhand,2024-25,68,Wheat_Area,258.5
+West Bengal,2004-05,68,Wheat_Area,400.1
+West Bengal,2005-06,68,Wheat_Area,366.7
+West Bengal,2006-07,68,Wheat_Area,350.6
+West Bengal,2007-08,68,Wheat_Area,352.6
+West Bengal,2008-09,68,Wheat_Area,307.0
+West Bengal,2009-10,68,Wheat_Area,315.9
+West Bengal,2010-11,68,Wheat_Area,316.8
+West Bengal,2011-12,68,Wheat_Area,315.7
+West Bengal,2012-13,68,Wheat_Area,321.6
+West Bengal,2013-14,68,Wheat_Area,332.5
+West Bengal,2014-15,68,Wheat_Area,334.6
+West Bengal,2015-16,68,Wheat_Area,339.9
+West Bengal,2016-17,68,Wheat_Area,321.6
+West Bengal,2017-18,68,Wheat_Area,117.0
+West Bengal,2018-19,68,Wheat_Area,112.2
+West Bengal,2019-20,68,Wheat_Area,188.3
+West Bengal,2020-21,68,Wheat_Area,193.3
+West Bengal,2021-22,68,Wheat_Area,220.5
+West Bengal,2022-23,68,Wheat_Area,180.4
+West Bengal,2023-24,68,Wheat_Area,189.8
+West Bengal,2024-25,68,Wheat_Area,181.4
+Kerala,2018-19,68,Wheat_Area,0.0
+Kerala,2019-20,68,Wheat_Area,0.0
+Kerala,2020-21,68,Wheat_Area,0.0
+Kerala,2021-22,68,Wheat_Area,0.0

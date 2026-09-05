@@ -1,0 +1,377 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,77,Cotton_Area,1178.0
+Andhra Pradesh,2005-06,77,Cotton_Area,1033.0
+Andhra Pradesh,2006-07,77,Cotton_Area,972.0
+Andhra Pradesh,2007-08,77,Cotton_Area,1134.0
+Andhra Pradesh,2008-09,77,Cotton_Area,1399.0
+Andhra Pradesh,2009-10,77,Cotton_Area,1467.0
+Andhra Pradesh,2010-11,77,Cotton_Area,1879.0
+Andhra Pradesh,2011-12,77,Cotton_Area,432.7
+Andhra Pradesh,2012-13,77,Cotton_Area,588.5
+Andhra Pradesh,2013-14,77,Cotton_Area,676.4
+Andhra Pradesh,2014-15,77,Cotton_Area,821.0
+Andhra Pradesh,2015-16,77,Cotton_Area,666.0
+Andhra Pradesh,2016-17,77,Cotton_Area,472.0
+Andhra Pradesh,2017-18,77,Cotton_Area,646.0
+Andhra Pradesh,2018-19,77,Cotton_Area,620.0
+Andhra Pradesh,2019-20,77,Cotton_Area,657.0
+Andhra Pradesh,2020-21,77,Cotton_Area,606.0
+Andhra Pradesh,2021-22,77,Cotton_Area,554.0
+Andhra Pradesh,2022-23,77,Cotton_Area,704.0
+Andhra Pradesh,2023-24,77,Cotton_Area,422.0
+Andhra Pradesh,2024-25,77,Cotton_Area,404.0
+Assam,2004-05,77,Cotton_Area,1.0
+Assam,2005-06,77,Cotton_Area,1.4
+Assam,2006-07,77,Cotton_Area,1.0
+Assam,2007-08,77,Cotton_Area,1.0
+Assam,2008-09,77,Cotton_Area,1.3
+Assam,2009-10,77,Cotton_Area,1.6
+Assam,2015-16,77,Cotton_Area,0.0
+Assam,2016-17,77,Cotton_Area,0.0
+Assam,2017-18,77,Cotton_Area,0.0
+Assam,2018-19,77,Cotton_Area,0.0
+Assam,2019-20,77,Cotton_Area,0.8
+Assam,2020-21,77,Cotton_Area,0.7
+Assam,2021-22,77,Cotton_Area,1.0
+Assam,2022-23,77,Cotton_Area,1.0
+Assam,2023-24,77,Cotton_Area,0.7
+Chhattisgarh,2004-05,77,Cotton_Area,0.5
+Chhattisgarh,2005-06,77,Cotton_Area,0.3
+Chhattisgarh,2006-07,77,Cotton_Area,0.1
+Chhattisgarh,2007-08,77,Cotton_Area,0.1
+Chhattisgarh,2008-09,77,Cotton_Area,0.1
+Chhattisgarh,2009-10,77,Cotton_Area,0.2
+Chhattisgarh,2016-17,77,Cotton_Area,0.0
+Chhattisgarh,2017-18,77,Cotton_Area,0.0
+Chhattisgarh,2018-19,77,Cotton_Area,0.0
+Chhattisgarh,2019-20,77,Cotton_Area,0.0
+Chhattisgarh,2020-21,77,Cotton_Area,4.2
+Chhattisgarh,2021-22,77,Cotton_Area,3.9
+Chhattisgarh,2022-23,77,Cotton_Area,5.0
+Chhattisgarh,2023-24,77,Cotton_Area,6.9
+Chhattisgarh,2024-25,77,Cotton_Area,6.4
+Gujarat,2004-05,77,Cotton_Area,1906.3
+Gujarat,2005-06,77,Cotton_Area,1906.0
+Gujarat,2006-07,77,Cotton_Area,2390.0
+Gujarat,2007-08,77,Cotton_Area,2422.0
+Gujarat,2008-09,77,Cotton_Area,2353.6
+Gujarat,2009-10,77,Cotton_Area,2464.0
+Gujarat,2010-11,77,Cotton_Area,2633.0
+Gujarat,2011-12,77,Cotton_Area,2962.0
+Gujarat,2012-13,77,Cotton_Area,2497.0
+Gujarat,2013-14,77,Cotton_Area,2519.0
+Gujarat,2014-15,77,Cotton_Area,2773.0
+Gujarat,2015-16,77,Cotton_Area,2722.0
+Gujarat,2016-17,77,Cotton_Area,2382.0
+Gujarat,2017-18,77,Cotton_Area,2624.0
+Gujarat,2018-19,77,Cotton_Area,2660.0
+Gujarat,2019-20,77,Cotton_Area,2655.0
+Gujarat,2020-21,77,Cotton_Area,2270.5
+Gujarat,2021-22,77,Cotton_Area,2283.7
+Gujarat,2022-23,77,Cotton_Area,2483.7
+Gujarat,2023-24,77,Cotton_Area,2683.3
+Gujarat,2024-25,77,Cotton_Area,2371.7
+Haryana,2004-05,77,Cotton_Area,621.0
+Haryana,2005-06,77,Cotton_Area,583.0
+Haryana,2006-07,77,Cotton_Area,530.0
+Haryana,2007-08,77,Cotton_Area,483.0
+Haryana,2008-09,77,Cotton_Area,455.0
+Haryana,2009-10,77,Cotton_Area,507.0
+Haryana,2010-11,77,Cotton_Area,492.0
+Haryana,2011-12,77,Cotton_Area,641.0
+Haryana,2012-13,77,Cotton_Area,614.0
+Haryana,2013-14,77,Cotton_Area,536.0
+Haryana,2014-15,77,Cotton_Area,648.0
+Haryana,2015-16,77,Cotton_Area,615.0
+Haryana,2016-17,77,Cotton_Area,570.0
+Haryana,2017-18,77,Cotton_Area,665.0
+Haryana,2018-19,77,Cotton_Area,708.0
+Haryana,2019-20,77,Cotton_Area,723.0
+Haryana,2020-21,77,Cotton_Area,739.6
+Haryana,2021-22,77,Cotton_Area,635.6
+Haryana,2022-23,77,Cotton_Area,574.6
+Haryana,2023-24,77,Cotton_Area,577.7
+Haryana,2024-25,77,Cotton_Area,398.5
+Himachal Pradesh,2005-06,77,Cotton_Area,0.1
+Himachal Pradesh,2006-07,77,Cotton_Area,0.1
+Himachal Pradesh,2007-08,77,Cotton_Area,0.1
+Karnataka,2004-05,77,Cotton_Area,521.0
+Karnataka,2005-06,77,Cotton_Area,413.0
+Karnataka,2006-07,77,Cotton_Area,376.0
+Karnataka,2007-08,77,Cotton_Area,403.0
+Karnataka,2008-09,77,Cotton_Area,409.0
+Karnataka,2009-10,77,Cotton_Area,457.0
+Karnataka,2010-11,77,Cotton_Area,545.0
+Karnataka,2011-12,77,Cotton_Area,554.0
+Karnataka,2012-13,77,Cotton_Area,485.0
+Karnataka,2013-14,77,Cotton_Area,662.0
+Karnataka,2014-15,77,Cotton_Area,875.0
+Karnataka,2015-16,77,Cotton_Area,642.0
+Karnataka,2016-17,77,Cotton_Area,510.0
+Karnataka,2017-18,77,Cotton_Area,547.0
+Karnataka,2018-19,77,Cotton_Area,718.0
+Karnataka,2019-20,77,Cotton_Area,817.0
+Karnataka,2020-21,77,Cotton_Area,820.0
+Karnataka,2021-22,77,Cotton_Area,674.0
+Karnataka,2022-23,77,Cotton_Area,949.0
+Karnataka,2023-24,77,Cotton_Area,743.0
+Karnataka,2024-25,77,Cotton_Area,678.0
+Kerala,2004-05,77,Cotton_Area,2.7
+Kerala,2005-06,77,Cotton_Area,2.7
+Kerala,2006-07,77,Cotton_Area,2.0
+Kerala,2007-08,77,Cotton_Area,1.3
+Kerala,2008-09,77,Cotton_Area,1.2
+Kerala,2009-10,77,Cotton_Area,1.0
+Kerala,2016-17,77,Cotton_Area,0.0
+Kerala,2017-18,77,Cotton_Area,0.0
+Kerala,2018-19,77,Cotton_Area,0.0
+Kerala,2019-20,77,Cotton_Area,0.0
+Kerala,2020-21,77,Cotton_Area,0.0
+Kerala,2021-22,77,Cotton_Area,0.0
+Kerala,2022-23,77,Cotton_Area,0.0
+Kerala,2023-24,77,Cotton_Area,0.0
+Kerala,2024-25,77,Cotton_Area,0.0
+Madhya Pradesh,2004-05,77,Cotton_Area,576.1
+Madhya Pradesh,2005-06,77,Cotton_Area,620.4
+Madhya Pradesh,2006-07,77,Cotton_Area,638.9
+Madhya Pradesh,2007-08,77,Cotton_Area,630.4
+Madhya Pradesh,2008-09,77,Cotton_Area,624.8
+Madhya Pradesh,2009-10,77,Cotton_Area,610.9
+Madhya Pradesh,2010-11,77,Cotton_Area,650.0
+Madhya Pradesh,2011-12,77,Cotton_Area,706.0
+Madhya Pradesh,2012-13,77,Cotton_Area,608.0
+Madhya Pradesh,2013-14,77,Cotton_Area,514.0
+Madhya Pradesh,2014-15,77,Cotton_Area,547.0
+Madhya Pradesh,2015-16,77,Cotton_Area,563.0
+Madhya Pradesh,2016-17,77,Cotton_Area,599.0
+Madhya Pradesh,2017-18,77,Cotton_Area,603.0
+Madhya Pradesh,2018-19,77,Cotton_Area,614.0
+Madhya Pradesh,2019-20,77,Cotton_Area,650.0
+Madhya Pradesh,2020-21,77,Cotton_Area,588.0
+Madhya Pradesh,2021-22,77,Cotton_Area,560.0
+Madhya Pradesh,2022-23,77,Cotton_Area,595.0
+Madhya Pradesh,2023-24,77,Cotton_Area,630.0
+Madhya Pradesh,2024-25,77,Cotton_Area,537.0
+Maharashtra,2004-05,77,Cotton_Area,2840.0
+Maharashtra,2005-06,77,Cotton_Area,2875.0
+Maharashtra,2006-07,77,Cotton_Area,3107.0
+Maharashtra,2007-08,77,Cotton_Area,3195.0
+Maharashtra,2008-09,77,Cotton_Area,3146.0
+Maharashtra,2009-10,77,Cotton_Area,3495.0
+Maharashtra,2010-11,77,Cotton_Area,3942.0
+Maharashtra,2011-12,77,Cotton_Area,4125.0
+Maharashtra,2012-13,77,Cotton_Area,4146.0
+Maharashtra,2013-14,77,Cotton_Area,4192.0
+Maharashtra,2014-15,77,Cotton_Area,4190.0
+Maharashtra,2015-16,77,Cotton_Area,4207.0
+Maharashtra,2016-17,77,Cotton_Area,3800.4
+Maharashtra,2017-18,77,Cotton_Area,4351.0
+Maharashtra,2018-19,77,Cotton_Area,4218.0
+Maharashtra,2019-20,77,Cotton_Area,4491.0
+Maharashtra,2020-21,77,Cotton_Area,4544.6
+Maharashtra,2021-22,77,Cotton_Area,4410.0
+Maharashtra,2022-23,77,Cotton_Area,4182.4
+Maharashtra,2023-24,77,Cotton_Area,4234.5
+Maharashtra,2024-25,77,Cotton_Area,4123.0
+Meghalaya,2004-05,77,Cotton_Area,7.2
+Meghalaya,2005-06,77,Cotton_Area,7.2
+Meghalaya,2006-07,77,Cotton_Area,7.2
+Meghalaya,2007-08,77,Cotton_Area,7.2
+Meghalaya,2008-09,77,Cotton_Area,7.1
+Meghalaya,2009-10,77,Cotton_Area,6.9
+Meghalaya,2016-17,77,Cotton_Area,0.0
+Meghalaya,2017-18,77,Cotton_Area,0.0
+Meghalaya,2018-19,77,Cotton_Area,0.0
+Meghalaya,2019-20,77,Cotton_Area,0.0
+Meghalaya,2020-21,77,Cotton_Area,7.2
+Meghalaya,2021-22,77,Cotton_Area,7.2
+Meghalaya,2022-23,77,Cotton_Area,2.1
+Meghalaya,2023-24,77,Cotton_Area,2.1
+Meghalaya,2024-25,77,Cotton_Area,2.1
+Mizoram,2004-05,77,Cotton_Area,0.5
+Mizoram,2005-06,77,Cotton_Area,0.3
+Mizoram,2006-07,77,Cotton_Area,0.2
+Mizoram,2007-08,77,Cotton_Area,0.1
+Mizoram,2008-09,77,Cotton_Area,0.2
+Mizoram,2009-10,77,Cotton_Area,0.2
+Mizoram,2016-17,77,Cotton_Area,0.0
+Mizoram,2017-18,77,Cotton_Area,0.0
+Mizoram,2018-19,77,Cotton_Area,0.0
+Mizoram,2019-20,77,Cotton_Area,0.0
+Mizoram,2020-21,77,Cotton_Area,0.0
+Mizoram,2021-22,77,Cotton_Area,0.0
+Mizoram,2022-23,77,Cotton_Area,0.0
+Mizoram,2023-24,77,Cotton_Area,0.0
+Nagaland,2004-05,77,Cotton_Area,1.5
+Nagaland,2005-06,77,Cotton_Area,1.0
+Nagaland,2006-07,77,Cotton_Area,0.2
+Nagaland,2007-08,77,Cotton_Area,0.2
+Nagaland,2008-09,77,Cotton_Area,0.1
+Nagaland,2009-10,77,Cotton_Area,0.1
+Nagaland,2016-17,77,Cotton_Area,0.0
+Nagaland,2017-18,77,Cotton_Area,0.0
+Nagaland,2018-19,77,Cotton_Area,0.0
+Nagaland,2019-20,77,Cotton_Area,0.0
+Nagaland,2020-21,77,Cotton_Area,0.0
+Nagaland,2021-22,77,Cotton_Area,0.0
+Nagaland,2022-23,77,Cotton_Area,0.0
+Nagaland,2023-24,77,Cotton_Area,0.0
+Nagaland,2024-25,77,Cotton_Area,0.0
+Odisha,2004-05,77,Cotton_Area,45.9
+Odisha,2005-06,77,Cotton_Area,56.6
+Odisha,2006-07,77,Cotton_Area,50.6
+Odisha,2007-08,77,Cotton_Area,50.1
+Odisha,2008-09,77,Cotton_Area,57.9
+Odisha,2009-10,77,Cotton_Area,54.0
+Odisha,2010-11,77,Cotton_Area,74.0
+Odisha,2011-12,77,Cotton_Area,102.0
+Odisha,2012-13,77,Cotton_Area,119.0
+Odisha,2013-14,77,Cotton_Area,124.0
+Odisha,2014-15,77,Cotton_Area,127.0
+Odisha,2015-16,77,Cotton_Area,125.0
+Odisha,2016-17,77,Cotton_Area,136.0
+Odisha,2017-18,77,Cotton_Area,145.0
+Odisha,2018-19,77,Cotton_Area,157.0
+Odisha,2019-20,77,Cotton_Area,170.0
+Odisha,2020-21,77,Cotton_Area,171.2
+Odisha,2021-22,77,Cotton_Area,193.1
+Odisha,2022-23,77,Cotton_Area,216.3
+Odisha,2023-24,77,Cotton_Area,216.3
+Odisha,2024-25,77,Cotton_Area,238.6
+Puducherry,2004-05,77,Cotton_Area,0.7
+Puducherry,2005-06,77,Cotton_Area,0.4
+Puducherry,2006-07,77,Cotton_Area,0.4
+Puducherry,2007-08,77,Cotton_Area,0.1
+Puducherry,2014-15,77,Cotton_Area,0.0
+Puducherry,2015-16,77,Cotton_Area,0.0
+Puducherry,2016-17,77,Cotton_Area,0.0
+Puducherry,2017-18,77,Cotton_Area,0.0
+Puducherry,2018-19,77,Cotton_Area,0.3
+Puducherry,2019-20,77,Cotton_Area,0.5
+Puducherry,2020-21,77,Cotton_Area,0.4
+Puducherry,2021-22,77,Cotton_Area,1.0
+Puducherry,2022-23,77,Cotton_Area,0.9
+Punjab,2004-05,77,Cotton_Area,509.0
+Punjab,2005-06,77,Cotton_Area,557.0
+Punjab,2006-07,77,Cotton_Area,607.0
+Punjab,2007-08,77,Cotton_Area,604.0
+Punjab,2008-09,77,Cotton_Area,527.0
+Punjab,2009-10,77,Cotton_Area,511.0
+Punjab,2010-11,77,Cotton_Area,530.0
+Punjab,2011-12,77,Cotton_Area,560.0
+Punjab,2012-13,77,Cotton_Area,480.0
+Punjab,2013-14,77,Cotton_Area,446.0
+Punjab,2014-15,77,Cotton_Area,420.0
+Punjab,2015-16,77,Cotton_Area,339.0
+Punjab,2016-17,77,Cotton_Area,285.0
+Punjab,2017-18,77,Cotton_Area,291.0
+Punjab,2018-19,77,Cotton_Area,268.0
+Punjab,2019-20,77,Cotton_Area,248.0
+Punjab,2020-21,77,Cotton_Area,251.6
+Punjab,2021-22,77,Cotton_Area,251.3
+Punjab,2022-23,77,Cotton_Area,248.9
+Punjab,2023-24,77,Cotton_Area,213.8
+Punjab,2024-25,77,Cotton_Area,160.4
+Rajasthan,2004-05,77,Cotton_Area,437.8
+Rajasthan,2005-06,77,Cotton_Area,471.6
+Rajasthan,2006-07,77,Cotton_Area,349.6
+Rajasthan,2007-08,77,Cotton_Area,369.2
+Rajasthan,2008-09,77,Cotton_Area,302.5
+Rajasthan,2009-10,77,Cotton_Area,444.4
+Rajasthan,2010-11,77,Cotton_Area,335.0
+Rajasthan,2011-12,77,Cotton_Area,470.0
+Rajasthan,2012-13,77,Cotton_Area,450.0
+Rajasthan,2013-14,77,Cotton_Area,393.0
+Rajasthan,2014-15,77,Cotton_Area,487.0
+Rajasthan,2015-16,77,Cotton_Area,448.0
+Rajasthan,2016-17,77,Cotton_Area,471.0
+Rajasthan,2017-18,77,Cotton_Area,584.0
+Rajasthan,2018-19,77,Cotton_Area,629.0
+Rajasthan,2019-20,77,Cotton_Area,760.0
+Rajasthan,2020-21,77,Cotton_Area,807.8
+Rajasthan,2021-22,77,Cotton_Area,755.9
+Rajasthan,2022-23,77,Cotton_Area,814.6
+Rajasthan,2023-24,77,Cotton_Area,1003.8
+Rajasthan,2024-25,77,Cotton_Area,627.4
+Tamil Nadu,2004-05,77,Cotton_Area,129.4
+Tamil Nadu,2005-06,77,Cotton_Area,140.5
+Tamil Nadu,2006-07,77,Cotton_Area,100.3
+Tamil Nadu,2007-08,77,Cotton_Area,99.3
+Tamil Nadu,2008-09,77,Cotton_Area,114.5
+Tamil Nadu,2009-10,77,Cotton_Area,104.1
+Tamil Nadu,2010-11,77,Cotton_Area,122.0
+Tamil Nadu,2011-12,77,Cotton_Area,133.0
+Tamil Nadu,2012-13,77,Cotton_Area,128.0
+Tamil Nadu,2013-14,77,Cotton_Area,152.0
+Tamil Nadu,2014-15,77,Cotton_Area,187.0
+Tamil Nadu,2015-16,77,Cotton_Area,142.0
+Tamil Nadu,2016-17,77,Cotton_Area,142.0
+Tamil Nadu,2017-18,77,Cotton_Area,183.0
+Tamil Nadu,2018-19,77,Cotton_Area,133.0
+Tamil Nadu,2019-20,77,Cotton_Area,170.0
+Tamil Nadu,2020-21,77,Cotton_Area,112.1
+Tamil Nadu,2021-22,77,Cotton_Area,147.9
+Tamil Nadu,2022-23,77,Cotton_Area,173.3
+Tamil Nadu,2023-24,77,Cotton_Area,129.7
+Tamil Nadu,2024-25,77,Cotton_Area,102.4
+Telangana,2011-12,77,Cotton_Area,1446.3
+Telangana,2012-13,77,Cotton_Area,1811.5
+Telangana,2013-14,77,Cotton_Area,1712.6
+Telangana,2014-15,77,Cotton_Area,1713.0
+Telangana,2015-16,77,Cotton_Area,1773.0
+Telangana,2016-17,77,Cotton_Area,1409.0
+Telangana,2017-18,77,Cotton_Area,1897.0
+Telangana,2018-19,77,Cotton_Area,1839.0
+Telangana,2019-20,77,Cotton_Area,2127.0
+Telangana,2020-21,77,Cotton_Area,2358.0
+Telangana,2021-22,77,Cotton_Area,1889.0
+Telangana,2022-23,77,Cotton_Area,1972.9
+Telangana,2023-24,77,Cotton_Area,1818.0
+Telangana,2024-25,77,Cotton_Area,1812.3
+Tripura,2004-05,77,Cotton_Area,1.1
+Tripura,2005-06,77,Cotton_Area,1.2
+Tripura,2006-07,77,Cotton_Area,1.2
+Tripura,2007-08,77,Cotton_Area,1.1
+Tripura,2008-09,77,Cotton_Area,1.0
+Tripura,2009-10,77,Cotton_Area,1.0
+Tripura,2016-17,77,Cotton_Area,0.0
+Tripura,2017-18,77,Cotton_Area,0.0
+Tripura,2018-19,77,Cotton_Area,0.0
+Tripura,2019-20,77,Cotton_Area,0.0
+Tripura,2020-21,77,Cotton_Area,0.6
+Tripura,2021-22,77,Cotton_Area,0.5
+Tripura,2022-23,77,Cotton_Area,0.4
+Tripura,2023-24,77,Cotton_Area,0.4
+Tripura,2024-25,77,Cotton_Area,0.3
+Uttar Pradesh,2004-05,77,Cotton_Area,4.9
+Uttar Pradesh,2005-06,77,Cotton_Area,4.4
+Uttar Pradesh,2006-07,77,Cotton_Area,5.0
+Uttar Pradesh,2007-08,77,Cotton_Area,4.3
+Uttar Pradesh,2008-09,77,Cotton_Area,3.6
+Uttar Pradesh,2009-10,77,Cotton_Area,5.0
+Uttar Pradesh,2016-17,77,Cotton_Area,0.0
+Uttar Pradesh,2017-18,77,Cotton_Area,0.0
+Uttar Pradesh,2018-19,77,Cotton_Area,0.0
+Uttar Pradesh,2019-20,77,Cotton_Area,0.0
+Uttar Pradesh,2020-21,77,Cotton_Area,3.0
+Uttar Pradesh,2021-22,77,Cotton_Area,4.0
+Uttar Pradesh,2022-23,77,Cotton_Area,3.0
+Uttar Pradesh,2023-24,77,Cotton_Area,4.0
+Uttar Pradesh,2024-25,77,Cotton_Area,20.0
+West Bengal,2004-05,77,Cotton_Area,2.0
+West Bengal,2005-06,77,Cotton_Area,2.0
+West Bengal,2006-07,77,Cotton_Area,5.7
+West Bengal,2007-08,77,Cotton_Area,8.2
+West Bengal,2008-09,77,Cotton_Area,2.8
+West Bengal,2009-10,77,Cotton_Area,1.3
+West Bengal,2016-17,77,Cotton_Area,0.0
+West Bengal,2017-18,77,Cotton_Area,0.0
+West Bengal,2018-19,77,Cotton_Area,0.0
+West Bengal,2019-20,77,Cotton_Area,0.0
+West Bengal,2020-21,77,Cotton_Area,0.3
+West Bengal,2021-22,77,Cotton_Area,0.1
+West Bengal,2022-23,77,Cotton_Area,0.1
+West Bengal,2023-24,77,Cotton_Area,0.1
+West Bengal,2024-25,77,Cotton_Area,0.1
+Jammu & Kashmir,2021-22,77,Cotton_Area,0.1
+Manipur,2021-22,77,Cotton_Area,0.0

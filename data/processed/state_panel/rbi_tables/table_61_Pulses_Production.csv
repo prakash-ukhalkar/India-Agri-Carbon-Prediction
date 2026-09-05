@@ -1,0 +1,646 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,61,Pulses_Production,1019.0
+Andhra Pradesh,2005-06,61,Pulses_Production,1376.0
+Andhra Pradesh,2006-07,61,Pulses_Production,1347.0
+Andhra Pradesh,2007-08,61,Pulses_Production,1697.0
+Andhra Pradesh,2008-09,61,Pulses_Production,1448.0
+Andhra Pradesh,2009-10,61,Pulses_Production,1429.0
+Andhra Pradesh,2010-11,61,Pulses_Production,964.1
+Andhra Pradesh,2011-12,61,Pulses_Production,933.6
+Andhra Pradesh,2012-13,61,Pulses_Production,1132.7
+Andhra Pradesh,2013-14,61,Pulses_Production,1061.8
+Andhra Pradesh,2014-15,61,Pulses_Production,950.0
+Andhra Pradesh,2015-16,61,Pulses_Production,1229.0
+Andhra Pradesh,2016-17,61,Pulses_Production,931.0
+Andhra Pradesh,2017-18,61,Pulses_Production,1217.4
+Andhra Pradesh,2018-19,61,Pulses_Production,739.6
+Andhra Pradesh,2019-20,61,Pulses_Production,1166.7
+Andhra Pradesh,2020-21,61,Pulses_Production,1094.6
+Andhra Pradesh,2021-22,61,Pulses_Production,1054.5
+Andhra Pradesh,2022-23,61,Pulses_Production,1075.6
+Andhra Pradesh,2023-24,61,Pulses_Production,823.0
+Andhra Pradesh,2024-25,61,Pulses_Production,996.0
+Arunachal Pradesh,2004-05,61,Pulses_Production,6.8
+Arunachal Pradesh,2005-06,61,Pulses_Production,8.3
+Arunachal Pradesh,2006-07,61,Pulses_Production,8.3
+Arunachal Pradesh,2007-08,61,Pulses_Production,8.3
+Arunachal Pradesh,2008-09,61,Pulses_Production,9.0
+Arunachal Pradesh,2009-10,61,Pulses_Production,9.7
+Arunachal Pradesh,2010-11,61,Pulses_Production,9.1
+Arunachal Pradesh,2011-12,61,Pulses_Production,10.5
+Arunachal Pradesh,2012-13,61,Pulses_Production,10.6
+Arunachal Pradesh,2013-14,61,Pulses_Production,11.2
+Arunachal Pradesh,2014-15,61,Pulses_Production,14.5
+Arunachal Pradesh,2015-16,61,Pulses_Production,13.0
+Arunachal Pradesh,2016-17,61,Pulses_Production,13.1
+Arunachal Pradesh,2017-18,61,Pulses_Production,13.5
+Arunachal Pradesh,2018-19,61,Pulses_Production,12.0
+Arunachal Pradesh,2019-20,61,Pulses_Production,14.2
+Arunachal Pradesh,2020-21,61,Pulses_Production,14.3
+Arunachal Pradesh,2021-22,61,Pulses_Production,14.5
+Arunachal Pradesh,2022-23,61,Pulses_Production,15.5
+Arunachal Pradesh,2023-24,61,Pulses_Production,14.9
+Arunachal Pradesh,2024-25,61,Pulses_Production,15.1
+Assam,2004-05,61,Pulses_Production,61.4
+Assam,2005-06,61,Pulses_Production,54.0
+Assam,2006-07,61,Pulses_Production,59.0
+Assam,2007-08,61,Pulses_Production,63.0
+Assam,2008-09,61,Pulses_Production,64.5
+Assam,2009-10,61,Pulses_Production,64.6
+Assam,2010-11,61,Pulses_Production,70.1
+Assam,2011-12,61,Pulses_Production,68.6
+Assam,2012-13,61,Pulses_Production,84.4
+Assam,2013-14,61,Pulses_Production,104.3
+Assam,2014-15,61,Pulses_Production,111.0
+Assam,2015-16,61,Pulses_Production,107.6
+Assam,2016-17,61,Pulses_Production,107.5
+Assam,2017-18,61,Pulses_Production,115.8
+Assam,2018-19,61,Pulses_Production,113.5
+Assam,2019-20,61,Pulses_Production,106.1
+Assam,2020-21,61,Pulses_Production,108.7
+Assam,2021-22,61,Pulses_Production,110.8
+Assam,2022-23,61,Pulses_Production,111.5
+Assam,2023-24,61,Pulses_Production,167.6
+Assam,2024-25,61,Pulses_Production,137.9
+Bihar,2004-05,61,Pulses_Production,466.9
+Bihar,2005-06,61,Pulses_Production,446.8
+Bihar,2006-07,61,Pulses_Production,438.2
+Bihar,2007-08,61,Pulses_Production,497.1
+Bihar,2008-09,61,Pulses_Production,469.1
+Bihar,2009-10,61,Pulses_Production,472.5
+Bihar,2010-11,61,Pulses_Production,537.8
+Bihar,2011-12,61,Pulses_Production,511.3
+Bihar,2012-13,61,Pulses_Production,542.8
+Bihar,2013-14,61,Pulses_Production,522.0
+Bihar,2014-15,61,Pulses_Production,493.9
+Bihar,2015-16,61,Pulses_Production,420.7
+Bihar,2016-17,61,Pulses_Production,461.7
+Bihar,2017-18,61,Pulses_Production,454.2
+Bihar,2018-19,61,Pulses_Production,453.5
+Bihar,2019-20,61,Pulses_Production,334.4
+Bihar,2020-21,61,Pulses_Production,376.9
+Bihar,2021-22,61,Pulses_Production,388.0
+Bihar,2022-23,61,Pulses_Production,414.0
+Bihar,2023-24,61,Pulses_Production,398.7
+Bihar,2024-25,61,Pulses_Production,391.0
+Chhattisgarh,2004-05,61,Pulses_Production,367.8
+Chhattisgarh,2005-06,61,Pulses_Production,453.2
+Chhattisgarh,2006-07,61,Pulses_Production,493.6
+Chhattisgarh,2007-08,61,Pulses_Production,536.8
+Chhattisgarh,2008-09,61,Pulses_Production,498.6
+Chhattisgarh,2009-10,61,Pulses_Production,488.7
+Chhattisgarh,2010-11,61,Pulses_Production,537.5
+Chhattisgarh,2011-12,61,Pulses_Production,499.1
+Chhattisgarh,2012-13,61,Pulses_Production,648.7
+Chhattisgarh,2013-14,61,Pulses_Production,484.5
+Chhattisgarh,2014-15,61,Pulses_Production,738.5
+Chhattisgarh,2015-16,61,Pulses_Production,511.9
+Chhattisgarh,2016-17,61,Pulses_Production,758.7
+Chhattisgarh,2017-18,61,Pulses_Production,550.0
+Chhattisgarh,2018-19,61,Pulses_Production,537.5
+Chhattisgarh,2019-20,61,Pulses_Production,241.3
+Chhattisgarh,2020-21,61,Pulses_Production,447.5
+Chhattisgarh,2021-22,61,Pulses_Production,386.9
+Chhattisgarh,2022-23,61,Pulses_Production,474.7
+Chhattisgarh,2023-24,61,Pulses_Production,365.0
+Chhattisgarh,2024-25,61,Pulses_Production,401.0
+Delhi,2004-05,61,Pulses_Production,0.3
+Delhi,2005-06,61,Pulses_Production,0.5
+Delhi,2006-07,61,Pulses_Production,0.7
+Delhi,2007-08,61,Pulses_Production,0.7
+Delhi,2008-09,61,Pulses_Production,0.7
+Delhi,2009-10,61,Pulses_Production,0.8
+Delhi,2010-11,61,Pulses_Production,0.8
+Delhi,2011-12,61,Pulses_Production,0.7
+Delhi,2012-13,61,Pulses_Production,0.7
+Delhi,2013-14,61,Pulses_Production,0.1
+Delhi,2014-15,61,Pulses_Production,0.0
+Delhi,2015-16,61,Pulses_Production,1.2
+Delhi,2016-17,61,Pulses_Production,0.1
+Delhi,2017-18,61,Pulses_Production,0.0
+Delhi,2018-19,61,Pulses_Production,0.0
+Delhi,2019-20,61,Pulses_Production,0.0
+Delhi,2020-21,61,Pulses_Production,0.0
+Delhi,2021-22,61,Pulses_Production,0.0
+Delhi,2022-23,61,Pulses_Production,0.0
+Delhi,2023-24,61,Pulses_Production,0.0
+Delhi,2024-25,61,Pulses_Production,0.0
+Goa,2004-05,61,Pulses_Production,9.4
+Goa,2005-06,61,Pulses_Production,11.5
+Goa,2006-07,61,Pulses_Production,16.3
+Goa,2007-08,61,Pulses_Production,11.3
+Goa,2008-09,61,Pulses_Production,10.2
+Goa,2009-10,61,Pulses_Production,8.5
+Goa,2010-11,61,Pulses_Production,8.0
+Goa,2011-12,61,Pulses_Production,8.3
+Goa,2012-13,61,Pulses_Production,9.0
+Goa,2013-14,61,Pulses_Production,8.9
+Goa,2014-15,61,Pulses_Production,8.1
+Goa,2015-16,61,Pulses_Production,0.3
+Goa,2016-17,61,Pulses_Production,5.9
+Goa,2017-18,61,Pulses_Production,4.8
+Goa,2018-19,61,Pulses_Production,6.3
+Goa,2019-20,61,Pulses_Production,3.9
+Goa,2020-21,61,Pulses_Production,3.8
+Goa,2021-22,61,Pulses_Production,3.0
+Goa,2022-23,61,Pulses_Production,3.2
+Goa,2023-24,61,Pulses_Production,3.8
+Goa,2024-25,61,Pulses_Production,3.5
+Gujarat,2004-05,61,Pulses_Production,479.3
+Gujarat,2005-06,61,Pulses_Production,547.0
+Gujarat,2006-07,61,Pulses_Production,593.0
+Gujarat,2007-08,61,Pulses_Production,743.0
+Gujarat,2008-09,61,Pulses_Production,609.0
+Gujarat,2009-10,61,Pulses_Production,517.0
+Gujarat,2010-11,61,Pulses_Production,723.0
+Gujarat,2011-12,61,Pulses_Production,780.0
+Gujarat,2012-13,61,Pulses_Production,572.2
+Gujarat,2013-14,61,Pulses_Production,729.0
+Gujarat,2014-15,61,Pulses_Production,574.5
+Gujarat,2015-16,61,Pulses_Production,543.6
+Gujarat,2016-17,61,Pulses_Production,818.0
+Gujarat,2017-18,61,Pulses_Production,922.6
+Gujarat,2018-19,61,Pulses_Production,681.3
+Gujarat,2019-20,61,Pulses_Production,1057.3
+Gujarat,2020-21,61,Pulses_Production,1809.2
+Gujarat,2021-22,61,Pulses_Production,2701.1
+Gujarat,2022-23,61,Pulses_Production,1792.5
+Gujarat,2023-24,61,Pulses_Production,1547.5
+Gujarat,2024-25,61,Pulses_Production,2022.1
+Haryana,2004-05,61,Pulses_Production,146.0
+Haryana,2005-06,61,Pulses_Production,118.1
+Haryana,2006-07,61,Pulses_Production,140.0
+Haryana,2007-08,61,Pulses_Production,101.8
+Haryana,2008-09,61,Pulses_Production,177.8
+Haryana,2009-10,61,Pulses_Production,100.0
+Haryana,2010-11,61,Pulses_Production,158.5
+Haryana,2011-12,61,Pulses_Production,127.0
+Haryana,2012-13,61,Pulses_Production,130.4
+Haryana,2013-14,61,Pulses_Production,125.1
+Haryana,2014-15,61,Pulses_Production,56.1
+Haryana,2015-16,61,Pulses_Production,65.7
+Haryana,2016-17,61,Pulses_Production,75.9
+Haryana,2017-18,61,Pulses_Production,69.4
+Haryana,2018-19,61,Pulses_Production,82.1
+Haryana,2019-20,61,Pulses_Production,64.4
+Haryana,2020-21,61,Pulses_Production,72.7
+Haryana,2021-22,61,Pulses_Production,106.1
+Haryana,2022-23,61,Pulses_Production,79.5
+Haryana,2023-24,61,Pulses_Production,37.5
+Haryana,2024-25,61,Pulses_Production,82.3
+Himachal Pradesh,2004-05,61,Pulses_Production,18.1
+Himachal Pradesh,2005-06,61,Pulses_Production,19.6
+Himachal Pradesh,2006-07,61,Pulses_Production,28.9
+Himachal Pradesh,2007-08,61,Pulses_Production,36.0
+Himachal Pradesh,2008-09,61,Pulses_Production,23.5
+Himachal Pradesh,2009-10,61,Pulses_Production,20.7
+Himachal Pradesh,2010-11,61,Pulses_Production,41.6
+Himachal Pradesh,2011-12,61,Pulses_Production,30.8
+Himachal Pradesh,2012-13,61,Pulses_Production,46.1
+Himachal Pradesh,2013-14,61,Pulses_Production,51.0
+Himachal Pradesh,2014-15,61,Pulses_Production,38.3
+Himachal Pradesh,2015-16,61,Pulses_Production,40.5
+Himachal Pradesh,2016-17,61,Pulses_Production,63.3
+Himachal Pradesh,2017-18,61,Pulses_Production,57.5
+Himachal Pradesh,2018-19,61,Pulses_Production,54.0
+Himachal Pradesh,2019-20,61,Pulses_Production,55.2
+Himachal Pradesh,2020-21,61,Pulses_Production,60.2
+Himachal Pradesh,2021-22,61,Pulses_Production,75.2
+Himachal Pradesh,2022-23,61,Pulses_Production,48.6
+Himachal Pradesh,2023-24,61,Pulses_Production,49.0
+Himachal Pradesh,2024-25,61,Pulses_Production,51.9
+Jammu & Kashmir,2004-05,61,Pulses_Production,15.1
+Jammu & Kashmir,2005-06,61,Pulses_Production,13.5
+Jammu & Kashmir,2006-07,61,Pulses_Production,14.2
+Jammu & Kashmir,2007-08,61,Pulses_Production,15.4
+Jammu & Kashmir,2008-09,61,Pulses_Production,14.2
+Jammu & Kashmir,2009-10,61,Pulses_Production,13.6
+Jammu & Kashmir,2010-11,61,Pulses_Production,16.7
+Jammu & Kashmir,2011-12,61,Pulses_Production,13.2
+Jammu & Kashmir,2012-13,61,Pulses_Production,14.2
+Jammu & Kashmir,2013-14,61,Pulses_Production,13.8
+Jammu & Kashmir,2014-15,61,Pulses_Production,9.2
+Jammu & Kashmir,2015-16,61,Pulses_Production,9.3
+Jammu & Kashmir,2016-17,61,Pulses_Production,10.3
+Jammu & Kashmir,2017-18,61,Pulses_Production,10.7
+Jammu & Kashmir,2018-19,61,Pulses_Production,10.6
+Jammu & Kashmir,2019-20,61,Pulses_Production,44.2
+Jammu & Kashmir,2020-21,61,Pulses_Production,10.1
+Jammu & Kashmir,2021-22,61,Pulses_Production,9.5
+Jammu & Kashmir,2022-23,61,Pulses_Production,9.7
+Jammu & Kashmir,2023-24,61,Pulses_Production,14.3
+Jammu & Kashmir,2024-25,61,Pulses_Production,14.6
+Jharkhand,2004-05,61,Pulses_Production,160.0
+Jharkhand,2005-06,61,Pulses_Production,172.3
+Jharkhand,2006-07,61,Pulses_Production,258.1
+Jharkhand,2007-08,61,Pulses_Production,301.8
+Jharkhand,2008-09,61,Pulses_Production,280.7
+Jharkhand,2009-10,61,Pulses_Production,223.7
+Jharkhand,2010-11,61,Pulses_Production,329.6
+Jharkhand,2011-12,61,Pulses_Production,412.0
+Jharkhand,2012-13,61,Pulses_Production,609.3
+Jharkhand,2013-14,61,Pulses_Production,578.6
+Jharkhand,2014-15,61,Pulses_Production,597.1
+Jharkhand,2015-16,61,Pulses_Production,527.0
+Jharkhand,2016-17,61,Pulses_Production,806.5
+Jharkhand,2017-18,61,Pulses_Production,836.7
+Jharkhand,2018-19,61,Pulses_Production,735.2
+Jharkhand,2019-20,61,Pulses_Production,814.9
+Jharkhand,2020-21,61,Pulses_Production,905.4
+Jharkhand,2021-22,61,Pulses_Production,898.3
+Jharkhand,2022-23,61,Pulses_Production,761.2
+Jharkhand,2023-24,61,Pulses_Production,764.1
+Jharkhand,2024-25,61,Pulses_Production,963.3
+Karnataka,2004-05,61,Pulses_Production,792.0
+Karnataka,2005-06,61,Pulses_Production,964.0
+Karnataka,2006-07,61,Pulses_Production,893.0
+Karnataka,2007-08,61,Pulses_Production,1265.0
+Karnataka,2008-09,61,Pulses_Production,972.0
+Karnataka,2009-10,61,Pulses_Production,1118.0
+Karnataka,2010-11,61,Pulses_Production,1565.0
+Karnataka,2011-12,61,Pulses_Production,1134.1
+Karnataka,2012-13,61,Pulses_Production,1259.3
+Karnataka,2013-14,61,Pulses_Production,1600.5
+Karnataka,2014-15,61,Pulses_Production,1390.0
+Karnataka,2015-16,61,Pulses_Production,1138.8
+Karnataka,2016-17,61,Pulses_Production,1737.9
+Karnataka,2017-18,61,Pulses_Production,1951.2
+Karnataka,2018-19,61,Pulses_Production,1773.9
+Karnataka,2019-20,61,Pulses_Production,2155.9
+Karnataka,2020-21,61,Pulses_Production,2065.0
+Karnataka,2021-22,61,Pulses_Production,1971.5
+Karnataka,2022-23,61,Pulses_Production,1756.6
+Karnataka,2023-24,61,Pulses_Production,1668.8
+Karnataka,2024-25,61,Pulses_Production,1886.8
+Kerala,2004-05,61,Pulses_Production,2.9
+Kerala,2005-06,61,Pulses_Production,6.9
+Kerala,2006-07,61,Pulses_Production,8.4
+Kerala,2007-08,61,Pulses_Production,8.4
+Kerala,2008-09,61,Pulses_Production,6.3
+Kerala,2009-10,61,Pulses_Production,10.3
+Kerala,2010-11,61,Pulses_Production,3.0
+Kerala,2011-12,61,Pulses_Production,2.5
+Kerala,2012-13,61,Pulses_Production,3.2
+Kerala,2013-14,61,Pulses_Production,2.8
+Kerala,2014-15,61,Pulses_Production,1.4
+Kerala,2015-16,61,Pulses_Production,4.3
+Kerala,2016-17,61,Pulses_Production,1.7
+Kerala,2017-18,61,Pulses_Production,2.1
+Kerala,2018-19,61,Pulses_Production,2.3
+Kerala,2019-20,61,Pulses_Production,2.2
+Kerala,2020-21,61,Pulses_Production,1.9
+Kerala,2021-22,61,Pulses_Production,1.5
+Kerala,2022-23,61,Pulses_Production,1.6
+Kerala,2023-24,61,Pulses_Production,2.3
+Kerala,2024-25,61,Pulses_Production,1.0
+Madhya Pradesh,2004-05,61,Pulses_Production,3429.2
+Madhya Pradesh,2005-06,61,Pulses_Production,3232.6
+Madhya Pradesh,2006-07,61,Pulses_Production,3203.1
+Madhya Pradesh,2007-08,61,Pulses_Production,2453.6
+Madhya Pradesh,2008-09,61,Pulses_Production,3683.1
+Madhya Pradesh,2009-10,61,Pulses_Production,4304.6
+Madhya Pradesh,2010-11,61,Pulses_Production,3386.2
+Madhya Pradesh,2011-12,61,Pulses_Production,4161.9
+Madhya Pradesh,2012-13,61,Pulses_Production,5165.9
+Madhya Pradesh,2013-14,61,Pulses_Production,4644.3
+Madhya Pradesh,2014-15,61,Pulses_Production,4828.3
+Madhya Pradesh,2015-16,61,Pulses_Production,5302.5
+Madhya Pradesh,2016-17,61,Pulses_Production,6291.3
+Madhya Pradesh,2017-18,61,Pulses_Production,8111.6
+Madhya Pradesh,2018-19,61,Pulses_Production,6045.4
+Madhya Pradesh,2019-20,61,Pulses_Production,4108.4
+Madhya Pradesh,2020-21,61,Pulses_Production,5294.7
+Madhya Pradesh,2021-22,61,Pulses_Production,5694.7
+Madhya Pradesh,2022-23,61,Pulses_Production,6267.4
+Madhya Pradesh,2023-24,61,Pulses_Production,5974.2
+Madhya Pradesh,2024-25,61,Pulses_Production,5237.9
+Maharashtra,2004-05,61,Pulses_Production,1664.0
+Maharashtra,2005-06,61,Pulses_Production,2005.0
+Maharashtra,2006-07,61,Pulses_Production,2304.0
+Maharashtra,2007-08,61,Pulses_Production,3024.0
+Maharashtra,2008-09,61,Pulses_Production,1656.0
+Maharashtra,2009-10,61,Pulses_Production,2370.0
+Maharashtra,2010-11,61,Pulses_Production,3099.8
+Maharashtra,2011-12,61,Pulses_Production,2268.0
+Maharashtra,2012-13,61,Pulses_Production,2306.0
+Maharashtra,2013-14,61,Pulses_Production,3169.0
+Maharashtra,2014-15,61,Pulses_Production,2053.0
+Maharashtra,2015-16,61,Pulses_Production,1544.7
+Maharashtra,2016-17,61,Pulses_Production,3768.1
+Maharashtra,2017-18,61,Pulses_Production,3347.8
+Maharashtra,2018-19,61,Pulses_Production,2682.5
+Maharashtra,2019-20,61,Pulses_Production,3736.0
+Maharashtra,2020-21,61,Pulses_Production,4321.2
+Maharashtra,2021-22,61,Pulses_Production,5023.7
+Maharashtra,2022-23,61,Pulses_Production,4635.2
+Maharashtra,2023-24,61,Pulses_Production,4007.5
+Maharashtra,2024-25,61,Pulses_Production,5035.2
+Manipur,2004-05,61,Pulses_Production,3.0
+Manipur,2005-06,61,Pulses_Production,4.5
+Manipur,2006-07,61,Pulses_Production,4.5
+Manipur,2007-08,61,Pulses_Production,7.2
+Manipur,2008-09,61,Pulses_Production,6.5
+Manipur,2009-10,61,Pulses_Production,7.2
+Manipur,2010-11,61,Pulses_Production,24.2
+Manipur,2011-12,61,Pulses_Production,26.9
+Manipur,2012-13,61,Pulses_Production,28.3
+Manipur,2013-14,61,Pulses_Production,29.9
+Manipur,2014-15,61,Pulses_Production,30.8
+Manipur,2015-16,61,Pulses_Production,29.8
+Manipur,2016-17,61,Pulses_Production,30.3
+Manipur,2017-18,61,Pulses_Production,30.0
+Manipur,2018-19,61,Pulses_Production,29.5
+Manipur,2019-20,61,Pulses_Production,25.2
+Manipur,2020-21,61,Pulses_Production,29.4
+Manipur,2021-22,61,Pulses_Production,31.3
+Manipur,2022-23,61,Pulses_Production,31.7
+Manipur,2023-24,61,Pulses_Production,30.3
+Manipur,2024-25,61,Pulses_Production,22.1
+Meghalaya,2004-05,61,Pulses_Production,3.6
+Meghalaya,2005-06,61,Pulses_Production,3.6
+Meghalaya,2006-07,61,Pulses_Production,2.9
+Meghalaya,2007-08,61,Pulses_Production,3.3
+Meghalaya,2008-09,61,Pulses_Production,3.9
+Meghalaya,2009-10,61,Pulses_Production,3.6
+Meghalaya,2010-11,61,Pulses_Production,3.7
+Meghalaya,2011-12,61,Pulses_Production,3.7
+Meghalaya,2012-13,61,Pulses_Production,3.7
+Meghalaya,2013-14,61,Pulses_Production,3.2
+Meghalaya,2014-15,61,Pulses_Production,11.3
+Meghalaya,2015-16,61,Pulses_Production,11.7
+Meghalaya,2016-17,61,Pulses_Production,11.8
+Meghalaya,2017-18,61,Pulses_Production,11.9
+Meghalaya,2018-19,61,Pulses_Production,13.4
+Meghalaya,2019-20,61,Pulses_Production,12.0
+Meghalaya,2020-21,61,Pulses_Production,12.0
+Meghalaya,2021-22,61,Pulses_Production,12.1
+Meghalaya,2022-23,61,Pulses_Production,12.5
+Meghalaya,2023-24,61,Pulses_Production,12.5
+Meghalaya,2024-25,61,Pulses_Production,12.5
+Mizoram,2004-05,61,Pulses_Production,4.8
+Mizoram,2005-06,61,Pulses_Production,7.9
+Mizoram,2006-07,61,Pulses_Production,5.8
+Mizoram,2007-08,61,Pulses_Production,2.7
+Mizoram,2008-09,61,Pulses_Production,3.6
+Mizoram,2009-10,61,Pulses_Production,6.5
+Mizoram,2010-11,61,Pulses_Production,6.1
+Mizoram,2011-12,61,Pulses_Production,5.3
+Mizoram,2012-13,61,Pulses_Production,3.3
+Mizoram,2013-14,61,Pulses_Production,5.7
+Mizoram,2014-15,61,Pulses_Production,6.0
+Mizoram,2015-16,61,Pulses_Production,5.0
+Mizoram,2016-17,61,Pulses_Production,4.8
+Mizoram,2017-18,61,Pulses_Production,5.1
+Mizoram,2018-19,61,Pulses_Production,5.9
+Mizoram,2019-20,61,Pulses_Production,5.5
+Mizoram,2020-21,61,Pulses_Production,5.9
+Mizoram,2021-22,61,Pulses_Production,5.7
+Mizoram,2022-23,61,Pulses_Production,4.5
+Mizoram,2023-24,61,Pulses_Production,4.3
+Mizoram,2024-25,61,Pulses_Production,1.8
+Nagaland,2004-05,61,Pulses_Production,25.2
+Nagaland,2005-06,61,Pulses_Production,39.7
+Nagaland,2006-07,61,Pulses_Production,45.0
+Nagaland,2007-08,61,Pulses_Production,41.6
+Nagaland,2008-09,61,Pulses_Production,39.7
+Nagaland,2009-10,61,Pulses_Production,34.7
+Nagaland,2010-11,61,Pulses_Production,36.4
+Nagaland,2011-12,61,Pulses_Production,34.7
+Nagaland,2012-13,61,Pulses_Production,43.6
+Nagaland,2013-14,61,Pulses_Production,42.5
+Nagaland,2014-15,61,Pulses_Production,42.4
+Nagaland,2015-16,61,Pulses_Production,43.1
+Nagaland,2016-17,61,Pulses_Production,44.5
+Nagaland,2017-18,61,Pulses_Production,46.1
+Nagaland,2018-19,61,Pulses_Production,46.4
+Nagaland,2019-20,61,Pulses_Production,46.8
+Nagaland,2020-21,61,Pulses_Production,47.1
+Nagaland,2021-22,61,Pulses_Production,30.1
+Nagaland,2022-23,61,Pulses_Production,38.6
+Nagaland,2023-24,61,Pulses_Production,39.0
+Nagaland,2024-25,61,Pulses_Production,41.1
+Odisha,2004-05,61,Pulses_Production,249.6
+Odisha,2005-06,61,Pulses_Production,336.3
+Odisha,2006-07,61,Pulses_Production,351.8
+Odisha,2007-08,61,Pulses_Production,383.5
+Odisha,2008-09,61,Pulses_Production,387.3
+Odisha,2009-10,61,Pulses_Production,399.3
+Odisha,2010-11,61,Pulses_Production,426.9
+Odisha,2011-12,61,Pulses_Production,343.4
+Odisha,2012-13,61,Pulses_Production,424.4
+Odisha,2013-14,61,Pulses_Production,419.3
+Odisha,2014-15,61,Pulses_Production,439.3
+Odisha,2015-16,61,Pulses_Production,375.1
+Odisha,2016-17,61,Pulses_Production,479.1
+Odisha,2017-18,61,Pulses_Production,429.6
+Odisha,2018-19,61,Pulses_Production,412.1
+Odisha,2019-20,61,Pulses_Production,432.5
+Odisha,2020-21,61,Pulses_Production,431.2
+Odisha,2021-22,61,Pulses_Production,481.3
+Odisha,2022-23,61,Pulses_Production,495.2
+Odisha,2023-24,61,Pulses_Production,546.8
+Odisha,2024-25,61,Pulses_Production,516.3
+Puducherry,2004-05,61,Pulses_Production,1.2
+Puducherry,2005-06,61,Pulses_Production,1.2
+Puducherry,2006-07,61,Pulses_Production,1.2
+Puducherry,2007-08,61,Pulses_Production,0.4
+Puducherry,2008-09,61,Pulses_Production,0.5
+Puducherry,2009-10,61,Pulses_Production,0.3
+Puducherry,2010-11,61,Pulses_Production,1.3
+Puducherry,2011-12,61,Pulses_Production,1.0
+Puducherry,2012-13,61,Pulses_Production,0.8
+Puducherry,2013-14,61,Pulses_Production,0.5
+Puducherry,2014-15,61,Pulses_Production,1.2
+Puducherry,2015-16,61,Pulses_Production,0.8
+Puducherry,2016-17,61,Pulses_Production,0.6
+Puducherry,2017-18,61,Pulses_Production,1.2
+Puducherry,2018-19,61,Pulses_Production,0.7
+Puducherry,2019-20,61,Pulses_Production,0.5
+Puducherry,2020-21,61,Pulses_Production,0.4
+Puducherry,2021-22,61,Pulses_Production,0.5
+Puducherry,2022-23,61,Pulses_Production,0.9
+Puducherry,2023-24,61,Pulses_Production,0.8
+Puducherry,2024-25,61,Pulses_Production,0.6
+Punjab,2004-05,61,Pulses_Production,31.7
+Punjab,2005-06,61,Pulses_Production,26.2
+Punjab,2006-07,61,Pulses_Production,27.1
+Punjab,2007-08,61,Pulses_Production,23.0
+Punjab,2008-09,61,Pulses_Production,21.7
+Punjab,2009-10,61,Pulses_Production,18.0
+Punjab,2010-11,61,Pulses_Production,19.3
+Punjab,2011-12,61,Pulses_Production,15.0
+Punjab,2012-13,61,Pulses_Production,53.0
+Punjab,2013-14,61,Pulses_Production,39.6
+Punjab,2014-15,61,Pulses_Production,41.6
+Punjab,2015-16,61,Pulses_Production,43.5
+Punjab,2016-17,61,Pulses_Production,33.0
+Punjab,2017-18,61,Pulses_Production,26.5
+Punjab,2018-19,61,Pulses_Production,27.7
+Punjab,2019-20,61,Pulses_Production,29.2
+Punjab,2020-21,61,Pulses_Production,31.1
+Punjab,2021-22,61,Pulses_Production,76.0
+Punjab,2022-23,61,Pulses_Production,32.7
+Punjab,2023-24,61,Pulses_Production,69.0
+Punjab,2024-25,61,Pulses_Production,33.7
+Rajasthan,2004-05,61,Pulses_Production,1337.4
+Rajasthan,2005-06,61,Pulses_Production,898.1
+Rajasthan,2006-07,61,Pulses_Production,1481.3
+Rajasthan,2007-08,61,Pulses_Production,1552.8
+Rajasthan,2008-09,61,Pulses_Production,1826.4
+Rajasthan,2009-10,61,Pulses_Production,713.7
+Rajasthan,2010-11,61,Pulses_Production,3259.7
+Rajasthan,2011-12,61,Pulses_Production,2432.1
+Rajasthan,2012-13,61,Pulses_Production,1956.8
+Rajasthan,2013-14,61,Pulses_Production,2490.9
+Rajasthan,2014-15,61,Pulses_Production,1951.8
+Rajasthan,2015-16,61,Pulses_Production,1990.2
+Rajasthan,2016-17,61,Pulses_Production,3181.2
+Rajasthan,2017-18,61,Pulses_Production,3405.4
+Rajasthan,2018-19,61,Pulses_Production,3759.4
+Rajasthan,2019-20,61,Pulses_Production,4497.1
+Rajasthan,2020-21,61,Pulses_Production,4252.0
+Rajasthan,2021-22,61,Pulses_Production,4053.0
+Rajasthan,2022-23,61,Pulses_Production,3616.9
+Rajasthan,2023-24,61,Pulses_Production,3334.9
+Rajasthan,2024-25,61,Pulses_Production,3927.9
+Sikkim,2004-05,61,Pulses_Production,6.6
+Sikkim,2005-06,61,Pulses_Production,6.1
+Sikkim,2006-07,61,Pulses_Production,6.1
+Sikkim,2007-08,61,Pulses_Production,11.6
+Sikkim,2008-09,61,Pulses_Production,11.8
+Sikkim,2009-10,61,Pulses_Production,12.9
+Sikkim,2010-11,61,Pulses_Production,11.9
+Sikkim,2011-12,61,Pulses_Production,5.9
+Sikkim,2012-13,61,Pulses_Production,5.8
+Sikkim,2013-14,61,Pulses_Production,5.8
+Sikkim,2014-15,61,Pulses_Production,5.8
+Sikkim,2015-16,61,Pulses_Production,5.4
+Sikkim,2016-17,61,Pulses_Production,5.5
+Sikkim,2017-18,61,Pulses_Production,5.1
+Sikkim,2018-19,61,Pulses_Production,4.8
+Sikkim,2019-20,61,Pulses_Production,5.0
+Sikkim,2020-21,61,Pulses_Production,5.0
+Sikkim,2021-22,61,Pulses_Production,5.1
+Sikkim,2022-23,61,Pulses_Production,5.0
+Sikkim,2023-24,61,Pulses_Production,5.1
+Sikkim,2024-25,61,Pulses_Production,5.1
+Tamil Nadu,2004-05,61,Pulses_Production,245.6
+Tamil Nadu,2005-06,61,Pulses_Production,177.0
+Tamil Nadu,2006-07,61,Pulses_Production,290.5
+Tamil Nadu,2007-08,61,Pulses_Production,185.0
+Tamil Nadu,2008-09,61,Pulses_Production,164.5
+Tamil Nadu,2009-10,61,Pulses_Production,204.1
+Tamil Nadu,2010-11,61,Pulses_Production,246.0
+Tamil Nadu,2011-12,61,Pulses_Production,369.3
+Tamil Nadu,2012-13,61,Pulses_Production,209.9
+Tamil Nadu,2013-14,61,Pulses_Production,613.8
+Tamil Nadu,2014-15,61,Pulses_Production,753.2
+Tamil Nadu,2015-16,61,Pulses_Production,554.8
+Tamil Nadu,2016-17,61,Pulses_Production,427.1
+Tamil Nadu,2017-18,61,Pulses_Production,556.3
+Tamil Nadu,2018-19,61,Pulses_Production,551.2
+Tamil Nadu,2019-20,61,Pulses_Production,605.4
+Tamil Nadu,2020-21,61,Pulses_Production,472.5
+Tamil Nadu,2021-22,61,Pulses_Production,499.0
+Tamil Nadu,2022-23,61,Pulses_Production,503.2
+Tamil Nadu,2023-24,61,Pulses_Production,386.0
+Tamil Nadu,2024-25,61,Pulses_Production,363.4
+Telangana,2010-11,61,Pulses_Production,475.9
+Telangana,2011-12,61,Pulses_Production,296.4
+Telangana,2012-13,61,Pulses_Production,490.3
+Telangana,2013-14,61,Pulses_Production,489.2
+Telangana,2014-15,61,Pulses_Production,263.0
+Telangana,2015-16,61,Pulses_Production,239.6
+Telangana,2016-17,61,Pulses_Production,536.0
+Telangana,2017-18,61,Pulses_Production,514.0
+Telangana,2018-19,61,Pulses_Production,440.1
+Telangana,2019-20,61,Pulses_Production,549.2
+Telangana,2020-21,61,Pulses_Production,589.8
+Telangana,2021-22,61,Pulses_Production,576.0
+Telangana,2022-23,61,Pulses_Production,497.2
+Telangana,2023-24,61,Pulses_Production,361.2
+Telangana,2024-25,61,Pulses_Production,398.8
+Tripura,2004-05,61,Pulses_Production,5.5
+Tripura,2005-06,61,Pulses_Production,5.6
+Tripura,2006-07,61,Pulses_Production,5.3
+Tripura,2007-08,61,Pulses_Production,4.7
+Tripura,2008-09,61,Pulses_Production,4.4
+Tripura,2009-10,61,Pulses_Production,4.5
+Tripura,2010-11,61,Pulses_Production,5.2
+Tripura,2011-12,61,Pulses_Production,6.0
+Tripura,2012-13,61,Pulses_Production,6.0
+Tripura,2013-14,61,Pulses_Production,8.7
+Tripura,2014-15,61,Pulses_Production,8.4
+Tripura,2015-16,61,Pulses_Production,10.9
+Tripura,2016-17,61,Pulses_Production,23.2
+Tripura,2017-18,61,Pulses_Production,19.3
+Tripura,2018-19,61,Pulses_Production,18.9
+Tripura,2019-20,61,Pulses_Production,18.7
+Tripura,2020-21,61,Pulses_Production,20.3
+Tripura,2021-22,61,Pulses_Production,18.3
+Tripura,2022-23,61,Pulses_Production,17.3
+Tripura,2023-24,61,Pulses_Production,17.3
+Tripura,2024-25,61,Pulses_Production,17.9
+Uttar Pradesh,2004-05,61,Pulses_Production,2375.0
+Uttar Pradesh,2005-06,61,Pulses_Production,2231.5
+Uttar Pradesh,2006-07,61,Pulses_Production,1975.1
+Uttar Pradesh,2007-08,61,Pulses_Production,1576.9
+Uttar Pradesh,2008-09,61,Pulses_Production,1998.1
+Uttar Pradesh,2009-10,61,Pulses_Production,1901.4
+Uttar Pradesh,2010-11,61,Pulses_Production,2037.0
+Uttar Pradesh,2011-12,61,Pulses_Production,2403.0
+Uttar Pradesh,2012-13,61,Pulses_Production,2332.0
+Uttar Pradesh,2013-14,61,Pulses_Production,1697.4
+Uttar Pradesh,2014-15,61,Pulses_Production,1438.7
+Uttar Pradesh,2015-16,61,Pulses_Production,1164.6
+Uttar Pradesh,2016-17,61,Pulses_Production,2184.4
+Uttar Pradesh,2017-18,61,Pulses_Production,2200.0
+Uttar Pradesh,2018-19,61,Pulses_Production,2408.0
+Uttar Pradesh,2019-20,61,Pulses_Production,2447.3
+Uttar Pradesh,2020-21,61,Pulses_Production,2475.9
+Uttar Pradesh,2021-22,61,Pulses_Production,2619.6
+Uttar Pradesh,2022-23,61,Pulses_Production,2842.6
+Uttar Pradesh,2023-24,61,Pulses_Production,3114.5
+Uttar Pradesh,2024-25,61,Pulses_Production,2631.1
+Uttarakhand,2004-05,61,Pulses_Production,28.0
+Uttarakhand,2005-06,61,Pulses_Production,36.0
+Uttarakhand,2006-07,61,Pulses_Production,34.0
+Uttarakhand,2007-08,61,Pulses_Production,50.0
+Uttarakhand,2008-09,61,Pulses_Production,39.0
+Uttarakhand,2009-10,61,Pulses_Production,46.0
+Uttarakhand,2010-11,61,Pulses_Production,52.1
+Uttarakhand,2011-12,61,Pulses_Production,49.0
+Uttarakhand,2012-13,61,Pulses_Production,51.3
+Uttarakhand,2013-14,61,Pulses_Production,56.5
+Uttarakhand,2014-15,61,Pulses_Production,54.6
+Uttarakhand,2015-16,61,Pulses_Production,51.6
+Uttarakhand,2016-17,61,Pulses_Production,53.0
+Uttarakhand,2017-18,61,Pulses_Production,54.2
+Uttarakhand,2018-19,61,Pulses_Production,55.3
+Uttarakhand,2019-20,61,Pulses_Production,57.8
+Uttarakhand,2020-21,61,Pulses_Production,61.3
+Uttarakhand,2021-22,61,Pulses_Production,63.5
+Uttarakhand,2022-23,61,Pulses_Production,61.5
+Uttarakhand,2023-24,61,Pulses_Production,51.8
+Uttarakhand,2024-25,61,Pulses_Production,48.1
+West Bengal,2004-05,61,Pulses_Production,167.1
+West Bengal,2005-06,61,Pulses_Production,174.3
+West Bengal,2006-07,61,Pulses_Production,154.0
+West Bengal,2007-08,61,Pulses_Production,147.6
+West Bengal,2008-09,61,Pulses_Production,128.5
+West Bengal,2009-10,61,Pulses_Production,150.1
+West Bengal,2010-11,61,Pulses_Production,176.1
+West Bengal,2011-12,61,Pulses_Production,130.6
+West Bengal,2012-13,61,Pulses_Production,192.3
+West Bengal,2013-14,61,Pulses_Production,241.7
+West Bengal,2014-15,61,Pulses_Production,236.5
+West Bengal,2015-16,61,Pulses_Production,334.0
+West Bengal,2016-17,61,Pulses_Production,259.5
+West Bengal,2017-18,61,Pulses_Production,443.8
+West Bengal,2018-19,61,Pulses_Production,368.4
+West Bengal,2019-20,61,Pulses_Production,384.9
+West Bengal,2020-21,61,Pulses_Production,441.9
+West Bengal,2021-22,61,Pulses_Production,389.6
+West Bengal,2022-23,61,Pulses_Production,450.6
+West Bengal,2023-24,61,Pulses_Production,433.0
+West Bengal,2024-25,61,Pulses_Production,421.5

@@ -1,0 +1,645 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,84,Total_Foodgrains_Yield,2138.0
+Andhra Pradesh,2005-06,84,Total_Foodgrains_Yield,2365.0
+Andhra Pradesh,2006-07,84,Total_Foodgrains_Yield,2231.0
+Andhra Pradesh,2007-08,84,Total_Foodgrains_Yield,2613.0
+Andhra Pradesh,2008-09,84,Total_Foodgrains_Yield,2744.0
+Andhra Pradesh,2009-10,84,Total_Foodgrains_Yield,2294.0
+Andhra Pradesh,2010-11,84,Total_Foodgrains_Yield,2530.0
+Andhra Pradesh,2011-12,84,Total_Foodgrains_Yield,2600.0
+Andhra Pradesh,2012-13,84,Total_Foodgrains_Yield,2506.0
+Andhra Pradesh,2013-14,84,Total_Foodgrains_Yield,2552.0
+Andhra Pradesh,2014-15,84,Total_Foodgrains_Yield,2648.0
+Andhra Pradesh,2015-16,84,Total_Foodgrains_Yield,2571.0
+Andhra Pradesh,2016-17,84,Total_Foodgrains_Yield,2611.0
+Andhra Pradesh,2017-18,84,Total_Foodgrains_Yield,2934.0
+Andhra Pradesh,2018-19,84,Total_Foodgrains_Yield,2694.0
+Andhra Pradesh,2019-20,84,Total_Foodgrains_Yield,3022.0
+Andhra Pradesh,2020-21,84,Total_Foodgrains_Yield,2773.0
+Andhra Pradesh,2021-22,84,Total_Foodgrains_Yield,2762.0
+Andhra Pradesh,2022-23,84,Total_Foodgrains_Yield,3301.0
+Andhra Pradesh,2023-24,84,Total_Foodgrains_Yield,3134.0
+Andhra Pradesh,2024-25,84,Total_Foodgrains_Yield,3157.0
+Arunachal Pradesh,2004-05,84,Total_Foodgrains_Yield,1178.0
+Arunachal Pradesh,2005-06,84,Total_Foodgrains_Yield,1212.0
+Arunachal Pradesh,2006-07,84,Total_Foodgrains_Yield,1216.0
+Arunachal Pradesh,2007-08,84,Total_Foodgrains_Yield,1241.0
+Arunachal Pradesh,2008-09,84,Total_Foodgrains_Yield,1255.0
+Arunachal Pradesh,2009-10,84,Total_Foodgrains_Yield,1555.0
+Arunachal Pradesh,2010-11,84,Total_Foodgrains_Yield,1663.0
+Arunachal Pradesh,2011-12,84,Total_Foodgrains_Yield,1767.0
+Arunachal Pradesh,2012-13,84,Total_Foodgrains_Yield,1772.0
+Arunachal Pradesh,2013-14,84,Total_Foodgrains_Yield,1795.0
+Arunachal Pradesh,2014-15,84,Total_Foodgrains_Yield,1889.0
+Arunachal Pradesh,2015-16,84,Total_Foodgrains_Yield,1476.0
+Arunachal Pradesh,2016-17,84,Total_Foodgrains_Yield,1687.0
+Arunachal Pradesh,2017-18,84,Total_Foodgrains_Yield,1584.0
+Arunachal Pradesh,2018-19,84,Total_Foodgrains_Yield,1618.0
+Arunachal Pradesh,2019-20,84,Total_Foodgrains_Yield,1631.0
+Arunachal Pradesh,2020-21,84,Total_Foodgrains_Yield,1646.0
+Arunachal Pradesh,2021-22,84,Total_Foodgrains_Yield,1649.0
+Arunachal Pradesh,2022-23,84,Total_Foodgrains_Yield,1656.0
+Arunachal Pradesh,2023-24,84,Total_Foodgrains_Yield,1653.0
+Arunachal Pradesh,2024-25,84,Total_Foodgrains_Yield,1653.0
+Assam,2004-05,84,Total_Foodgrains_Yield,1405.0
+Assam,2005-06,84,Total_Foodgrains_Yield,1416.0
+Assam,2006-07,84,Total_Foodgrains_Yield,1286.0
+Assam,2007-08,84,Total_Foodgrains_Yield,1378.0
+Assam,2008-09,84,Total_Foodgrains_Yield,1551.0
+Assam,2009-10,84,Total_Foodgrains_Yield,1662.0
+Assam,2010-11,84,Total_Foodgrains_Yield,1763.0
+Assam,2011-12,84,Total_Foodgrains_Yield,1704.0
+Assam,2012-13,84,Total_Foodgrains_Yield,1962.0
+Assam,2013-14,84,Total_Foodgrains_Yield,1916.0
+Assam,2014-15,84,Total_Foodgrains_Yield,2021.0
+Assam,2015-16,84,Total_Foodgrains_Yield,1997.0
+Assam,2016-17,84,Total_Foodgrains_Yield,1857.0
+Assam,2017-18,84,Total_Foodgrains_Yield,2091.0
+Assam,2018-19,84,Total_Foodgrains_Yield,2078.0
+Assam,2019-20,84,Total_Foodgrains_Yield,2105.0
+Assam,2020-21,84,Total_Foodgrains_Yield,2145.0
+Assam,2021-22,84,Total_Foodgrains_Yield,1831.0
+Assam,2022-23,84,Total_Foodgrains_Yield,2351.0
+Assam,2023-24,84,Total_Foodgrains_Yield,2374.0
+Assam,2024-25,84,Total_Foodgrains_Yield,2221.0
+Bihar,2004-05,84,Total_Foodgrains_Yield,1192.0
+Bihar,2005-06,84,Total_Foodgrains_Yield,1311.0
+Bihar,2006-07,84,Total_Foodgrains_Yield,1656.0
+Bihar,2007-08,84,Total_Foodgrains_Yield,1546.0
+Bihar,2008-09,84,Total_Foodgrains_Yield,1766.0
+Bihar,2009-10,84,Total_Foodgrains_Yield,1530.0
+Bihar,2010-11,84,Total_Foodgrains_Yield,1479.0
+Bihar,2011-12,84,Total_Foodgrains_Yield,2098.0
+Bihar,2012-13,84,Total_Foodgrains_Yield,2366.0
+Bihar,2013-14,84,Total_Foodgrains_Yield,2018.0
+Bihar,2014-15,84,Total_Foodgrains_Yield,1964.0
+Bihar,2015-16,84,Total_Foodgrains_Yield,2208.0
+Bihar,2016-17,84,Total_Foodgrains_Yield,2473.0
+Bihar,2017-18,84,Total_Foodgrains_Yield,2587.0
+Bihar,2018-19,84,Total_Foodgrains_Yield,2402.0
+Bihar,2019-20,84,Total_Foodgrains_Yield,2302.0
+Bihar,2020-21,84,Total_Foodgrains_Yield,2419.0
+Bihar,2021-22,84,Total_Foodgrains_Yield,2641.0
+Bihar,2022-23,84,Total_Foodgrains_Yield,2931.0
+Bihar,2023-24,84,Total_Foodgrains_Yield,3106.0
+Bihar,2024-25,84,Total_Foodgrains_Yield,3104.0
+Chhattisgarh,2004-05,84,Total_Foodgrains_Yield,979.0
+Chhattisgarh,2005-06,84,Total_Foodgrains_Yield,1111.0
+Chhattisgarh,2006-07,84,Total_Foodgrains_Yield,1148.0
+Chhattisgarh,2007-08,84,Total_Foodgrains_Yield,1238.0
+Chhattisgarh,2008-09,84,Total_Foodgrains_Yield,1041.0
+Chhattisgarh,2009-10,84,Total_Foodgrains_Yield,1008.0
+Chhattisgarh,2010-11,84,Total_Foodgrains_Yield,1424.0
+Chhattisgarh,2011-12,84,Total_Foodgrains_Yield,1384.0
+Chhattisgarh,2012-13,84,Total_Foodgrains_Yield,1506.0
+Chhattisgarh,2013-14,84,Total_Foodgrains_Yield,1523.0
+Chhattisgarh,2014-15,84,Total_Foodgrains_Yield,1474.0
+Chhattisgarh,2015-16,84,Total_Foodgrains_Yield,1334.0
+Chhattisgarh,2016-17,84,Total_Foodgrains_Yield,1846.0
+Chhattisgarh,2017-18,84,Total_Foodgrains_Yield,1220.0
+Chhattisgarh,2018-19,84,Total_Foodgrains_Yield,1617.0
+Chhattisgarh,2019-20,84,Total_Foodgrains_Yield,1584.0
+Chhattisgarh,2020-21,84,Total_Foodgrains_Yield,1712.0
+Chhattisgarh,2021-22,84,Total_Foodgrains_Yield,1895.0
+Chhattisgarh,2022-23,84,Total_Foodgrains_Yield,2319.0
+Chhattisgarh,2023-24,84,Total_Foodgrains_Yield,2281.0
+Chhattisgarh,2024-25,84,Total_Foodgrains_Yield,2409.0
+Delhi,2004-05,84,Total_Foodgrains_Yield,2892.0
+Delhi,2005-06,84,Total_Foodgrains_Yield,3175.0
+Delhi,2006-07,84,Total_Foodgrains_Yield,3405.0
+Delhi,2007-08,84,Total_Foodgrains_Yield,3340.0
+Delhi,2008-09,84,Total_Foodgrains_Yield,3348.0
+Delhi,2009-10,84,Total_Foodgrains_Yield,3952.0
+Delhi,2010-11,84,Total_Foodgrains_Yield,3896.0
+Delhi,2011-12,84,Total_Foodgrains_Yield,3567.0
+Delhi,2012-13,84,Total_Foodgrains_Yield,3531.0
+Delhi,2013-14,84,Total_Foodgrains_Yield,4057.0
+Delhi,2014-15,84,Total_Foodgrains_Yield,3908.0
+Delhi,2015-16,84,Total_Foodgrains_Yield,3650.0
+Delhi,2016-17,84,Total_Foodgrains_Yield,3652.0
+Delhi,2017-18,84,Total_Foodgrains_Yield,3570.0
+Delhi,2018-19,84,Total_Foodgrains_Yield,3567.0
+Delhi,2019-20,84,Total_Foodgrains_Yield,3570.0
+Delhi,2020-21,84,Total_Foodgrains_Yield,3764.0
+Delhi,2021-22,84,Total_Foodgrains_Yield,3757.0
+Delhi,2022-23,84,Total_Foodgrains_Yield,3854.0
+Delhi,2023-24,84,Total_Foodgrains_Yield,3860.0
+Delhi,2024-25,84,Total_Foodgrains_Yield,3830.0
+Goa,2004-05,84,Total_Foodgrains_Yield,2456.0
+Goa,2005-06,84,Total_Foodgrains_Yield,2509.0
+Goa,2006-07,84,Total_Foodgrains_Yield,2254.0
+Goa,2007-08,84,Total_Foodgrains_Yield,2091.0
+Goa,2008-09,84,Total_Foodgrains_Yield,2231.0
+Goa,2009-10,84,Total_Foodgrains_Yield,1990.0
+Goa,2010-11,84,Total_Foodgrains_Yield,2264.0
+Goa,2011-12,84,Total_Foodgrains_Yield,2272.0
+Goa,2012-13,84,Total_Foodgrains_Yield,2361.0
+Goa,2013-14,84,Total_Foodgrains_Yield,2659.0
+Goa,2014-15,84,Total_Foodgrains_Yield,2545.0
+Goa,2015-16,84,Total_Foodgrains_Yield,2767.0
+Goa,2016-17,84,Total_Foodgrains_Yield,2551.0
+Goa,2017-18,84,Total_Foodgrains_Yield,2447.0
+Goa,2018-19,84,Total_Foodgrains_Yield,2469.0
+Goa,2019-20,84,Total_Foodgrains_Yield,2411.0
+Goa,2020-21,84,Total_Foodgrains_Yield,2494.0
+Goa,2021-22,84,Total_Foodgrains_Yield,2585.0
+Goa,2022-23,84,Total_Foodgrains_Yield,2607.0
+Goa,2023-24,84,Total_Foodgrains_Yield,2710.0
+Goa,2024-25,84,Total_Foodgrains_Yield,2198.0
+Gujarat,2004-05,84,Total_Foodgrains_Yield,1412.0
+Gujarat,2005-06,84,Total_Foodgrains_Yield,1551.0
+Gujarat,2006-07,84,Total_Foodgrains_Yield,1423.0
+Gujarat,2007-08,84,Total_Foodgrains_Yield,1831.0
+Gujarat,2008-09,84,Total_Foodgrains_Yield,1595.0
+Gujarat,2009-10,84,Total_Foodgrains_Yield,1560.0
+Gujarat,2010-11,84,Total_Foodgrains_Yield,1843.0
+Gujarat,2011-12,84,Total_Foodgrains_Yield,1874.0
+Gujarat,2012-13,84,Total_Foodgrains_Yield,1970.0
+Gujarat,2013-14,84,Total_Foodgrains_Yield,2097.0
+Gujarat,2014-15,84,Total_Foodgrains_Yield,2016.0
+Gujarat,2015-16,84,Total_Foodgrains_Yield,2000.0
+Gujarat,2016-17,84,Total_Foodgrains_Yield,1952.0
+Gujarat,2017-18,84,Total_Foodgrains_Yield,2051.0
+Gujarat,2018-19,84,Total_Foodgrains_Yield,2134.0
+Gujarat,2019-20,84,Total_Foodgrains_Yield,2169.0
+Gujarat,2020-21,84,Total_Foodgrains_Yield,2121.0
+Gujarat,2021-22,84,Total_Foodgrains_Yield,2205.0
+Gujarat,2022-23,84,Total_Foodgrains_Yield,2309.0
+Gujarat,2023-24,84,Total_Foodgrains_Yield,2320.0
+Gujarat,2024-25,84,Total_Foodgrains_Yield,2278.0
+Haryana,2004-05,84,Total_Foodgrains_Yield,3092.0
+Haryana,2005-06,84,Total_Foodgrains_Yield,3045.0
+Haryana,2006-07,84,Total_Foodgrains_Yield,3393.0
+Haryana,2007-08,84,Total_Foodgrains_Yield,3420.0
+Haryana,2008-09,84,Total_Foodgrains_Yield,3387.0
+Haryana,2009-10,84,Total_Foodgrains_Yield,3383.0
+Haryana,2010-11,84,Total_Foodgrains_Yield,3526.0
+Haryana,2011-12,84,Total_Foodgrains_Yield,3879.0
+Haryana,2012-13,84,Total_Foodgrains_Yield,3689.0
+Haryana,2013-14,84,Total_Foodgrains_Yield,3855.0
+Haryana,2014-15,84,Total_Foodgrains_Yield,3427.0
+Haryana,2015-16,84,Total_Foodgrains_Yield,3648.0
+Haryana,2016-17,84,Total_Foodgrains_Yield,3736.0
+Haryana,2017-18,84,Total_Foodgrains_Yield,3632.0
+Haryana,2018-19,84,Total_Foodgrains_Yield,3981.0
+Haryana,2019-20,84,Total_Foodgrains_Yield,3891.0
+Haryana,2020-21,84,Total_Foodgrains_Yield,3985.0
+Haryana,2021-22,84,Total_Foodgrains_Yield,3864.0
+Haryana,2022-23,84,Total_Foodgrains_Yield,3846.0
+Haryana,2023-24,84,Total_Foodgrains_Yield,4058.0
+Haryana,2024-25,84,Total_Foodgrains_Yield,4036.0
+Himachal Pradesh,2004-05,84,Total_Foodgrains_Yield,1923.0
+Himachal Pradesh,2005-06,84,Total_Foodgrains_Yield,1731.0
+Himachal Pradesh,2006-07,84,Total_Foodgrains_Yield,1714.0
+Himachal Pradesh,2007-08,84,Total_Foodgrains_Yield,1918.0
+Himachal Pradesh,2008-09,84,Total_Foodgrains_Yield,1757.0
+Himachal Pradesh,2009-10,84,Total_Foodgrains_Yield,1297.0
+Himachal Pradesh,2010-11,84,Total_Foodgrains_Yield,1787.0
+Himachal Pradesh,2011-12,84,Total_Foodgrains_Yield,1911.0
+Himachal Pradesh,2012-13,84,Total_Foodgrains_Yield,1849.0
+Himachal Pradesh,2013-14,84,Total_Foodgrains_Yield,1962.0
+Himachal Pradesh,2014-15,84,Total_Foodgrains_Yield,1896.0
+Himachal Pradesh,2015-16,84,Total_Foodgrains_Yield,2122.0
+Himachal Pradesh,2016-17,84,Total_Foodgrains_Yield,2249.0
+Himachal Pradesh,2017-18,84,Total_Foodgrains_Yield,2053.0
+Himachal Pradesh,2018-19,84,Total_Foodgrains_Yield,2049.0
+Himachal Pradesh,2019-20,84,Total_Foodgrains_Yield,2180.0
+Himachal Pradesh,2020-21,84,Total_Foodgrains_Yield,2112.0
+Himachal Pradesh,2021-22,84,Total_Foodgrains_Yield,2260.0
+Himachal Pradesh,2022-23,84,Total_Foodgrains_Yield,2138.0
+Himachal Pradesh,2023-24,84,Total_Foodgrains_Yield,2392.0
+Himachal Pradesh,2024-25,84,Total_Foodgrains_Yield,2285.0
+Jammu & Kashmir,2004-05,84,Total_Foodgrains_Yield,1686.0
+Jammu & Kashmir,2005-06,84,Total_Foodgrains_Yield,1680.0
+Jammu & Kashmir,2006-07,84,Total_Foodgrains_Yield,1733.0
+Jammu & Kashmir,2007-08,84,Total_Foodgrains_Yield,1711.0
+Jammu & Kashmir,2008-09,84,Total_Foodgrains_Yield,1851.0
+Jammu & Kashmir,2009-10,84,Total_Foodgrains_Yield,1405.0
+Jammu & Kashmir,2010-11,84,Total_Foodgrains_Yield,1639.0
+Jammu & Kashmir,2011-12,84,Total_Foodgrains_Yield,1690.0
+Jammu & Kashmir,2012-13,84,Total_Foodgrains_Yield,1962.0
+Jammu & Kashmir,2013-14,84,Total_Foodgrains_Yield,1915.0
+Jammu & Kashmir,2014-15,84,Total_Foodgrains_Yield,1275.0
+Jammu & Kashmir,2015-16,84,Total_Foodgrains_Yield,1898.0
+Jammu & Kashmir,2016-17,84,Total_Foodgrains_Yield,1749.0
+Jammu & Kashmir,2017-18,84,Total_Foodgrains_Yield,1709.0
+Jammu & Kashmir,2018-19,84,Total_Foodgrains_Yield,2178.0
+Jammu & Kashmir,2019-20,84,Total_Foodgrains_Yield,2000.0
+Jammu & Kashmir,2020-21,84,Total_Foodgrains_Yield,1894.0
+Jammu & Kashmir,2021-22,84,Total_Foodgrains_Yield,1914.0
+Jammu & Kashmir,2022-23,84,Total_Foodgrains_Yield,2007.0
+Jammu & Kashmir,2023-24,84,Total_Foodgrains_Yield,2074.0
+Jammu & Kashmir,2024-25,84,Total_Foodgrains_Yield,2074.0
+Jharkhand,2004-05,84,Total_Foodgrains_Yield,1234.0
+Jharkhand,2005-06,84,Total_Foodgrains_Yield,1073.0
+Jharkhand,2006-07,84,Total_Foodgrains_Yield,1550.0
+Jharkhand,2007-08,84,Total_Foodgrains_Yield,1709.0
+Jharkhand,2008-09,84,Total_Foodgrains_Yield,1720.0
+Jharkhand,2009-10,84,Total_Foodgrains_Yield,1330.0
+Jharkhand,2010-11,84,Total_Foodgrains_Yield,1257.0
+Jharkhand,2011-12,84,Total_Foodgrains_Yield,1798.0
+Jharkhand,2012-13,84,Total_Foodgrains_Yield,1876.0
+Jharkhand,2013-14,84,Total_Foodgrains_Yield,1891.0
+Jharkhand,2014-15,84,Total_Foodgrains_Yield,1871.0
+Jharkhand,2015-16,84,Total_Foodgrains_Yield,1546.0
+Jharkhand,2016-17,84,Total_Foodgrains_Yield,1856.0
+Jharkhand,2017-18,84,Total_Foodgrains_Yield,1957.0
+Jharkhand,2018-19,84,Total_Foodgrains_Yield,1623.0
+Jharkhand,2019-20,84,Total_Foodgrains_Yield,1817.0
+Jharkhand,2020-21,84,Total_Foodgrains_Yield,1733.0
+Jharkhand,2021-22,84,Total_Foodgrains_Yield,1765.0
+Jharkhand,2022-23,84,Total_Foodgrains_Yield,1548.0
+Jharkhand,2023-24,84,Total_Foodgrains_Yield,1436.0
+Jharkhand,2024-25,84,Total_Foodgrains_Yield,1710.0
+Karnataka,2004-05,84,Total_Foodgrains_Yield,1388.0
+Karnataka,2005-06,84,Total_Foodgrains_Yield,1776.0
+Karnataka,2006-07,84,Total_Foodgrains_Yield,1289.0
+Karnataka,2007-08,84,Total_Foodgrains_Yield,1548.0
+Karnataka,2008-09,84,Total_Foodgrains_Yield,1511.0
+Karnataka,2009-10,84,Total_Foodgrains_Yield,1377.0
+Karnataka,2010-11,84,Total_Foodgrains_Yield,1684.0
+Karnataka,2011-12,84,Total_Foodgrains_Yield,1771.0
+Karnataka,2012-13,84,Total_Foodgrains_Yield,1488.0
+Karnataka,2013-14,84,Total_Foodgrains_Yield,1620.0
+Karnataka,2014-15,84,Total_Foodgrains_Yield,1689.0
+Karnataka,2015-16,84,Total_Foodgrains_Yield,1354.0
+Karnataka,2016-17,84,Total_Foodgrains_Yield,1333.0
+Karnataka,2017-18,84,Total_Foodgrains_Yield,1542.0
+Karnataka,2018-19,84,Total_Foodgrains_Yield,1422.0
+Karnataka,2019-20,84,Total_Foodgrains_Yield,1658.0
+Karnataka,2020-21,84,Total_Foodgrains_Yield,1767.0
+Karnataka,2021-22,84,Total_Foodgrains_Yield,1726.0
+Karnataka,2022-23,84,Total_Foodgrains_Yield,1832.0
+Karnataka,2023-24,84,Total_Foodgrains_Yield,1710.0
+Karnataka,2024-25,84,Total_Foodgrains_Yield,1749.0
+Kerala,2004-05,84,Total_Foodgrains_Yield,2278.0
+Kerala,2005-06,84,Total_Foodgrains_Yield,2219.0
+Kerala,2006-07,84,Total_Foodgrains_Yield,2331.0
+Kerala,2007-08,84,Total_Foodgrains_Yield,2221.0
+Kerala,2008-09,84,Total_Foodgrains_Yield,2440.0
+Kerala,2009-10,84,Total_Foodgrains_Yield,2470.0
+Kerala,2010-11,84,Total_Foodgrains_Yield,2400.0
+Kerala,2011-12,84,Total_Foodgrains_Yield,2695.0
+Kerala,2012-13,84,Total_Foodgrains_Yield,2547.0
+Kerala,2013-14,84,Total_Foodgrains_Yield,2530.0
+Kerala,2014-15,84,Total_Foodgrains_Yield,2823.0
+Kerala,2015-16,84,Total_Foodgrains_Yield,2756.0
+Kerala,2016-17,84,Total_Foodgrains_Yield,2532.0
+Kerala,2017-18,84,Total_Foodgrains_Yield,2736.0
+Kerala,2018-19,84,Total_Foodgrains_Yield,2890.0
+Kerala,2019-20,84,Total_Foodgrains_Yield,3025.0
+Kerala,2020-21,84,Total_Foodgrains_Yield,3064.0
+Kerala,2021-22,84,Total_Foodgrains_Yield,2475.0
+Kerala,2022-23,84,Total_Foodgrains_Yield,3090.0
+Kerala,2023-24,84,Total_Foodgrains_Yield,2731.0
+Kerala,2024-25,84,Total_Foodgrains_Yield,2906.0
+Madhya Pradesh,2004-05,84,Total_Foodgrains_Yield,1131.0
+Madhya Pradesh,2005-06,84,Total_Foodgrains_Yield,1130.0
+Madhya Pradesh,2006-07,84,Total_Foodgrains_Yield,1167.0
+Madhya Pradesh,2007-08,84,Total_Foodgrains_Yield,1069.0
+Madhya Pradesh,2008-09,84,Total_Foodgrains_Yield,1168.0
+Madhya Pradesh,2009-10,84,Total_Foodgrains_Yield,1285.0
+Madhya Pradesh,2010-11,84,Total_Foodgrains_Yield,1162.0
+Madhya Pradesh,2011-12,84,Total_Foodgrains_Yield,1510.0
+Madhya Pradesh,2012-13,84,Total_Foodgrains_Yield,1676.0
+Madhya Pradesh,2013-14,84,Total_Foodgrains_Yield,1603.0
+Madhya Pradesh,2014-15,84,Total_Foodgrains_Yield,1856.0
+Madhya Pradesh,2015-16,84,Total_Foodgrains_Yield,1941.0
+Madhya Pradesh,2016-17,84,Total_Foodgrains_Yield,1947.0
+Madhya Pradesh,2017-18,84,Total_Foodgrains_Yield,1963.0
+Madhya Pradesh,2018-19,84,Total_Foodgrains_Yield,1970.0
+Madhya Pradesh,2019-20,84,Total_Foodgrains_Yield,2199.0
+Madhya Pradesh,2020-21,84,Total_Foodgrains_Yield,2188.0
+Madhya Pradesh,2021-22,84,Total_Foodgrains_Yield,2468.0
+Madhya Pradesh,2022-23,84,Total_Foodgrains_Yield,2296.0
+Madhya Pradesh,2023-24,84,Total_Foodgrains_Yield,2268.0
+Madhya Pradesh,2024-25,84,Total_Foodgrains_Yield,2470.0
+Maharashtra,2004-05,84,Total_Foodgrains_Yield,836.0
+Maharashtra,2005-06,84,Total_Foodgrains_Yield,948.0
+Maharashtra,2006-07,84,Total_Foodgrains_Yield,940.0
+Maharashtra,2007-08,84,Total_Foodgrains_Yield,1150.0
+Maharashtra,2008-09,84,Total_Foodgrains_Yield,1001.0
+Maharashtra,2009-10,84,Total_Foodgrains_Yield,1039.0
+Maharashtra,2010-11,84,Total_Foodgrains_Yield,1184.0
+Maharashtra,2011-12,84,Total_Foodgrains_Yield,1155.0
+Maharashtra,2012-13,84,Total_Foodgrains_Yield,1038.0
+Maharashtra,2013-14,84,Total_Foodgrains_Yield,1207.0
+Maharashtra,2014-15,84,Total_Foodgrains_Yield,988.0
+Maharashtra,2015-16,84,Total_Foodgrains_Yield,781.0
+Maharashtra,2016-17,84,Total_Foodgrains_Yield,1239.0
+Maharashtra,2017-18,84,Total_Foodgrains_Yield,1212.0
+Maharashtra,2018-19,84,Total_Foodgrains_Yield,1071.0
+Maharashtra,2019-20,84,Total_Foodgrains_Yield,1163.0
+Maharashtra,2020-21,84,Total_Foodgrains_Yield,1390.0
+Maharashtra,2021-22,84,Total_Foodgrains_Yield,1438.0
+Maharashtra,2022-23,84,Total_Foodgrains_Yield,1479.0
+Maharashtra,2023-24,84,Total_Foodgrains_Yield,1347.0
+Maharashtra,2024-25,84,Total_Foodgrains_Yield,1574.0
+Manipur,2004-05,84,Total_Foodgrains_Yield,2417.0
+Manipur,2005-06,84,Total_Foodgrains_Yield,2241.0
+Manipur,2006-07,84,Total_Foodgrains_Yield,2241.0
+Manipur,2007-08,84,Total_Foodgrains_Yield,2297.0
+Manipur,2008-09,84,Total_Foodgrains_Yield,2236.0
+Manipur,2009-10,84,Total_Foodgrains_Yield,1796.0
+Manipur,2010-11,84,Total_Foodgrains_Yield,2244.0
+Manipur,2011-12,84,Total_Foodgrains_Yield,2397.0
+Manipur,2012-13,84,Total_Foodgrains_Yield,1926.0
+Manipur,2013-14,84,Total_Foodgrains_Yield,1740.0
+Manipur,2014-15,84,Total_Foodgrains_Yield,1506.0
+Manipur,2015-16,84,Total_Foodgrains_Yield,1468.0
+Manipur,2016-17,84,Total_Foodgrains_Yield,1726.0
+Manipur,2017-18,84,Total_Foodgrains_Yield,2379.0
+Manipur,2018-19,84,Total_Foodgrains_Yield,1688.0
+Manipur,2019-20,84,Total_Foodgrains_Yield,2030.0
+Manipur,2020-21,84,Total_Foodgrains_Yield,2448.0
+Manipur,2021-22,84,Total_Foodgrains_Yield,2539.0
+Manipur,2022-23,84,Total_Foodgrains_Yield,1799.0
+Manipur,2023-24,84,Total_Foodgrains_Yield,1923.0
+Manipur,2024-25,84,Total_Foodgrains_Yield,2300.0
+Meghalaya,2004-05,84,Total_Foodgrains_Yield,1649.0
+Meghalaya,2005-06,84,Total_Foodgrains_Yield,1455.0
+Meghalaya,2006-07,84,Total_Foodgrains_Yield,1800.0
+Meghalaya,2007-08,84,Total_Foodgrains_Yield,1774.0
+Meghalaya,2008-09,84,Total_Foodgrains_Yield,1783.0
+Meghalaya,2009-10,84,Total_Foodgrains_Yield,1809.0
+Meghalaya,2010-11,84,Total_Foodgrains_Yield,1803.0
+Meghalaya,2011-12,84,Total_Foodgrains_Yield,1873.0
+Meghalaya,2012-13,84,Total_Foodgrains_Yield,1997.0
+Meghalaya,2013-14,84,Total_Foodgrains_Yield,2389.0
+Meghalaya,2014-15,84,Total_Foodgrains_Yield,2532.0
+Meghalaya,2015-16,84,Total_Foodgrains_Yield,2555.0
+Meghalaya,2016-17,84,Total_Foodgrains_Yield,1846.0
+Meghalaya,2017-18,84,Total_Foodgrains_Yield,2566.0
+Meghalaya,2018-19,84,Total_Foodgrains_Yield,1835.0
+Meghalaya,2019-20,84,Total_Foodgrains_Yield,2562.0
+Meghalaya,2020-21,84,Total_Foodgrains_Yield,2570.0
+Meghalaya,2021-22,84,Total_Foodgrains_Yield,2564.0
+Meghalaya,2022-23,84,Total_Foodgrains_Yield,2439.0
+Meghalaya,2023-24,84,Total_Foodgrains_Yield,2334.0
+Meghalaya,2024-25,84,Total_Foodgrains_Yield,2439.0
+Mizoram,2004-05,84,Total_Foodgrains_Yield,1888.0
+Mizoram,2005-06,84,Total_Foodgrains_Yield,1754.0
+Mizoram,2006-07,84,Total_Foodgrains_Yield,822.0
+Mizoram,2007-08,84,Total_Foodgrains_Yield,285.0
+Mizoram,2008-09,84,Total_Foodgrains_Yield,898.0
+Mizoram,2009-10,84,Total_Foodgrains_Yield,1045.0
+Mizoram,2010-11,84,Total_Foodgrains_Yield,1246.0
+Mizoram,2011-12,84,Total_Foodgrains_Yield,1382.0
+Mizoram,2012-13,84,Total_Foodgrains_Yield,1756.0
+Mizoram,2013-14,84,Total_Foodgrains_Yield,1506.0
+Mizoram,2014-15,84,Total_Foodgrains_Yield,1607.0
+Mizoram,2015-16,84,Total_Foodgrains_Yield,1595.0
+Mizoram,2016-17,84,Total_Foodgrains_Yield,1629.0
+Mizoram,2017-18,84,Total_Foodgrains_Yield,1634.0
+Mizoram,2018-19,84,Total_Foodgrains_Yield,1691.0
+Mizoram,2019-20,84,Total_Foodgrains_Yield,1676.0
+Mizoram,2020-21,84,Total_Foodgrains_Yield,1736.0
+Mizoram,2021-22,84,Total_Foodgrains_Yield,1709.0
+Mizoram,2022-23,84,Total_Foodgrains_Yield,1279.0
+Mizoram,2023-24,84,Total_Foodgrains_Yield,1618.0
+Mizoram,2024-25,84,Total_Foodgrains_Yield,1670.0
+Nagaland,2004-05,84,Total_Foodgrains_Yield,1577.0
+Nagaland,2005-06,84,Total_Foodgrains_Yield,1615.0
+Nagaland,2006-07,84,Total_Foodgrains_Yield,1482.0
+Nagaland,2007-08,84,Total_Foodgrains_Yield,1567.0
+Nagaland,2008-09,84,Total_Foodgrains_Yield,1811.0
+Nagaland,2009-10,84,Total_Foodgrains_Yield,1256.0
+Nagaland,2010-11,84,Total_Foodgrains_Yield,1902.0
+Nagaland,2011-12,84,Total_Foodgrains_Yield,1920.0
+Nagaland,2012-13,84,Total_Foodgrains_Yield,1967.0
+Nagaland,2013-14,84,Total_Foodgrains_Yield,2018.0
+Nagaland,2014-15,84,Total_Foodgrains_Yield,2065.0
+Nagaland,2015-16,84,Total_Foodgrains_Yield,1606.0
+Nagaland,2016-17,84,Total_Foodgrains_Yield,1621.0
+Nagaland,2017-18,84,Total_Foodgrains_Yield,1641.0
+Nagaland,2018-19,84,Total_Foodgrains_Yield,1664.0
+Nagaland,2019-20,84,Total_Foodgrains_Yield,1660.0
+Nagaland,2020-21,84,Total_Foodgrains_Yield,1664.0
+Nagaland,2021-22,84,Total_Foodgrains_Yield,1281.0
+Nagaland,2022-23,84,Total_Foodgrains_Yield,1700.0
+Nagaland,2023-24,84,Total_Foodgrains_Yield,1692.0
+Nagaland,2024-25,84,Total_Foodgrains_Yield,1673.0
+Odisha,2004-05,84,Total_Foodgrains_Yield,1300.0
+Odisha,2005-06,84,Total_Foodgrains_Yield,1349.0
+Odisha,2006-07,84,Total_Foodgrains_Yield,1359.0
+Odisha,2007-08,84,Total_Foodgrains_Yield,1484.0
+Odisha,2008-09,84,Total_Foodgrains_Yield,1363.0
+Odisha,2009-10,84,Total_Foodgrains_Yield,1397.0
+Odisha,2010-11,84,Total_Foodgrains_Yield,1432.0
+Odisha,2011-12,84,Total_Foodgrains_Yield,1303.0
+Odisha,2012-13,84,Total_Foodgrains_Yield,1592.0
+Odisha,2013-14,84,Total_Foodgrains_Yield,1625.0
+Odisha,2014-15,84,Total_Foodgrains_Yield,1738.0
+Odisha,2015-16,84,Total_Foodgrains_Yield,1330.0
+Odisha,2016-17,84,Total_Foodgrains_Yield,1855.0
+Odisha,2017-18,84,Total_Foodgrains_Yield,1533.0
+Odisha,2018-19,84,Total_Foodgrains_Yield,1766.0
+Odisha,2019-20,84,Total_Foodgrains_Yield,1870.0
+Odisha,2020-21,84,Total_Foodgrains_Yield,1913.0
+Odisha,2021-22,84,Total_Foodgrains_Yield,2016.0
+Odisha,2022-23,84,Total_Foodgrains_Yield,1777.0
+Odisha,2023-24,84,Total_Foodgrains_Yield,1798.0
+Odisha,2024-25,84,Total_Foodgrains_Yield,2160.0
+Puducherry,2004-05,84,Total_Foodgrains_Yield,2331.0
+Puducherry,2005-06,84,Total_Foodgrains_Yield,2180.0
+Puducherry,2006-07,84,Total_Foodgrains_Yield,2180.0
+Puducherry,2007-08,84,Total_Foodgrains_Yield,2130.0
+Puducherry,2008-09,84,Total_Foodgrains_Yield,2201.0
+Puducherry,2009-10,84,Total_Foodgrains_Yield,2297.0
+Puducherry,2010-11,84,Total_Foodgrains_Yield,2351.0
+Puducherry,2011-12,84,Total_Foodgrains_Yield,2269.0
+Puducherry,2012-13,84,Total_Foodgrains_Yield,2650.0
+Puducherry,2013-14,84,Total_Foodgrains_Yield,2953.0
+Puducherry,2014-15,84,Total_Foodgrains_Yield,2899.0
+Puducherry,2015-16,84,Total_Foodgrains_Yield,2285.0
+Puducherry,2016-17,84,Total_Foodgrains_Yield,2962.0
+Puducherry,2017-18,84,Total_Foodgrains_Yield,2348.0
+Puducherry,2018-19,84,Total_Foodgrains_Yield,3345.0
+Puducherry,2019-20,84,Total_Foodgrains_Yield,3074.0
+Puducherry,2020-21,84,Total_Foodgrains_Yield,2623.0
+Puducherry,2021-22,84,Total_Foodgrains_Yield,2847.0
+Puducherry,2022-23,84,Total_Foodgrains_Yield,3124.0
+Puducherry,2023-24,84,Total_Foodgrains_Yield,3001.0
+Puducherry,2024-25,84,Total_Foodgrains_Yield,2632.0
+Punjab,2004-05,84,Total_Foodgrains_Yield,4040.0
+Punjab,2005-06,84,Total_Foodgrains_Yield,3986.0
+Punjab,2006-07,84,Total_Foodgrains_Yield,4017.0
+Punjab,2007-08,84,Total_Foodgrains_Yield,4255.0
+Punjab,2008-09,84,Total_Foodgrains_Yield,4231.0
+Punjab,2009-10,84,Total_Foodgrains_Yield,4144.0
+Punjab,2010-11,84,Total_Foodgrains_Yield,4280.0
+Punjab,2011-12,84,Total_Foodgrains_Yield,4364.0
+Punjab,2012-13,84,Total_Foodgrains_Yield,4347.0
+Punjab,2013-14,84,Total_Foodgrains_Yield,4500.0
+Punjab,2014-15,84,Total_Foodgrains_Yield,4054.0
+Punjab,2015-16,84,Total_Foodgrains_Yield,4269.0
+Punjab,2016-17,84,Total_Foodgrains_Yield,4353.0
+Punjab,2017-18,84,Total_Foodgrains_Yield,4709.0
+Punjab,2018-19,84,Total_Foodgrains_Yield,4658.0
+Punjab,2019-20,84,Total_Foodgrains_Yield,4527.0
+Punjab,2020-21,84,Total_Foodgrains_Yield,4606.0
+Punjab,2021-22,84,Total_Foodgrains_Yield,4237.0
+Punjab,2022-23,84,Total_Foodgrains_Yield,4470.0
+Punjab,2023-24,84,Total_Foodgrains_Yield,4737.0
+Punjab,2024-25,84,Total_Foodgrains_Yield,4761.0
+Rajasthan,2004-05,84,Total_Foodgrains_Yield,1008.0
+Rajasthan,2005-06,84,Total_Foodgrains_Yield,919.0
+Rajasthan,2006-07,84,Total_Foodgrains_Yield,1119.0
+Rajasthan,2007-08,84,Total_Foodgrains_Yield,1180.0
+Rajasthan,2008-09,84,Total_Foodgrains_Yield,1263.0
+Rajasthan,2009-10,84,Total_Foodgrains_Yield,931.0
+Rajasthan,2010-11,84,Total_Foodgrains_Yield,1250.0
+Rajasthan,2011-12,84,Total_Foodgrains_Yield,1348.0
+Rajasthan,2012-13,84,Total_Foodgrains_Yield,1480.0
+Rajasthan,2013-14,84,Total_Foodgrains_Yield,1334.0
+Rajasthan,2014-15,84,Total_Foodgrains_Yield,1529.0
+Rajasthan,2015-16,84,Total_Foodgrains_Yield,1390.0
+Rajasthan,2016-17,84,Total_Foodgrains_Yield,1359.0
+Rajasthan,2017-18,84,Total_Foodgrains_Yield,1402.0
+Rajasthan,2018-19,84,Total_Foodgrains_Yield,1437.0
+Rajasthan,2019-20,84,Total_Foodgrains_Yield,1469.0
+Rajasthan,2020-21,84,Total_Foodgrains_Yield,1561.0
+Rajasthan,2021-22,84,Total_Foodgrains_Yield,1469.0
+Rajasthan,2022-23,84,Total_Foodgrains_Yield,1584.0
+Rajasthan,2023-24,84,Total_Foodgrains_Yield,1515.0
+Rajasthan,2024-25,84,Total_Foodgrains_Yield,1672.0
+Sikkim,2004-05,84,Total_Foodgrains_Yield,1406.0
+Sikkim,2005-06,84,Total_Foodgrains_Yield,1354.0
+Sikkim,2006-07,84,Total_Foodgrains_Yield,1354.0
+Sikkim,2007-08,84,Total_Foodgrains_Yield,1378.0
+Sikkim,2008-09,84,Total_Foodgrains_Yield,1351.0
+Sikkim,2009-10,84,Total_Foodgrains_Yield,1496.0
+Sikkim,2010-11,84,Total_Foodgrains_Yield,1448.0
+Sikkim,2011-12,84,Total_Foodgrains_Yield,1495.0
+Sikkim,2012-13,84,Total_Foodgrains_Yield,1538.0
+Sikkim,2013-14,84,Total_Foodgrains_Yield,1577.0
+Sikkim,2014-15,84,Total_Foodgrains_Yield,1579.0
+Sikkim,2015-16,84,Total_Foodgrains_Yield,1507.0
+Sikkim,2016-17,84,Total_Foodgrains_Yield,1616.0
+Sikkim,2017-18,84,Total_Foodgrains_Yield,1665.0
+Sikkim,2018-19,84,Total_Foodgrains_Yield,1669.0
+Sikkim,2019-20,84,Total_Foodgrains_Yield,1669.0
+Sikkim,2020-21,84,Total_Foodgrains_Yield,1676.0
+Sikkim,2021-22,84,Total_Foodgrains_Yield,1680.0
+Sikkim,2022-23,84,Total_Foodgrains_Yield,1610.0
+Sikkim,2023-24,84,Total_Foodgrains_Yield,1577.0
+Sikkim,2024-25,84,Total_Foodgrains_Yield,1577.0
+Tamil Nadu,2004-05,84,Total_Foodgrains_Yield,1874.0
+Tamil Nadu,2005-06,84,Total_Foodgrains_Yield,1847.0
+Tamil Nadu,2006-07,84,Total_Foodgrains_Yield,2610.0
+Tamil Nadu,2007-08,84,Total_Foodgrains_Yield,2125.0
+Tamil Nadu,2008-09,84,Total_Foodgrains_Yield,2225.0
+Tamil Nadu,2009-10,84,Total_Foodgrains_Yield,2477.0
+Tamil Nadu,2010-11,84,Total_Foodgrains_Yield,2393.0
+Tamil Nadu,2011-12,84,Total_Foodgrains_Yield,3162.0
+Tamil Nadu,2012-13,84,Total_Foodgrains_Yield,2131.0
+Tamil Nadu,2013-14,84,Total_Foodgrains_Yield,2554.0
+Tamil Nadu,2014-15,84,Total_Foodgrains_Yield,2720.0
+Tamil Nadu,2015-16,84,Total_Foodgrains_Yield,3063.0
+Tamil Nadu,2016-17,84,Total_Foodgrains_Yield,1406.0
+Tamil Nadu,2017-18,84,Total_Foodgrains_Yield,3028.0
+Tamil Nadu,2018-19,84,Total_Foodgrains_Yield,2972.0
+Tamil Nadu,2019-20,84,Total_Foodgrains_Yield,3052.0
+Tamil Nadu,2020-21,84,Total_Foodgrains_Yield,2834.0
+Tamil Nadu,2021-22,84,Total_Foodgrains_Yield,3019.0
+Tamil Nadu,2022-23,84,Total_Foodgrains_Yield,3021.0
+Tamil Nadu,2023-24,84,Total_Foodgrains_Yield,2839.0
+Tamil Nadu,2024-25,84,Total_Foodgrains_Yield,2835.0
+Telangana,2011-12,84,Total_Foodgrains_Yield,2411.0
+Telangana,2012-13,84,Total_Foodgrains_Yield,2911.0
+Telangana,2013-14,84,Total_Foodgrains_Yield,2798.0
+Telangana,2014-15,84,Total_Foodgrains_Yield,2723.0
+Telangana,2015-16,84,Total_Foodgrains_Yield,2353.0
+Telangana,2016-17,84,Total_Foodgrains_Yield,2577.0
+Telangana,2017-18,84,Total_Foodgrains_Yield,2903.0
+Telangana,2018-19,84,Total_Foodgrains_Yield,3035.0
+Telangana,2019-20,84,Total_Foodgrains_Yield,3483.0
+Telangana,2020-21,84,Total_Foodgrains_Yield,3075.0
+Telangana,2021-22,84,Total_Foodgrains_Yield,3237.0
+Telangana,2022-23,84,Total_Foodgrains_Yield,3401.0
+Telangana,2023-24,84,Total_Foodgrains_Yield,3606.0
+Telangana,2024-25,84,Total_Foodgrains_Yield,3655.0
+Tripura,2004-05,84,Total_Foodgrains_Yield,2179.0
+Tripura,2005-06,84,Total_Foodgrains_Yield,2194.0
+Tripura,2006-07,84,Total_Foodgrains_Yield,2399.0
+Tripura,2007-08,84,Total_Foodgrains_Yield,2563.0
+Tripura,2008-09,84,Total_Foodgrains_Yield,2526.0
+Tripura,2009-10,84,Total_Foodgrains_Yield,2545.0
+Tripura,2010-11,84,Total_Foodgrains_Yield,2587.0
+Tripura,2011-12,84,Total_Foodgrains_Yield,2620.0
+Tripura,2012-13,84,Total_Foodgrains_Yield,2711.0
+Tripura,2013-14,84,Total_Foodgrains_Yield,2680.0
+Tripura,2014-15,84,Total_Foodgrains_Yield,2783.0
+Tripura,2015-16,84,Total_Foodgrains_Yield,2775.0
+Tripura,2016-17,84,Total_Foodgrains_Yield,2709.0
+Tripura,2017-18,84,Total_Foodgrains_Yield,2685.0
+Tripura,2018-19,84,Total_Foodgrains_Yield,2673.0
+Tripura,2019-20,84,Total_Foodgrains_Yield,2770.0
+Tripura,2020-21,84,Total_Foodgrains_Yield,2767.0
+Tripura,2021-22,84,Total_Foodgrains_Yield,2895.0
+Tripura,2022-23,84,Total_Foodgrains_Yield,3023.0
+Tripura,2023-24,84,Total_Foodgrains_Yield,3023.0
+Tripura,2024-25,84,Total_Foodgrains_Yield,2926.0
+Uttar Pradesh,2004-05,84,Total_Foodgrains_Yield,1961.0
+Uttar Pradesh,2005-06,84,Total_Foodgrains_Yield,2057.0
+Uttar Pradesh,2006-07,84,Total_Foodgrains_Yield,2057.0
+Uttar Pradesh,2007-08,84,Total_Foodgrains_Yield,2206.0
+Uttar Pradesh,2008-09,84,Total_Foodgrains_Yield,2365.0
+Uttar Pradesh,2009-10,84,Total_Foodgrains_Yield,2236.0
+Uttar Pradesh,2010-11,84,Total_Foodgrains_Yield,2386.0
+Uttar Pradesh,2011-12,84,Total_Foodgrains_Yield,2498.0
+Uttar Pradesh,2012-13,84,Total_Foodgrains_Yield,2542.0
+Uttar Pradesh,2013-14,84,Total_Foodgrains_Yield,2484.0
+Uttar Pradesh,2014-15,84,Total_Foodgrains_Yield,1972.0
+Uttar Pradesh,2015-16,84,Total_Foodgrains_Yield,2198.0
+Uttar Pradesh,2016-17,84,Total_Foodgrains_Yield,2475.0
+Uttar Pradesh,2017-18,84,Total_Foodgrains_Yield,2594.0
+Uttar Pradesh,2018-19,84,Total_Foodgrains_Yield,2803.0
+Uttar Pradesh,2019-20,84,Total_Foodgrains_Yield,2816.0
+Uttar Pradesh,2020-21,84,Total_Foodgrains_Yield,2915.0
+Uttar Pradesh,2021-22,84,Total_Foodgrains_Yield,2875.0
+Uttar Pradesh,2022-23,84,Total_Foodgrains_Yield,2817.0
+Uttar Pradesh,2023-24,84,Total_Foodgrains_Yield,2876.0
+Uttar Pradesh,2024-25,84,Total_Foodgrains_Yield,2986.0
+Uttarakhand,2004-05,84,Total_Foodgrains_Yield,1697.0
+Uttarakhand,2005-06,84,Total_Foodgrains_Yield,1548.0
+Uttarakhand,2006-07,84,Total_Foodgrains_Yield,1760.0
+Uttarakhand,2007-08,84,Total_Foodgrains_Yield,1785.0
+Uttarakhand,2008-09,84,Total_Foodgrains_Yield,1715.0
+Uttarakhand,2009-10,84,Total_Foodgrains_Yield,1780.0
+Uttarakhand,2010-11,84,Total_Foodgrains_Yield,1841.0
+Uttarakhand,2011-12,84,Total_Foodgrains_Yield,1945.0
+Uttarakhand,2012-13,84,Total_Foodgrains_Yield,1962.0
+Uttarakhand,2013-14,84,Total_Foodgrains_Yield,1995.0
+Uttarakhand,2014-15,84,Total_Foodgrains_Yield,1811.0
+Uttarakhand,2015-16,84,Total_Foodgrains_Yield,1989.0
+Uttarakhand,2016-17,84,Total_Foodgrains_Yield,2136.0
+Uttarakhand,2017-18,84,Total_Foodgrains_Yield,2236.0
+Uttarakhand,2018-19,84,Total_Foodgrains_Yield,2247.0
+Uttarakhand,2019-20,84,Total_Foodgrains_Yield,2343.0
+Uttarakhand,2020-21,84,Total_Foodgrains_Yield,2474.0
+Uttarakhand,2021-22,84,Total_Foodgrains_Yield,2442.0
+Uttarakhand,2022-23,84,Total_Foodgrains_Yield,2367.0
+Uttarakhand,2023-24,84,Total_Foodgrains_Yield,2532.0
+Uttarakhand,2024-25,84,Total_Foodgrains_Yield,2596.0
+West Bengal,2004-05,84,Total_Foodgrains_Yield,2479.0
+West Bengal,2005-06,84,Total_Foodgrains_Yield,2423.0
+West Bengal,2006-07,84,Total_Foodgrains_Yield,2511.0
+West Bengal,2007-08,84,Total_Foodgrains_Yield,2525.0
+West Bengal,2008-09,84,Total_Foodgrains_Yield,2493.0
+West Bengal,2009-10,84,Total_Foodgrains_Yield,2522.0
+West Bengal,2010-11,84,Total_Foodgrains_Yield,2601.0
+West Bengal,2011-12,84,Total_Foodgrains_Yield,2645.0
+West Bengal,2012-13,84,Total_Foodgrains_Yield,2717.0
+West Bengal,2013-14,84,Total_Foodgrains_Yield,2721.0
+West Bengal,2014-15,84,Total_Foodgrains_Yield,2698.0
+West Bengal,2015-16,84,Total_Foodgrains_Yield,2819.0
+West Bengal,2016-17,84,Total_Foodgrains_Yield,2738.0
+West Bengal,2017-18,84,Total_Foodgrains_Yield,2839.0
+West Bengal,2018-19,84,Total_Foodgrains_Yield,2938.0
+West Bengal,2019-20,84,Total_Foodgrains_Yield,2904.0
+West Bengal,2020-21,84,Total_Foodgrains_Yield,3025.0
+West Bengal,2021-22,84,Total_Foodgrains_Yield,3066.0
+West Bengal,2022-23,84,Total_Foodgrains_Yield,3093.0
+West Bengal,2023-24,84,Total_Foodgrains_Yield,3141.0
+West Bengal,2024-25,84,Total_Foodgrains_Yield,2999.0

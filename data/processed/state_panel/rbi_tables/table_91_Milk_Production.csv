@@ -1,0 +1,685 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2005-06,91,Milk_Production,7257.0
+Andhra Pradesh,2006-07,91,Milk_Production,7624.0
+Andhra Pradesh,2007-08,91,Milk_Production,7938.0
+Andhra Pradesh,2008-09,91,Milk_Production,8925.0
+Andhra Pradesh,2009-10,91,Milk_Production,9570.0
+Andhra Pradesh,2010-11,91,Milk_Production,10429.0
+Andhra Pradesh,2011-12,91,Milk_Production,11203.0
+Andhra Pradesh,2012-13,91,Milk_Production,12088.0
+Andhra Pradesh,2013-14,91,Milk_Production,12762.0
+Andhra Pradesh,2015-16,91,Milk_Production,9656.0
+Andhra Pradesh,2016-17,91,Milk_Production,10817.0
+Andhra Pradesh,2017-18,91,Milk_Production,12178.0
+Andhra Pradesh,2018-19,91,Milk_Production,13725.0
+Andhra Pradesh,2019-20,91,Milk_Production,15044.0
+Andhra Pradesh,2020-21,91,Milk_Production,15263.0
+Andhra Pradesh,2021-22,91,Milk_Production,14714.0
+Andhra Pradesh,2022-23,91,Milk_Production,15403.0
+Andhra Pradesh,2023-24,91,Milk_Production,15448.0
+Arunachal Pradesh,2004-05,91,Milk_Production,48.0
+Arunachal Pradesh,2005-06,91,Milk_Production,48.0
+Arunachal Pradesh,2006-07,91,Milk_Production,49.0
+Arunachal Pradesh,2007-08,91,Milk_Production,32.0
+Arunachal Pradesh,2008-09,91,Milk_Production,24.0
+Arunachal Pradesh,2009-10,91,Milk_Production,26.0
+Arunachal Pradesh,2010-11,91,Milk_Production,28.0
+Arunachal Pradesh,2011-12,91,Milk_Production,22.0
+Arunachal Pradesh,2012-13,91,Milk_Production,23.0
+Arunachal Pradesh,2013-14,91,Milk_Production,43.0
+Arunachal Pradesh,2014-15,91,Milk_Production,46.0
+Arunachal Pradesh,2015-16,91,Milk_Production,50.0
+Arunachal Pradesh,2016-17,91,Milk_Production,53.0
+Arunachal Pradesh,2017-18,91,Milk_Production,54.0
+Arunachal Pradesh,2018-19,91,Milk_Production,55.0
+Arunachal Pradesh,2019-20,91,Milk_Production,61.0
+Arunachal Pradesh,2020-21,91,Milk_Production,44.0
+Arunachal Pradesh,2021-22,91,Milk_Production,46.0
+Arunachal Pradesh,2022-23,91,Milk_Production,46.0
+Arunachal Pradesh,2023-24,91,Milk_Production,20.0
+Assam,2004-05,91,Milk_Production,739.0
+Assam,2005-06,91,Milk_Production,747.0
+Assam,2006-07,91,Milk_Production,750.0
+Assam,2007-08,91,Milk_Production,752.0
+Assam,2008-09,91,Milk_Production,753.0
+Assam,2009-10,91,Milk_Production,756.0
+Assam,2010-11,91,Milk_Production,790.0
+Assam,2011-12,91,Milk_Production,796.0
+Assam,2012-13,91,Milk_Production,800.0
+Assam,2013-14,91,Milk_Production,815.0
+Assam,2014-15,91,Milk_Production,829.0
+Assam,2015-16,91,Milk_Production,843.0
+Assam,2016-17,91,Milk_Production,861.0
+Assam,2017-18,91,Milk_Production,872.0
+Assam,2018-19,91,Milk_Production,882.0
+Assam,2019-20,91,Milk_Production,920.0
+Assam,2020-21,91,Milk_Production,954.0
+Assam,2021-22,91,Milk_Production,982.0
+Assam,2022-23,91,Milk_Production,1006.0
+Assam,2023-24,91,Milk_Production,1092.0
+Bihar,2004-05,91,Milk_Production,4743.0
+Bihar,2005-06,91,Milk_Production,5060.0
+Bihar,2006-07,91,Milk_Production,5451.0
+Bihar,2007-08,91,Milk_Production,5783.0
+Bihar,2008-09,91,Milk_Production,5934.0
+Bihar,2009-10,91,Milk_Production,6124.0
+Bihar,2010-11,91,Milk_Production,6517.0
+Bihar,2011-12,91,Milk_Production,6643.0
+Bihar,2012-13,91,Milk_Production,6845.0
+Bihar,2013-14,91,Milk_Production,7197.0
+Bihar,2014-15,91,Milk_Production,7775.0
+Bihar,2015-16,91,Milk_Production,8288.0
+Bihar,2016-17,91,Milk_Production,8711.0
+Bihar,2017-18,91,Milk_Production,9242.0
+Bihar,2018-19,91,Milk_Production,9818.0
+Bihar,2019-20,91,Milk_Production,10480.0
+Bihar,2020-21,91,Milk_Production,11502.0
+Bihar,2021-22,91,Milk_Production,12253.0
+Bihar,2022-23,91,Milk_Production,12503.0
+Bihar,2023-24,91,Milk_Production,12853.0
+Chandigarh,2004-05,91,Milk_Production,43.0
+Chandigarh,2005-06,91,Milk_Production,46.0
+Chandigarh,2006-07,91,Milk_Production,46.0
+Chandigarh,2007-08,91,Milk_Production,47.0
+Chandigarh,2008-09,91,Milk_Production,47.0
+Chandigarh,2009-10,91,Milk_Production,46.0
+Chandigarh,2010-11,91,Milk_Production,45.0
+Chandigarh,2011-12,91,Milk_Production,45.0
+Chandigarh,2012-13,91,Milk_Production,44.0
+Chandigarh,2013-14,91,Milk_Production,44.0
+Chandigarh,2014-15,91,Milk_Production,44.0
+Chandigarh,2015-16,91,Milk_Production,43.0
+Chandigarh,2016-17,91,Milk_Production,36.0
+Chandigarh,2017-18,91,Milk_Production,42.0
+Chandigarh,2018-19,91,Milk_Production,45.0
+Chandigarh,2019-20,91,Milk_Production,49.0
+Chandigarh,2020-21,91,Milk_Production,52.0
+Chandigarh,2021-22,91,Milk_Production,57.0
+Chandigarh,2022-23,91,Milk_Production,56.0
+Chandigarh,2023-24,91,Milk_Production,59.0
+Chhattisgarh,2004-05,91,Milk_Production,831.0
+Chhattisgarh,2005-06,91,Milk_Production,839.0
+Chhattisgarh,2006-07,91,Milk_Production,849.0
+Chhattisgarh,2007-08,91,Milk_Production,866.0
+Chhattisgarh,2008-09,91,Milk_Production,908.0
+Chhattisgarh,2009-10,91,Milk_Production,956.0
+Chhattisgarh,2010-11,91,Milk_Production,1029.0
+Chhattisgarh,2011-12,91,Milk_Production,1119.0
+Chhattisgarh,2012-13,91,Milk_Production,1164.0
+Chhattisgarh,2013-14,91,Milk_Production,1209.0
+Chhattisgarh,2014-15,91,Milk_Production,1232.0
+Chhattisgarh,2015-16,91,Milk_Production,1277.0
+Chhattisgarh,2016-17,91,Milk_Production,1374.0
+Chhattisgarh,2017-18,91,Milk_Production,1469.0
+Chhattisgarh,2018-19,91,Milk_Production,1567.0
+Chhattisgarh,2019-20,91,Milk_Production,1676.0
+Chhattisgarh,2020-21,91,Milk_Production,1747.0
+Chhattisgarh,2021-22,91,Milk_Production,1848.0
+Chhattisgarh,2022-23,91,Milk_Production,1956.0
+Chhattisgarh,2023-24,91,Milk_Production,2124.0
+Dadra & Nagar Haveli,2004-05,91,Milk_Production,4.0
+Dadra & Nagar Haveli,2005-06,91,Milk_Production,5.0
+Dadra & Nagar Haveli,2006-07,91,Milk_Production,5.0
+Dadra & Nagar Haveli,2007-08,91,Milk_Production,10.0
+Dadra & Nagar Haveli,2008-09,91,Milk_Production,10.0
+Dadra & Nagar Haveli,2009-10,91,Milk_Production,10.0
+Dadra & Nagar Haveli,2010-11,91,Milk_Production,11.0
+Dadra & Nagar Haveli,2011-12,91,Milk_Production,11.0
+Dadra & Nagar Haveli,2012-13,91,Milk_Production,11.0
+Dadra & Nagar Haveli,2013-14,91,Milk_Production,11.0
+Dadra & Nagar Haveli,2014-15,91,Milk_Production,9.0
+Dadra & Nagar Haveli,2015-16,91,Milk_Production,9.0
+Dadra & Nagar Haveli,2016-17,91,Milk_Production,8.0
+Dadra & Nagar Haveli,2017-18,91,Milk_Production,8.0
+Daman & Diu,2004-05,91,Milk_Production,1.0
+Daman & Diu,2005-06,91,Milk_Production,1.0
+Daman & Diu,2006-07,91,Milk_Production,1.0
+Daman & Diu,2007-08,91,Milk_Production,1.0
+Daman & Diu,2008-09,91,Milk_Production,1.0
+Daman & Diu,2009-10,91,Milk_Production,1.0
+Daman & Diu,2010-11,91,Milk_Production,1.0
+Daman & Diu,2011-12,91,Milk_Production,1.0
+Daman & Diu,2012-13,91,Milk_Production,1.0
+Daman & Diu,2013-14,91,Milk_Production,1.0
+Daman & Diu,2014-15,91,Milk_Production,1.0
+Daman & Diu,2015-16,91,Milk_Production,1.0
+Daman & Diu,2016-17,91,Milk_Production,1.0
+Daman & Diu,2017-18,91,Milk_Production,1.0
+Daman & Diu,2018-19,91,Milk_Production,1.0
+Daman & Diu,2019-20,91,Milk_Production,1.0
+Delhi,2004-05,91,Milk_Production,303.0
+Delhi,2005-06,91,Milk_Production,310.0
+Delhi,2006-07,91,Milk_Production,288.0
+Delhi,2007-08,91,Milk_Production,445.0
+Delhi,2008-09,91,Milk_Production,450.0
+Delhi,2009-10,91,Milk_Production,466.0
+Delhi,2010-11,91,Milk_Production,480.0
+Delhi,2011-12,91,Milk_Production,502.0
+Delhi,2012-13,91,Milk_Production,287.0
+Delhi,2013-14,91,Milk_Production,284.0
+Delhi,2014-15,91,Milk_Production,280.0
+Delhi,2015-16,91,Milk_Production,281.0
+Delhi,2016-17,91,Milk_Production,279.0
+Delhi,2017-18,91,Milk_Production,279.0
+Delhi,2022-23,91,Milk_Production,488.0
+Delhi,2023-24,91,Milk_Production,488.0
+Goa,2004-05,91,Milk_Production,57.0
+Goa,2005-06,91,Milk_Production,56.0
+Goa,2006-07,91,Milk_Production,57.0
+Goa,2007-08,91,Milk_Production,58.0
+Goa,2008-09,91,Milk_Production,59.0
+Goa,2009-10,91,Milk_Production,59.0
+Goa,2010-11,91,Milk_Production,60.0
+Goa,2011-12,91,Milk_Production,60.0
+Goa,2012-13,91,Milk_Production,61.0
+Goa,2013-14,91,Milk_Production,68.0
+Goa,2014-15,91,Milk_Production,67.0
+Goa,2015-16,91,Milk_Production,54.0
+Goa,2016-17,91,Milk_Production,51.0
+Goa,2017-18,91,Milk_Production,55.0
+Goa,2018-19,91,Milk_Production,57.0
+Goa,2019-20,91,Milk_Production,61.0
+Goa,2020-21,91,Milk_Production,60.0
+Goa,2021-22,91,Milk_Production,63.0
+Goa,2022-23,91,Milk_Production,64.0
+Goa,2023-24,91,Milk_Production,64.0
+Gujarat,2004-05,91,Milk_Production,6745.0
+Gujarat,2005-06,91,Milk_Production,6960.0
+Gujarat,2006-07,91,Milk_Production,7533.0
+Gujarat,2007-08,91,Milk_Production,7911.0
+Gujarat,2008-09,91,Milk_Production,8386.0
+Gujarat,2009-10,91,Milk_Production,8844.0
+Gujarat,2010-11,91,Milk_Production,9321.0
+Gujarat,2011-12,91,Milk_Production,9817.0
+Gujarat,2012-13,91,Milk_Production,10315.0
+Gujarat,2013-14,91,Milk_Production,11112.0
+Gujarat,2014-15,91,Milk_Production,11691.0
+Gujarat,2015-16,91,Milk_Production,12262.0
+Gujarat,2016-17,91,Milk_Production,12784.0
+Gujarat,2017-18,91,Milk_Production,13569.0
+Gujarat,2018-19,91,Milk_Production,14493.0
+Gujarat,2019-20,91,Milk_Production,15292.0
+Gujarat,2020-21,91,Milk_Production,15853.0
+Gujarat,2021-22,91,Milk_Production,16722.0
+Gujarat,2022-23,91,Milk_Production,17281.0
+Gujarat,2023-24,91,Milk_Production,18312.0
+Haryana,2004-05,91,Milk_Production,5222.0
+Haryana,2005-06,91,Milk_Production,5299.0
+Haryana,2006-07,91,Milk_Production,5366.0
+Haryana,2007-08,91,Milk_Production,5442.0
+Haryana,2008-09,91,Milk_Production,5745.0
+Haryana,2009-10,91,Milk_Production,6006.0
+Haryana,2010-11,91,Milk_Production,6267.0
+Haryana,2011-12,91,Milk_Production,6661.0
+Haryana,2012-13,91,Milk_Production,7040.0
+Haryana,2013-14,91,Milk_Production,7442.0
+Haryana,2014-15,91,Milk_Production,7901.0
+Haryana,2015-16,91,Milk_Production,8381.0
+Haryana,2016-17,91,Milk_Production,8975.0
+Haryana,2017-18,91,Milk_Production,9809.0
+Haryana,2018-19,91,Milk_Production,10726.0
+Haryana,2019-20,91,Milk_Production,11735.0
+Haryana,2020-21,91,Milk_Production,11284.0
+Haryana,2021-22,91,Milk_Production,11630.0
+Haryana,2022-23,91,Milk_Production,11966.0
+Haryana,2023-24,91,Milk_Production,12220.0
+Himachal Pradesh,2004-05,91,Milk_Production,870.0
+Himachal Pradesh,2005-06,91,Milk_Production,869.0
+Himachal Pradesh,2006-07,91,Milk_Production,933.0
+Himachal Pradesh,2007-08,91,Milk_Production,1007.0
+Himachal Pradesh,2008-09,91,Milk_Production,1026.0
+Himachal Pradesh,2009-10,91,Milk_Production,971.0
+Himachal Pradesh,2010-11,91,Milk_Production,1102.0
+Himachal Pradesh,2011-12,91,Milk_Production,1120.0
+Himachal Pradesh,2012-13,91,Milk_Production,1139.0
+Himachal Pradesh,2013-14,91,Milk_Production,1151.0
+Himachal Pradesh,2014-15,91,Milk_Production,1172.0
+Himachal Pradesh,2015-16,91,Milk_Production,1283.0
+Himachal Pradesh,2016-17,91,Milk_Production,1329.0
+Himachal Pradesh,2017-18,91,Milk_Production,1392.0
+Himachal Pradesh,2018-19,91,Milk_Production,1460.0
+Himachal Pradesh,2019-20,91,Milk_Production,1531.0
+Himachal Pradesh,2020-21,91,Milk_Production,1576.0
+Himachal Pradesh,2021-22,91,Milk_Production,1615.0
+Himachal Pradesh,2022-23,91,Milk_Production,1617.0
+Himachal Pradesh,2023-24,91,Milk_Production,1749.0
+Jammu & Kashmir,2004-05,91,Milk_Production,1422.0
+Jammu & Kashmir,2005-06,91,Milk_Production,1400.0
+Jammu & Kashmir,2006-07,91,Milk_Production,1400.0
+Jammu & Kashmir,2007-08,91,Milk_Production,1519.0
+Jammu & Kashmir,2008-09,91,Milk_Production,1565.0
+Jammu & Kashmir,2009-10,91,Milk_Production,1592.0
+Jammu & Kashmir,2010-11,91,Milk_Production,1609.0
+Jammu & Kashmir,2011-12,91,Milk_Production,1614.0
+Jammu & Kashmir,2012-13,91,Milk_Production,1631.0
+Jammu & Kashmir,2013-14,91,Milk_Production,1615.0
+Jammu & Kashmir,2014-15,91,Milk_Production,1951.0
+Jammu & Kashmir,2015-16,91,Milk_Production,2273.0
+Jammu & Kashmir,2016-17,91,Milk_Production,2376.0
+Jammu & Kashmir,2017-18,91,Milk_Production,2460.0
+Jammu & Kashmir,2018-19,91,Milk_Production,2540.0
+Jammu & Kashmir,2019-20,91,Milk_Production,2506.0
+Jammu & Kashmir,2020-21,91,Milk_Production,2595.0
+Jammu & Kashmir,2021-22,91,Milk_Production,2727.0
+Jammu & Kashmir,2022-23,91,Milk_Production,2817.0
+Jammu & Kashmir,2023-24,91,Milk_Production,2875.0
+Jharkhand,2004-05,91,Milk_Production,1330.0
+Jharkhand,2005-06,91,Milk_Production,1335.0
+Jharkhand,2006-07,91,Milk_Production,1401.0
+Jharkhand,2007-08,91,Milk_Production,1442.0
+Jharkhand,2008-09,91,Milk_Production,1466.0
+Jharkhand,2009-10,91,Milk_Production,1463.0
+Jharkhand,2010-11,91,Milk_Production,1555.0
+Jharkhand,2011-12,91,Milk_Production,1745.0
+Jharkhand,2012-13,91,Milk_Production,1679.0
+Jharkhand,2013-14,91,Milk_Production,1700.0
+Jharkhand,2014-15,91,Milk_Production,1734.0
+Jharkhand,2015-16,91,Milk_Production,1812.0
+Jharkhand,2016-17,91,Milk_Production,1894.0
+Jharkhand,2017-18,91,Milk_Production,2016.0
+Jharkhand,2018-19,91,Milk_Production,2183.0
+Jharkhand,2019-20,91,Milk_Production,2321.0
+Jharkhand,2020-21,91,Milk_Production,2434.0
+Jharkhand,2021-22,91,Milk_Production,2629.0
+Jharkhand,2022-23,91,Milk_Production,2774.0
+Jharkhand,2023-24,91,Milk_Production,3025.0
+Karnataka,2004-05,91,Milk_Production,3917.0
+Karnataka,2005-06,91,Milk_Production,4022.0
+Karnataka,2006-07,91,Milk_Production,4124.0
+Karnataka,2007-08,91,Milk_Production,4244.0
+Karnataka,2008-09,91,Milk_Production,4538.0
+Karnataka,2009-10,91,Milk_Production,4822.0
+Karnataka,2010-11,91,Milk_Production,5114.0
+Karnataka,2011-12,91,Milk_Production,5447.0
+Karnataka,2012-13,91,Milk_Production,5718.0
+Karnataka,2013-14,91,Milk_Production,5997.0
+Karnataka,2014-15,91,Milk_Production,6121.0
+Karnataka,2015-16,91,Milk_Production,6344.0
+Karnataka,2016-17,91,Milk_Production,6562.0
+Karnataka,2017-18,91,Milk_Production,7137.0
+Karnataka,2018-19,91,Milk_Production,7901.0
+Karnataka,2019-20,91,Milk_Production,9031.0
+Karnataka,2020-21,91,Milk_Production,10936.0
+Karnataka,2021-22,91,Milk_Production,11796.0
+Karnataka,2022-23,91,Milk_Production,12829.0
+Karnataka,2023-24,91,Milk_Production,13463.0
+Kerala,2004-05,91,Milk_Production,2025.0
+Kerala,2005-06,91,Milk_Production,2063.0
+Kerala,2006-07,91,Milk_Production,2119.0
+Kerala,2007-08,91,Milk_Production,2253.0
+Kerala,2008-09,91,Milk_Production,2441.0
+Kerala,2009-10,91,Milk_Production,2509.0
+Kerala,2010-11,91,Milk_Production,2645.0
+Kerala,2011-12,91,Milk_Production,2716.0
+Kerala,2012-13,91,Milk_Production,2791.0
+Kerala,2013-14,91,Milk_Production,2655.0
+Kerala,2014-15,91,Milk_Production,2711.0
+Kerala,2015-16,91,Milk_Production,2650.0
+Kerala,2016-17,91,Milk_Production,2520.0
+Kerala,2017-18,91,Milk_Production,2576.0
+Kerala,2018-19,91,Milk_Production,2548.0
+Kerala,2019-20,91,Milk_Production,2544.0
+Kerala,2020-21,91,Milk_Production,2534.0
+Kerala,2021-22,91,Milk_Production,2533.0
+Kerala,2022-23,91,Milk_Production,2580.0
+Kerala,2023-24,91,Milk_Production,2580.0
+Lakshadweep,2004-05,91,Milk_Production,1.0
+Lakshadweep,2005-06,91,Milk_Production,2.0
+Lakshadweep,2006-07,91,Milk_Production,2.0
+Lakshadweep,2007-08,91,Milk_Production,2.0
+Lakshadweep,2008-09,91,Milk_Production,2.0
+Lakshadweep,2009-10,91,Milk_Production,2.0
+Lakshadweep,2010-11,91,Milk_Production,2.0
+Lakshadweep,2011-12,91,Milk_Production,2.0
+Lakshadweep,2012-13,91,Milk_Production,2.0
+Lakshadweep,2013-14,91,Milk_Production,6.0
+Lakshadweep,2014-15,91,Milk_Production,4.0
+Lakshadweep,2015-16,91,Milk_Production,3.0
+Lakshadweep,2016-17,91,Milk_Production,3.0
+Lakshadweep,2017-18,91,Milk_Production,4.0
+Lakshadweep,2018-19,91,Milk_Production,4.0
+Lakshadweep,2019-20,91,Milk_Production,4.0
+Lakshadweep,2020-21,91,Milk_Production,4.0
+Lakshadweep,2021-22,91,Milk_Production,0.0
+Lakshadweep,2022-23,91,Milk_Production,0.0
+Lakshadweep,2023-24,91,Milk_Production,0.0
+Madhya Pradesh,2004-05,91,Milk_Production,5506.0
+Madhya Pradesh,2005-06,91,Milk_Production,6283.0
+Madhya Pradesh,2006-07,91,Milk_Production,6374.0
+Madhya Pradesh,2007-08,91,Milk_Production,6572.0
+Madhya Pradesh,2008-09,91,Milk_Production,6855.0
+Madhya Pradesh,2009-10,91,Milk_Production,7167.0
+Madhya Pradesh,2010-11,91,Milk_Production,7514.0
+Madhya Pradesh,2011-12,91,Milk_Production,8149.0
+Madhya Pradesh,2012-13,91,Milk_Production,8838.0
+Madhya Pradesh,2013-14,91,Milk_Production,9599.0
+Madhya Pradesh,2014-15,91,Milk_Production,10779.0
+Madhya Pradesh,2015-16,91,Milk_Production,12148.0
+Madhya Pradesh,2016-17,91,Milk_Production,13445.0
+Madhya Pradesh,2017-18,91,Milk_Production,14713.0
+Madhya Pradesh,2018-19,91,Milk_Production,15911.0
+Madhya Pradesh,2019-20,91,Milk_Production,17109.0
+Madhya Pradesh,2020-21,91,Milk_Production,17999.0
+Madhya Pradesh,2021-22,91,Milk_Production,19004.0
+Madhya Pradesh,2022-23,91,Milk_Production,20122.0
+Madhya Pradesh,2023-24,91,Milk_Production,21326.0
+Maharashtra,2004-05,91,Milk_Production,6567.0
+Maharashtra,2005-06,91,Milk_Production,6769.0
+Maharashtra,2006-07,91,Milk_Production,6978.0
+Maharashtra,2007-08,91,Milk_Production,7210.0
+Maharashtra,2008-09,91,Milk_Production,7455.0
+Maharashtra,2009-10,91,Milk_Production,7679.0
+Maharashtra,2010-11,91,Milk_Production,8044.0
+Maharashtra,2011-12,91,Milk_Production,8469.0
+Maharashtra,2012-13,91,Milk_Production,8734.0
+Maharashtra,2013-14,91,Milk_Production,9089.0
+Maharashtra,2014-15,91,Milk_Production,9542.0
+Maharashtra,2015-16,91,Milk_Production,10153.0
+Maharashtra,2016-17,91,Milk_Production,10402.0
+Maharashtra,2017-18,91,Milk_Production,11102.0
+Maharashtra,2018-19,91,Milk_Production,11655.0
+Maharashtra,2019-20,91,Milk_Production,12024.0
+Maharashtra,2020-21,91,Milk_Production,13703.0
+Maharashtra,2021-22,91,Milk_Production,14305.0
+Maharashtra,2022-23,91,Milk_Production,15042.0
+Maharashtra,2023-24,91,Milk_Production,16045.0
+Manipur,2004-05,91,Milk_Production,75.0
+Manipur,2005-06,91,Milk_Production,77.0
+Manipur,2006-07,91,Milk_Production,77.0
+Manipur,2007-08,91,Milk_Production,78.0
+Manipur,2008-09,91,Milk_Production,78.0
+Manipur,2009-10,91,Milk_Production,78.0
+Manipur,2010-11,91,Milk_Production,78.0
+Manipur,2011-12,91,Milk_Production,79.0
+Manipur,2012-13,91,Milk_Production,80.0
+Manipur,2013-14,91,Milk_Production,82.0
+Manipur,2014-15,91,Milk_Production,82.0
+Manipur,2015-16,91,Milk_Production,79.0
+Manipur,2016-17,91,Milk_Production,79.0
+Manipur,2017-18,91,Milk_Production,82.0
+Manipur,2018-19,91,Milk_Production,86.0
+Manipur,2019-20,91,Milk_Production,90.0
+Manipur,2020-21,91,Milk_Production,71.0
+Manipur,2021-22,91,Milk_Production,76.0
+Manipur,2022-23,91,Milk_Production,72.0
+Manipur,2023-24,91,Milk_Production,63.0
+Meghalaya,2004-05,91,Milk_Production,71.0
+Meghalaya,2005-06,91,Milk_Production,73.0
+Meghalaya,2006-07,91,Milk_Production,74.0
+Meghalaya,2007-08,91,Milk_Production,77.0
+Meghalaya,2008-09,91,Milk_Production,77.0
+Meghalaya,2009-10,91,Milk_Production,78.0
+Meghalaya,2010-11,91,Milk_Production,79.0
+Meghalaya,2011-12,91,Milk_Production,80.0
+Meghalaya,2012-13,91,Milk_Production,81.0
+Meghalaya,2013-14,91,Milk_Production,82.0
+Meghalaya,2014-15,91,Milk_Production,83.0
+Meghalaya,2015-16,91,Milk_Production,84.0
+Meghalaya,2016-17,91,Milk_Production,84.0
+Meghalaya,2017-18,91,Milk_Production,85.0
+Meghalaya,2018-19,91,Milk_Production,87.0
+Meghalaya,2019-20,91,Milk_Production,88.0
+Meghalaya,2020-21,91,Milk_Production,89.0
+Meghalaya,2021-22,91,Milk_Production,90.0
+Meghalaya,2022-23,91,Milk_Production,94.0
+Meghalaya,2023-24,91,Milk_Production,97.0
+Mizoram,2004-05,91,Milk_Production,16.0
+Mizoram,2005-06,91,Milk_Production,15.0
+Mizoram,2006-07,91,Milk_Production,16.0
+Mizoram,2007-08,91,Milk_Production,17.0
+Mizoram,2008-09,91,Milk_Production,17.0
+Mizoram,2009-10,91,Milk_Production,11.0
+Mizoram,2010-11,91,Milk_Production,11.0
+Mizoram,2011-12,91,Milk_Production,14.0
+Mizoram,2012-13,91,Milk_Production,14.0
+Mizoram,2013-14,91,Milk_Production,15.0
+Mizoram,2014-15,91,Milk_Production,20.0
+Mizoram,2015-16,91,Milk_Production,22.0
+Mizoram,2016-17,91,Milk_Production,24.0
+Mizoram,2017-18,91,Milk_Production,25.0
+Mizoram,2018-19,91,Milk_Production,26.0
+Mizoram,2019-20,91,Milk_Production,24.0
+Mizoram,2020-21,91,Milk_Production,25.0
+Mizoram,2021-22,91,Milk_Production,25.0
+Mizoram,2022-23,91,Milk_Production,24.0
+Mizoram,2023-24,91,Milk_Production,25.0
+Nagaland,2004-05,91,Milk_Production,69.0
+Nagaland,2005-06,91,Milk_Production,74.0
+Nagaland,2006-07,91,Milk_Production,67.0
+Nagaland,2007-08,91,Milk_Production,45.0
+Nagaland,2008-09,91,Milk_Production,53.0
+Nagaland,2009-10,91,Milk_Production,78.0
+Nagaland,2010-11,91,Milk_Production,76.0
+Nagaland,2011-12,91,Milk_Production,78.0
+Nagaland,2012-13,91,Milk_Production,79.0
+Nagaland,2013-14,91,Milk_Production,81.0
+Nagaland,2014-15,91,Milk_Production,76.0
+Nagaland,2015-16,91,Milk_Production,77.0
+Nagaland,2016-17,91,Milk_Production,79.0
+Nagaland,2017-18,91,Milk_Production,74.0
+Nagaland,2018-19,91,Milk_Production,73.0
+Nagaland,2019-20,91,Milk_Production,62.0
+Nagaland,2020-21,91,Milk_Production,56.0
+Nagaland,2021-22,91,Milk_Production,61.0
+Nagaland,2022-23,91,Milk_Production,50.0
+Nagaland,2023-24,91,Milk_Production,53.0
+Odisha,2004-05,91,Milk_Production,1283.0
+Odisha,2005-06,91,Milk_Production,1342.0
+Odisha,2006-07,91,Milk_Production,1431.0
+Odisha,2007-08,91,Milk_Production,1625.0
+Odisha,2008-09,91,Milk_Production,1598.0
+Odisha,2009-10,91,Milk_Production,1651.0
+Odisha,2010-11,91,Milk_Production,1671.0
+Odisha,2011-12,91,Milk_Production,1721.0
+Odisha,2012-13,91,Milk_Production,1724.0
+Odisha,2013-14,91,Milk_Production,1861.0
+Odisha,2014-15,91,Milk_Production,1903.0
+Odisha,2015-16,91,Milk_Production,1930.0
+Odisha,2016-17,91,Milk_Production,2003.0
+Odisha,2017-18,91,Milk_Production,2088.0
+Odisha,2018-19,91,Milk_Production,2311.0
+Odisha,2019-20,91,Milk_Production,2370.0
+Odisha,2020-21,91,Milk_Production,2373.0
+Odisha,2021-22,91,Milk_Production,2402.0
+Odisha,2022-23,91,Milk_Production,2476.0
+Odisha,2023-24,91,Milk_Production,2636.0
+Puducherry,2004-05,91,Milk_Production,41.0
+Puducherry,2005-06,91,Milk_Production,43.0
+Puducherry,2006-07,91,Milk_Production,45.0
+Puducherry,2007-08,91,Milk_Production,47.0
+Puducherry,2008-09,91,Milk_Production,46.0
+Puducherry,2009-10,91,Milk_Production,46.0
+Puducherry,2010-11,91,Milk_Production,47.0
+Puducherry,2011-12,91,Milk_Production,45.0
+Puducherry,2012-13,91,Milk_Production,47.0
+Puducherry,2013-14,91,Milk_Production,47.0
+Puducherry,2014-15,91,Milk_Production,48.0
+Puducherry,2015-16,91,Milk_Production,48.0
+Puducherry,2016-17,91,Milk_Production,48.0
+Puducherry,2017-18,91,Milk_Production,49.0
+Puducherry,2018-19,91,Milk_Production,49.0
+Puducherry,2019-20,91,Milk_Production,50.0
+Puducherry,2020-21,91,Milk_Production,50.0
+Puducherry,2021-22,91,Milk_Production,50.0
+Puducherry,2022-23,91,Milk_Production,50.0
+Puducherry,2023-24,91,Milk_Production,50.0
+Punjab,2004-05,91,Milk_Production,8554.0
+Punjab,2005-06,91,Milk_Production,8909.0
+Punjab,2006-07,91,Milk_Production,9168.0
+Punjab,2007-08,91,Milk_Production,9282.0
+Punjab,2008-09,91,Milk_Production,9387.0
+Punjab,2009-10,91,Milk_Production,9389.0
+Punjab,2010-11,91,Milk_Production,9423.0
+Punjab,2011-12,91,Milk_Production,9551.0
+Punjab,2012-13,91,Milk_Production,9724.0
+Punjab,2013-14,91,Milk_Production,10011.0
+Punjab,2014-15,91,Milk_Production,10351.0
+Punjab,2015-16,91,Milk_Production,10774.0
+Punjab,2016-17,91,Milk_Production,11282.0
+Punjab,2017-18,91,Milk_Production,11855.0
+Punjab,2018-19,91,Milk_Production,12599.0
+Punjab,2019-20,91,Milk_Production,13348.0
+Punjab,2020-21,91,Milk_Production,13394.0
+Punjab,2021-22,91,Milk_Production,14077.0
+Punjab,2022-23,91,Milk_Production,14301.0
+Punjab,2023-24,91,Milk_Production,14000.0
+Rajasthan,2004-05,91,Milk_Production,8310.0
+Rajasthan,2005-06,91,Milk_Production,8713.0
+Rajasthan,2006-07,91,Milk_Production,10309.0
+Rajasthan,2007-08,91,Milk_Production,11377.0
+Rajasthan,2008-09,91,Milk_Production,11931.0
+Rajasthan,2009-10,91,Milk_Production,12331.0
+Rajasthan,2010-11,91,Milk_Production,13234.0
+Rajasthan,2011-12,91,Milk_Production,13512.0
+Rajasthan,2012-13,91,Milk_Production,13946.0
+Rajasthan,2013-14,91,Milk_Production,14573.0
+Rajasthan,2014-15,91,Milk_Production,16934.0
+Rajasthan,2015-16,91,Milk_Production,18500.0
+Rajasthan,2016-17,91,Milk_Production,20850.0
+Rajasthan,2017-18,91,Milk_Production,22427.0
+Rajasthan,2018-19,91,Milk_Production,23668.0
+Rajasthan,2019-20,91,Milk_Production,25573.0
+Rajasthan,2020-21,91,Milk_Production,30723.0
+Rajasthan,2021-22,91,Milk_Production,33265.0
+Rajasthan,2022-23,91,Milk_Production,33307.0
+Rajasthan,2023-24,91,Milk_Production,34733.0
+Sikkim,2004-05,91,Milk_Production,46.0
+Sikkim,2005-06,91,Milk_Production,48.0
+Sikkim,2006-07,91,Milk_Production,49.0
+Sikkim,2007-08,91,Milk_Production,42.0
+Sikkim,2008-09,91,Milk_Production,42.0
+Sikkim,2009-10,91,Milk_Production,44.0
+Sikkim,2010-11,91,Milk_Production,43.0
+Sikkim,2011-12,91,Milk_Production,45.0
+Sikkim,2012-13,91,Milk_Production,42.0
+Sikkim,2013-14,91,Milk_Production,46.0
+Sikkim,2014-15,91,Milk_Production,50.0
+Sikkim,2015-16,91,Milk_Production,67.0
+Sikkim,2016-17,91,Milk_Production,54.0
+Sikkim,2017-18,91,Milk_Production,59.0
+Sikkim,2018-19,91,Milk_Production,61.0
+Sikkim,2019-20,91,Milk_Production,84.0
+Sikkim,2020-21,91,Milk_Production,74.0
+Sikkim,2021-22,91,Milk_Production,87.0
+Sikkim,2022-23,91,Milk_Production,87.0
+Sikkim,2023-24,91,Milk_Production,81.0
+Tamil Nadu,2004-05,91,Milk_Production,4784.0
+Tamil Nadu,2005-06,91,Milk_Production,5474.0
+Tamil Nadu,2006-07,91,Milk_Production,6277.0
+Tamil Nadu,2007-08,91,Milk_Production,6540.0
+Tamil Nadu,2008-09,91,Milk_Production,6651.0
+Tamil Nadu,2009-10,91,Milk_Production,6787.0
+Tamil Nadu,2010-11,91,Milk_Production,6831.0
+Tamil Nadu,2011-12,91,Milk_Production,6968.0
+Tamil Nadu,2012-13,91,Milk_Production,7005.0
+Tamil Nadu,2013-14,91,Milk_Production,7049.0
+Tamil Nadu,2014-15,91,Milk_Production,7132.0
+Tamil Nadu,2015-16,91,Milk_Production,7244.0
+Tamil Nadu,2016-17,91,Milk_Production,7556.0
+Tamil Nadu,2017-18,91,Milk_Production,7742.0
+Tamil Nadu,2018-19,91,Milk_Production,8362.0
+Tamil Nadu,2019-20,91,Milk_Production,8759.0
+Tamil Nadu,2020-21,91,Milk_Production,9790.0
+Tamil Nadu,2021-22,91,Milk_Production,10107.0
+Tamil Nadu,2022-23,91,Milk_Production,10317.0
+Tamil Nadu,2023-24,91,Milk_Production,10808.0
+Tripura,2004-05,91,Milk_Production,86.0
+Tripura,2005-06,91,Milk_Production,87.0
+Tripura,2006-07,91,Milk_Production,89.0
+Tripura,2007-08,91,Milk_Production,91.0
+Tripura,2008-09,91,Milk_Production,96.0
+Tripura,2009-10,91,Milk_Production,100.0
+Tripura,2010-11,91,Milk_Production,104.0
+Tripura,2011-12,91,Milk_Production,111.0
+Tripura,2012-13,91,Milk_Production,118.0
+Tripura,2013-14,91,Milk_Production,130.0
+Tripura,2014-15,91,Milk_Production,141.0
+Tripura,2015-16,91,Milk_Production,152.0
+Tripura,2016-17,91,Milk_Production,160.0
+Tripura,2017-18,91,Milk_Production,174.0
+Tripura,2018-19,91,Milk_Production,185.0
+Tripura,2019-20,91,Milk_Production,199.0
+Tripura,2020-21,91,Milk_Production,206.0
+Tripura,2021-22,91,Milk_Production,217.0
+Tripura,2022-23,91,Milk_Production,230.0
+Tripura,2023-24,91,Milk_Production,247.0
+Uttar Pradesh,2004-05,91,Milk_Production,16512.0
+Uttar Pradesh,2005-06,91,Milk_Production,17356.0
+Uttar Pradesh,2006-07,91,Milk_Production,18094.0
+Uttar Pradesh,2007-08,91,Milk_Production,18861.0
+Uttar Pradesh,2008-09,91,Milk_Production,19537.0
+Uttar Pradesh,2009-10,91,Milk_Production,20203.0
+Uttar Pradesh,2010-11,91,Milk_Production,21031.0
+Uttar Pradesh,2011-12,91,Milk_Production,22556.0
+Uttar Pradesh,2012-13,91,Milk_Production,23330.0
+Uttar Pradesh,2013-14,91,Milk_Production,24194.0
+Uttar Pradesh,2014-15,91,Milk_Production,25198.0
+Uttar Pradesh,2015-16,91,Milk_Production,26387.0
+Uttar Pradesh,2016-17,91,Milk_Production,27770.0
+Uttar Pradesh,2017-18,91,Milk_Production,29052.0
+Uttar Pradesh,2018-19,91,Milk_Production,30519.0
+Uttar Pradesh,2019-20,91,Milk_Production,31864.0
+Uttar Pradesh,2020-21,91,Milk_Production,31359.0
+Uttar Pradesh,2021-22,91,Milk_Production,33874.0
+Uttar Pradesh,2022-23,91,Milk_Production,36242.0
+Uttar Pradesh,2023-24,91,Milk_Production,38780.0
+Uttarakhand,2004-05,91,Milk_Production,1195.0
+Uttarakhand,2005-06,91,Milk_Production,1206.0
+Uttarakhand,2006-07,91,Milk_Production,1213.0
+Uttarakhand,2007-08,91,Milk_Production,1221.0
+Uttarakhand,2008-09,91,Milk_Production,1230.0
+Uttarakhand,2009-10,91,Milk_Production,1377.0
+Uttarakhand,2010-11,91,Milk_Production,1383.0
+Uttarakhand,2011-12,91,Milk_Production,1417.0
+Uttarakhand,2012-13,91,Milk_Production,1478.0
+Uttarakhand,2013-14,91,Milk_Production,1550.0
+Uttarakhand,2014-15,91,Milk_Production,1565.0
+Uttarakhand,2015-16,91,Milk_Production,1656.0
+Uttarakhand,2016-17,91,Milk_Production,1692.0
+Uttarakhand,2017-18,91,Milk_Production,1742.0
+Uttarakhand,2018-19,91,Milk_Production,1792.0
+Uttarakhand,2019-20,91,Milk_Production,1845.0
+Uttarakhand,2020-21,91,Milk_Production,1797.0
+Uttarakhand,2021-22,91,Milk_Production,1856.0
+Uttarakhand,2022-23,91,Milk_Production,1859.0
+Uttarakhand,2023-24,91,Milk_Production,1898.0
+West Bengal,2004-05,91,Milk_Production,3790.0
+West Bengal,2005-06,91,Milk_Production,3891.0
+West Bengal,2006-07,91,Milk_Production,3983.0
+West Bengal,2007-08,91,Milk_Production,4087.0
+West Bengal,2008-09,91,Milk_Production,4176.0
+West Bengal,2009-10,91,Milk_Production,4300.0
+West Bengal,2010-11,91,Milk_Production,4471.0
+West Bengal,2011-12,91,Milk_Production,4672.0
+West Bengal,2012-13,91,Milk_Production,4859.0
+West Bengal,2013-14,91,Milk_Production,4906.0
+West Bengal,2014-15,91,Milk_Production,4961.0
+West Bengal,2015-16,91,Milk_Production,5038.0
+West Bengal,2016-17,91,Milk_Production,5183.0
+West Bengal,2017-18,91,Milk_Production,5389.0
+West Bengal,2018-19,91,Milk_Production,5607.0
+West Bengal,2019-20,91,Milk_Production,5869.0
+West Bengal,2020-21,91,Milk_Production,6165.0
+West Bengal,2021-22,91,Milk_Production,6414.0
+West Bengal,2022-23,91,Milk_Production,6969.0
+West Bengal,2023-24,91,Milk_Production,7650.0
+Andaman & Nicobar Islands,2014-15,91,Milk_Production,16.0
+Andaman & Nicobar Islands,2015-16,91,Milk_Production,15.0
+Andaman & Nicobar Islands,2016-17,91,Milk_Production,16.0
+Andaman & Nicobar Islands,2017-18,91,Milk_Production,17.0
+Andaman & Nicobar Islands,2018-19,91,Milk_Production,18.0
+Andaman & Nicobar Islands,2019-20,91,Milk_Production,19.0
+Andaman & Nicobar Islands,2020-21,91,Milk_Production,15.0
+Andaman & Nicobar Islands,2021-22,91,Milk_Production,17.0
+Andaman & Nicobar Islands,2022-23,91,Milk_Production,17.0
+Andaman & Nicobar Islands,2023-24,91,Milk_Production,18.0
+Telangana,2014-15,91,Milk_Production,4207.0
+Telangana,2015-16,91,Milk_Production,4442.0
+Telangana,2016-17,91,Milk_Production,4681.0
+Telangana,2017-18,91,Milk_Production,4965.0
+Telangana,2018-19,91,Milk_Production,5416.0
+Telangana,2019-20,91,Milk_Production,5590.0
+Telangana,2020-21,91,Milk_Production,5765.0
+Telangana,2021-22,91,Milk_Production,5808.0
+Telangana,2022-23,91,Milk_Production,5855.0
+Telangana,2023-24,91,Milk_Production,5840.0

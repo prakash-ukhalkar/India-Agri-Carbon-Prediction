@@ -1,0 +1,635 @@
+State,Fiscal_Year,Table_ID,Variable,Value
+Andhra Pradesh,2004-05,82,Coarse_Cereals_Yield,2026.0
+Andhra Pradesh,2005-06,82,Coarse_Cereals_Yield,2772.0
+Andhra Pradesh,2006-07,82,Coarse_Cereals_Yield,2305.0
+Andhra Pradesh,2007-08,82,Coarse_Cereals_Yield,3336.0
+Andhra Pradesh,2008-09,82,Coarse_Cereals_Yield,3713.0
+Andhra Pradesh,2009-10,82,Coarse_Cereals_Yield,2586.0
+Andhra Pradesh,2010-11,82,Coarse_Cereals_Yield,3909.0
+Andhra Pradesh,2011-12,82,Coarse_Cereals_Yield,4192.0
+Andhra Pradesh,2012-13,82,Coarse_Cereals_Yield,4011.0
+Andhra Pradesh,2013-14,82,Coarse_Cereals_Yield,4422.0
+Andhra Pradesh,2014-15,82,Coarse_Cereals_Yield,4392.0
+Andhra Pradesh,2015-16,82,Coarse_Cereals_Yield,3643.0
+Andhra Pradesh,2016-17,82,Coarse_Cereals_Yield,4385.0
+Andhra Pradesh,2017-18,82,Coarse_Cereals_Yield,4786.0
+Andhra Pradesh,2018-19,82,Coarse_Cereals_Yield,3813.0
+Andhra Pradesh,2019-20,82,Coarse_Cereals_Yield,4714.0
+Andhra Pradesh,2020-21,82,Coarse_Cereals_Yield,4579.0
+Andhra Pradesh,2021-22,82,Coarse_Cereals_Yield,4572.0
+Andhra Pradesh,2022-23,82,Coarse_Cereals_Yield,6033.0
+Andhra Pradesh,2023-24,82,Coarse_Cereals_Yield,4878.0
+Andhra Pradesh,2024-25,82,Coarse_Cereals_Yield,5154.0
+Arunachal Pradesh,2004-05,82,Coarse_Cereals_Yield,1269.0
+Arunachal Pradesh,2005-06,82,Coarse_Cereals_Yield,1241.0
+Arunachal Pradesh,2006-07,82,Coarse_Cereals_Yield,1249.0
+Arunachal Pradesh,2007-08,82,Coarse_Cereals_Yield,1182.0
+Arunachal Pradesh,2008-09,82,Coarse_Cereals_Yield,1192.0
+Arunachal Pradesh,2009-10,82,Coarse_Cereals_Yield,1209.0
+Arunachal Pradesh,2010-11,82,Coarse_Cereals_Yield,1269.0
+Arunachal Pradesh,2011-12,82,Coarse_Cereals_Yield,1321.0
+Arunachal Pradesh,2012-13,82,Coarse_Cereals_Yield,1306.0
+Arunachal Pradesh,2013-14,82,Coarse_Cereals_Yield,1331.0
+Arunachal Pradesh,2014-15,82,Coarse_Cereals_Yield,1378.0
+Arunachal Pradesh,2015-16,82,Coarse_Cereals_Yield,1347.0
+Arunachal Pradesh,2016-17,82,Coarse_Cereals_Yield,1844.0
+Arunachal Pradesh,2017-18,82,Coarse_Cereals_Yield,1348.0
+Arunachal Pradesh,2018-19,82,Coarse_Cereals_Yield,1355.0
+Arunachal Pradesh,2019-20,82,Coarse_Cereals_Yield,1371.0
+Arunachal Pradesh,2020-21,82,Coarse_Cereals_Yield,1384.0
+Arunachal Pradesh,2021-22,82,Coarse_Cereals_Yield,1394.0
+Arunachal Pradesh,2022-23,82,Coarse_Cereals_Yield,1398.0
+Arunachal Pradesh,2023-24,82,Coarse_Cereals_Yield,1398.0
+Arunachal Pradesh,2024-25,82,Coarse_Cereals_Yield,1400.0
+Assam,2004-05,82,Coarse_Cereals_Yield,662.0
+Assam,2005-06,82,Coarse_Cereals_Yield,659.0
+Assam,2006-07,82,Coarse_Cereals_Yield,720.0
+Assam,2007-08,82,Coarse_Cereals_Yield,680.0
+Assam,2008-09,82,Coarse_Cereals_Yield,675.0
+Assam,2009-10,82,Coarse_Cereals_Yield,661.0
+Assam,2010-11,82,Coarse_Cereals_Yield,678.0
+Assam,2011-12,82,Coarse_Cereals_Yield,675.0
+Assam,2012-13,82,Coarse_Cereals_Yield,834.0
+Assam,2013-14,82,Coarse_Cereals_Yield,846.0
+Assam,2014-15,82,Coarse_Cereals_Yield,2895.0
+Assam,2015-16,82,Coarse_Cereals_Yield,2618.0
+Assam,2016-17,82,Coarse_Cereals_Yield,2609.0
+Assam,2017-18,82,Coarse_Cereals_Yield,2769.0
+Assam,2018-19,82,Coarse_Cereals_Yield,2883.0
+Assam,2019-20,82,Coarse_Cereals_Yield,3137.0
+Assam,2020-21,82,Coarse_Cereals_Yield,3277.0
+Assam,2021-22,82,Coarse_Cereals_Yield,3632.0
+Assam,2022-23,82,Coarse_Cereals_Yield,3398.0
+Assam,2023-24,82,Coarse_Cereals_Yield,4804.0
+Assam,2024-25,82,Coarse_Cereals_Yield,4424.0
+Bihar,2004-05,82,Coarse_Cereals_Yield,2293.0
+Bihar,2005-06,82,Coarse_Cereals_Yield,2021.0
+Bihar,2006-07,82,Coarse_Cereals_Yield,2555.0
+Bihar,2007-08,82,Coarse_Cereals_Yield,2185.0
+Bihar,2008-09,82,Coarse_Cereals_Yield,2577.0
+Bihar,2009-10,82,Coarse_Cereals_Yield,2277.0
+Bihar,2010-11,82,Coarse_Cereals_Yield,2159.0
+Bihar,2011-12,82,Coarse_Cereals_Yield,2336.0
+Bihar,2012-13,82,Coarse_Cereals_Yield,3517.0
+Bihar,2013-14,82,Coarse_Cereals_Yield,2830.0
+Bihar,2014-15,82,Coarse_Cereals_Yield,3236.0
+Bihar,2015-16,82,Coarse_Cereals_Yield,3491.0
+Bihar,2016-17,82,Coarse_Cereals_Yield,3649.0
+Bihar,2017-18,82,Coarse_Cereals_Yield,3397.0
+Bihar,2018-19,82,Coarse_Cereals_Yield,3609.0
+Bihar,2019-20,82,Coarse_Cereals_Yield,2932.0
+Bihar,2020-21,82,Coarse_Cereals_Yield,3161.0
+Bihar,2021-22,82,Coarse_Cereals_Yield,3965.0
+Bihar,2022-23,82,Coarse_Cereals_Yield,5770.0
+Bihar,2023-24,82,Coarse_Cereals_Yield,5896.0
+Bihar,2024-25,82,Coarse_Cereals_Yield,6015.0
+Chhattisgarh,2004-05,82,Coarse_Cereals_Yield,535.0
+Chhattisgarh,2005-06,82,Coarse_Cereals_Yield,460.0
+Chhattisgarh,2006-07,82,Coarse_Cereals_Yield,537.0
+Chhattisgarh,2007-08,82,Coarse_Cereals_Yield,712.0
+Chhattisgarh,2008-09,82,Coarse_Cereals_Yield,657.0
+Chhattisgarh,2009-10,82,Coarse_Cereals_Yield,669.0
+Chhattisgarh,2010-11,82,Coarse_Cereals_Yield,826.0
+Chhattisgarh,2011-12,82,Coarse_Cereals_Yield,781.0
+Chhattisgarh,2012-13,82,Coarse_Cereals_Yield,928.0
+Chhattisgarh,2013-14,82,Coarse_Cereals_Yield,1105.0
+Chhattisgarh,2014-15,82,Coarse_Cereals_Yield,1046.0
+Chhattisgarh,2015-16,82,Coarse_Cereals_Yield,963.0
+Chhattisgarh,2016-17,82,Coarse_Cereals_Yield,1607.0
+Chhattisgarh,2017-18,82,Coarse_Cereals_Yield,1489.0
+Chhattisgarh,2018-19,82,Coarse_Cereals_Yield,1523.0
+Chhattisgarh,2019-20,82,Coarse_Cereals_Yield,1836.0
+Chhattisgarh,2020-21,82,Coarse_Cereals_Yield,1775.0
+Chhattisgarh,2021-22,82,Coarse_Cereals_Yield,2243.0
+Chhattisgarh,2022-23,82,Coarse_Cereals_Yield,2475.0
+Chhattisgarh,2023-24,82,Coarse_Cereals_Yield,2399.0
+Chhattisgarh,2024-25,82,Coarse_Cereals_Yield,2623.0
+Delhi,2004-05,82,Coarse_Cereals_Yield,1500.0
+Delhi,2005-06,82,Coarse_Cereals_Yield,1287.0
+Delhi,2006-07,82,Coarse_Cereals_Yield,1330.0
+Delhi,2007-08,82,Coarse_Cereals_Yield,1094.0
+Delhi,2008-09,82,Coarse_Cereals_Yield,1114.0
+Delhi,2009-10,82,Coarse_Cereals_Yield,998.0
+Delhi,2010-11,82,Coarse_Cereals_Yield,1931.0
+Delhi,2011-12,82,Coarse_Cereals_Yield,1437.0
+Delhi,2012-13,82,Coarse_Cereals_Yield,1253.0
+Delhi,2013-14,82,Coarse_Cereals_Yield,1601.0
+Delhi,2014-15,82,Coarse_Cereals_Yield,1378.0
+Delhi,2015-16,82,Coarse_Cereals_Yield,1591.0
+Delhi,2016-17,82,Coarse_Cereals_Yield,1400.0
+Delhi,2017-18,82,Coarse_Cereals_Yield,1402.0
+Delhi,2018-19,82,Coarse_Cereals_Yield,1391.0
+Delhi,2019-20,82,Coarse_Cereals_Yield,1386.0
+Delhi,2020-21,82,Coarse_Cereals_Yield,1935.0
+Delhi,2021-22,82,Coarse_Cereals_Yield,1572.0
+Delhi,2022-23,82,Coarse_Cereals_Yield,1770.0
+Delhi,2023-24,82,Coarse_Cereals_Yield,1751.0
+Delhi,2024-25,82,Coarse_Cereals_Yield,2149.0
+Goa,2004-05,82,Coarse_Cereals_Yield,1833.0
+Goa,2005-06,82,Coarse_Cereals_Yield,2000.0
+Goa,2006-07,82,Coarse_Cereals_Yield,2000.0
+Goa,2007-08,82,Coarse_Cereals_Yield,2333.0
+Goa,2008-09,82,Coarse_Cereals_Yield,2667.0
+Goa,2009-10,82,Coarse_Cereals_Yield,2667.0
+Goa,2010-11,82,Coarse_Cereals_Yield,500.0
+Goa,2011-12,82,Coarse_Cereals_Yield,933.0
+Goa,2012-13,82,Coarse_Cereals_Yield,1041.0
+Goa,2013-14,82,Coarse_Cereals_Yield,500.0
+Goa,2014-15,82,Coarse_Cereals_Yield,500.0
+Gujarat,2004-05,82,Coarse_Cereals_Yield,1083.0
+Gujarat,2005-06,82,Coarse_Cereals_Yield,1142.0
+Gujarat,2006-07,82,Coarse_Cereals_Yield,928.0
+Gujarat,2007-08,82,Coarse_Cereals_Yield,1373.0
+Gujarat,2008-09,82,Coarse_Cereals_Yield,1371.0
+Gujarat,2009-10,82,Coarse_Cereals_Yield,1140.0
+Gujarat,2010-11,82,Coarse_Cereals_Yield,1354.0
+Gujarat,2011-12,82,Coarse_Cereals_Yield,1402.0
+Gujarat,2012-13,82,Coarse_Cereals_Yield,1670.0
+Gujarat,2013-14,82,Coarse_Cereals_Yield,1588.0
+Gujarat,2014-15,82,Coarse_Cereals_Yield,1585.0
+Gujarat,2015-16,82,Coarse_Cereals_Yield,1661.0
+Gujarat,2016-17,82,Coarse_Cereals_Yield,1884.0
+Gujarat,2017-18,82,Coarse_Cereals_Yield,1950.0
+Gujarat,2018-19,82,Coarse_Cereals_Yield,2027.0
+Gujarat,2019-20,82,Coarse_Cereals_Yield,1912.0
+Gujarat,2020-21,82,Coarse_Cereals_Yield,1935.0
+Gujarat,2021-22,82,Coarse_Cereals_Yield,2215.0
+Gujarat,2022-23,82,Coarse_Cereals_Yield,2333.0
+Gujarat,2023-24,82,Coarse_Cereals_Yield,2342.0
+Gujarat,2024-25,82,Coarse_Cereals_Yield,2182.0
+Haryana,2004-05,82,Coarse_Cereals_Yield,1249.0
+Haryana,2005-06,82,Coarse_Cereals_Yield,1124.0
+Haryana,2006-07,82,Coarse_Cereals_Yield,1567.0
+Haryana,2007-08,82,Coarse_Cereals_Yield,1762.0
+Haryana,2008-09,82,Coarse_Cereals_Yield,1760.0
+Haryana,2009-10,82,Coarse_Cereals_Yield,1592.0
+Haryana,2010-11,82,Coarse_Cereals_Yield,1755.0
+Haryana,2011-12,82,Coarse_Cereals_Yield,2001.0
+Haryana,2012-13,82,Coarse_Cereals_Yield,1914.0
+Haryana,2013-14,82,Coarse_Cereals_Yield,2006.0
+Haryana,2014-15,82,Coarse_Cereals_Yield,1728.0
+Haryana,2015-16,82,Coarse_Cereals_Yield,1738.0
+Haryana,2016-17,82,Coarse_Cereals_Yield,1924.0
+Haryana,2017-18,82,Coarse_Cereals_Yield,1591.0
+Haryana,2018-19,82,Coarse_Cereals_Yield,2002.0
+Haryana,2019-20,82,Coarse_Cereals_Yield,2031.0
+Haryana,2020-21,82,Coarse_Cereals_Yield,2300.0
+Haryana,2021-22,82,Coarse_Cereals_Yield,2250.0
+Haryana,2022-23,82,Coarse_Cereals_Yield,2236.0
+Haryana,2023-24,82,Coarse_Cereals_Yield,2189.0
+Haryana,2024-25,82,Coarse_Cereals_Yield,2221.0
+Himachal Pradesh,2004-05,82,Coarse_Cereals_Yield,2170.0
+Himachal Pradesh,2005-06,82,Coarse_Cereals_Yield,1715.0
+Himachal Pradesh,2006-07,82,Coarse_Cereals_Yield,2180.0
+Himachal Pradesh,2007-08,82,Coarse_Cereals_Yield,2689.0
+Himachal Pradesh,2008-09,82,Coarse_Cereals_Yield,2166.0
+Himachal Pradesh,2009-10,82,Coarse_Cereals_Yield,1737.0
+Himachal Pradesh,2010-11,82,Coarse_Cereals_Yield,2155.0
+Himachal Pradesh,2011-12,82,Coarse_Cereals_Yield,2318.0
+Himachal Pradesh,2012-13,82,Coarse_Cereals_Yield,2144.0
+Himachal Pradesh,2013-14,82,Coarse_Cereals_Yield,2160.0
+Himachal Pradesh,2014-15,82,Coarse_Cereals_Yield,1936.0
+Himachal Pradesh,2015-16,82,Coarse_Cereals_Yield,2431.0
+Himachal Pradesh,2016-17,82,Coarse_Cereals_Yield,2568.0
+Himachal Pradesh,2017-18,82,Coarse_Cereals_Yield,2452.0
+Himachal Pradesh,2018-19,82,Coarse_Cereals_Yield,2445.0
+Himachal Pradesh,2019-20,82,Coarse_Cereals_Yield,2438.0
+Himachal Pradesh,2020-21,82,Coarse_Cereals_Yield,2624.0
+Himachal Pradesh,2021-22,82,Coarse_Cereals_Yield,2865.0
+Himachal Pradesh,2022-23,82,Coarse_Cereals_Yield,2564.0
+Himachal Pradesh,2023-24,82,Coarse_Cereals_Yield,2346.0
+Himachal Pradesh,2024-25,82,Coarse_Cereals_Yield,2573.0
+Jammu & Kashmir,2004-05,82,Coarse_Cereals_Yield,1437.0
+Jammu & Kashmir,2005-06,82,Coarse_Cereals_Yield,1344.0
+Jammu & Kashmir,2006-07,82,Coarse_Cereals_Yield,1396.0
+Jammu & Kashmir,2007-08,82,Coarse_Cereals_Yield,1440.0
+Jammu & Kashmir,2008-09,82,Coarse_Cereals_Yield,1819.0
+Jammu & Kashmir,2009-10,82,Coarse_Cereals_Yield,1438.0
+Jammu & Kashmir,2010-11,82,Coarse_Cereals_Yield,1585.0
+Jammu & Kashmir,2011-12,82,Coarse_Cereals_Yield,1490.0
+Jammu & Kashmir,2012-13,82,Coarse_Cereals_Yield,1513.0
+Jammu & Kashmir,2013-14,82,Coarse_Cereals_Yield,1626.0
+Jammu & Kashmir,2014-15,82,Coarse_Cereals_Yield,1131.0
+Jammu & Kashmir,2015-16,82,Coarse_Cereals_Yield,1697.0
+Jammu & Kashmir,2016-17,82,Coarse_Cereals_Yield,1684.0
+Jammu & Kashmir,2017-18,82,Coarse_Cereals_Yield,1712.0
+Jammu & Kashmir,2018-19,82,Coarse_Cereals_Yield,1989.0
+Jammu & Kashmir,2019-20,82,Coarse_Cereals_Yield,1877.0
+Jammu & Kashmir,2020-21,82,Coarse_Cereals_Yield,1652.0
+Jammu & Kashmir,2021-22,82,Coarse_Cereals_Yield,1906.0
+Jammu & Kashmir,2022-23,82,Coarse_Cereals_Yield,1865.0
+Jammu & Kashmir,2023-24,82,Coarse_Cereals_Yield,1917.0
+Jammu & Kashmir,2024-25,82,Coarse_Cereals_Yield,1916.0
+Jharkhand,2004-05,82,Coarse_Cereals_Yield,1291.0
+Jharkhand,2005-06,82,Coarse_Cereals_Yield,1165.0
+Jharkhand,2006-07,82,Coarse_Cereals_Yield,1126.0
+Jharkhand,2007-08,82,Coarse_Cereals_Yield,1349.0
+Jharkhand,2008-09,82,Coarse_Cereals_Yield,1266.0
+Jharkhand,2009-10,82,Coarse_Cereals_Yield,1043.0
+Jharkhand,2010-11,82,Coarse_Cereals_Yield,1115.0
+Jharkhand,2011-12,82,Coarse_Cereals_Yield,1443.0
+Jharkhand,2012-13,82,Coarse_Cereals_Yield,1755.0
+Jharkhand,2013-14,82,Coarse_Cereals_Yield,1952.0
+Jharkhand,2014-15,82,Coarse_Cereals_Yield,1714.0
+Jharkhand,2015-16,82,Coarse_Cereals_Yield,1294.0
+Jharkhand,2016-17,82,Coarse_Cereals_Yield,1833.0
+Jharkhand,2017-18,82,Coarse_Cereals_Yield,1945.0
+Jharkhand,2018-19,82,Coarse_Cereals_Yield,1688.0
+Jharkhand,2019-20,82,Coarse_Cereals_Yield,1920.0
+Jharkhand,2020-21,82,Coarse_Cereals_Yield,2099.0
+Jharkhand,2021-22,82,Coarse_Cereals_Yield,2139.0
+Jharkhand,2022-23,82,Coarse_Cereals_Yield,1833.0
+Jharkhand,2023-24,82,Coarse_Cereals_Yield,1975.0
+Jharkhand,2024-25,82,Coarse_Cereals_Yield,2250.0
+Karnataka,2004-05,82,Coarse_Cereals_Yield,1530.0
+Karnataka,2005-06,82,Coarse_Cereals_Yield,1693.0
+Karnataka,2006-07,82,Coarse_Cereals_Yield,1481.0
+Karnataka,2007-08,82,Coarse_Cereals_Yield,1829.0
+Karnataka,2008-09,82,Coarse_Cereals_Yield,1742.0
+Karnataka,2009-10,82,Coarse_Cereals_Yield,1591.0
+Karnataka,2010-11,82,Coarse_Cereals_Yield,2148.0
+Karnataka,2011-12,82,Coarse_Cereals_Yield,1957.0
+Karnataka,2012-13,82,Coarse_Cereals_Yield,1718.0
+Karnataka,2013-14,82,Coarse_Cereals_Yield,1955.0
+Karnataka,2014-15,82,Coarse_Cereals_Yield,2074.0
+Karnataka,2015-16,82,Coarse_Cereals_Yield,1740.0
+Karnataka,2016-17,82,Coarse_Cereals_Yield,1661.0
+Karnataka,2017-18,82,Coarse_Cereals_Yield,1918.0
+Karnataka,2018-19,82,Coarse_Cereals_Yield,1832.0
+Karnataka,2019-20,82,Coarse_Cereals_Yield,2088.0
+Karnataka,2020-21,82,Coarse_Cereals_Yield,2260.0
+Karnataka,2021-22,82,Coarse_Cereals_Yield,2252.0
+Karnataka,2022-23,82,Coarse_Cereals_Yield,2310.0
+Karnataka,2023-24,82,Coarse_Cereals_Yield,2070.0
+Karnataka,2024-25,82,Coarse_Cereals_Yield,2379.0
+Kerala,2004-05,82,Coarse_Cereals_Yield,750.0
+Kerala,2005-06,82,Coarse_Cereals_Yield,517.0
+Kerala,2006-07,82,Coarse_Cereals_Yield,1100.0
+Kerala,2007-08,82,Coarse_Cereals_Yield,636.0
+Kerala,2008-09,82,Coarse_Cereals_Yield,531.0
+Kerala,2009-10,82,Coarse_Cereals_Yield,748.0
+Kerala,2010-11,82,Coarse_Cereals_Yield,530.0
+Kerala,2011-12,82,Coarse_Cereals_Yield,831.0
+Kerala,2012-13,82,Coarse_Cereals_Yield,542.0
+Kerala,2013-14,82,Coarse_Cereals_Yield,1040.0
+Kerala,2014-15,82,Coarse_Cereals_Yield,857.0
+Kerala,2015-16,82,Coarse_Cereals_Yield,924.0
+Kerala,2016-17,82,Coarse_Cereals_Yield,915.0
+Kerala,2017-18,82,Coarse_Cereals_Yield,1198.0
+Kerala,2018-19,82,Coarse_Cereals_Yield,1062.0
+Kerala,2019-20,82,Coarse_Cereals_Yield,1016.0
+Kerala,2020-21,82,Coarse_Cereals_Yield,1110.0
+Kerala,2021-22,82,Coarse_Cereals_Yield,1708.0
+Kerala,2022-23,82,Coarse_Cereals_Yield,2050.0
+Kerala,2023-24,82,Coarse_Cereals_Yield,1022.0
+Kerala,2024-25,82,Coarse_Cereals_Yield,2047.0
+Madhya Pradesh,2004-05,82,Coarse_Cereals_Yield,1062.0
+Madhya Pradesh,2005-06,82,Coarse_Cereals_Yield,1150.0
+Madhya Pradesh,2006-07,82,Coarse_Cereals_Yield,918.0
+Madhya Pradesh,2007-08,82,Coarse_Cereals_Yield,1082.0
+Madhya Pradesh,2008-09,82,Coarse_Cereals_Yield,1140.0
+Madhya Pradesh,2009-10,82,Coarse_Cereals_Yield,1136.0
+Madhya Pradesh,2010-11,82,Coarse_Cereals_Yield,1233.0
+Madhya Pradesh,2011-12,82,Coarse_Cereals_Yield,1397.0
+Madhya Pradesh,2012-13,82,Coarse_Cereals_Yield,1596.0
+Madhya Pradesh,2013-14,82,Coarse_Cereals_Yield,1568.0
+Madhya Pradesh,2014-15,82,Coarse_Cereals_Yield,1744.0
+Madhya Pradesh,2015-16,82,Coarse_Cereals_Yield,2083.0
+Madhya Pradesh,2016-17,82,Coarse_Cereals_Yield,2285.0
+Madhya Pradesh,2017-18,82,Coarse_Cereals_Yield,2399.0
+Madhya Pradesh,2018-19,82,Coarse_Cereals_Yield,2796.0
+Madhya Pradesh,2019-20,82,Coarse_Cereals_Yield,2617.0
+Madhya Pradesh,2020-21,82,Coarse_Cereals_Yield,2544.0
+Madhya Pradesh,2021-22,82,Coarse_Cereals_Yield,2953.0
+Madhya Pradesh,2022-23,82,Coarse_Cereals_Yield,2847.0
+Madhya Pradesh,2023-24,82,Coarse_Cereals_Yield,2606.0
+Madhya Pradesh,2024-25,82,Coarse_Cereals_Yield,2767.0
+Maharashtra,2004-05,82,Coarse_Cereals_Yield,820.0
+Maharashtra,2005-06,82,Coarse_Cereals_Yield,887.0
+Maharashtra,2006-07,82,Coarse_Cereals_Yield,895.0
+Maharashtra,2007-08,82,Coarse_Cereals_Yield,1122.0
+Maharashtra,2008-09,82,Coarse_Cereals_Yield,1031.0
+Maharashtra,2009-10,82,Coarse_Cereals_Yield,1017.0
+Maharashtra,2010-11,82,Coarse_Cereals_Yield,1188.0
+Maharashtra,2011-12,82,Coarse_Cereals_Yield,1178.0
+Maharashtra,2012-13,82,Coarse_Cereals_Yield,891.0
+Maharashtra,2013-14,82,Coarse_Cereals_Yield,1239.0
+Maharashtra,2014-15,82,Coarse_Cereals_Yield,923.0
+Maharashtra,2015-16,82,Coarse_Cereals_Yield,692.0
+Maharashtra,2016-17,82,Coarse_Cereals_Yield,1262.0
+Maharashtra,2017-18,82,Coarse_Cereals_Yield,1290.0
+Maharashtra,2018-19,82,Coarse_Cereals_Yield,933.0
+Maharashtra,2019-20,82,Coarse_Cereals_Yield,1040.0
+Maharashtra,2020-21,82,Coarse_Cereals_Yield,1473.0
+Maharashtra,2021-22,82,Coarse_Cereals_Yield,1589.0
+Maharashtra,2022-23,82,Coarse_Cereals_Yield,1721.0
+Maharashtra,2023-24,82,Coarse_Cereals_Yield,1282.0
+Maharashtra,2024-25,82,Coarse_Cereals_Yield,1878.0
+Manipur,2004-05,82,Coarse_Cereals_Yield,2781.0
+Manipur,2005-06,82,Coarse_Cereals_Yield,2724.0
+Manipur,2006-07,82,Coarse_Cereals_Yield,2724.0
+Manipur,2007-08,82,Coarse_Cereals_Yield,2800.0
+Manipur,2008-09,82,Coarse_Cereals_Yield,2674.0
+Manipur,2009-10,82,Coarse_Cereals_Yield,2436.0
+Manipur,2010-11,82,Coarse_Cereals_Yield,1856.0
+Manipur,2011-12,82,Coarse_Cereals_Yield,1845.0
+Manipur,2012-13,82,Coarse_Cereals_Yield,2301.0
+Manipur,2013-14,82,Coarse_Cereals_Yield,2246.0
+Manipur,2014-15,82,Coarse_Cereals_Yield,2243.0
+Manipur,2015-16,82,Coarse_Cereals_Yield,2304.0
+Manipur,2016-17,82,Coarse_Cereals_Yield,2194.0
+Manipur,2017-18,82,Coarse_Cereals_Yield,2343.0
+Manipur,2018-19,82,Coarse_Cereals_Yield,2205.0
+Manipur,2019-20,82,Coarse_Cereals_Yield,2228.0
+Manipur,2020-21,82,Coarse_Cereals_Yield,2340.0
+Manipur,2021-22,82,Coarse_Cereals_Yield,2266.0
+Manipur,2022-23,82,Coarse_Cereals_Yield,2220.0
+Manipur,2023-24,82,Coarse_Cereals_Yield,2256.0
+Manipur,2024-25,82,Coarse_Cereals_Yield,2216.0
+Meghalaya,2004-05,82,Coarse_Cereals_Yield,1349.0
+Meghalaya,2005-06,82,Coarse_Cereals_Yield,1347.0
+Meghalaya,2006-07,82,Coarse_Cereals_Yield,1388.0
+Meghalaya,2007-08,82,Coarse_Cereals_Yield,1391.0
+Meghalaya,2008-09,82,Coarse_Cereals_Yield,1426.0
+Meghalaya,2009-10,82,Coarse_Cereals_Yield,1441.0
+Meghalaya,2010-11,82,Coarse_Cereals_Yield,1415.0
+Meghalaya,2011-12,82,Coarse_Cereals_Yield,1443.0
+Meghalaya,2012-13,82,Coarse_Cereals_Yield,1462.0
+Meghalaya,2013-14,82,Coarse_Cereals_Yield,2021.0
+Meghalaya,2014-15,82,Coarse_Cereals_Yield,2075.0
+Meghalaya,2015-16,82,Coarse_Cereals_Yield,2099.0
+Meghalaya,2016-17,82,Coarse_Cereals_Yield,2105.0
+Meghalaya,2017-18,82,Coarse_Cereals_Yield,2107.0
+Meghalaya,2018-19,82,Coarse_Cereals_Yield,2108.0
+Meghalaya,2019-20,82,Coarse_Cereals_Yield,2112.0
+Meghalaya,2020-21,82,Coarse_Cereals_Yield,2113.0
+Meghalaya,2021-22,82,Coarse_Cereals_Yield,2116.0
+Meghalaya,2022-23,82,Coarse_Cereals_Yield,2082.0
+Meghalaya,2023-24,82,Coarse_Cereals_Yield,2082.0
+Meghalaya,2024-25,82,Coarse_Cereals_Yield,2082.0
+Mizoram,2004-05,82,Coarse_Cereals_Yield,2093.0
+Mizoram,2005-06,82,Coarse_Cereals_Yield,1940.0
+Mizoram,2006-07,82,Coarse_Cereals_Yield,1963.0
+Mizoram,2007-08,82,Coarse_Cereals_Yield,95.0
+Mizoram,2008-09,82,Coarse_Cereals_Yield,969.0
+Mizoram,2009-10,82,Coarse_Cereals_Yield,1347.0
+Mizoram,2010-11,82,Coarse_Cereals_Yield,1508.0
+Mizoram,2011-12,82,Coarse_Cereals_Yield,1214.0
+Mizoram,2012-13,82,Coarse_Cereals_Yield,1314.0
+Mizoram,2013-14,82,Coarse_Cereals_Yield,1420.0
+Mizoram,2014-15,82,Coarse_Cereals_Yield,1515.0
+Mizoram,2015-16,82,Coarse_Cereals_Yield,1342.0
+Mizoram,2016-17,82,Coarse_Cereals_Yield,1542.0
+Mizoram,2017-18,82,Coarse_Cereals_Yield,1584.0
+Mizoram,2018-19,82,Coarse_Cereals_Yield,1780.0
+Mizoram,2019-20,82,Coarse_Cereals_Yield,1727.0
+Mizoram,2020-21,82,Coarse_Cereals_Yield,1807.0
+Mizoram,2021-22,82,Coarse_Cereals_Yield,1703.0
+Mizoram,2022-23,82,Coarse_Cereals_Yield,1674.0
+Mizoram,2023-24,82,Coarse_Cereals_Yield,1671.0
+Mizoram,2024-25,82,Coarse_Cereals_Yield,1893.0
+Nagaland,2004-05,82,Coarse_Cereals_Yield,1675.0
+Nagaland,2005-06,82,Coarse_Cereals_Yield,1612.0
+Nagaland,2006-07,82,Coarse_Cereals_Yield,1394.0
+Nagaland,2007-08,82,Coarse_Cereals_Yield,1499.0
+Nagaland,2008-09,82,Coarse_Cereals_Yield,1666.0
+Nagaland,2009-10,82,Coarse_Cereals_Yield,984.0
+Nagaland,2010-11,82,Coarse_Cereals_Yield,1816.0
+Nagaland,2011-12,82,Coarse_Cereals_Yield,1833.0
+Nagaland,2012-13,82,Coarse_Cereals_Yield,1849.0
+Nagaland,2013-14,82,Coarse_Cereals_Yield,1855.0
+Nagaland,2014-15,82,Coarse_Cereals_Yield,1860.0
+Nagaland,2015-16,82,Coarse_Cereals_Yield,1862.0
+Nagaland,2016-17,82,Coarse_Cereals_Yield,1850.0
+Nagaland,2017-18,82,Coarse_Cereals_Yield,1847.0
+Nagaland,2018-19,82,Coarse_Cereals_Yield,1865.0
+Nagaland,2019-20,82,Coarse_Cereals_Yield,1866.0
+Nagaland,2020-21,82,Coarse_Cereals_Yield,1870.0
+Nagaland,2021-22,82,Coarse_Cereals_Yield,1450.0
+Nagaland,2022-23,82,Coarse_Cereals_Yield,1808.0
+Nagaland,2023-24,82,Coarse_Cereals_Yield,1739.0
+Nagaland,2024-25,82,Coarse_Cereals_Yield,1728.0
+Odisha,2004-05,82,Coarse_Cereals_Yield,933.0
+Odisha,2005-06,82,Coarse_Cereals_Yield,968.0
+Odisha,2006-07,82,Coarse_Cereals_Yield,1025.0
+Odisha,2007-08,82,Coarse_Cereals_Yield,1219.0
+Odisha,2008-09,82,Coarse_Cereals_Yield,1180.0
+Odisha,2009-10,82,Coarse_Cereals_Yield,1356.0
+Odisha,2010-11,82,Coarse_Cereals_Yield,1706.0
+Odisha,2011-12,82,Coarse_Cereals_Yield,1389.0
+Odisha,2012-13,82,Coarse_Cereals_Yield,1597.0
+Odisha,2013-14,82,Coarse_Cereals_Yield,1794.0
+Odisha,2014-15,82,Coarse_Cereals_Yield,1401.0
+Odisha,2015-16,82,Coarse_Cereals_Yield,1165.0
+Odisha,2016-17,82,Coarse_Cereals_Yield,1663.0
+Odisha,2017-18,82,Coarse_Cereals_Yield,1350.0
+Odisha,2018-19,82,Coarse_Cereals_Yield,1293.0
+Odisha,2019-20,82,Coarse_Cereals_Yield,1675.0
+Odisha,2020-21,82,Coarse_Cereals_Yield,1748.0
+Odisha,2021-22,82,Coarse_Cereals_Yield,1734.0
+Odisha,2022-23,82,Coarse_Cereals_Yield,1847.0
+Odisha,2023-24,82,Coarse_Cereals_Yield,1989.0
+Odisha,2024-25,82,Coarse_Cereals_Yield,1808.0
+Puducherry,2004-05,82,Coarse_Cereals_Yield,1750.0
+Puducherry,2005-06,82,Coarse_Cereals_Yield,2000.0
+Puducherry,2006-07,82,Coarse_Cereals_Yield,2000.0
+Puducherry,2007-08,82,Coarse_Cereals_Yield,1500.0
+Puducherry,2008-09,82,Coarse_Cereals_Yield,2000.0
+Puducherry,2009-10,82,Coarse_Cereals_Yield,3197.0
+Puducherry,2010-11,82,Coarse_Cereals_Yield,2281.0
+Puducherry,2011-12,82,Coarse_Cereals_Yield,2800.0
+Puducherry,2012-13,82,Coarse_Cereals_Yield,5667.0
+Puducherry,2013-14,82,Coarse_Cereals_Yield,2000.0
+Puducherry,2014-15,82,Coarse_Cereals_Yield,1800.0
+Puducherry,2015-16,82,Coarse_Cereals_Yield,2429.0
+Puducherry,2016-17,82,Coarse_Cereals_Yield,1388.0
+Puducherry,2017-18,82,Coarse_Cereals_Yield,2820.0
+Puducherry,2018-19,82,Coarse_Cereals_Yield,2339.0
+Puducherry,2019-20,82,Coarse_Cereals_Yield,2358.0
+Puducherry,2020-21,82,Coarse_Cereals_Yield,2412.0
+Puducherry,2021-22,82,Coarse_Cereals_Yield,2221.0
+Puducherry,2022-23,82,Coarse_Cereals_Yield,2457.0
+Puducherry,2023-24,82,Coarse_Cereals_Yield,2972.0
+Puducherry,2024-25,82,Coarse_Cereals_Yield,3000.0
+Punjab,2004-05,82,Coarse_Cereals_Yield,2714.0
+Punjab,2005-06,82,Coarse_Cereals_Yield,2697.0
+Punjab,2006-07,82,Coarse_Cereals_Yield,3033.0
+Punjab,2007-08,82,Coarse_Cereals_Yield,3311.0
+Punjab,2008-09,82,Coarse_Cereals_Yield,3284.0
+Punjab,2009-10,82,Coarse_Cereals_Yield,3315.0
+Punjab,2010-11,82,Coarse_Cereals_Yield,3635.0
+Punjab,2011-12,82,Coarse_Cereals_Yield,3915.0
+Punjab,2012-13,82,Coarse_Cereals_Yield,3621.0
+Punjab,2013-14,82,Coarse_Cereals_Yield,3878.0
+Punjab,2014-15,82,Coarse_Cereals_Yield,3645.0
+Punjab,2015-16,82,Coarse_Cereals_Yield,3688.0
+Punjab,2016-17,82,Coarse_Cereals_Yield,3802.0
+Punjab,2017-18,82,Coarse_Cereals_Yield,3693.0
+Punjab,2018-19,82,Coarse_Cereals_Yield,3604.0
+Punjab,2019-20,82,Coarse_Cereals_Yield,3572.0
+Punjab,2020-21,82,Coarse_Cereals_Yield,3660.0
+Punjab,2021-22,82,Coarse_Cereals_Yield,3857.0
+Punjab,2022-23,82,Coarse_Cereals_Yield,4344.0
+Punjab,2023-24,82,Coarse_Cereals_Yield,3801.0
+Punjab,2024-25,82,Coarse_Cereals_Yield,4232.0
+Rajasthan,2004-05,82,Coarse_Cereals_Yield,778.0
+Rajasthan,2005-06,82,Coarse_Cereals_Yield,669.0
+Rajasthan,2006-07,82,Coarse_Cereals_Yield,807.0
+Rajasthan,2007-08,82,Coarse_Cereals_Yield,1015.0
+Rajasthan,2008-09,82,Coarse_Cereals_Yield,1031.0
+Rajasthan,2009-10,82,Coarse_Cereals_Yield,541.0
+Rajasthan,2010-11,82,Coarse_Cereals_Yield,1050.0
+Rajasthan,2011-12,82,Coarse_Cereals_Yield,1080.0
+Rajasthan,2012-13,82,Coarse_Cereals_Yield,1157.0
+Rajasthan,2013-14,82,Coarse_Cereals_Yield,1027.0
+Rajasthan,2014-15,82,Coarse_Cereals_Yield,1249.0
+Rajasthan,2015-16,82,Coarse_Cereals_Yield,998.0
+Rajasthan,2016-17,82,Coarse_Cereals_Yield,1134.0
+Rajasthan,2017-18,82,Coarse_Cereals_Yield,1140.0
+Rajasthan,2018-19,82,Coarse_Cereals_Yield,1200.0
+Rajasthan,2019-20,82,Coarse_Cereals_Yield,1196.0
+Rajasthan,2020-21,82,Coarse_Cereals_Yield,1353.0
+Rajasthan,2021-22,82,Coarse_Cereals_Yield,1276.0
+Rajasthan,2022-23,82,Coarse_Cereals_Yield,1381.0
+Rajasthan,2023-24,82,Coarse_Cereals_Yield,1357.0
+Rajasthan,2024-25,82,Coarse_Cereals_Yield,1485.0
+Sikkim,2004-05,82,Coarse_Cereals_Yield,1446.0
+Sikkim,2005-06,82,Coarse_Cereals_Yield,1391.0
+Sikkim,2006-07,82,Coarse_Cereals_Yield,1391.0
+Sikkim,2007-08,82,Coarse_Cereals_Yield,1452.0
+Sikkim,2008-09,82,Coarse_Cereals_Yield,1424.0
+Sikkim,2009-10,82,Coarse_Cereals_Yield,1579.0
+Sikkim,2010-11,82,Coarse_Cereals_Yield,1551.0
+Sikkim,2011-12,82,Coarse_Cereals_Yield,1539.0
+Sikkim,2012-13,82,Coarse_Cereals_Yield,1562.0
+Sikkim,2013-14,82,Coarse_Cereals_Yield,1611.0
+Sikkim,2014-15,82,Coarse_Cereals_Yield,1614.0
+Sikkim,2015-16,82,Coarse_Cereals_Yield,1642.0
+Sikkim,2016-17,82,Coarse_Cereals_Yield,1647.0
+Sikkim,2017-18,82,Coarse_Cereals_Yield,1716.0
+Sikkim,2018-19,82,Coarse_Cereals_Yield,1716.0
+Sikkim,2019-20,82,Coarse_Cereals_Yield,1722.0
+Sikkim,2020-21,82,Coarse_Cereals_Yield,1728.0
+Sikkim,2021-22,82,Coarse_Cereals_Yield,1736.0
+Sikkim,2022-23,82,Coarse_Cereals_Yield,1777.0
+Sikkim,2023-24,82,Coarse_Cereals_Yield,1745.0
+Sikkim,2024-25,82,Coarse_Cereals_Yield,1745.0
+Tamil Nadu,2004-05,82,Coarse_Cereals_Yield,1054.0
+Tamil Nadu,2005-06,82,Coarse_Cereals_Yield,985.0
+Tamil Nadu,2006-07,82,Coarse_Cereals_Yield,1951.0
+Tamil Nadu,2007-08,82,Coarse_Cereals_Yield,1943.0
+Tamil Nadu,2008-09,82,Coarse_Cereals_Yield,2424.0
+Tamil Nadu,2009-10,82,Coarse_Cereals_Yield,2516.0
+Tamil Nadu,2010-11,82,Coarse_Cereals_Yield,2465.0
+Tamil Nadu,2011-12,82,Coarse_Cereals_Yield,3642.0
+Tamil Nadu,2012-13,82,Coarse_Cereals_Yield,2135.0
+Tamil Nadu,2013-14,82,Coarse_Cereals_Yield,3140.0
+Tamil Nadu,2014-15,82,Coarse_Cereals_Yield,3657.0
+Tamil Nadu,2015-16,82,Coarse_Cereals_Yield,3928.0
+Tamil Nadu,2016-17,82,Coarse_Cereals_Yield,1873.0
+Tamil Nadu,2017-18,82,Coarse_Cereals_Yield,3976.0
+Tamil Nadu,2018-19,82,Coarse_Cereals_Yield,4012.0
+Tamil Nadu,2019-20,82,Coarse_Cereals_Yield,3633.0
+Tamil Nadu,2020-21,82,Coarse_Cereals_Yield,3539.0
+Tamil Nadu,2021-22,82,Coarse_Cereals_Yield,3763.0
+Tamil Nadu,2022-23,82,Coarse_Cereals_Yield,3950.0
+Tamil Nadu,2023-24,82,Coarse_Cereals_Yield,3697.0
+Tamil Nadu,2024-25,82,Coarse_Cereals_Yield,3601.0
+Telangana,2011-12,82,Coarse_Cereals_Yield,2785.0
+Telangana,2012-13,82,Coarse_Cereals_Yield,3866.0
+Telangana,2013-14,82,Coarse_Cereals_Yield,3662.0
+Telangana,2014-15,82,Coarse_Cereals_Yield,3066.0
+Telangana,2015-16,82,Coarse_Cereals_Yield,2791.0
+Telangana,2016-17,82,Coarse_Cereals_Yield,3039.0
+Telangana,2017-18,82,Coarse_Cereals_Yield,3733.0
+Telangana,2018-19,82,Coarse_Cereals_Yield,3546.0
+Telangana,2019-20,82,Coarse_Cereals_Yield,4749.0
+Telangana,2020-21,82,Coarse_Cereals_Yield,5327.0
+Telangana,2021-22,82,Coarse_Cereals_Yield,4833.0
+Telangana,2022-23,82,Coarse_Cereals_Yield,5092.0
+Telangana,2023-24,82,Coarse_Cereals_Yield,5024.0
+Telangana,2024-25,82,Coarse_Cereals_Yield,5021.0
+Tripura,2004-05,82,Coarse_Cereals_Yield,1071.0
+Tripura,2005-06,82,Coarse_Cereals_Yield,1000.0
+Tripura,2006-07,82,Coarse_Cereals_Yield,960.0
+Tripura,2007-08,82,Coarse_Cereals_Yield,1000.0
+Tripura,2008-09,82,Coarse_Cereals_Yield,952.0
+Tripura,2009-10,82,Coarse_Cereals_Yield,1006.0
+Tripura,2010-11,82,Coarse_Cereals_Yield,1322.0
+Tripura,2011-12,82,Coarse_Cereals_Yield,1353.0
+Tripura,2012-13,82,Coarse_Cereals_Yield,1295.0
+Tripura,2013-14,82,Coarse_Cereals_Yield,1279.0
+Tripura,2014-15,82,Coarse_Cereals_Yield,1303.0
+Tripura,2015-16,82,Coarse_Cereals_Yield,1392.0
+Tripura,2016-17,82,Coarse_Cereals_Yield,1355.0
+Tripura,2017-18,82,Coarse_Cereals_Yield,1379.0
+Tripura,2018-19,82,Coarse_Cereals_Yield,1365.0
+Tripura,2019-20,82,Coarse_Cereals_Yield,1507.0
+Tripura,2020-21,82,Coarse_Cereals_Yield,1874.0
+Tripura,2021-22,82,Coarse_Cereals_Yield,1951.0
+Tripura,2022-23,82,Coarse_Cereals_Yield,2247.0
+Tripura,2023-24,82,Coarse_Cereals_Yield,2248.0
+Tripura,2024-25,82,Coarse_Cereals_Yield,2024.0
+Uttar Pradesh,2004-05,82,Coarse_Cereals_Yield,1577.0
+Uttar Pradesh,2005-06,82,Coarse_Cereals_Yield,1383.0
+Uttar Pradesh,2006-07,82,Coarse_Cereals_Yield,1404.0
+Uttar Pradesh,2007-08,82,Coarse_Cereals_Yield,1454.0
+Uttar Pradesh,2008-09,82,Coarse_Cereals_Yield,1550.0
+Uttar Pradesh,2009-10,82,Coarse_Cereals_Yield,1541.0
+Uttar Pradesh,2010-11,82,Coarse_Cereals_Yield,1561.0
+Uttar Pradesh,2011-12,82,Coarse_Cereals_Yield,1753.0
+Uttar Pradesh,2012-13,82,Coarse_Cereals_Yield,1850.0
+Uttar Pradesh,2013-14,82,Coarse_Cereals_Yield,1887.0
+Uttar Pradesh,2014-15,82,Coarse_Cereals_Yield,1776.0
+Uttar Pradesh,2015-16,82,Coarse_Cereals_Yield,1760.0
+Uttar Pradesh,2016-17,82,Coarse_Cereals_Yield,1947.0
+Uttar Pradesh,2017-18,82,Coarse_Cereals_Yield,2038.0
+Uttar Pradesh,2018-19,82,Coarse_Cereals_Yield,2063.0
+Uttar Pradesh,2019-20,82,Coarse_Cereals_Yield,2206.0
+Uttar Pradesh,2020-21,82,Coarse_Cereals_Yield,2276.0
+Uttar Pradesh,2021-22,82,Coarse_Cereals_Yield,2179.0
+Uttar Pradesh,2022-23,82,Coarse_Cereals_Yield,2194.0
+Uttar Pradesh,2023-24,82,Coarse_Cereals_Yield,2227.0
+Uttar Pradesh,2024-25,82,Coarse_Cereals_Yield,2299.0
+Uttarakhand,2004-05,82,Coarse_Cereals_Yield,1222.0
+Uttarakhand,2005-06,82,Coarse_Cereals_Yield,1188.0
+Uttarakhand,2006-07,82,Coarse_Cereals_Yield,1318.0
+Uttarakhand,2007-08,82,Coarse_Cereals_Yield,1319.0
+Uttarakhand,2008-09,82,Coarse_Cereals_Yield,1280.0
+Uttarakhand,2009-10,82,Coarse_Cereals_Yield,1160.0
+Uttarakhand,2010-11,82,Coarse_Cereals_Yield,1306.0
+Uttarakhand,2011-12,82,Coarse_Cereals_Yield,1335.0
+Uttarakhand,2012-13,82,Coarse_Cereals_Yield,1355.0
+Uttarakhand,2013-14,82,Coarse_Cereals_Yield,1329.0
+Uttarakhand,2014-15,82,Coarse_Cereals_Yield,1415.0
+Uttarakhand,2015-16,82,Coarse_Cereals_Yield,1356.0
+Uttarakhand,2016-17,82,Coarse_Cereals_Yield,1439.0
+Uttarakhand,2017-18,82,Coarse_Cereals_Yield,1406.0
+Uttarakhand,2018-19,82,Coarse_Cereals_Yield,1311.0
+Uttarakhand,2019-20,82,Coarse_Cereals_Yield,1460.0
+Uttarakhand,2020-21,82,Coarse_Cereals_Yield,1502.0
+Uttarakhand,2021-22,82,Coarse_Cereals_Yield,1620.0
+Uttarakhand,2022-23,82,Coarse_Cereals_Yield,1603.0
+Uttarakhand,2023-24,82,Coarse_Cereals_Yield,1620.0
+Uttarakhand,2024-25,82,Coarse_Cereals_Yield,1654.0
+West Bengal,2004-05,82,Coarse_Cereals_Yield,2443.0
+West Bengal,2005-06,82,Coarse_Cereals_Yield,2132.0
+West Bengal,2006-07,82,Coarse_Cereals_Yield,2589.0
+West Bengal,2007-08,82,Coarse_Cereals_Yield,2729.0
+West Bengal,2008-09,82,Coarse_Cereals_Yield,3319.0
+West Bengal,2009-10,82,Coarse_Cereals_Yield,3531.0
+West Bengal,2010-11,82,Coarse_Cereals_Yield,3565.0
+West Bengal,2011-12,82,Coarse_Cereals_Yield,3432.0
+West Bengal,2012-13,82,Coarse_Cereals_Yield,3585.0
+West Bengal,2013-14,82,Coarse_Cereals_Yield,3769.0
+West Bengal,2014-15,82,Coarse_Cereals_Yield,4081.0
+West Bengal,2015-16,82,Coarse_Cereals_Yield,4320.0
+West Bengal,2016-17,82,Coarse_Cereals_Yield,4090.0
+West Bengal,2017-18,82,Coarse_Cereals_Yield,4547.0
+West Bengal,2018-19,82,Coarse_Cereals_Yield,6360.0
+West Bengal,2019-20,82,Coarse_Cereals_Yield,6478.0
+West Bengal,2020-21,82,Coarse_Cereals_Yield,6638.0
+West Bengal,2021-22,82,Coarse_Cereals_Yield,6877.0
+West Bengal,2022-23,82,Coarse_Cereals_Yield,6206.0
+West Bengal,2023-24,82,Coarse_Cereals_Yield,6529.0
+West Bengal,2024-25,82,Coarse_Cereals_Yield,6906.0
