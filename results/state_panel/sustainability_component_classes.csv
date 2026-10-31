@@ -1,0 +1,9 @@
+class,All components,Fertiliser,Livestock,Residue burning,Rice
+expansive coupling,0,2,1,4,2
+expansive negative decoupling,1,5,2,7,4
+no clear GSVA trend,6,6,6,4,5
+recessive,1,1,0,0,0
+strong decoupling,8,4,8,1,12
+strong negative decoupling,2,1,2,2,1
+weak decoupling,13,9,11,9,4
+weak negative decoupling,1,0,2,1,2

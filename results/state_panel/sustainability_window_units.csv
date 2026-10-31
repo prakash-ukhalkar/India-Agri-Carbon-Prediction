@@ -1,0 +1,33 @@
+State,class_2011_2023,g_E_2011_2023,g_V_2011_2023,class_2011_2019,g_E_2011_2019,g_V_2011_2019,class_2013_2023,g_E_2013_2023,g_V_2013_2023,class_2014_2023,g_E_2014_2023,g_V_2014_2023,share_of_national_pct
+Uttar Pradesh,weak decoupling,0.767,3.756,weak decoupling,0.762,2.042,weak decoupling,0.772,4.679,weak decoupling,0.786,5.242,16.028
+Andhra Pradesh + Telangana,weak decoupling,1.483,3.946,strong decoupling,-0.061,3.408,weak decoupling,2.089,4.308,weak decoupling,2.657,5.118,9.823
+Madhya Pradesh,weak decoupling,1.761,5.517,weak decoupling,1.549,5.73,weak decoupling,1.988,5.481,weak decoupling,2.073,5.647,8.463
+Rajasthan,weak decoupling,0.694,1.857,expansive coupling,0.769,0.818,weak decoupling,0.68,2.099,weak decoupling,0.656,2.787,7.08
+West Bengal,weak decoupling,0.924,1.498,weak decoupling,1.301,2.065,weak decoupling,0.826,1.355,weak decoupling,0.67,1.079,7.006
+Bihar,expansive negative decoupling,1.038,0.544,strong negative decoupling,1.529,-1.336,weak decoupling,0.934,2.159,weak decoupling,0.714,2.467,6.787
+Maharashtra,weak decoupling,0.086,2.247,no clear GSVA trend,-0.672,0.332,weak decoupling,0.369,2.572,weak decoupling,0.584,3.735,6.498
+Gujarat,weak decoupling,0.324,2.693,weak decoupling,0.243,2.222,weak decoupling,0.339,2.115,weak decoupling,0.391,2.727,5.352
+Karnataka,weak decoupling,0.145,3.305,strong decoupling,-1.163,2.585,weak decoupling,0.573,3.7,weak decoupling,0.849,4.076,4.441
+Chhattisgarh,weak decoupling,0.339,3.516,weak decoupling,0.059,2.88,weak decoupling,0.396,3.597,weak decoupling,0.434,3.762,4.103
+Odisha,strong decoupling,-0.729,2.646,no clear GSVA trend,-1.446,-0.249,strong decoupling,-0.577,3.492,strong decoupling,-0.353,4.19,4.031
+Punjab,weak decoupling,0.09,0.761,strong decoupling,-0.343,0.775,weak decoupling,0.247,0.912,weak decoupling,0.349,1.198,3.898
+Tamil Nadu,weak decoupling,0.964,1.87,strong negative decoupling,0.211,-1.019,weak decoupling,1.232,2.61,weak decoupling,1.268,3.474,3.744
+Assam,strong decoupling,-0.102,3.898,strong decoupling,-0.077,2.452,strong decoupling,-0.114,4.294,strong decoupling,-0.146,4.644,3.206
+Jharkhand,no clear GSVA trend,1.557,-0.04,no clear GSVA trend,2.9,-0.426,no clear GSVA trend,1.185,0.031,no clear GSVA trend,0.615,0.197,3.011
+Haryana,strong decoupling,-0.415,0.86,strong decoupling,-0.512,1.346,strong decoupling,-0.359,1.232,strong decoupling,-0.393,1.404,2.75
+Jammu & Kashmir,strong decoupling,-0.769,2.197,strong decoupling,-1.282,1.624,strong decoupling,-0.637,3.024,strong decoupling,-0.614,3.817,0.91
+Uttarakhand,no clear GSVA trend,-1.126,-0.381,recessive,-1.204,-1.159,no clear GSVA trend,-1.103,0.198,no clear GSVA trend,-1.187,0.439,0.721
+Himachal Pradesh,no clear GSVA trend,-1.172,0.452,strong decoupling,-1.557,0.821,no clear GSVA trend,-1.047,-0.499,no clear GSVA trend,-0.967,-0.08,0.553
+Kerala,recessive,-1.802,-1.462,recessive,-2.993,-3.498,no clear GSVA trend,-1.211,-0.386,no clear GSVA trend,-0.581,0.14,0.465
+Tripura,strong decoupling,-1.853,4.934,strong decoupling,-1.982,4.88,strong decoupling,-1.844,4.963,strong decoupling,-1.851,5.253,0.258
+Meghalaya,strong decoupling,-0.012,1.526,weak decoupling,0.027,2.209,strong decoupling,-0.025,0.702,no clear GSVA trend,0.01,0.493,0.228
+Arunachal Pradesh,weak negative decoupling,-0.255,-3.902,weak negative decoupling,-0.435,-5.847,weak negative decoupling,-0.233,-4.403,weak negative decoupling,-0.14,-3.82,0.189
+Manipur,strong decoupling,-1.212,5.447,strong decoupling,-0.181,7.873,strong decoupling,-2.404,5.206,strong decoupling,-2.761,5.263,0.142
+Nagaland,no clear GSVA trend,-2.877,-0.052,strong decoupling,-2.447,2.853,recessive,-2.957,-2.139,recessive,-3.04,-2.638,0.111
+Delhi,strong negative decoupling,0.836,-8.727,strong negative decoupling,0.645,-16.778,strong negative decoupling,1.159,-4.703,strong negative decoupling,1.08,-0.728,0.062
+Sikkim,strong decoupling,-0.339,4.649,strong decoupling,-0.221,6.681,strong decoupling,-0.404,4.655,strong decoupling,-0.45,4.494,0.032
+Goa,no clear GSVA trend,-2.472,-0.341,no clear GSVA trend,-2.923,0.303,recessive,-2.299,-0.787,recessive,-2.222,-0.752,0.032
+Mizoram,weak decoupling,0.5,2.277,weak decoupling,2.562,3.209,strong decoupling,-0.675,1.687,strong decoupling,-0.733,1.569,0.032
+Puducherry,weak decoupling,0.404,0.85,no clear GSVA trend,-0.996,0.242,expansive negative decoupling,1.147,0.565,expansive negative decoupling,1.721,0.778,0.03
+Andaman & Nicobar Islands,no clear GSVA trend,-2.361,0.007,recessive,-3.507,-0.86,recessive,-2.098,-0.727,recessive,-1.846,-0.696,0.01
+Chandigarh,strong negative decoupling,0.631,-0.642,strong negative decoupling,0.768,-1.211,no clear GSVA trend,0.697,-0.173,no clear GSVA trend,0.628,0.041,0.005

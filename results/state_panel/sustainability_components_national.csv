@@ -1,0 +1,6 @@
+component,units,change_2011_2023_pct,g_pct_yr,g_GSVA_pct_yr,elasticity,share_2021_23_pct
+All components,32,6.283,0.621,2.655,0.234,
+Rice,30,8.687,0.754,2.655,0.284,19.965
+Livestock,32,1.75,0.194,2.655,0.073,59.958
+Fertiliser,32,18.246,1.823,2.655,0.687,18.54
+Residue burning,28,26.031,2.2,2.655,0.829,1.413
