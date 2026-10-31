@@ -39,6 +39,8 @@ python scripts/reconcile_with_bur.py               # national check against the 
 python scripts/compare_with_ghgpi.py               # state-year agreement with the benchmark
 python scripts/uncertainty_mc.py                   # Monte Carlo emission-factor uncertainty
 python scripts/validation_suite.py                 # nested spatial + temporal CV, all targets, all baselines
+python scripts/sustainability_analysis.py          # intensity, decoupling and source profiles by state (2011-2023)
+python scripts/sustainability_extensions.py        # decoupling by component and sensitivity to the time window
 python scripts/make_figures.py                     # figures (results/figures)
 python scripts/build_data_release.py               # data_release/
 ```
