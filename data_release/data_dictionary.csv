@@ -1,0 +1,29 @@
+column,description,unit
+State,State or union territory (canonical name),-
+Year_Standardized,Start calendar year of the fiscal year (e.g. 2013 = FY2013-14),year
+GHG_Rice_CH4_ktCO2e,Rice cultivation CH4,kt CO2e (SAR GWP)
+GHG_Livestock_CH4_ktCO2e,Livestock enteric fermentation + manure management CH4,kt CO2e (SAR GWP)
+GHG_Livestock_N2O_ktCO2e,Livestock manure management N2O (poultry not included),kt CO2e (SAR GWP)
+GHG_FertilizerSoil_N2O_ktCO2e,"Synthetic-fertiliser soil N2O, direct + indirect",kt CO2e (SAR GWP)
+GHG_ResidueBurning_CH4_ktCO2e,"Crop-residue burning CH4 (rice, wheat, coarse cereals)",kt CO2e (SAR GWP)
+GHG_ResidueBurning_N2O_ktCO2e,"Crop-residue burning N2O (rice, wheat, coarse cereals)",kt CO2e (SAR GWP)
+Target_Agri_GHG_ktCO2e,Sum of the six components above (missing components are not counted; see Data_Completeness),kt CO2e (SAR GWP)
+Total_p05_ktCO2e,5th percentile of Monte Carlo total (emission-factor uncertainty only),kt CO2e
+Total_p50_ktCO2e,Median of Monte Carlo total,kt CO2e
+Total_p95_ktCO2e,95th percentile of Monte Carlo total,kt CO2e
+Flag_Rice,observed | missing (state never reports rice area),-
+Flag_Residue,observed | structural_zero_assumed (a crop never reported by the state is taken as zero) | missing,-
+Flag_Livestock,"observed (census years 2007, 2012, 2019; 2007 is a secondary compilation and Telangana 2012 is derived) | interpolated (between census years) | held_constant (before 2007 or after 2019) | missing",-
+Flag_Fertiliser,"observed (RBI state N+P+K 2013-2021 x the official All-India N/NPK ratio of the year) | national_downscaled (other years to 2023: official All-India N distributed with the state's N+P+K pattern of the nearest observed year, 2013 backwards and 2021 forwards) | held_constant (2024: 2023 national level) | missing",-
+Data_Completeness,"complete if no component is missing, else partial (total is then a lower bound)",-
+Target_Observed_Share,Share of the total from components that are observed (not interpolated/held constant),fraction
+Rice_Area,Rice area,thousand ha
+Fertiliser_Consumption_NPK,N+P+K fertiliser consumption as reported (empty outside 2013-2021),thousand t
+Fertiliser_N_applied_ktN,Nitrogen applied used for N2O (see Flag_Fertiliser),kt N
+N_share_of_NPK,National N/(N+P2O5+K2O) ratio of the year from the official All-India table,fraction
+N_scale_to_national,Reserved (1 for all rows in the released version),ratio
+Livestock_Cattle_Head,"Cattle headcount (census years real, otherwise see Flag_Livestock)",head
+Livestock_Buffalo_Head,Buffalo headcount,head
+Livestock_Sheep_Head,Sheep headcount,head
+Livestock_Goat_Head,Goat headcount,head
+Livestock_Pigs_Head,Pig headcount,head

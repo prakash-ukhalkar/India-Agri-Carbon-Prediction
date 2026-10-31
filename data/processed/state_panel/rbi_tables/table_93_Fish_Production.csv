@@ -1,21 +1,42 @@
 State,Fiscal_Year,Table_ID,Variable,Value
-Andhra Pradesh,2005-06,93,Fish_Production,8.53
-Andhra Pradesh,2006-07,93,Fish_Production,0.89
-Andhra Pradesh,2007-08,93,Fish_Production,8.57
-Andhra Pradesh,2008-09,93,Fish_Production,10.1
-Andhra Pradesh,2009-10,93,Fish_Production,12.53
-Andhra Pradesh,2010-11,93,Fish_Production,13.06
-Andhra Pradesh,2011-12,93,Fish_Production,13.68
-Andhra Pradesh,2012-13,93,Fish_Production,16.03
-Andhra Pradesh,2013-14,93,Fish_Production,18.08
-Andhra Pradesh,2015-16,93,Fish_Production,19.79
-Andhra Pradesh,2016-17,93,Fish_Production,23.52
-Andhra Pradesh,2017-18,93,Fish_Production,27.66
-Andhra Pradesh,2018-19,93,Fish_Production,34.5
-Andhra Pradesh,2019-20,93,Fish_Production,39.91
-Andhra Pradesh,2020-21,93,Fish_Production,41.74
-Andhra Pradesh,2021-22,93,Fish_Production,46.23
-Andhra Pradesh,2022-2320,93,Fish_Production,48.13
+Andaman & Nicobar Islands,2004-05,93,Fish_Production,0.33
+Andaman & Nicobar Islands,2005-06,93,Fish_Production,0.01
+Andaman & Nicobar Islands,2006-07,93,Fish_Production,0.29
+Andaman & Nicobar Islands,2007-08,93,Fish_Production,0.29
+Andaman & Nicobar Islands,2008-09,93,Fish_Production,0.33
+Andaman & Nicobar Islands,2009-10,93,Fish_Production,0.33
+Andaman & Nicobar Islands,2010-11,93,Fish_Production,0.34
+Andaman & Nicobar Islands,2011-12,93,Fish_Production,0.35
+Andaman & Nicobar Islands,2012-13,93,Fish_Production,0.37
+Andaman & Nicobar Islands,2013-14,93,Fish_Production,0.37
+Andaman & Nicobar Islands,2014-15,93,Fish_Production,0.37
+Andaman & Nicobar Islands,2015-16,93,Fish_Production,0.37
+Andaman & Nicobar Islands,2016-17,93,Fish_Production,0.39
+Andaman & Nicobar Islands,2017-18,93,Fish_Production,0.39
+Andaman & Nicobar Islands,2018-19,93,Fish_Production,0.41
+Andaman & Nicobar Islands,2019-20,93,Fish_Production,0.4
+Andaman & Nicobar Islands,2020-21,93,Fish_Production,0.43
+Andaman & Nicobar Islands,2021-22,93,Fish_Production,0.44
+Andaman & Nicobar Islands,2022-2320,93,Fish_Production,0.47
+Andhra Pradesh,2004-05,93,Fish_Production,8.53
+Andhra Pradesh,2005-06,93,Fish_Production,0.89
+Andhra Pradesh,2006-07,93,Fish_Production,8.57
+Andhra Pradesh,2007-08,93,Fish_Production,10.1
+Andhra Pradesh,2008-09,93,Fish_Production,12.53
+Andhra Pradesh,2009-10,93,Fish_Production,13.06
+Andhra Pradesh,2010-11,93,Fish_Production,13.68
+Andhra Pradesh,2011-12,93,Fish_Production,16.03
+Andhra Pradesh,2012-13,93,Fish_Production,18.08
+Andhra Pradesh,2013-14,93,Fish_Production,20.18
+Andhra Pradesh,2014-15,93,Fish_Production,19.79
+Andhra Pradesh,2015-16,93,Fish_Production,23.52
+Andhra Pradesh,2016-17,93,Fish_Production,27.66
+Andhra Pradesh,2017-18,93,Fish_Production,34.5
+Andhra Pradesh,2018-19,93,Fish_Production,39.91
+Andhra Pradesh,2019-20,93,Fish_Production,41.74
+Andhra Pradesh,2020-21,93,Fish_Production,46.23
+Andhra Pradesh,2021-22,93,Fish_Production,48.13
+Andhra Pradesh,2022-2320,93,Fish_Production,51.06
 Arunachal Pradesh,2004-05,93,Fish_Production,0.03
 Arunachal Pradesh,2005-06,93,Fish_Production,0.0
 Arunachal Pradesh,2006-07,93,Fish_Production,0.03
@@ -127,6 +148,9 @@ Dadra & Nagar Haveli,2016-17,93,Fish_Production,0.0
 Dadra & Nagar Haveli,2017-18,93,Fish_Production,0.0
 Dadra & Nagar Haveli,2018-19,93,Fish_Production,0.0
 Dadra & Nagar Haveli,2019-20,93,Fish_Production,0.0
+Dadra & Nagar Haveli,2020-21,93,Fish_Production,0.3
+Dadra & Nagar Haveli,2021-22,93,Fish_Production,0.3
+Dadra & Nagar Haveli,2022-2320,93,Fish_Production,0.29
 Daman & Diu,2004-05,93,Fish_Production,0.13
 Daman & Diu,2005-06,93,Fish_Production,0.02
 Daman & Diu,2006-07,93,Fish_Production,0.16
@@ -637,15 +661,6 @@ West Bengal,2019-20,93,Fish_Production,17.82
 West Bengal,2020-21,93,Fish_Production,18.24
 West Bengal,2021-22,93,Fish_Production,18.43
 West Bengal,2022-2320,93,Fish_Production,20.45
-Andaman & Nicobar Islands,2014-15,93,Fish_Production,0.37
-Andaman & Nicobar Islands,2015-16,93,Fish_Production,0.37
-Andaman & Nicobar Islands,2016-17,93,Fish_Production,0.39
-Andaman & Nicobar Islands,2017-18,93,Fish_Production,0.39
-Andaman & Nicobar Islands,2018-19,93,Fish_Production,0.41
-Andaman & Nicobar Islands,2019-20,93,Fish_Production,0.4
-Andaman & Nicobar Islands,2020-21,93,Fish_Production,0.43
-Andaman & Nicobar Islands,2021-22,93,Fish_Production,0.44
-Andaman & Nicobar Islands,2022-2320,93,Fish_Production,0.47
 Telangana,2014-15,93,Fish_Production,2.68
 Telangana,2015-16,93,Fish_Production,2.37
 Telangana,2016-17,93,Fish_Production,1.99

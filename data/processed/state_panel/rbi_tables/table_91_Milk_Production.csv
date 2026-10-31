@@ -1,22 +1,44 @@
 State,Fiscal_Year,Table_ID,Variable,Value
-Andhra Pradesh,2005-06,91,Milk_Production,7257.0
-Andhra Pradesh,2006-07,91,Milk_Production,7624.0
-Andhra Pradesh,2007-08,91,Milk_Production,7938.0
-Andhra Pradesh,2008-09,91,Milk_Production,8925.0
-Andhra Pradesh,2009-10,91,Milk_Production,9570.0
-Andhra Pradesh,2010-11,91,Milk_Production,10429.0
-Andhra Pradesh,2011-12,91,Milk_Production,11203.0
-Andhra Pradesh,2012-13,91,Milk_Production,12088.0
-Andhra Pradesh,2013-14,91,Milk_Production,12762.0
-Andhra Pradesh,2015-16,91,Milk_Production,9656.0
-Andhra Pradesh,2016-17,91,Milk_Production,10817.0
-Andhra Pradesh,2017-18,91,Milk_Production,12178.0
-Andhra Pradesh,2018-19,91,Milk_Production,13725.0
-Andhra Pradesh,2019-20,91,Milk_Production,15044.0
-Andhra Pradesh,2020-21,91,Milk_Production,15263.0
-Andhra Pradesh,2021-22,91,Milk_Production,14714.0
-Andhra Pradesh,2022-23,91,Milk_Production,15403.0
-Andhra Pradesh,2023-24,91,Milk_Production,15448.0
+Andaman & Nicobar Islands,2004-05,91,Milk_Production,24.0
+Andaman & Nicobar Islands,2005-06,91,Milk_Production,20.0
+Andaman & Nicobar Islands,2006-07,91,Milk_Production,23.0
+Andaman & Nicobar Islands,2007-08,91,Milk_Production,24.0
+Andaman & Nicobar Islands,2008-09,91,Milk_Production,26.0
+Andaman & Nicobar Islands,2009-10,91,Milk_Production,24.0
+Andaman & Nicobar Islands,2010-11,91,Milk_Production,25.0
+Andaman & Nicobar Islands,2011-12,91,Milk_Production,26.0
+Andaman & Nicobar Islands,2012-13,91,Milk_Production,21.0
+Andaman & Nicobar Islands,2013-14,91,Milk_Production,14.0
+Andaman & Nicobar Islands,2014-15,91,Milk_Production,16.0
+Andaman & Nicobar Islands,2015-16,91,Milk_Production,15.0
+Andaman & Nicobar Islands,2016-17,91,Milk_Production,16.0
+Andaman & Nicobar Islands,2017-18,91,Milk_Production,17.0
+Andaman & Nicobar Islands,2018-19,91,Milk_Production,18.0
+Andaman & Nicobar Islands,2019-20,91,Milk_Production,19.0
+Andaman & Nicobar Islands,2020-21,91,Milk_Production,15.0
+Andaman & Nicobar Islands,2021-22,91,Milk_Production,17.0
+Andaman & Nicobar Islands,2022-23,91,Milk_Production,17.0
+Andaman & Nicobar Islands,2023-24,91,Milk_Production,18.0
+Andhra Pradesh,2004-05,91,Milk_Production,7257.0
+Andhra Pradesh,2005-06,91,Milk_Production,7624.0
+Andhra Pradesh,2006-07,91,Milk_Production,7938.0
+Andhra Pradesh,2007-08,91,Milk_Production,8925.0
+Andhra Pradesh,2008-09,91,Milk_Production,9570.0
+Andhra Pradesh,2009-10,91,Milk_Production,10429.0
+Andhra Pradesh,2010-11,91,Milk_Production,11203.0
+Andhra Pradesh,2011-12,91,Milk_Production,12088.0
+Andhra Pradesh,2012-13,91,Milk_Production,12762.0
+Andhra Pradesh,2013-14,91,Milk_Production,13007.0
+Andhra Pradesh,2014-15,91,Milk_Production,9656.0
+Andhra Pradesh,2015-16,91,Milk_Production,10817.0
+Andhra Pradesh,2016-17,91,Milk_Production,12178.0
+Andhra Pradesh,2017-18,91,Milk_Production,13725.0
+Andhra Pradesh,2018-19,91,Milk_Production,15044.0
+Andhra Pradesh,2019-20,91,Milk_Production,15263.0
+Andhra Pradesh,2020-21,91,Milk_Production,14714.0
+Andhra Pradesh,2021-22,91,Milk_Production,15403.0
+Andhra Pradesh,2022-23,91,Milk_Production,15448.0
+Andhra Pradesh,2023-24,91,Milk_Production,13994.0
 Arunachal Pradesh,2004-05,91,Milk_Production,48.0
 Arunachal Pradesh,2005-06,91,Milk_Production,48.0
 Arunachal Pradesh,2006-07,91,Milk_Production,49.0
@@ -131,6 +153,10 @@ Dadra & Nagar Haveli,2014-15,91,Milk_Production,9.0
 Dadra & Nagar Haveli,2015-16,91,Milk_Production,9.0
 Dadra & Nagar Haveli,2016-17,91,Milk_Production,8.0
 Dadra & Nagar Haveli,2017-18,91,Milk_Production,8.0
+Dadra & Nagar Haveli,2020-21,91,Milk_Production,1.0
+Dadra & Nagar Haveli,2021-22,91,Milk_Production,2.0
+Dadra & Nagar Haveli,2022-23,91,Milk_Production,2.0
+Dadra & Nagar Haveli,2023-24,91,Milk_Production,2.0
 Daman & Diu,2004-05,91,Milk_Production,1.0
 Daman & Diu,2005-06,91,Milk_Production,1.0
 Daman & Diu,2006-07,91,Milk_Production,1.0
@@ -663,16 +689,6 @@ West Bengal,2020-21,91,Milk_Production,6165.0
 West Bengal,2021-22,91,Milk_Production,6414.0
 West Bengal,2022-23,91,Milk_Production,6969.0
 West Bengal,2023-24,91,Milk_Production,7650.0
-Andaman & Nicobar Islands,2014-15,91,Milk_Production,16.0
-Andaman & Nicobar Islands,2015-16,91,Milk_Production,15.0
-Andaman & Nicobar Islands,2016-17,91,Milk_Production,16.0
-Andaman & Nicobar Islands,2017-18,91,Milk_Production,17.0
-Andaman & Nicobar Islands,2018-19,91,Milk_Production,18.0
-Andaman & Nicobar Islands,2019-20,91,Milk_Production,19.0
-Andaman & Nicobar Islands,2020-21,91,Milk_Production,15.0
-Andaman & Nicobar Islands,2021-22,91,Milk_Production,17.0
-Andaman & Nicobar Islands,2022-23,91,Milk_Production,17.0
-Andaman & Nicobar Islands,2023-24,91,Milk_Production,18.0
 Telangana,2014-15,91,Milk_Production,4207.0
 Telangana,2015-16,91,Milk_Production,4442.0
 Telangana,2016-17,91,Milk_Production,4681.0

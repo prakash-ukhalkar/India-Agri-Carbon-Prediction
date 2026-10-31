@@ -1,0 +1,33 @@
+parameter,value,unit,note,source
+cattle_enteric,25.607292909119046,kg CH4/head/yr,"census-composition-weighted (2019, national)",GHGPI AFOLU workbook v4.0 (sheet: Livestock Emission Factors; Livestock Population 2019); factor origin per GHGPI: NATCOM-II / IPCC 2006
+cattle_manure_ch4,2.5962365151489233,kg CH4/head/yr,weighted,GHGPI AFOLU workbook v4.0 (sheet: same); factor origin per GHGPI: NATCOM-II / IPCC 2006
+cattle_manure_n2o,0.0004537746256382825,kg N2O/head/yr,weighted,GHGPI AFOLU workbook v4.0 (sheet: same); factor origin per GHGPI: NATCOM-II / IPCC 2006
+buffalo_enteric,31.987434577202762,kg CH4/head/yr,weighted,GHGPI AFOLU workbook v4.0 (sheet: same); factor origin per GHGPI: NATCOM-II / IPCC 2006
+buffalo_manure_ch4,3.419868523372474,kg CH4/head/yr,weighted,GHGPI AFOLU workbook v4.0 (sheet: same); factor origin per GHGPI: NATCOM-II / IPCC 2006
+buffalo_manure_n2o,0.0004694769569889623,kg N2O/head/yr,weighted,GHGPI AFOLU workbook v4.0 (sheet: same); factor origin per GHGPI: NATCOM-II / IPCC 2006
+sheep_enteric,5.0,kg CH4/head/yr,category factor,GHGPI AFOLU workbook v4.0 (sheet: Livestock Emission Factors); factor origin per GHGPI: NATCOM-II / IPCC 2006
+sheep_manure_ch4,0.2,kg CH4/head/yr,category factor,GHGPI AFOLU workbook v4.0 (sheet: Livestock Emission Factors); factor origin per GHGPI: NATCOM-II / IPCC 2006
+sheep_manure_n2o,0.0,kg N2O/head/yr,category factor,GHGPI AFOLU workbook v4.0 (sheet: Livestock Emission Factors); factor origin per GHGPI: NATCOM-II / IPCC 2006
+goat_enteric,5.0,kg CH4/head/yr,category factor,GHGPI AFOLU workbook v4.0 (sheet: Livestock Emission Factors); factor origin per GHGPI: NATCOM-II / IPCC 2006
+goat_manure_ch4,0.22,kg CH4/head/yr,category factor,GHGPI AFOLU workbook v4.0 (sheet: Livestock Emission Factors); factor origin per GHGPI: NATCOM-II / IPCC 2006
+goat_manure_n2o,0.0,kg N2O/head/yr,category factor,GHGPI AFOLU workbook v4.0 (sheet: Livestock Emission Factors); factor origin per GHGPI: NATCOM-II / IPCC 2006
+horse_enteric,18.0,kg CH4/head/yr,category factor,GHGPI AFOLU workbook v4.0 (sheet: Livestock Emission Factors); factor origin per GHGPI: NATCOM-II / IPCC 2006
+horse_manure_ch4,2.19,kg CH4/head/yr,category factor,GHGPI AFOLU workbook v4.0 (sheet: Livestock Emission Factors); factor origin per GHGPI: NATCOM-II / IPCC 2006
+horse_manure_n2o,0.0,kg N2O/head/yr,category factor,GHGPI AFOLU workbook v4.0 (sheet: Livestock Emission Factors); factor origin per GHGPI: NATCOM-II / IPCC 2006
+donkey_enteric,10.0,kg CH4/head/yr,category factor,GHGPI AFOLU workbook v4.0 (sheet: Livestock Emission Factors); factor origin per GHGPI: NATCOM-II / IPCC 2006
+donkey_manure_ch4,0.9,kg CH4/head/yr,category factor,GHGPI AFOLU workbook v4.0 (sheet: Livestock Emission Factors); factor origin per GHGPI: NATCOM-II / IPCC 2006
+donkey_manure_n2o,0.0,kg N2O/head/yr,category factor,GHGPI AFOLU workbook v4.0 (sheet: Livestock Emission Factors); factor origin per GHGPI: NATCOM-II / IPCC 2006
+camel_enteric,46.0,kg CH4/head/yr,category factor,GHGPI AFOLU workbook v4.0 (sheet: Livestock Emission Factors); factor origin per GHGPI: NATCOM-II / IPCC 2006
+camel_manure_ch4,2.56,kg CH4/head/yr,category factor,GHGPI AFOLU workbook v4.0 (sheet: Livestock Emission Factors); factor origin per GHGPI: NATCOM-II / IPCC 2006
+camel_manure_n2o,0.0,kg N2O/head/yr,category factor,GHGPI AFOLU workbook v4.0 (sheet: Livestock Emission Factors); factor origin per GHGPI: NATCOM-II / IPCC 2006
+pig_enteric,1.0,kg CH4/head/yr,category factor,GHGPI AFOLU workbook v4.0 (sheet: Livestock Emission Factors); factor origin per GHGPI: NATCOM-II / IPCC 2006
+pig_manure_ch4,4.0,kg CH4/head/yr,category factor,GHGPI AFOLU workbook v4.0 (sheet: Livestock Emission Factors); factor origin per GHGPI: NATCOM-II / IPCC 2006
+pig_manure_n2o,0.0074,kg N2O/head/yr,category factor,GHGPI AFOLU workbook v4.0 (sheet: Livestock Emission Factors); factor origin per GHGPI: NATCOM-II / IPCC 2006
+rice_ch4_effective,74.60465600402736,kg CH4/ha/season,"area-weighted over water regimes, 2018; regimes: Continuous Flooding 14.0% x 162, Single Aeration 17.2% x 66, Multiple Aeration 23.4% x 18, Flood Prone 8.3% x 190, Drought Prone 22.4% x 66, Deep Water 3.1% x 190, Upland 11.7% x 0",GHGPI AFOLU workbook v4.0 (sheet: Rice emissions); factor origin per GHGPI: NATCOM-II / IPCC 2006
+fert_direct_ef,0.0058,kg N2O-N/kg N,"direct emission factor (GHGPI sheet, row 'Direct Emissions')",GHGPI AFOLU workbook v4.0 (sheet: Fertilizer Consumption Emission); factor origin per GHGPI: NATCOM-II / IPCC 2006
+fert_ef_deposition,0.005,kg N2O-N/kg N,"indirect, atmospheric deposition",GHGPI AFOLU workbook v4.0 (sheet: Fertilizer Consumption Emission); factor origin per GHGPI: NATCOM-II / IPCC 2006
+fert_ef_leaching,0.005,kg N2O-N/kg N,"indirect, leaching",GHGPI AFOLU workbook v4.0 (sheet: Fertilizer Consumption Emission); factor origin per GHGPI: NATCOM-II / IPCC 2006
+fert_frac_volatilised,0.15,fraction,volatilised N (urea and other),GHGPI AFOLU workbook v4.0 (sheet: Fertilizer Consumption Emission); factor origin per GHGPI: NATCOM-II / IPCC 2006
+fert_frac_leached,0.1,fraction,leached N,GHGPI AFOLU workbook v4.0 (sheet: Fertilizer Consumption Emission); factor origin per GHGPI: NATCOM-II / IPCC 2006
+gwp_ch4_ar2,21.0,-,"IPCC SAR GWP-100, used by India",GHGPI AFOLU workbook v4.0 (sheet: Rice emissions); factor origin per GHGPI: NATCOM-II / IPCC 2006
+gwp_n2o_ar2,310.0,-,"IPCC SAR GWP-100, used by India",GHGPI AFOLU workbook v4.0 (sheet: Fertilizer Consumption Emission); factor origin per GHGPI: NATCOM-II / IPCC 2006

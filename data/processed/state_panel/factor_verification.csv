@@ -1,0 +1,33 @@
+parameter,verification_status,evidence_or_primary_source_to_check
+gwp_ch4_ar2,VERIFIED,"BUR4 Table 2.2 (CH4 21; 100-yr, IPCC SAR)"
+gwp_n2o_ar2,VERIFIED,"BUR4 Table 2.2 (N2O 310; 100-yr, IPCC SAR)"
+rice_ch4_effective,PARTLY VERIFIED,"Irrigated regimes in Gupta et al. 2009 (Chemosphere 74:590): 175/66/20 kg/ha vs adopted 162/66/18 (about +3% on the weighted factor); rainfed, deep-water and upland regime factors unverified"
+cattle_enteric,PARTLY VERIFIED,Category factors 28 (indigenous dairy) and 43 (cross-bred dairy) kg CH4/head/yr agree with a secondary source (Down To Earth); non-dairy and young-stock values and the census-composition weighting are unverified; primary: NATCOM-II / Indian livestock inventories
+fert_frac_leached,PARTLY VERIFIED,10% leaching fraction consistent with Indian studies cited in a regional inventory (secondary); not checked in NATCOM
+fert_direct_ef,UNVERIFIED,"0.0058 kg N2O-N/kg N (GHGPI compilation); check Bhatia et al. 2013, Greenhouse Gases: Sci. Technol. 3(3):196-211, doi:10.1002/ghg.1339, or NATCOM"
+buffalo_enteric,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+buffalo_manure_ch4,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+cattle_manure_ch4,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+cattle_manure_n2o,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+buffalo_manure_n2o,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+sheep_enteric,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+sheep_manure_ch4,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+sheep_manure_n2o,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+goat_enteric,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+goat_manure_ch4,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+goat_manure_n2o,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+horse_enteric,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+horse_manure_ch4,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+horse_manure_n2o,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+donkey_enteric,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+donkey_manure_ch4,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+donkey_manure_n2o,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+camel_enteric,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+camel_manure_ch4,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+camel_manure_n2o,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+pig_enteric,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+pig_manure_ch4,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+pig_manure_n2o,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+fert_ef_deposition,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+fert_ef_leaching,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source
+fert_frac_volatilised,UNVERIFIED,GHGPI compilation (NATCOM-II / IPCC 2006); not checked against the primary source

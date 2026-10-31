@@ -1,22 +1,44 @@
 State,Fiscal_Year,Table_ID,Variable,Value
-Andhra Pradesh,2005-06,92,Egg_Production,158040.0
-Andhra Pradesh,2006-07,92,Egg_Production,164534.0
-Andhra Pradesh,2007-08,92,Egg_Production,159411.0
-Andhra Pradesh,2008-09,92,Egg_Production,175884.0
-Andhra Pradesh,2009-10,92,Egg_Production,183446.0
-Andhra Pradesh,2010-11,92,Egg_Production,193958.0
-Andhra Pradesh,2011-12,92,Egg_Production,201277.0
-Andhra Pradesh,2012-13,92,Egg_Production,212103.0
-Andhra Pradesh,2013-14,92,Egg_Production,222974.0
-Andhra Pradesh,2015-16,92,Egg_Production,130958.0
-Andhra Pradesh,2016-17,92,Egg_Production,141743.0
-Andhra Pradesh,2017-18,92,Egg_Production,158274.0
-Andhra Pradesh,2018-19,92,Egg_Production,177776.0
-Andhra Pradesh,2019-20,92,Egg_Production,197545.0
-Andhra Pradesh,2020-21,92,Egg_Production,219275.0
-Andhra Pradesh,2021-22,92,Egg_Production,249639.0
-Andhra Pradesh,2022-23,92,Egg_Production,264503.0
-Andhra Pradesh,2023-24,92,Egg_Production,278498.0
+Andaman & Nicobar Islands,2004-05,92,Egg_Production,530.0
+Andaman & Nicobar Islands,2005-06,92,Egg_Production,477.0
+Andaman & Nicobar Islands,2006-07,92,Egg_Production,535.0
+Andaman & Nicobar Islands,2007-08,92,Egg_Production,622.0
+Andaman & Nicobar Islands,2008-09,92,Egg_Production,618.0
+Andaman & Nicobar Islands,2009-10,92,Egg_Production,657.0
+Andaman & Nicobar Islands,2010-11,92,Egg_Production,672.0
+Andaman & Nicobar Islands,2011-12,92,Egg_Production,780.0
+Andaman & Nicobar Islands,2012-13,92,Egg_Production,741.0
+Andaman & Nicobar Islands,2013-14,92,Egg_Production,1193.0
+Andaman & Nicobar Islands,2014-15,92,Egg_Production,861.0
+Andaman & Nicobar Islands,2015-16,92,Egg_Production,989.0
+Andaman & Nicobar Islands,2016-17,92,Egg_Production,1032.0
+Andaman & Nicobar Islands,2017-18,92,Egg_Production,1074.0
+Andaman & Nicobar Islands,2018-19,92,Egg_Production,1139.0
+Andaman & Nicobar Islands,2019-20,92,Egg_Production,1189.0
+Andaman & Nicobar Islands,2020-21,92,Egg_Production,1362.0
+Andaman & Nicobar Islands,2021-22,92,Egg_Production,1159.0
+Andaman & Nicobar Islands,2022-23,92,Egg_Production,1097.0
+Andaman & Nicobar Islands,2023-24,92,Egg_Production,751.0
+Andhra Pradesh,2004-05,92,Egg_Production,158040.0
+Andhra Pradesh,2005-06,92,Egg_Production,164534.0
+Andhra Pradesh,2006-07,92,Egg_Production,159411.0
+Andhra Pradesh,2007-08,92,Egg_Production,175884.0
+Andhra Pradesh,2008-09,92,Egg_Production,183446.0
+Andhra Pradesh,2009-10,92,Egg_Production,193958.0
+Andhra Pradesh,2010-11,92,Egg_Production,201277.0
+Andhra Pradesh,2011-12,92,Egg_Production,212103.0
+Andhra Pradesh,2012-13,92,Egg_Production,222974.0
+Andhra Pradesh,2013-14,92,Egg_Production,227875.0
+Andhra Pradesh,2014-15,92,Egg_Production,130958.0
+Andhra Pradesh,2015-16,92,Egg_Production,141743.0
+Andhra Pradesh,2016-17,92,Egg_Production,158274.0
+Andhra Pradesh,2017-18,92,Egg_Production,177776.0
+Andhra Pradesh,2018-19,92,Egg_Production,197545.0
+Andhra Pradesh,2019-20,92,Egg_Production,219275.0
+Andhra Pradesh,2020-21,92,Egg_Production,249639.0
+Andhra Pradesh,2021-22,92,Egg_Production,264503.0
+Andhra Pradesh,2022-23,92,Egg_Production,278498.0
+Andhra Pradesh,2023-24,92,Egg_Production,254874.0
 Arunachal Pradesh,2004-05,92,Egg_Production,90.0
 Arunachal Pradesh,2005-06,92,Egg_Production,73.0
 Arunachal Pradesh,2006-07,92,Egg_Production,73.0
@@ -133,6 +155,10 @@ Dadra & Nagar Haveli,2016-17,92,Egg_Production,73.0
 Dadra & Nagar Haveli,2017-18,92,Egg_Production,73.0
 Dadra & Nagar Haveli,2018-19,92,Egg_Production,0.0
 Dadra & Nagar Haveli,2019-20,92,Egg_Production,0.0
+Dadra & Nagar Haveli,2020-21,92,Egg_Production,5.0
+Dadra & Nagar Haveli,2021-22,92,Egg_Production,5.0
+Dadra & Nagar Haveli,2022-23,92,Egg_Production,9.0
+Dadra & Nagar Haveli,2023-24,92,Egg_Production,9.0
 Daman & Diu,2004-05,92,Egg_Production,9.0
 Daman & Diu,2005-06,92,Egg_Production,11.0
 Daman & Diu,2006-07,92,Egg_Production,11.0
@@ -657,16 +683,6 @@ West Bengal,2020-21,92,Egg_Production,105008.0
 West Bengal,2021-22,92,Egg_Production,114520.0
 West Bengal,2022-23,92,Egg_Production,137541.0
 West Bengal,2023-24,92,Egg_Production,162394.0
-Andaman & Nicobar Islands,2014-15,92,Egg_Production,861.0
-Andaman & Nicobar Islands,2015-16,92,Egg_Production,989.0
-Andaman & Nicobar Islands,2016-17,92,Egg_Production,1032.0
-Andaman & Nicobar Islands,2017-18,92,Egg_Production,1074.0
-Andaman & Nicobar Islands,2018-19,92,Egg_Production,1139.0
-Andaman & Nicobar Islands,2019-20,92,Egg_Production,1189.0
-Andaman & Nicobar Islands,2020-21,92,Egg_Production,1362.0
-Andaman & Nicobar Islands,2021-22,92,Egg_Production,1159.0
-Andaman & Nicobar Islands,2022-23,92,Egg_Production,1097.0
-Andaman & Nicobar Islands,2023-24,92,Egg_Production,751.0
 Telangana,2014-15,92,Egg_Production,106185.0
 Telangana,2015-16,92,Egg_Production,112058.0
 Telangana,2016-17,92,Egg_Production,118186.0

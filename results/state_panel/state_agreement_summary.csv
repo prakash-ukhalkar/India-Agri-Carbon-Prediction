@@ -1,0 +1,40 @@
+item,value
+state_years_compared,490.0
+units,35.0
+median_abs_error_all,0.06314007286196657
+share_within_10pct,0.6836734693877551
+share_within_20pct,0.8346938775510204
+n_complete,405.0
+median_abs_error_complete,0.05586752896484559
+mean_error_complete,-0.02192291487364931
+n_partial,85.0
+median_abs_error_partial,0.32807727281463767
+mean_error_partial,-0.24213053384452193
+mean_error_Daman & Diu,-0.5810241428530886
+mean_error_Manipur,-0.4268556134725449
+mean_error_Andaman & Nicobar Islands,-0.40138263467117946
+mean_error_Dadra & Nagar Haveli,-0.3601246626937494
+mean_error_Mizoram,-0.20325819785333324
+mean_error_Uttarakhand,0.08243513618128158
+mean_error_Karnataka,0.09436431686169401
+mean_error_Madhya Pradesh,0.09681141819792727
+mean_error_Punjab,0.15885095036813615
+mean_error_Jammu & Kashmir,0.16271444223768158
+within_state_corr_levels_total,0.9559129494766345
+within_state_corr_changes_total,0.7021535378189875
+share_states_changes_corr_gt_0.5_total,0.8
+n_units_total,35.0
+within_state_corr_levels_livestock,0.9653395477958421
+within_state_corr_changes_livestock,0.7821358246810072
+share_states_changes_corr_gt_0.5_livestock,0.7142857142857143
+n_units_livestock,35.0
+within_state_corr_levels_rice,0.9286250425172612
+within_state_corr_changes_rice,0.7510093242551718
+share_states_changes_corr_gt_0.5_rice,0.6666666666666666
+n_units_rice,30.0
+within_state_corr_levels_fertiliser,0.7722535658342476
+within_state_corr_changes_fertiliser,0.5655777712775398
+share_states_changes_corr_gt_0.5_fertiliser,0.53125
+n_units_fertiliser,32.0
+national_change_2005_2018_mine_pct,5.559713022835355
+national_change_2005_2018_ghgpi_pct,3.0117938326704063

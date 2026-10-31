@@ -1,5 +1,0 @@
-Target,Model,CV_Type,R2
-intensity,RF,"LOSO (exogenous-only, corrected)",-0.8115
-intensity,XGB,"LOSO (exogenous-only, corrected)",-0.4008
-dynamic,RF,"LOSO (exogenous-only, corrected)",0.3871
-dynamic,XGB,"LOSO (exogenous-only, corrected)",0.545

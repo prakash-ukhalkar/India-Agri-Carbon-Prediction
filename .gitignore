@@ -1,0 +1,21 @@
+# Environments and caches
+venv*/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.claude/
+
+# Logs and scratch output
+*.log
+~$*
+Thumbs.db
+.DS_Store
+
+# Third-party source files and compilations (not redistributed)
+data/raw/*
+!data/raw/README_sources.md
+data/raw/benchmark_ghgpi/*.xlsx
+data/processed/state_panel/ghgpi_state_agri_2005_2018.csv
+data/processed/state_panel/fertiliser_N_compiled_2004_2018.csv

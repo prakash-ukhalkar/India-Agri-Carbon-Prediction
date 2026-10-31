@@ -1,0 +1,60 @@
+check,year,value
+fertiliser_N_panel_over_FAOSTAT,2004,1.0000999767005625
+fertiliser_N_panel_over_FAOSTAT,2005,0.9999520587618114
+fertiliser_N_panel_over_FAOSTAT,2006,1.0008743634485848
+fertiliser_N_panel_over_FAOSTAT,2007,1.0000995306798985
+fertiliser_N_panel_over_FAOSTAT,2008,1.0152507953038974
+fertiliser_N_panel_over_FAOSTAT,2009,1.0013901197374637
+fertiliser_N_panel_over_FAOSTAT,2010,1.0065375520351687
+fertiliser_N_panel_over_FAOSTAT,2011,0.9961284096653872
+fertiliser_N_panel_over_FAOSTAT,2012,1.0
+fertiliser_N_panel_over_FAOSTAT,2013,1.0
+fertiliser_N_panel_over_FAOSTAT,2014,1.0
+fertiliser_N_panel_over_FAOSTAT,2015,0.9999999999999998
+fertiliser_N_panel_over_FAOSTAT,2016,1.0000298767881257
+fertiliser_N_panel_over_FAOSTAT,2017,1.0000766599834885
+fertiliser_N_panel_over_FAOSTAT,2018,1.0005445819766057
+fertiliser_N_panel_over_FAOSTAT,2019,1.012584884355833
+fertiliser_N_panel_over_FAOSTAT,2020,1.0
+fertiliser_N_panel_over_FAOSTAT,2021,0.9974343580507279
+fertiliser_N_panel_over_FAOSTAT,2022,1.0
+fertiliser_N_panel_over_FAOSTAT,2023,1.0000000000000002
+"faostat_stock_index_2019=100: Cattle, dairy",2019,100.0
+"faostat_stock_index_2019=100: Cattle, dairy",2020,105.86646107206914
+"faostat_stock_index_2019=100: Cattle, dairy",2021,109.59680353701897
+"faostat_stock_index_2019=100: Cattle, dairy",2022,111.33896504349845
+"faostat_stock_index_2019=100: Cattle, dairy",2023,116.91655132536707
+"faostat_stock_index_2019=100: Cattle, non-dairy",2019,100.0
+"faostat_stock_index_2019=100: Cattle, non-dairy",2020,98.77018626981805
+"faostat_stock_index_2019=100: Cattle, non-dairy",2021,96.18934716378841
+"faostat_stock_index_2019=100: Cattle, non-dairy",2022,96.05764143615052
+"faostat_stock_index_2019=100: Cattle, non-dairy",2023,94.11346033478294
+faostat_stock_index_2019=100: Buffalo,2019,100.0
+faostat_stock_index_2019=100: Buffalo,2020,99.83082915717716
+faostat_stock_index_2019=100: Buffalo,2021,101.44274536429387
+faostat_stock_index_2019=100: Buffalo,2022,101.71669203863397
+faostat_stock_index_2019=100: Buffalo,2023,102.00116924919926
+faostat_stock_index_2019=100: Goats,2019,100.0
+faostat_stock_index_2019=100: Goats,2020,101.03757410632387
+faostat_stock_index_2019=100: Goats,2021,101.90785310769945
+faostat_stock_index_2019=100: Goats,2022,102.7709889996594
+faostat_stock_index_2019=100: Goats,2023,103.61176124299536
+faostat_stock_index_2019=100: Sheep,2019,100.0
+faostat_stock_index_2019=100: Sheep,2020,100.94533420895424
+faostat_stock_index_2019=100: Sheep,2021,102.52761305511746
+faostat_stock_index_2019=100: Sheep,2022,103.3581017365119
+faostat_stock_index_2019=100: Sheep,2023,104.25980716622345
+faostat_stock_index_2019=100: Cattle (dairy + non-dairy N excretion),2019,100.0
+faostat_stock_index_2019=100: Cattle (dairy + non-dairy N excretion),2020,102.84897340808867
+faostat_stock_index_2019=100: Cattle (dairy + non-dairy N excretion),2021,103.89566662519225
+faostat_stock_index_2019=100: Cattle (dairy + non-dairy N excretion),2022,104.84101974692702
+faostat_stock_index_2019=100: Cattle (dairy + non-dairy N excretion),2023,107.2201898283624
+rice_CH4_kt: FAOSTAT Tier-1,2011,4645.6956
+rice_CH4_kt: panel (India-specific factor),2011,3281.5305571307454
+rice_CH4_kt: FAOSTAT Tier-1,2015,4591.7756
+rice_CH4_kt: panel (India-specific factor),2015,3243.4896430342924
+rice_CH4_kt: FAOSTAT Tier-1,2018,4661.1074
+rice_CH4_kt: panel (India-specific factor),2018,3292.7137950657498
+rice_CH4_kt: FAOSTAT Tier-1,2020,4831.3756
+rice_CH4_kt: panel (India-specific factor),2020,3412.812370301033
+rice_CH4_kt: BUR4,2020,3225.0

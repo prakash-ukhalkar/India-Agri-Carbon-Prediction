@@ -1,22 +1,36 @@
 State,Fiscal_Year,Table_ID,Variable,Value
-Andhra Pradesh,2005-06,90,Meat_Production,451.0
-Andhra Pradesh,2006-07,90,Meat_Production,457.0
-Andhra Pradesh,2007-08,90,Meat_Production,484.0
-Andhra Pradesh,2008-09,90,Meat_Production,556.0
-Andhra Pradesh,2009-10,90,Meat_Production,604.0
-Andhra Pradesh,2010-11,90,Meat_Production,679.0
-Andhra Pradesh,2011-12,90,Meat_Production,747.0
-Andhra Pradesh,2012-13,90,Meat_Production,824.0
-Andhra Pradesh,2013-14,90,Meat_Production,906.0
-Andhra Pradesh,2015-16,90,Meat_Production,528.0
-Andhra Pradesh,2016-17,90,Meat_Production,566.0
-Andhra Pradesh,2017-18,90,Meat_Production,633.0
-Andhra Pradesh,2018-19,90,Meat_Production,709.0
-Andhra Pradesh,2019-20,90,Meat_Production,781.0
-Andhra Pradesh,2020-21,90,Meat_Production,850.0
-Andhra Pradesh,2021-22,90,Meat_Production,954.0
-Andhra Pradesh,2022-23,90,Meat_Production,1026.0
-Andhra Pradesh,2023-24,90,Meat_Production,1094.0
+Andaman & Nicobar Islands,2004-05,90,Meat_Production,1.0
+Andaman & Nicobar Islands,2013-14,90,Meat_Production,2.0
+Andaman & Nicobar Islands,2014-15,90,Meat_Production,5.0
+Andaman & Nicobar Islands,2015-16,90,Meat_Production,5.0
+Andaman & Nicobar Islands,2016-17,90,Meat_Production,5.0
+Andaman & Nicobar Islands,2017-18,90,Meat_Production,5.0
+Andaman & Nicobar Islands,2018-19,90,Meat_Production,5.0
+Andaman & Nicobar Islands,2019-20,90,Meat_Production,6.0
+Andaman & Nicobar Islands,2020-21,90,Meat_Production,6.0
+Andaman & Nicobar Islands,2021-22,90,Meat_Production,6.0
+Andaman & Nicobar Islands,2022-23,90,Meat_Production,6.0
+Andaman & Nicobar Islands,2023-24,90,Meat_Production,6.0
+Andhra Pradesh,2004-05,90,Meat_Production,451.0
+Andhra Pradesh,2005-06,90,Meat_Production,457.0
+Andhra Pradesh,2006-07,90,Meat_Production,484.0
+Andhra Pradesh,2007-08,90,Meat_Production,556.0
+Andhra Pradesh,2008-09,90,Meat_Production,604.0
+Andhra Pradesh,2009-10,90,Meat_Production,679.0
+Andhra Pradesh,2010-11,90,Meat_Production,747.0
+Andhra Pradesh,2011-12,90,Meat_Production,824.0
+Andhra Pradesh,2012-13,90,Meat_Production,906.0
+Andhra Pradesh,2013-14,90,Meat_Production,935.0
+Andhra Pradesh,2014-15,90,Meat_Production,528.0
+Andhra Pradesh,2015-16,90,Meat_Production,566.0
+Andhra Pradesh,2016-17,90,Meat_Production,633.0
+Andhra Pradesh,2017-18,90,Meat_Production,709.0
+Andhra Pradesh,2018-19,90,Meat_Production,781.0
+Andhra Pradesh,2019-20,90,Meat_Production,850.0
+Andhra Pradesh,2020-21,90,Meat_Production,954.0
+Andhra Pradesh,2021-22,90,Meat_Production,1026.0
+Andhra Pradesh,2022-23,90,Meat_Production,1094.0
+Andhra Pradesh,2023-24,90,Meat_Production,1068.0
 Arunachal Pradesh,2004-05,90,Meat_Production,8.0
 Arunachal Pradesh,2005-06,90,Meat_Production,20.0
 Arunachal Pradesh,2006-07,90,Meat_Production,21.0
@@ -616,22 +630,16 @@ West Bengal,2020-21,90,Meat_Production,994.0
 West Bengal,2021-22,90,Meat_Production,1080.0
 West Bengal,2022-23,90,Meat_Production,1166.0
 West Bengal,2023-24,90,Meat_Production,1294.0
-Andaman & Nicobar Islands,2014-15,90,Meat_Production,5.0
-Andaman & Nicobar Islands,2015-16,90,Meat_Production,5.0
-Andaman & Nicobar Islands,2016-17,90,Meat_Production,5.0
-Andaman & Nicobar Islands,2017-18,90,Meat_Production,5.0
-Andaman & Nicobar Islands,2018-19,90,Meat_Production,5.0
-Andaman & Nicobar Islands,2019-20,90,Meat_Production,6.0
-Andaman & Nicobar Islands,2020-21,90,Meat_Production,6.0
-Andaman & Nicobar Islands,2021-22,90,Meat_Production,6.0
-Andaman & Nicobar Islands,2022-23,90,Meat_Production,6.0
-Andaman & Nicobar Islands,2023-24,90,Meat_Production,6.0
 Daman & Diu,2014-15,90,Meat_Production,1.0
 Daman & Diu,2015-16,90,Meat_Production,1.0
 Daman & Diu,2016-17,90,Meat_Production,1.0
 Daman & Diu,2017-18,90,Meat_Production,0.0
 Daman & Diu,2018-19,90,Meat_Production,0.0
 Daman & Diu,2019-20,90,Meat_Production,0.0
+Daman & Diu,2020-21,90,Meat_Production,0.0
+Daman & Diu,2021-22,90,Meat_Production,0.0
+Daman & Diu,2022-23,90,Meat_Production,0.0
+Daman & Diu,2023-24,90,Meat_Production,0.0
 Telangana,2014-15,90,Meat_Production,505.0
 Telangana,2015-16,90,Meat_Production,542.0
 Telangana,2016-17,90,Meat_Production,591.0
