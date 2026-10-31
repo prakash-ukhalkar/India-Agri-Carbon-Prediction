@@ -214,5 +214,54 @@ class Release(unittest.TestCase):
         self.assertTrue(((self.d.Target_Observed_Share.dropna() >= 0) & (self.d.Target_Observed_Share.dropna() <= 1.0001)).all())
 
 
+class SustainabilitySummary(unittest.TestCase):
+    """Intensity and decoupling outputs are internally consistent (run scripts/sustainability_analysis.py first)."""
+
+    def setUp(self):
+        f = os.path.join(ROOT, "results", "state_panel", "sustainability_state_summary.csv")
+        if not os.path.exists(f):
+            self.skipTest("run scripts/sustainability_analysis.py")
+        self.s = pd.read_csv(f)
+
+    def test_shares_sum_to_100_and_sources_to_1(self):
+        self.assertAlmostEqual(self.s.share_of_national_pct.sum(), 100, places=3)
+        src = self.s[[c for c in self.s if c.startswith("share_") and c != "share_of_national_pct"]].sum(axis=1)
+        self.assertTrue(((src - 1).abs() < 1e-3).all())
+
+    def test_elasticity_matches_growth_rates_and_flat_gsva_is_unclassified(self):
+        ok = self.s.elasticity.notna()
+        self.assertTrue(np.allclose(self.s.elasticity[ok], self.s.g_E_pct_yr[ok] / self.s.g_V_pct_yr[ok], atol=1e-2))
+        flat = self.s.g_V_pct_yr.abs() < 0.5
+        self.assertTrue((self.s["class"][flat] == "no clear GSVA trend").all())
+
+    def test_national_index_starts_at_100(self):
+        i = pd.read_csv(os.path.join(ROOT, "results", "state_panel", "sustainability_national_indices.csv"), index_col=0)
+        self.assertTrue(np.allclose(i.iloc[0], 100))
+
+
+class SustainabilityExtensions(unittest.TestCase):
+    """Component and window outputs are consistent with the main summary (run scripts/sustainability_extensions.py first)."""
+
+    def setUp(self):
+        d = os.path.join(ROOT, "results", "state_panel")
+        if not os.path.exists(os.path.join(d, "sustainability_components_national.csv")):
+            self.skipTest("run scripts/sustainability_extensions.py")
+        self.n = pd.read_csv(os.path.join(d, "sustainability_components_national.csv"))
+        self.w = pd.read_csv(os.path.join(d, "sustainability_window_units.csv"))
+        self.s = pd.read_csv(os.path.join(d, "sustainability_state_summary.csv"))
+
+    def test_component_shares_sum_to_about_100(self):
+        parts = self.n[self.n.component != "All components"].share_2021_23_pct.sum()
+        self.assertAlmostEqual(parts, 100, delta=1.0)
+
+    def test_full_window_class_matches_main_summary(self):
+        m = self.w.merge(self.s[["State", "class"]], on="State")
+        self.assertTrue((m["class_2011_2023"] == m["class"]).all())
+
+    def test_national_elasticity_is_growth_ratio(self):
+        a = self.n[self.n.component == "All components"].iloc[0]
+        self.assertAlmostEqual(a.elasticity, a.g_pct_yr / a.g_GSVA_pct_yr, places=2)
+
+
 if __name__ == "__main__":
     unittest.main()
